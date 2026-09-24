@@ -1,0 +1,125 @@
+{
+ "candidates": 457,
+ "KEEP": 408,
+ "DROP": 49,
+ "review_required_total": 99,
+ "keep_review_required": 77,
+ "drop_review_required": 22,
+ "by_source": {
+  "PHASE2B_RESCUE": {
+   "candidates": 9,
+   "KEEP": 7,
+   "DROP": 2
+  },
+  "PHASE2A_DIRECT": {
+   "candidates": 280,
+   "KEEP": 275,
+   "DROP": 5
+  },
+  "PHASE2A_ADAPTABLE": {
+   "candidates": 168,
+   "KEEP": 126,
+   "DROP": 42
+  }
+ },
+ "by_domain": {
+  "인권보장과 헌법": {
+   "candidates": 36,
+   "KEEP": 27,
+   "DROP": 9
+  },
+  "생활공간과 사회": {
+   "candidates": 115,
+   "KEEP": 110,
+   "DROP": 5
+  },
+  "문화와 다양성": {
+   "candidates": 136,
+   "KEEP": 107,
+   "DROP": 29
+  },
+  "사회정의와 불평등": {
+   "candidates": 117,
+   "KEEP": 112,
+   "DROP": 5
+  },
+  "기타": {
+   "candidates": 3,
+   "KEEP": 3,
+   "DROP": 0
+  },
+  "미래와 지속가능한 삶": {
+   "candidates": 40,
+   "KEEP": 39,
+   "DROP": 1
+  },
+  "세계화와 평화": {
+   "candidates": 9,
+   "KEEP": 9,
+   "DROP": 0
+  },
+  "시장경제와 지속가능발전": {
+   "candidates": 1,
+   "KEEP": 1,
+   "DROP": 0
+  }
+ },
+ "keep_by_standard": {
+  "10통사2-02-03": 135,
+  "10통사1-05-02": 66,
+  "10통사1-05-01": 57,
+  "10통사2-05-01": 57,
+  "10통사1-04-03": 52,
+  "10통사1-04-02": 47,
+  "10통사1-05-03": 29,
+  "10통사2-01-03": 24,
+  "10통사1-04-04": 17,
+  "10통사2-04-01": 10,
+  "10통사2-01-02": 6,
+  "10통사1-03-03": 4,
+  "10통사2-01-01": 4,
+  "10통사2-05-02": 4,
+  "10통사2-03-02": 4,
+  "10통사1-04-01": 3,
+  "10통사2-04-02": 2,
+  "10통사2-02-01": 1,
+  "10통사2-03-01": 1,
+  "10통사1-01-02": 1,
+  "10통사2-05-03": 1
+ },
+ "keep_adaptation": {
+  "LIGHT": 185,
+  "NONE": 223
+ },
+ "drop_reasons": {
+  "SOCIOCULTURE_CLASSIFICATION": 46,
+  "REQUIRES_SUBSTANTIAL_REWRITE": 3,
+  "SOCIOCULTURE_THEORY": 3,
+  "DATA_ONLY": 1
+ },
+ "qa": {
+  "candidate_input_ids": 457,
+  "candidate_input_unique": 457,
+  "output_records": 457,
+  "keep_plus_drop": 457,
+  "invalid_decisions": 0,
+  "duplicate_ids": 0,
+  "missing_candidate_ids": 0,
+  "unknown_ids": [],
+  "keep_without_curriculum_evidence": 0,
+  "keep_without_rationale": 0,
+  "drop_without_reason": 0,
+  "final_index_records": 408,
+  "final_index_equals_keep": true,
+  "final_index_duplicate_ids": 0,
+  "final_index_drop_contamination": 0,
+  "official_answers_modified": 0
+ },
+ "inputs": {
+  "data/phase2/SOCIOCULTURE/phase2a_relevance.jsonl": "ac78757f93a9ac868c0911e432abb650df74ab5f3d4074e165582f2a74a820f0",
+  "data/phase2/SOCIOCULTURE/phase2b_rescue_review.jsonl": "3e6b6e31734dcb140c1ed7607645ecf80e1247b0f046efbf6c04661f49b6d05c",
+  "data/phase2/SOCIOCULTURE/phase2c_candidate_index.jsonl": "17c2c5dc885f50c8ea9d53982678cf95fb210994b370164e321f634cf1beb1fb",
+  "reference/curriculum/integrated_social_official_scope.json": "362030700ee8a434908609a2f9b75b045c0b63094a4ee8f49b555faddfba8b80",
+  "data/phase2/SOCIOCULTURE/phase2c_final_decisions.tsv": "8bca77e51e3e901ec89fd96a1a1c31f5bb8e0c6e585bba23e8718905a60ef618"
+ }
+}
