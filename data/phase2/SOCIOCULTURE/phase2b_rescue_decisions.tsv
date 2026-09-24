@@ -1,0 +1,279 @@
+# SOCIOCULTURE Phase 2B rescue decisions (LOW 248 + NONE_AUDIT)
+# columns: qid	decision(RESCUE|REMAIN_LOW|REMAIN_NONE)	codes(,)	required_content(;)	rescue_basis	content_relevance	review_flags(,)
+# rescue_basis letters: A=정답 논리가 성취기준과 실질 연결, B=사문 용어·선지 일부 교체로 전환, C=자료가 공식 내용에 직접 대응, D=2028 예시문항 깊이와 동등
+2005_CSAT_Q03	RESCUE	2-01-02	시민 단체 참여와 시민성 함양; 공익 증진·여론 수렴을 통한 정책 반영	A: 정답(ㄴ,ㄹ)이 시민 단체의 공익 추구·정책 과정 참여 역할로 구성됨	시민 참여 방안으로서 시민 단체의 역할을 직접 다룸; 공동 사회·공식 조직 보기만 교체하면 통합사회 문항	
+2005_CSAT_Q15	REMAIN_LOW		온라인·오프라인 동호 활동 그래프	자료 해석만 정보화 소재	정답 논리는 단순 그래프 수치 비교	
+2005_CSAT_Q17	REMAIN_LOW		가족 기능	가족 기능 분류가 핵심	고령화는 소재 수준	
+2005_JUNE_Q03	REMAIN_LOW		계층론	계층 이론 판별	사문 고유 이론	
+2005_JUNE_Q05	REMAIN_LOW		학력 동질혼 표	표 해석	정답 논리는 사회 구조 개념	
+2005_JUNE_Q09	REMAIN_LOW		가족 형태 분류	가족 유형 분류	사문 고유	
+2005_SEPTEMBER_Q01	REMAIN_LOW		학문 분야별 연구 주제	학문 분야 구분	인권은 소재 수준	
+2005_SEPTEMBER_Q02	REMAIN_LOW		기능론 관점 사례	관점 판별	분배 기준은 소재 수준	
+2005_SEPTEMBER_Q03	RESCUE	1-05-02	인터넷 게시판 사례의 정보 사회 특징; 정보 질 판단의 어려움·공간 제약 없는 상호 작용	A: 정답(ㄴ,ㄷ)이 통신 발달에 따른 상호 작용 방식 변화와 정보 판단 문제	정보화에 따른 생활양식 변화와 문제점을 직접 묻는 구조; PNG 확인(Phase 2A 코드 2-03-02를 1-05-02로 교정)	
+2005_SEPTEMBER_Q06	REMAIN_LOW		환경 단체의 조직 특성	정답(ㄷ,ㄹ,ㅁ)이 공식 조직·자발적 결사체 분류	환경 NGO는 소재, 정답은 조직 분류(PNG 확인)	
+2005_SEPTEMBER_Q11	REMAIN_LOW		계층 구조 변화 그래프	계층 구조·이동 분류	사문 고유	
+2006_CSAT_Q01	RESCUE	2-02-02	개인보다 공동체를 우선하는 관점	B: 보기를 공동체주의 정의관 진술로 교체하면 전환	제시문이 공동체 우선·의무 강조로 공동체주의 정의관과 직접 대응; 현재 정답은 사회 실재론	BOUNDARY_RESCUE_REMAIN_LOW
+2006_CSAT_Q18	REMAIN_LOW		대중 매체 역기능	매체 역기능 사례 선택	정보화 문제와 간접 연결	
+2006_JUNE_Q16	REMAIN_LOW		연구 윤리	연구 윤리 판단	인권은 소재 수준	
+2006_SEPTEMBER_Q12	REMAIN_LOW		자본주의와 도시 형성	제시문 추론	도시화 양상·문제와 거리가 있음	
+2006_SEPTEMBER_Q13	REMAIN_LOW		사회 유형별 가족 형태	가족 형태 분류	사문 고유	
+2006_SEPTEMBER_Q18	REMAIN_LOW		문화의 학습성	문화 속성 맞히기	사문 고유	
+2006_SEPTEMBER_Q20	REMAIN_LOW		불평등 기능론	계층화 이론	사문 고유	
+2007_CSAT_Q09	REMAIN_LOW		가족 형태 다양화	가족관 변화 추론	가족 유형 소재	
+2007_CSAT_Q11	REMAIN_LOW		계층 구성 요소 세대 간 일치	계층표 해석	사문 고유	
+2007_CSAT_Q12	REMAIN_LOW		문화의 공유성	문화 속성 맞히기	사문 고유	
+2007_CSAT_Q13	REMAIN_LOW		노인 문제 기능론	관점 판별	고령화 자료는 소재 수준	
+2007_JUNE_Q01	REMAIN_LOW		핵가족 특징	가족 형태 분류	사문 고유	
+2007_JUNE_Q07	REMAIN_LOW		계층론·계급론	계층 이론	사문 고유	
+2007_SEPTEMBER_Q04	REMAIN_LOW		세대 간 계층 구조	계층 이동 퍼즐	사문 고유	
+2007_SEPTEMBER_Q07	REMAIN_LOW		사회 발달 단계별 가족	가족 기능 변화	가족 소재	
+2008_CSAT_Q02	REMAIN_LOW		지역 발전 관점	관점 판별	지역은 소재 수준	
+2008_CSAT_Q06	REMAIN_LOW		계층화 이론 도식	이론 도식	사문 고유	
+2008_CSAT_Q07	REMAIN_LOW		가족의 정의	가족 개념	사문 고유	
+2008_CSAT_Q13	REMAIN_LOW		여성 가구주 분포 표	표 계산	자료만 활용 가능	
+2008_CSAT_Q16	REMAIN_LOW		갈등론 사회 문제 관점	관점에 맞는 사례 선택	여성 빈곤은 선지 소재 수준	
+2008_CSAT_Q18	REMAIN_LOW		대중 매체 역기능	매체 역기능	간접 연결	
+2008_CSAT_Q20	REMAIN_LOW		세대 간 계층 구성	계층 이동 퍼즐	사문 고유	
+2008_JUNE_Q07	REMAIN_LOW		가족 유형	가족 유형 분류	사문 고유	
+2008_JUNE_Q09	REMAIN_LOW		통일 후 동독 주민	재사회화·구조적 이동 개념	분단·통일은 소재 수준	
+2008_JUNE_Q15	REMAIN_LOW		계층론·계급론 설문	계층 이론	사문 고유	
+2008_JUNE_Q17	REMAIN_LOW		가족 기능 변화	가족 기능 추론	인구 자료는 소재 수준	
+2008_JUNE_Q20	REMAIN_LOW		세대 내 이동	계층 이동	사문 고유	
+2008_SEPTEMBER_Q01	REMAIN_LOW		불평등 갈등론	관점 판별	사문 고유	
+2008_SEPTEMBER_Q04	REMAIN_LOW		입양 견해 표	표 해석	가족 소재	
+2008_SEPTEMBER_Q10	REMAIN_LOW		노인 문제 관점	관점 판별	고령화 소재 수준	
+2008_SEPTEMBER_Q12	REMAIN_LOW		부고 비교	문화 비교 추론	사문 고유	
+2008_SEPTEMBER_Q13	REMAIN_LOW		대중·하위문화	문화 유형 분류	사문 고유	
+2008_SEPTEMBER_Q20	REMAIN_LOW		문화 개념 확장	문화 개념	사문 고유	
+2009_CSAT_Q01	REMAIN_LOW		연봉제 관점	관점 판별	분배는 소재 수준	
+2009_CSAT_Q07	REMAIN_LOW		대중 매체 분류	매체 분류 퍼즐	사문 고유	
+2009_CSAT_Q08	REMAIN_LOW		결혼 이민자 연구 방법	연구방법	다문화는 소재 수준	
+2009_CSAT_Q10	REMAIN_LOW		계층 구조 변화	계층 이동 수치	사문 고유	
+2009_JUNE_Q05	REMAIN_LOW		가사 노동 관점	관점 판별	성 불평등은 소재 수준	
+2009_JUNE_Q07	REMAIN_LOW		계층 구조 유형	계층 구조 퍼즐	사문 고유	
+2009_JUNE_Q09	REMAIN_LOW		가족 형태 변화	가족 변화 추론	가족 소재	
+2009_JUNE_Q16	REMAIN_LOW		결혼 이민자 사례의 사회학 개념	사회학 개념 선택	다문화는 소재 수준	
+2009_JUNE_Q18	REMAIN_LOW		농촌 관광 사이트 현황	자료 해석	정보화 자료만 활용 가능	
+2009_JUNE_Q19	REMAIN_LOW		계층 현상 관점	관점 판별	사문 고유	
+2009_SEPTEMBER_Q01	REMAIN_LOW		기능론 분배 관점	관점 판별	사문 고유	
+2009_SEPTEMBER_Q03	REMAIN_LOW		명예퇴직자 재취업	정답은 세대 내 이동 개념	노동 시장은 소재 수준	
+2009_SEPTEMBER_Q10	REMAIN_LOW		혼인·이혼 통계	가족 형태 추론	가족 소재	
+2009_SEPTEMBER_Q12	REMAIN_LOW		문화의 의미	문화 개념	사문 고유	
+2009_SEPTEMBER_Q15	REMAIN_LOW		옷 입기의 모방·구별 짓기	준거 집단 개념	사문 고유	
+2009_SEPTEMBER_Q18	REMAIN_LOW		이민 3세 차별 사례의 사회학 용어	용어 선택	소수자 차별은 소재 수준	
+2009_SEPTEMBER_Q20	REMAIN_LOW		맞벌이 아내 소득 기여도	표 계산	자료만 활용 가능	
+2010_CSAT_Q02	RESCUE	2-03-02,2-03-01	경제 합리성의 의미와 한계; 공동 생산·공동 소비 부족 사회의 경제 원리	A: 정답(분배가 기여도와 무관)이 합리성 개념이 없는 경제 원리 추론	합리적 선택의 의미와 한계, 시장과 다른 삶의 방식 비교에 직접 대응	BOUNDARY_RESCUE_REMAIN_LOW
+2010_CSAT_Q04	REMAIN_LOW		초고령 지역 질적 연구	연구방법	고령화는 소재 수준	
+2010_CSAT_Q10	REMAIN_LOW		현지 문화 적응	사회학 개념	문화 이해 소재 수준	
+2010_CSAT_Q12	REMAIN_LOW		문화의 공유성	문화 속성 맞히기	사문 고유	
+2010_CSAT_Q14	REMAIN_LOW		이주 노동자 문제 관점	관점 판별	다문화는 소재 수준	
+2010_CSAT_Q19	REMAIN_LOW		불평등 갈등론	관점 판별	사문 고유	
+2010_JUNE_Q04	REMAIN_LOW		계급 개념 그래프	계급론	사문 고유	
+2010_JUNE_Q08	REMAIN_LOW		불평등 관점	관점 판별	사문 고유	
+2010_JUNE_Q16	RESCUE	1-04-04	다문화 사회 갈등 요인과 해결 방안(이주민 교육 체계·문화 교류)	B: 기능론 전제만 제거하면 다문화 갈등 요인·해결 방안 문항으로 전환	정답(ㄱ,ㄷ)이 이주민 교육 체계와 문화 교류 부족이라는 다문화 갈등 요인으로 구성	BOUNDARY_RESCUE_REMAIN_LOW
+2010_SEPTEMBER_Q12	REMAIN_LOW		지역 낙후 원인 관점	관점 판별	지역은 소재 수준	
+2010_SEPTEMBER_Q13	REMAIN_LOW		한부모 가구 현황	표 계산	가족 소재	
+2011_CSAT_Q03	REMAIN_LOW		자발적 결사체 특징	결사체 특성	시민 참여는 도입 설명 수준	
+2011_CSAT_Q14	REMAIN_LOW		주관적 계층 의식 표	계층표 계산	사문 고유	
+2011_CSAT_Q18	REMAIN_LOW		대중문화와 문화 속성	문화 속성 맞히기	사문 고유	
+2011_JUNE_Q02	REMAIN_LOW		성장·분배 여론 보도	자료 해석 태도	분배 쟁점은 소재 수준	
+2011_JUNE_Q04	REMAIN_LOW		다차원적 불평등	계층론	사문 고유	
+2011_JUNE_Q09	REMAIN_LOW		불평등 관점	관점 판별	사문 고유	
+2011_JUNE_Q15	REMAIN_LOW		다문화 가구 가설 요건	연구방법	다문화는 소재 수준	
+2011_JUNE_Q20	REMAIN_LOW		계층 구조 변화	계층 구조 퍼즐	사문 고유	
+2011_SEPTEMBER_Q02	REMAIN_LOW		청년 일자리 관점	관점 판별	노동은 소재 수준	
+2011_SEPTEMBER_Q07	REMAIN_LOW		문화 속성 도식	문화 속성	사문 고유	
+2011_SEPTEMBER_Q16	REMAIN_LOW		계급 개념	계급론	사문 고유	
+2012_CSAT_Q03	REMAIN_LOW		문화의 공유성	문화 속성 맞히기	사문 고유	
+2012_CSAT_Q04	REMAIN_LOW		가구 구성 변화	가구표 계산	가족 소재	
+2012_CSAT_Q07	RESCUE	1-01-02	학문의 세분화와 간학문적·총체적 접근	A: 정답 논리가 사회 현상에 대한 통합적(간학문적) 접근의 필요성	인간·사회·환경 탐구에 통합적 관점이 요청되는 이유와 직접 대응	
+2012_JUNE_Q03	REMAIN_LOW		계급·계층 개념	계층 이론	사문 고유	
+2012_JUNE_Q06	REMAIN_LOW		차등 분배 관점	관점 판별	사문 고유	
+2012_JUNE_Q13	REMAIN_LOW		저출산 사례의 사회 실재론	사회관	저출산은 소재 수준	
+2012_SEPTEMBER_Q03	REMAIN_LOW		문화 속성	문화 속성 맞히기	사문 고유	
+2012_SEPTEMBER_Q11	REMAIN_LOW		계층화 갈등론	관점 판별	사문 고유	
+2012_SEPTEMBER_Q14	REMAIN_LOW		다문화 태도 연구 설계	연구방법	다문화는 소재 수준	
+2013_CSAT_Q04	REMAIN_LOW		문화 속성	문화 속성 맞히기	사문 고유	
+2013_CSAT_Q11	REMAIN_LOW		빈부 격차 관점	관점 판별	불평등은 소재 수준	
+2013_JUNE_Q02	REMAIN_LOW		중장년 은퇴 관점	관점 판별	고용은 소재 수준	
+2013_JUNE_Q04	REMAIN_LOW		가족 정서 기능	가족 기능	저출산은 소재 수준	
+2013_JUNE_Q10	REMAIN_LOW		계급·계층 개념	계층 이론	사문 고유	
+2013_JUNE_Q12	REMAIN_LOW		대기업·영세 상인 격차 관점	관점 판별	불평등은 소재 수준	
+2013_SEPTEMBER_Q02	REMAIN_LOW		불평등 원인 관점	관점 판별	사문 고유	
+2013_SEPTEMBER_Q13	REMAIN_LOW		인터넷 이용 질문지	질문지 설계	정보화는 소재 수준	
+2013_SEPTEMBER_Q19	REMAIN_LOW		문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2013_SEPTEMBER_Q20	REMAIN_LOW		계층 비율 변화	계층 구조 퍼즐	계층 구조 퍼즐	
+2014_CSAT_Q02	REMAIN_LOW		가족 관점	관점 이론(산업화는 소재)	관점 이론(산업화는 소재)	
+2014_CSAT_Q05	REMAIN_LOW		반문화 특징	하위문화 분류	하위문화 분류	
+2014_CSAT_Q11	REMAIN_LOW		직업 중요도와 보수(기능론)	관점 판별(분배 기준은 소재)	관점 판별(분배 기준은 소재)	
+2014_CSAT_Q16	REMAIN_LOW		근대화와 서구화	근대화론 해석	근대화론 해석	
+2014_CSAT_Q18	REMAIN_LOW		문화 속성 조사 주제	문화 속성 맞히기	문화 속성 맞히기	
+2014_JUNE_Q01	REMAIN_LOW		문화적 맥락 고려 탐구 태도	사문 탐구 태도 단원	사문 탐구 태도 단원	
+2014_JUNE_Q06	REMAIN_LOW		문화 공유성	문화 속성 맞히기	문화 속성 맞히기	
+2014_JUNE_Q13	REMAIN_LOW		계층화 관점	관점 판별	관점 판별	
+2014_JUNE_Q15	REMAIN_LOW		대중 매체 보도 선별성	매체 기능 추론	매체 기능 추론	
+2014_SEPTEMBER_Q03	REMAIN_LOW		매체 유형	매체 분류	매체 분류	
+2014_SEPTEMBER_Q07	REMAIN_LOW		문화 총체성	문화 속성 맞히기	문화 속성 맞히기	
+2014_SEPTEMBER_Q09	REMAIN_LOW		전체 문화와 하위문화	하위문화 분류	하위문화 분류	
+2014_SEPTEMBER_Q18	REMAIN_LOW		다차원 계층 이론	계층 이론	계층 이론	
+2015_CSAT_Q04	REMAIN_LOW		인종 차별 연구 자료 수집	연구방법(차별은 소재)	연구방법(차별은 소재)	
+2015_CSAT_Q08	REMAIN_LOW		1인 가구 관점	관점 이론	관점 이론	
+2015_CSAT_Q12	REMAIN_LOW		계급론·계층론	계층 이론	계층 이론	
+2015_CSAT_Q18	REMAIN_LOW		로봇 도입 관점	관점 이론(노동 시장은 소재)	관점 이론(노동 시장은 소재)	
+2015_CSAT_Q19	REMAIN_LOW		하우사족 문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2015_JUNE_Q08	REMAIN_LOW		장례 문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2015_JUNE_Q09	REMAIN_LOW		결혼 이주 여성 연구 윤리	연구 윤리(다문화는 소재)	연구 윤리(다문화는 소재)	
+2015_JUNE_Q11	REMAIN_LOW		불평등 관점	관점 판별	관점 판별	
+2015_JUNE_Q19	REMAIN_LOW		인쇄 매체·뉴미디어	매체 분류	매체 분류	
+2015_SEPTEMBER_Q02	REMAIN_LOW		문화 의미·속성	문화 속성 맞히기	문화 속성 맞히기	
+2015_SEPTEMBER_Q03	REMAIN_LOW		계급·계층 개념	계층 이론	계층 이론	
+2015_SEPTEMBER_Q17	REMAIN_LOW		초혼 연령·출산율 사회 실재론	사회관(저출산은 소재)	사회관(저출산은 소재)	
+2015_SEPTEMBER_Q19	REMAIN_LOW		대중 매체 문제점	매체 역기능	매체 역기능	
+2016_CSAT_Q06	REMAIN_LOW		문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2016_CSAT_Q10	REMAIN_LOW		인쇄 매체·뉴미디어	매체 분류	매체 분류	
+2016_CSAT_Q12	REMAIN_LOW		계급론·계층론	계층 이론	계층 이론	
+2016_JUNE_Q04	REMAIN_LOW		미디어 발달 사회 변동관	변동 이론	변동 이론	
+2016_JUNE_Q08	REMAIN_LOW		인쇄 매체·뉴미디어	매체 분류	매체 분류	
+2016_JUNE_Q09	REMAIN_LOW		하위문화·반문화	하위문화 분류	하위문화 분류	
+2016_JUNE_Q14	RESCUE	1-04-01	덥고 습한 기후와 음식 문화; 유목 생활과 화장 문화	C: 자연환경·생활 방식이 문화 형성에 미친 영향 자료가 그대로 문화권 문항 자료	자연환경과 인문환경의 영향을 받아 형성된 삶의 방식에 직접 대응; 문화 속성 보기만 교체	BOUNDARY_RESCUE_REMAIN_LOW
+2016_JUNE_Q16	REMAIN_LOW		다차원 계층 이론	계층 이론	계층 이론	
+2016_SEPTEMBER_Q03	REMAIN_LOW		고령자 삶의 만족도 관점	관점 이론(고령화는 소재)	관점 이론(고령화는 소재)	
+2016_SEPTEMBER_Q12	REMAIN_LOW		문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2016_SEPTEMBER_Q18	REMAIN_LOW		매체 특징	매체 분류	매체 분류	
+2016_SEPTEMBER_Q19	REMAIN_LOW		계층론·계급론	계층 이론	계층 이론	
+2017_CSAT_Q02	REMAIN_LOW		계층 이론	계층 이론	계층 이론	
+2017_CSAT_Q09	REMAIN_LOW		문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2017_CSAT_Q16	REMAIN_LOW		인쇄 매체·뉴미디어	매체 분류	매체 분류	
+2017_JUNE_Q07	REMAIN_LOW		다문화 가정 연구	연구방법(다문화는 소재)	연구방법(다문화는 소재)	
+2017_JUNE_Q08	REMAIN_LOW		차별 실험 연구 윤리	연구 윤리	연구 윤리	
+2017_JUNE_Q15	REMAIN_LOW		매체 이용률·신뢰도	매체 분류	매체 분류	
+2017_JUNE_Q16	REMAIN_LOW		계층 분류	계층 이론	계층 이론	
+2017_JUNE_Q18	REMAIN_LOW		이민자 문화의 대중화	문화 유형 분류(보기 ㄴ,ㄹ 문화 개념)	문화 유형 분류(보기 ㄴ,ㄹ 문화 개념)	
+2017_SEPTEMBER_Q08	RESCUE	1-04-01	추운 기후·풍부한 목재와 음식 문화; 분지의 고온과 향신료 조리법	C: 기후·지형이 음식 문화에 미친 영향 자료가 그대로 문화권 문항 자료	자연환경의 영향을 받아 형성된 문화권의 삶의 방식에 직접 대응; 문화 속성 보기만 교체	BOUNDARY_RESCUE_REMAIN_LOW,OCR_UNCERTAIN
+2017_SEPTEMBER_Q09	REMAIN_LOW		자율 주행차 인식 조사	연구방법	과학기술은 소재 수준	
+2017_SEPTEMBER_Q12	REMAIN_LOW		전체 문화·하위문화·반문화	하위문화 분류	하위문화 분류	
+2017_SEPTEMBER_Q16	REMAIN_LOW		불평등 기능론·갈등론	관점 판별	관점 판별	
+2017_SEPTEMBER_Q18	REMAIN_LOW		매체 특징	매체 분류	매체 분류	
+2018_CSAT_Q06	REMAIN_LOW		계급론	계층 이론	계층 이론	
+2018_CSAT_Q07	REMAIN_LOW		노인 소외 관점	관점 이론(고령화는 소재)	관점 이론(고령화는 소재)	
+2018_CSAT_Q08	REMAIN_LOW		정보 격차 연구 설계	연구방법(정보 격차는 소재)	연구방법(정보 격차는 소재)	
+2018_CSAT_Q09	REMAIN_LOW		하위문화·반문화	하위문화 분류	하위문화 분류	
+2018_CSAT_Q10	REMAIN_LOW		가족 가설 검증 자료	연구방법	연구방법	
+2018_CSAT_Q11	REMAIN_LOW		매체 특징	매체 분류	매체 분류	
+2018_JUNE_Q14	REMAIN_LOW		세대별 매체 이용	매체 분류·자료 계산	매체 분류·자료 계산	
+2018_JUNE_Q17	REMAIN_LOW		다차원 계층 이론	계층 이론	계층 이론	
+2018_JUNE_Q18	REMAIN_LOW		반문화·하위문화	하위문화 분류	하위문화 분류	
+2018_SEPTEMBER_Q05	REMAIN_LOW		문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2018_SEPTEMBER_Q12	REMAIN_LOW		난민의 사회화 기관	사회화 기관 분류	사회화 기관 분류	
+2018_SEPTEMBER_Q13	REMAIN_LOW		매체 특징	매체 분류	매체 분류	
+2018_SEPTEMBER_Q16	REMAIN_LOW		계급·계층 이론	계층 이론	계층 이론	
+2018_SEPTEMBER_Q17	REMAIN_LOW		하위문화→반문화→전체문화	하위문화 분류	하위문화 분류	
+2019_CSAT_Q02	REMAIN_LOW		매체 특징	매체 분류	매체 분류	
+2019_CSAT_Q08	REMAIN_LOW		계급론·계층론	계층 이론	계층 이론	
+2019_CSAT_Q11	REMAIN_LOW		문화 의미·속성	문화 속성 맞히기	문화 속성 맞히기	
+2019_CSAT_Q14	REMAIN_LOW		불평등 기능론	관점 판별	관점 판별	
+2019_JUNE_Q11	REMAIN_LOW		매체 특징	매체 분류	매체 분류	
+2019_JUNE_Q14	REMAIN_LOW		성 역할 문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2019_JUNE_Q17	REMAIN_LOW		계급론·계층론	계층 이론	계층 이론	
+2019_SEPTEMBER_Q04	REMAIN_LOW		베버 계층론	계층 이론	계층 이론	
+2019_SEPTEMBER_Q12	REMAIN_LOW		문화 공유성	문화 속성 맞히기	문화 속성 맞히기	
+2019_SEPTEMBER_Q13	REMAIN_LOW		매체 특징	매체 분류	매체 분류	
+2020_CSAT_Q05	REMAIN_LOW		일·가정 양립 연구	연구방법(성별은 소재)	연구방법(성별은 소재)	
+2020_CSAT_Q08	REMAIN_LOW		문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2020_CSAT_Q09	REMAIN_LOW		인터넷 개인 방송 하위문화	하위문화 분류	하위문화 분류	
+2020_CSAT_Q11	REMAIN_LOW		계급·계층 조사 자료	계층 이론	계층 이론	
+2020_CSAT_Q17	REMAIN_LOW		매체 특징 게임	매체 분류	매체 분류	
+2020_JUNE_Q08	REMAIN_LOW		문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2020_JUNE_Q11	REMAIN_LOW		매체 특징	매체 분류	매체 분류	
+2020_JUNE_Q14	REMAIN_LOW		계급론·계층론	계층 이론	계층 이론	
+2020_SEPTEMBER_Q02	REMAIN_LOW		다문화 교육 실험	연구방법(다문화는 소재)	연구방법(다문화는 소재)	
+2020_SEPTEMBER_Q04	REMAIN_LOW		매체 특징	매체 분류	매체 분류	
+2020_SEPTEMBER_Q05	REMAIN_LOW		통일 연구 자료 수집	연구방법(통일은 소재)	연구방법(통일은 소재)	
+2020_SEPTEMBER_Q11	REMAIN_LOW		문화 학습성	문화 속성 맞히기	문화 속성 맞히기	
+2020_SEPTEMBER_Q13	REMAIN_LOW		계급론·계층론	계층 이론	계층 이론	
+2020_SEPTEMBER_Q14	REMAIN_LOW		청소년 하위문화	하위문화 분류	하위문화 분류	
+2020_SEPTEMBER_Q15	REMAIN_LOW		교육 격차 가설 자료	연구방법(교육 불평등은 소재)	연구방법(교육 불평등은 소재)	
+2021_CSAT_Q08	REMAIN_LOW		문화 공유성	문화 속성 맞히기	문화 속성 맞히기	
+2021_CSAT_Q09	REMAIN_LOW		주류·하위·반문화	하위문화 분류	하위문화 분류	
+2021_CSAT_Q10	REMAIN_LOW		불평등 기능론·갈등론	관점 판별	관점 판별	
+2021_JUNE_Q02	REMAIN_LOW		다문화 가정 연구 윤리	연구 윤리	연구 윤리	
+2021_JUNE_Q11	REMAIN_LOW		하위문화·반문화	하위문화 분류	하위문화 분류	
+2021_JUNE_Q16	REMAIN_LOW		조직 문화·여가 문화 변화	문화 속성 맞히기	문화 속성 맞히기	
+2021_SEPTEMBER_Q08	REMAIN_LOW		뉴트로 문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2021_SEPTEMBER_Q11	REMAIN_LOW		불평등 기능론	관점 판별	관점 판별	
+2021_SEPTEMBER_Q12	REMAIN_LOW		반문화·청년 하위문화	하위문화 분류	하위문화 분류	
+2022_CSAT_Q05	RESCUE	1-04-02	전통 판소리의 퓨전 음악화와 전통문화의 현대적 계승	C: 전통 민속악이 현대적으로 재창조되는 자료가 그대로 전통문화의 의의 문항 자료	현대 사회에서 전통문화가 지니는 의의(계승과 재창조)에 직접 대응; 문화 속성 선지만 교체	BOUNDARY_RESCUE_REMAIN_LOW
+2022_CSAT_Q10	REMAIN_LOW		K-팝·생태 공동체 하위문화	하위문화 분류	하위문화 분류	
+2022_JUNE_Q03	REMAIN_LOW		주류·하위·반문화	하위문화 분류	하위문화 분류	
+2022_JUNE_Q08	REMAIN_LOW		홈코노미 문화 총체성	문화 속성 맞히기	문화 속성 맞히기	
+2022_SEPTEMBER_Q05	REMAIN_LOW		기사 문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2022_SEPTEMBER_Q19	REMAIN_LOW		지역 문화·반문화	하위문화 분류	하위문화 분류	
+2023_CSAT_Q06	REMAIN_LOW		도심 재생 연구 자료 수집	연구방법(지역 변화는 소재)	연구방법(지역 변화는 소재)	
+2023_CSAT_Q13	REMAIN_LOW		세대 하위문화	하위문화 분류	하위문화 분류	
+2023_CSAT_Q16	REMAIN_LOW		배트 플립 문화 의미	문화 개념	문화 개념	
+2023_JUNE_Q11	REMAIN_LOW		반문화·세대 문화	하위문화 분류	하위문화 분류	
+2023_JUNE_Q16	REMAIN_LOW		문화 공유성	문화 속성 맞히기	문화 속성 맞히기	
+2023_JUNE_Q19	REMAIN_LOW		환경 문제 관점	관점 이론(환경은 소재)	관점 이론(환경은 소재)	
+2023_SEPTEMBER_Q03	REMAIN_LOW		주류·하위·반문화	하위문화 분류	하위문화 분류	
+2023_SEPTEMBER_Q16	REMAIN_LOW		짠테크 문화 물질·비물질	문화 개념	문화 개념	
+2024_CSAT_Q06	REMAIN_LOW		자전거 문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2024_CSAT_Q09	REMAIN_LOW		반문화 형성	하위문화 분류	하위문화 분류	
+2024_JUNE_Q05	REMAIN_LOW		종교와 식문화 공유성	문화 속성 맞히기	문화 속성 맞히기	
+2024_JUNE_Q13	REMAIN_LOW		전후 독일 기억 문화	정답(ㄴ,ㄹ)이 반문화·주류 문화 변화(PNG 확인)	정답(ㄴ,ㄹ)이 반문화·주류 문화 변화(PNG 확인)	
+2024_SEPTEMBER_Q02	REMAIN_LOW		외래 종교 하위·반문화	하위문화 분류	하위문화 분류	
+2024_SEPTEMBER_Q06	REMAIN_LOW		문화 속성 사례	문화 속성 맞히기	문화 속성 맞히기	
+2025_CSAT_Q06	REMAIN_LOW		손 씻기 하위문화→주류	하위문화 분류	하위문화 분류	
+2025_CSAT_Q09	REMAIN_LOW		웹툰 문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2025_CSAT_Q16	REMAIN_LOW		불평등 기능론·갈등론	관점 판별	관점 판별	
+2025_JUNE_Q04	REMAIN_LOW		문화 공유성	문화 속성 맞히기	문화 속성 맞히기	
+2025_JUNE_Q06	REMAIN_LOW		대중문화 상업성	대중문화 역기능	대중문화 역기능	
+2025_JUNE_Q08	REMAIN_LOW		이민자 하위문화 주류화	하위문화 분류	하위문화 분류	
+2025_JUNE_Q18	REMAIN_LOW		불평등 갈등론	관점 판별	관점 판별	
+2025_SEPTEMBER_Q06	REMAIN_LOW		계층적 지위 관점	관점 판별	관점 판별	
+2025_SEPTEMBER_Q14	REMAIN_LOW		문화 속성 사례	문화 속성 맞히기	문화 속성 맞히기	
+2025_SEPTEMBER_Q16	REMAIN_LOW		대중문화 기능	대중문화 기능	대중문화 기능	
+2026_CSAT_Q04	REMAIN_LOW		문화 속성 사례	문화 속성 맞히기	문화 속성 맞히기	
+2026_JUNE_Q04	REMAIN_LOW		인공 지능 관점	관점 이론(과학기술은 소재)	관점 이론(과학기술은 소재)	
+2026_JUNE_Q05	REMAIN_LOW		스케이트보드 반문화	하위문화 분류	하위문화 분류	
+2026_JUNE_Q07	REMAIN_LOW		직업별 임금 관점	관점 판별	관점 판별	
+2026_JUNE_Q09	REMAIN_LOW		고령층 디지털 교육 연구	연구방법	연구방법	
+2026_JUNE_Q19	REMAIN_LOW		제주 해녀 문화 속성	문화 속성 맞히기(전통문화는 소재)	문화 속성 맞히기(전통문화는 소재)	
+2026_SEPTEMBER_Q04	REMAIN_LOW		문화 속성 사례	문화 속성 맞히기	문화 속성 맞히기	
+2026_SEPTEMBER_Q06	REMAIN_LOW		대중문화 자극성	대중문화 역기능	대중문화 역기능	
+2026_SEPTEMBER_Q08	REMAIN_LOW		이주민 사회 운동 하위문화	하위문화 구분	하위문화 구분	
+2026_SEPTEMBER_Q13	REMAIN_LOW		노동 인권 사례 집단 분류	집단·지위 분류	집단·지위 분류	
+2027_JUNE_Q07	REMAIN_LOW		AI 상담 연구	연구방법	연구방법	
+2027_JUNE_Q14	REMAIN_LOW		커피 문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2027_JUNE_Q17	REMAIN_LOW		망명 종교 공동체 하위문화	하위문화 분류	하위문화 분류	
+2027_SEPTEMBER_Q03	REMAIN_LOW		문화 속성	문화 속성 맞히기	문화 속성 맞히기	
+2027_SEPTEMBER_Q12	REMAIN_LOW		독서 인증·코스프레	하위문화 분류	하위문화 분류	
+2027_SEPTEMBER_Q17	REMAIN_LOW		이주 노동자 관점	관점 이론(이주민은 소재)	관점 이론(이주민은 소재)	
+2027_SEPTEMBER_Q18	REMAIN_LOW		세계 시장 확장 변동관	변동 이론(세계화는 소재)	변동 이론(세계화는 소재)	
+2005_CSAT_Q18	REMAIN_NONE		갈등론 관점	관점 판별 퍼즐	통합사회 내용 연결 없음; 규칙 점수는 '생산수단·불평등' 어휘 적중	
+2005_SEPTEMBER_Q15	REMAIN_NONE		관료제 특징	조직론	통합사회 내용 연결 없음	
+2006_CSAT_Q19	REMAIN_NONE		도시 생태학과 일탈	일탈 이론(도시·이민자는 소재)	일탈 이론(도시·이민자는 소재)	
+2008_JUNE_Q02	REMAIN_NONE		면접 연구 과정	연구방법	연구방법	
+2011_JUNE_Q03	REMAIN_NONE		실증적 연구 사례	연구방법	연구방법	
+2013_JUNE_Q01	REMAIN_NONE		사회 현상의 시대적 가변성	현상 특성(통신·주거 변화는 소재)	현상 특성(통신·주거 변화는 소재)	
+2015_JUNE_Q07	REMAIN_NONE		집단 분류(인권 단체 소재)	집단 분류	집단 분류	
+2016_JUNE_Q06	REMAIN_NONE		종교 기능론	관점 이론	관점 이론	
+2017_JUNE_Q02	REMAIN_NONE		아동 학대 관점	관점 이론	관점 이론	
+2018_JUNE_Q01	REMAIN_NONE		자연 현상과 사회 현상	현상 특성(stem 확인)	현상 특성(stem 확인)	
+2018_SEPTEMBER_Q02	REMAIN_NONE		상징적 상호작용론·기능론	관점 이론	관점 이론	
+2020_SEPTEMBER_Q09	REMAIN_NONE		종교 기능론·갈등론	관점 이론	관점 이론	
+2020_SEPTEMBER_Q20	REMAIN_NONE		분배 정책과 계층 이동표	계층 이동표 계산	계층 이동표 계산	
+2021_CSAT_Q06	REMAIN_NONE		사회 명목론·실재론	사회관(환경은 소재)	사회관(환경은 소재)	
+2021_SEPTEMBER_Q18	REMAIN_NONE		지위·역할	지위 퍼즐(환경 운동가는 소재)	지위 퍼즐(환경 운동가는 소재)	
+2022_CSAT_Q16	REMAIN_NONE		세대 간 계층 이동	계층 이동표	계층 이동표	
+2022_JUNE_Q09	REMAIN_NONE		세대 간 계층 이동	계층 이동표	계층 이동표	
+2022_JUNE_Q13	REMAIN_NONE		이주 가족 사회화·지위	지위 퍼즐	지위 퍼즐	
+2023_JUNE_Q12	REMAIN_NONE		계층 구성 비율	계층 구조 분류	계층 구조 분류	
+2023_SEPTEMBER_Q18	REMAIN_NONE		계층 구성 비율	계층 구조 분류	계층 구조 분류	
+2024_CSAT_Q10	REMAIN_NONE		세대 간 계층 이동	계층 이동표	계층 이동표	
+2024_JUNE_Q01	REMAIN_NONE		자연 현상과 사회 현상	현상 특성	현상 특성	
+2024_JUNE_Q03	REMAIN_NONE		갈등론·기능론	관점 이론	관점 이론	
+2024_JUNE_Q16	REMAIN_NONE		진화론적 변동관	변동 이론	변동 이론	
+2025_CSAT_Q01	REMAIN_NONE		자연 현상과 사회 현상	현상 특성(기후 변화는 소재)	현상 특성(기후 변화는 소재)	
+2025_CSAT_Q04	REMAIN_NONE		집단·사회화 기관	집단 분류	집단 분류	
+2025_CSAT_Q10	REMAIN_NONE		세대 간·세대 내 이동	계층 이동표	계층 이동표	
+2025_JUNE_Q10	REMAIN_NONE		국가별 계층 구조	계층 구조 분류	계층 구조 분류	
