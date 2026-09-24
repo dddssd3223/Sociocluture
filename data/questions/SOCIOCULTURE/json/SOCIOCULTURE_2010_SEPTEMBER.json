@@ -1,0 +1,1777 @@
+{
+ "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+ "subject": "SOCIOCULTURE",
+ "year": 2010,
+ "exam_type": "SEPTEMBER",
+ "exam_period": "9월 모의평가",
+ "source_file": "2010학년도_09월_사회문화_문제.pdf",
+ "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+ "pipeline_version": "p1-v1",
+ "page_count": 4,
+ "start_page": 1,
+ "end_page": 4,
+ "skipped_pages": [],
+ "anchor_method": "pdf_text",
+ "inferred_numbers": [],
+ "shared_passage_groups": [
+  {
+   "page": 0,
+   "col": 1,
+   "y": 217.40199279785156,
+   "first": 3,
+   "last": 4,
+   "text": "ġ3~4Ģ다음자료(가), (나)를읽고물음에답하시오."
+  }
+ ],
+ "missing_numbers": [],
+ "header_metadata": {
+  "year": 2010,
+  "exam_type": "SEPTEMBER",
+  "subject_in_header": true,
+  "source": "pdf_text",
+  "raw": "사회탐구`영역(사회∙문화)\n2010학년도대학수학능력시험9월모의평가문제지\n제`4`교시\n1\n21\n44\n성명\n수험`번호\n질문: 중국인들이 숫자 8을 좋아하는 이유는 무엇입니까?(andy0623)\u000e\n\u000e\nӥ ӥ포털 사이트\u000e\n의견쓰기: ㉠로그인 후 사용하세요.\n의견쓰기: 제가 아는 거…(lhk1102)\n㉡추천 112 신고 3\u000e\n\u000e\n의견쓰기: 추천 꾸욱~~(lions2"
+ },
+ "metadata_verified": true,
+ "layout": [
+  {
+   "page": 0,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 205.0286447199658,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.724
+  },
+  {
+   "page": 1,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 111.41427960666952,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.879
+  },
+  {
+   "page": 2,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 111.41427960666952,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.834
+  },
+  {
+   "page": 3,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 111.41427960666952,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.771
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q01",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 1,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      216.9,
+      383.01,
+      563.99
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 218.27,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "1. 그림에서㉠, ㉡과같은현상의일반적인특성에대한설명으\n 로적절하지않은것은?\n\n\n\n                                  아니에요. 이 그림은\n                           ㉡인체의 생물학적\n   이 그림은 옛날 사람                구조가 좌우 대칭을\n   들이 어떤 ㉠몸매를                이루고 있음을 보여\n   멋지다고 생각했는지               주는 것입니다.\n   보여 주는 것입니다.\n\n\n\n\n\n ①㉠은가치함축적현상, ㉡은몰가치적현상이다.\n ②㉠은㉡에비해변수간관계의필연성이높은현상이다.\n ③㉠은㉡에비해보는관점에따라달리해석될가능성이높은\n   현상이다.\n ④㉡은㉠에비해보편성의원리가강하게나타나는현상이다.\n ⑤㉡은㉠에비해연구결과의일반화가능성이높은현상이다.",
+   "shared_passage_text": "",
+   "stem": "1. 그림에서㉠, ㉡과같은현상의일반적인특성에대한설명으 로적절하지않은것은?",
+   "passage": "아니에요. 이 그림은\n                           ㉡인체의 생물학적\n   이 그림은 옛날 사람                구조가 좌우 대칭을\n   들이 어떤 ㉠몸매를                이루고 있음을 보여\n   멋지다고 생각했는지               주는 것입니다.\n   보여 주는 것입니다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠은가치함축적현상, ㉡은몰가치적현상이다."
+    },
+    {
+     "number": 2,
+     "text": "㉠은㉡에비해변수간관계의필연성이높은현상이다."
+    },
+    {
+     "number": 3,
+     "text": "㉠은㉡에비해보는관점에따라달리해석될가능성이높은 현상이다."
+    },
+    {
+     "number": 4,
+     "text": "㉡은㉠에비해보편성의원리가강하게나타나는현상이다."
+    },
+    {
+     "number": 5,
+     "text": "㉡은㉠에비해연구결과의일반화가능성이높은현상이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "아니에요. 이\n6인제의 44:\n구조가 좌우\n이루고 있음:\n\n주는 WAU\n\n림은 옛날 사람\n어떤 @몸매를\n다고 생각했는지\n주는 것입니다.",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 14,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q01.png",
+   "question_image_sha256": "81f9ee730638cca489d3c7aca78cc92d9f90c24a70b19f138e167916fa011bf1",
+   "image_size_px": [
+    1045,
+    1053
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q02",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 2,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      607.17,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 608.72,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "2. 표에대한옳은설명을<보기>에서고른것은?ġ3점Ģ\n\n    <다문화 가구 현황 및 다문화 가구를 대상으로 한 조사 결과>\n\n                                              (단위: %)\n\n                    시급하게 해결되어야 하는 문제            다문화\n     구분     가구                 취업  경제적  한글   편견\n            비율                      기타\n                 알선   지원   교육  없애기\n\n        도시     0.3      17.7      20.8      25.5      29.5       6.5\n\n    2006년  농촌     0.7        9.1      17.7      26.2      33.0      14.0\n\n        전국     0.4      15.1      19.9      25.7      30.6       8.7\n\n        도시     1.6      18.1      15.0      31.1      29.0       6.8\n\n    2008년  농촌     2.1      13.0      26.8      39.1      17.3       3.8\n\n        전국     1.7      17.0      17.6      32.8      26.4       6.2\n\n        * 전수 조사 결과임.\n       ** 다문화 가구 비율은 다문화 가구가 전체 가구에서 차지하는 비율임.\n      *** 전체 가구 수는 도시, 농촌 모두 2006년에 비해 2008년에 증가하였음.\n\n                       <`보기`>\n\n   ㄱ. 다문화가구수는농촌지역이도시지역보다더많다.\n   ㄴ. 2008년에는한글교육이다문화가구에서가장시급하게\n   해결되어야하는문제로인식되고있다.\n   ㄷ. 경제적지원이시급하게해결되어야하는문제라고대답\n   한다문화가구의수는농촌과도시모두2006년에서\n    2008년사이에증가하였다.\n   ㄹ. 취업알선이시급하게해결되어야하는문제라고대답한\n    다문화가구의비율은2006년에서2008년사이에도시가\n   농촌보다더큰폭으로증가하였다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "2. 표에대한옳은설명을<보기>에서고른것은?ġ3점Ģ",
+   "passage": "<다문화 가구 현황 및 다문화 가구를 대상으로 한 조사 결과>\n\n                                              (단위: %)\n\n                    시급하게 해결되어야 하는 문제            다문화\n     구분     가구                 취업  경제적  한글   편견\n            비율                      기타\n                 알선   지원   교육  없애기\n\n        도시     0.3      17.7      20.8      25.5      29.5       6.5\n\n    2006년  농촌     0.7        9.1      17.7      26.2      33.0      14.0\n\n        전국     0.4      15.1      19.9      25.7      30.6       8.7\n\n        도시     1.6      18.1      15.0      31.1      29.0       6.8\n\n    2008년  농촌     2.1      13.0      26.8      39.1      17.3       3.8\n\n        전국     1.7      17.0      17.6      32.8      26.4       6.2\n\n        * 전수 조사 결과임.\n       ** 다문화 가구 비율은 다문화 가구가 전체 가구에서 차지하는 비율임.\n      *** 전체 가구 수는 도시, 농촌 모두 2006년에 비해 2008년에 증가하였음.\n\n                       <`보기`>\n\n   ㄱ. 다문화가구수는농촌지역이도시지역보다더많다.\n   ㄴ. 2008년에는한글교육이다문화가구에서가장시급하게\n   해결되어야하는문제로인식되고있다.\n   ㄷ. 경제적지원이시급하게해결되어야하는문제라고대답\n   한다문화가구의수는농촌과도시모두2006년에서\n    2008년사이에증가하였다.\n   ㄹ. 취업알선이시급하게해결되어야하는문제라고대답한\n    다문화가구의비율은2006년에서2008년사이에도시가\n   농촌보다더큰폭으로증가하였다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q02.png",
+   "question_image_sha256": "3193b0347b23c4ee437312210f427ba48b9ecebf8451f6f28d61cb4b02f221eb",
+   "image_size_px": [
+    1045,
+    1279
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q03",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 3,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": true,
+     "bbox_pt": [
+      387.01,
+      214.92,
+      738.56,
+      551.14
+     ]
+    },
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      576.85,
+      738.56,
+      798.69
+     ]
+    }
+   ],
+   "shared_passage_group": {
+    "range": "3-4",
+    "header_text": "ġ3~4Ģ다음자료(가), (나)를읽고물음에답하시오.",
+    "manual": false
+   },
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 578.08,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "3. (가)에나타난중국문화에대한옳은설명을<보기>에서고른\n 것은?ġ3점Ģ\n\n                       <`보기`>\n\n   ㄱ. 숫자‘4’는중국문화가우리나라문화와구별됨을보여\n    주는사례이다.\n   ㄴ. 숫자‘8’은중국문화의특수성과문화의다양성을보여\n    주는사례이다.\n   ㄷ. 특정숫자를좋아하는중국문화는상거래방식으로부터\n    영향을받았다.\n   ㄹ. 중국인들이숫자의의미를상술에이용하는것은문화의\n    학습성을보여주는사례이다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "ġ3~4Ģ다음자료(가), (나)를읽고물음에답하시오.\n\n\n (가)  ӥ ӥ포털 사이트\n\n       지식 Q&A ӑ 사회, 문화 ӑ 시사, 뉴스 ӑ 중국             인쇄 담기 목록\n\n      질문: 중국인들이 숫자 8을 좋아하는 이유는 무엇입니까?(andy0623)\n\n      의견쓰기: ㉠로그인 후 사용하세요.\n\n      의견쓰기: 제가 아는 거…(lhk1102)         ㉡추천 112 신고 3\n\n        8의 중국어 발음은 ba[빠]인데, 이는‘돈을 벌다, 재산을 모으다’라는 뜻\n      을 가진 發[fa]와 발음이 비슷하기 때문에 좋아한다고 하네요.^^\n\n      의견쓰기: 추천 꾸욱~~(lions2236)          추천 73 신고 1\n\n      우리나라와 달리 8은 중국 상인에게 아주 중요한 숫자입니다. 중국의 제품\n      가격은 118원, 888원 등 8로 끝나는 경우가 많습니다. 가격표에 8이 많이\n      들어간 상품은 중국인들이 흥정하지 않고 그냥 사는 경우가 많다는군요.\n      이런 상거래 방식은 8을 좋아하는 중국 사람들의 심리를 이용한 상인 특유의\n      상술로서 옛날부터 전해져 내려온 방법이라고 합니다. 하지만 중국인은 4자\n      를 싫어합니다. 참! 4자를 싫어하기는 우리나라 사람들도 마찬가지네요.\n\n\n      의견쓰기: ㉢중국 여행 싸게 다녀오세요.(jiewon21)   추천 1 신고 53\n\n        7월 성수기 하이난 여행 파격가 299,000원!!!! 놓치지 마세요.^^\n\n\n (나)  ӥӥ포털 사이트에서는 인터넷 실명제와 댓글 추천제를 도입하여 네티즌\n     이 스스로 인터넷 공간을 정화해 나갈 수 있도록 하였다. 이에 따라 네티\n     즌들은 추천순으로 게시물을 정렬하여 좋은 정보를 공유할 수도 있고, 신\n     고 건수를 역순으로 정렬하여 홍보나 악성 게시물을 차단할 수도 있다. 이\n     포털 사이트에서는 신고 건수가 일정 수에 도달하면 게시물은 자동 삭제되\n     고 동일 아이디의 글쓰기가 차단되므로 네티즌 스스로 경각심을 갖게 된다.",
+   "stem": "3. (가)에나타난중국문화에대한옳은설명을<보기>에서고른 것은?ġ3점Ģ",
+   "passage": "<`보기`>\n\n   ㄱ. 숫자‘4’는중국문화가우리나라문화와구별됨을보여\n    주는사례이다.\n   ㄴ. 숫자‘8’은중국문화의특수성과문화의다양성을보여\n    주는사례이다.\n   ㄷ. 특정숫자를좋아하는중국문화는상거래방식으로부터\n    영향을받았다.\n   ㄹ. 중국인들이숫자의의미를상술에이용하는것은문화의\n    학습성을보여주는사례이다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 106,
+    "curves": 12,
+    "filled_shapes": 22
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q03.png",
+   "question_image_sha256": "5aea71178ca3d13fb0ee1d7677cc6d0074763cddceb932f689de630ac8c92fa9",
+   "image_size_px": [
+    1066,
+    1707
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q04",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 4,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": true,
+     "bbox_pt": [
+      387.01,
+      214.92,
+      738.56,
+      551.14
+     ]
+    },
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      846.16,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": {
+    "range": "3-4",
+    "header_text": "ġ3~4Ģ다음자료(가), (나)를읽고물음에답하시오.",
+    "manual": false
+   },
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 847.42,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "4. (나)를근거로(가)의㉠~㉢에대해가장적절하게추론한\n 것은?\n\n ①㉠제도가활성화되면인터넷공간에서익명성이강화된다.\n ②㉠제도를통해서ӥӥ포털사이트에개인정보가집중되면\n  네티즌들의프라이버시가더잘보호된다.\n ③㉡제도를통해인터넷에서발생하는사생활침해에대한법\n  적처벌이가능해진다.\n ④㉡제도가활성화되면익명성으로인해나타나는폐해를네\n  티즌스스로의힘으로줄이게된다.\n ⑤㉡제도가활성화되면㉢과같은게시물이더많이나타나게\n   된다.",
+   "shared_passage_text": "ġ3~4Ģ다음자료(가), (나)를읽고물음에답하시오.\n\n\n (가)  ӥ ӥ포털 사이트\n\n       지식 Q&A ӑ 사회, 문화 ӑ 시사, 뉴스 ӑ 중국             인쇄 담기 목록\n\n      질문: 중국인들이 숫자 8을 좋아하는 이유는 무엇입니까?(andy0623)\n\n      의견쓰기: ㉠로그인 후 사용하세요.\n\n      의견쓰기: 제가 아는 거…(lhk1102)         ㉡추천 112 신고 3\n\n        8의 중국어 발음은 ba[빠]인데, 이는‘돈을 벌다, 재산을 모으다’라는 뜻\n      을 가진 發[fa]와 발음이 비슷하기 때문에 좋아한다고 하네요.^^\n\n      의견쓰기: 추천 꾸욱~~(lions2236)          추천 73 신고 1\n\n      우리나라와 달리 8은 중국 상인에게 아주 중요한 숫자입니다. 중국의 제품\n      가격은 118원, 888원 등 8로 끝나는 경우가 많습니다. 가격표에 8이 많이\n      들어간 상품은 중국인들이 흥정하지 않고 그냥 사는 경우가 많다는군요.\n      이런 상거래 방식은 8을 좋아하는 중국 사람들의 심리를 이용한 상인 특유의\n      상술로서 옛날부터 전해져 내려온 방법이라고 합니다. 하지만 중국인은 4자\n      를 싫어합니다. 참! 4자를 싫어하기는 우리나라 사람들도 마찬가지네요.\n\n\n      의견쓰기: ㉢중국 여행 싸게 다녀오세요.(jiewon21)   추천 1 신고 53\n\n        7월 성수기 하이난 여행 파격가 299,000원!!!! 놓치지 마세요.^^\n\n\n (나)  ӥӥ포털 사이트에서는 인터넷 실명제와 댓글 추천제를 도입하여 네티즌\n     이 스스로 인터넷 공간을 정화해 나갈 수 있도록 하였다. 이에 따라 네티\n     즌들은 추천순으로 게시물을 정렬하여 좋은 정보를 공유할 수도 있고, 신\n     고 건수를 역순으로 정렬하여 홍보나 악성 게시물을 차단할 수도 있다. 이\n     포털 사이트에서는 신고 건수가 일정 수에 도달하면 게시물은 자동 삭제되\n     고 동일 아이디의 글쓰기가 차단되므로 네티즌 스스로 경각심을 갖게 된다.",
+   "stem": "4. (나)를근거로(가)의㉠~㉢에대해가장적절하게추론한 것은?",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠제도가활성화되면인터넷공간에서익명성이강화된다."
+    },
+    {
+     "number": 2,
+     "text": "㉠제도를통해서ӥӥ포털사이트에개인정보가집중되면 네티즌들의프라이버시가더잘보호된다."
+    },
+    {
+     "number": 3,
+     "text": "㉡제도를통해인터넷에서발생하는사생활침해에대한법 적처벌이가능해진다."
+    },
+    {
+     "number": 4,
+     "text": "㉡제도가활성화되면익명성으로인해나타나는폐해를네 티즌스스로의힘으로줄이게된다."
+    },
+    {
+     "number": 5,
+     "text": "㉡제도가활성화되면㉢과같은게시물이더많이나타나게 된다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 106,
+    "curves": 12,
+    "filled_shapes": 22
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q04.png",
+   "question_image_sha256": "b6eb3a3e8d2c8b7d583d3507a20c0beb2b513b072ab3ec3fffa70f170ee953f2",
+   "image_size_px": [
+    1066,
+    1588
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q05",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 5,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      124.93,
+      383.01,
+      416.32
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "5. 다음글에부합하는설명을<보기>에서고른것은?\n\n\n   탱고는 아르헨티나의 부에노스아이레스에 위치한 보카(Boca) 지역의 하층\n  계급에 의해 시작된 것으로 그들의 고단한 삶을 달래 주는 춤이었다. 당시\n  아르헨티나의 지배 계급은 탱고를‘부둣가에서나 추는 음탕하고 천박한\n  춤’이라고 멸시했지만 특유의 전염성으로 이민자들을 통해 유럽으로 번져\n   나갔다. 특히 20세기 초 파리와 런던에서 탱고가 전성기를 구가하자 아르헨\n  티나 주류 엘리트들도 차츰 탱고를 배우기 시작했다. 탱고는 현재 아르헨티\n  나의 주요한 관광 자원이며 하층과 상층이 모두 즐기는 전통 춤이 되었다.\n\n                       <`보기`>\n\n   ㄱ. 아르헨티나에서초기의탱고는특정계급의하위문화였다.\n   ㄴ. 주류엘리트들이탱고를배운것은문화동화의사례에해\n    당한다.\n   ㄷ. 유럽사람들이탱고를즐기기시작한것은문화접변의\n    사례에해당한다.\n   ㄹ. 탱고가처음시작될당시지배계급은탱고에대해상대\n    주의적태도를취하였다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "5. 다음글에부합하는설명을<보기>에서고른것은?",
+   "passage": "탱고는 아르헨티나의 부에노스아이레스에 위치한 보카(Boca) 지역의 하층\n  계급에 의해 시작된 것으로 그들의 고단한 삶을 달래 주는 춤이었다. 당시\n  아르헨티나의 지배 계급은 탱고를‘부둣가에서나 추는 음탕하고 천박한\n  춤’이라고 멸시했지만 특유의 전염성으로 이민자들을 통해 유럽으로 번져\n   나갔다. 특히 20세기 초 파리와 런던에서 탱고가 전성기를 구가하자 아르헨\n  티나 주류 엘리트들도 차츰 탱고를 배우기 시작했다. 탱고는 현재 아르헨티\n  나의 주요한 관광 자원이며 하층과 상층이 모두 즐기는 전통 춤이 되었다.\n\n                       <`보기`>\n\n   ㄱ. 아르헨티나에서초기의탱고는특정계급의하위문화였다.\n   ㄴ. 주류엘리트들이탱고를배운것은문화동화의사례에해\n    당한다.\n   ㄷ. 유럽사람들이탱고를즐기기시작한것은문화접변의\n    사례에해당한다.\n   ㄹ. 탱고가처음시작될당시지배계급은탱고에대해상대\n    주의적태도를취하였다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q05.png",
+   "question_image_sha256": "737e475ae4faa5ff353120ba127f4fa9e4ea6d656a2ab2974fe250548cd79136",
+   "image_size_px": [
+    1045,
+    884
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q06",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 6,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      443.02,
+      383.01,
+      717.6
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 444.14,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "6. 다음사례에서비행을바라보는갑, 을, 병의이론적관점에\n 대한설명으로가장적절한것은?ġ3점Ģ\n\n\n   (고민 부모) 저는 우리 애에 대한 기대감으로 어려서부터 지원을 아끼지 않았습\n   니다. 물론 기대한 만큼 공부를 잘하지는 못했지만 착한 아이였어요. 그런데 요\n  즘 우리 애가 친구들과 어울려 다니면서 비행을 일삼고 있는데 무엇이 문제인가요?\n\n     (갑) 나쁜 친구를 사귀면서 부정적인 영향을 받는 것이 문제입니다.\n     (을) 나쁜 친구와 한두 번 어울린다고 해서 문제아가 되는 것은 아닙니다.\n      오히려 자녀를 문제아로 보니까 자녀의 행동이 비행으로 보이는 것입니다.\n     (병) 사회나 부모의 기대가 너무 높은데 정상적인 방법으로는 그것을\n      충족시키지 못하니까 자녀가 밖으로 나돌면서 비행을 일삼는 것입니다.\n\n ①갑은비행이서로다른가치의갈등에서비롯된다고본다.\n ②을은사회변화에따른전통적인규범의해체가비행의원인\n   이라고본다.\n ③병은비행자체보다는그에대한사회적평가를문제삼고있다.\n ④갑과을은비행친구와의접촉을통한학습이비행의원인이\n   라고본다.\n ⑤갑과병은비행을규정하는사회적규범이존재하는것으로본다.",
+   "shared_passage_text": "",
+   "stem": "6. 다음사례에서비행을바라보는갑, 을, 병의이론적관점에 대한설명으로가장적절한것은?ġ3점Ģ",
+   "passage": "(고민 부모) 저는 우리 애에 대한 기대감으로 어려서부터 지원을 아끼지 않았습\n   니다. 물론 기대한 만큼 공부를 잘하지는 못했지만 착한 아이였어요. 그런데 요\n  즘 우리 애가 친구들과 어울려 다니면서 비행을 일삼고 있는데 무엇이 문제인가요?\n\n     (갑) 나쁜 친구를 사귀면서 부정적인 영향을 받는 것이 문제입니다.\n     (을) 나쁜 친구와 한두 번 어울린다고 해서 문제아가 되는 것은 아닙니다.\n      오히려 자녀를 문제아로 보니까 자녀의 행동이 비행으로 보이는 것입니다.\n     (병) 사회나 부모의 기대가 너무 높은데 정상적인 방법으로는 그것을\n      충족시키지 못하니까 자녀가 밖으로 나돌면서 비행을 일삼는 것입니다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑은비행이서로다른가치의갈등에서비롯된다고본다."
+    },
+    {
+     "number": 2,
+     "text": "을은사회변화에따른전통적인규범의해체가비행의원인 이라고본다."
+    },
+    {
+     "number": 3,
+     "text": "병은비행자체보다는그에대한사회적평가를문제삼고있다."
+    },
+    {
+     "number": 4,
+     "text": "갑과을은비행친구와의접촉을통한학습이비행의원인이 라고본다."
+    },
+    {
+     "number": 5,
+     "text": "갑과병은비행을규정하는사회적규범이존재하는것으로본다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 6,
+    "curves": 8,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q06.png",
+   "question_image_sha256": "982d1d06ef905533f5032cb314466e37dd2ab1b1cdc4a59067a93780d28aad69",
+   "image_size_px": [
+    1045,
+    833
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q07",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 7,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      743.31,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 744.7,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "7. 다음글에나타난사회∙문화현상을바라보는관점에대한설\n 명으로옳지않은것은?\n\n\n   미개사회든산업사회든간에모든사회에는공통적으로발\n  견되는사회제도가있으며, 이들제도는사회의존속과유지\n  그리고통합을위해반드시필요하다. 예를들어경제제도는\n  사회에필요한자원을획득하고배분하는역할을수행하며정\n  치제도는자원의효과적인동원을통해공동의목표를달성하\n  는역할을수행하고있다.\n\n\n ①사회분화는사회유지를위해필요한현상으로본다.\n ②개인이나집단간의경쟁을통한효율적인자원배분에주목한다.\n ③사회구성원이완전히교체되더라도사회는계속해서존속하는\n   것으로본다.\n ④사회의각부분은전체를위해각각의역할을수행하고있는\n  것으로바라본다.\n ⑤사회제도가수행하는각각의기능을강조하기때문에사회\n  변혁을설명하는데적합하다",
+   "shared_passage_text": "",
+   "stem": "7. 다음글에나타난사회∙문화현상을바라보는관점에대한설 명으로옳지않은것은?",
+   "passage": "미개사회든산업사회든간에모든사회에는공통적으로발\n  견되는사회제도가있으며, 이들제도는사회의존속과유지\n  그리고통합을위해반드시필요하다. 예를들어경제제도는\n  사회에필요한자원을획득하고배분하는역할을수행하며정\n  치제도는자원의효과적인동원을통해공동의목표를달성하\n  는역할을수행하고있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "사회분화는사회유지를위해필요한현상으로본다."
+    },
+    {
+     "number": 2,
+     "text": "개인이나집단간의경쟁을통한효율적인자원배분에주목한다."
+    },
+    {
+     "number": 3,
+     "text": "사회구성원이완전히교체되더라도사회는계속해서존속하는 것으로본다."
+    },
+    {
+     "number": 4,
+     "text": "사회의각부분은전체를위해각각의역할을수행하고있는 것으로바라본다."
+    },
+    {
+     "number": 5,
+     "text": "사회제도가수행하는각각의기능을강조하기때문에사회 변혁을설명하는데적합하다"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q07.png",
+   "question_image_sha256": "724255340c4af2254fc927d746ae5cddeef3489b0e038dcf9c789ecc74276b10",
+   "image_size_px": [
+    1045,
+    866
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q08",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 8,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      124.93,
+      738.56,
+      452.25
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "8. 다음글에나타난개인과사회를바라보는관점에부합하는\n 진술만을<보기>에서있는대로고른것은?ġ3점Ģ\n\n\n  ○자본주의경제체제에서노동자는필연적으로자본가로부\n   터착취당할수밖에없으며이것은자본가나노동자개인\n   의인식이나의지와는무관하다.\n  ○자살은지극히개인적인현상으로보이지만한사회의전체적\n   자살률은사회구조적요인에의해설명가능하다.\n\n\n                       <`보기`>\n\n   ㄱ. 개인은가족과학교에의해사회적인간으로성장한다.\n   ㄴ. 개인은각자자신의주관적관점에따라다양한사회상\n   을만들어낼수있다.\n   ㄷ. 개인의행위를올바르게이해하기위해서는사회구조를\n    파악하는것이중요하다.\n   ㄹ. 사회적규범은개인들이그것을옳다고생각하여믿고\n    받아들이기때문에존재한다.\n\n\n ①ㄱ, ㄷ      ②ㄴ, ㄹ      ③ㄷ, ㄹ\n ④ㄱ, ㄴ, ㄷ    ⑤ㄱ, ㄴ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "8. 다음글에나타난개인과사회를바라보는관점에부합하는 진술만을<보기>에서있는대로고른것은?ġ3점Ģ",
+   "passage": "○자본주의경제체제에서노동자는필연적으로자본가로부\n   터착취당할수밖에없으며이것은자본가나노동자개인\n   의인식이나의지와는무관하다.\n  ○자살은지극히개인적인현상으로보이지만한사회의전체적\n   자살률은사회구조적요인에의해설명가능하다.\n\n\n                       <`보기`>\n\n   ㄱ. 개인은가족과학교에의해사회적인간으로성장한다.\n   ㄴ. 개인은각자자신의주관적관점에따라다양한사회상\n   을만들어낼수있다.\n   ㄷ. 개인의행위를올바르게이해하기위해서는사회구조를\n    파악하는것이중요하다.\n   ㄹ. 사회적규범은개인들이그것을옳다고생각하여믿고\n    받아들이기때문에존재한다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 2,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 3,
+     "text": "ㄷ, ㄹ"
+    },
+    {
+     "number": 4,
+     "text": "ㄱ, ㄴ, ㄷ"
+    },
+    {
+     "number": 5,
+     "text": "ㄱ, ㄴ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q08.png",
+   "question_image_sha256": "7936e5cbbd6fd58dad14772e55d0c0d5e4362f7de0847004698c1dd3da9a585d",
+   "image_size_px": [
+    1066,
+    993
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q09",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 9,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      467.08,
+      738.56,
+      722.87
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 468.52,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "9. 다음글의밑줄친㉠~㉣에대한설명으로옳은것은?ġ3점Ģ\n\n\n    존경하고 사랑하는 사원 가족 여러분!\n\n    지난 세월을 회고해 보면 회사는 많은 변화와 발전을 하였습니다. 10년 전 ㉠대학\n\n   동아리에서 만난 친구 5명이 의기투합하여 젊음과 패기만으로 시작한 일이 지금은\n\n     500여 명의 큰 가족을 이루게 되었습니다. 지금까지는 ㉡직급과 직책에 대한 명확한\n\n   규정 없이 과업 중심의 조직 형태로 운영하였지만, 이제는 ㉢역할이 분명하고 업무\n\n   를 표준화된 방식으로 수행할 수 있는 조직 체계를 과감히 도입하여 보다 효율적으\n\n   로 회사를 운영하겠습니다. 자칫 이런 조직 구조로 인해 소외받는 가족이 생겨서는\n\n    안됩니다. 즐겁게 생활하기 위해 ㉣취미 활동을 할 수 있는 모임을 만드신다면 적극\n\n   지원할 것을 약속 드립니다.\n                                                               2009. 09. 03 대표이사 ӥ ӥ ӥ\n\n\n ①㉠에서는목표지향적이고비인격적인관계가지배적이다.\n ②㉡에서는조직의목표보다수단적인절차가중시된다.\n ③㉢에서는의사전달체계가상향식이며조직이분권화된다.\n ④㉡과㉢은결합자체를목적으로하는자발적결사체이다.\n ⑤㉣은비공식조직이며㉢에비해정서적결속력이강하다.",
+   "shared_passage_text": "",
+   "stem": "9. 다음글의밑줄친㉠~㉣에대한설명으로옳은것은?ġ3점Ģ",
+   "passage": "존경하고 사랑하는 사원 가족 여러분!\n\n    지난 세월을 회고해 보면 회사는 많은 변화와 발전을 하였습니다. 10년 전 ㉠대학\n\n   동아리에서 만난 친구 5명이 의기투합하여 젊음과 패기만으로 시작한 일이 지금은\n\n     500여 명의 큰 가족을 이루게 되었습니다. 지금까지는 ㉡직급과 직책에 대한 명확한\n\n   규정 없이 과업 중심의 조직 형태로 운영하였지만, 이제는 ㉢역할이 분명하고 업무\n\n   를 표준화된 방식으로 수행할 수 있는 조직 체계를 과감히 도입하여 보다 효율적으\n\n   로 회사를 운영하겠습니다. 자칫 이런 조직 구조로 인해 소외받는 가족이 생겨서는\n\n    안됩니다. 즐겁게 생활하기 위해 ㉣취미 활동을 할 수 있는 모임을 만드신다면 적극\n\n   지원할 것을 약속 드립니다.\n                                                               2009. 09. 03 대표이사 ӥ ӥ ӥ",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠에서는목표지향적이고비인격적인관계가지배적이다."
+    },
+    {
+     "number": 2,
+     "text": "㉡에서는조직의목표보다수단적인절차가중시된다."
+    },
+    {
+     "number": 3,
+     "text": "㉢에서는의사전달체계가상향식이며조직이분권화된다."
+    },
+    {
+     "number": 4,
+     "text": "㉡과㉢은결합자체를목적으로하는자발적결사체이다."
+    },
+    {
+     "number": 5,
+     "text": "㉣은비공식조직이며㉢에비해정서적결속력이강하다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 9,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q09.png",
+   "question_image_sha256": "b6f8d7b26a5c093438862333084bc1dfe870a70ac71c5d7b20fa3b5a3ae03770",
+   "image_size_px": [
+    1066,
+    776
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q10",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 10,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      738.04,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 739.35,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "10. 다음사례에대한옳은설명을<보기>에서고른것은?\n\n\n   바이칼호수부근의퉁구스족은순록을방목하면서유목생\n  활을하였다. 이들은부족한곡물을구하기위해이웃의농경\n  부족들과교역을하였으며이과정에서철기제작방법을배웠\n   다. 이후이들은철제사냥도구를개발하여야생순록과물고\n  기를효율적으로사냥할수있게되었다. 그결과이전의유목\n  생활양식과는다른새로운형태의생활양식이형성되었다.\n\n\n                       <`보기`>\n\n   ㄱ. 새로운생활양식이형성된것은문화융합에해당한다.\n   ㄴ. 교역을통하여곡물을들여온것은간접전파에해당한다.\n   ㄷ. 철제사냥도구를만들어사용한것은자극전파에해당\n     한다.\n   ㄹ. 철기제작방법을배운것은강제적문화접변에해당\n    한다.\n\n\n ①ㄱㄴ ②ㄱㄷ ③ㄴㄷ ④ㄴㄹ ⑤ㄷㄹ",
+   "shared_passage_text": "",
+   "stem": "10. 다음사례에대한옳은설명을<보기>에서고른것은?",
+   "passage": "바이칼호수부근의퉁구스족은순록을방목하면서유목생\n  활을하였다. 이들은부족한곡물을구하기위해이웃의농경\n  부족들과교역을하였으며이과정에서철기제작방법을배웠\n   다. 이후이들은철제사냥도구를개발하여야생순록과물고\n  기를효율적으로사냥할수있게되었다. 그결과이전의유목\n  생활양식과는다른새로운형태의생활양식이형성되었다.\n\n\n                       <`보기`>\n\n   ㄱ. 새로운생활양식이형성된것은문화융합에해당한다.\n   ㄴ. 교역을통하여곡물을들여온것은간접전파에해당한다.\n   ㄷ. 철제사냥도구를만들어사용한것은자극전파에해당\n     한다.\n   ㄹ. 철기제작방법을배운것은강제적문화접변에해당\n    한다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q10.png",
+   "question_image_sha256": "575907c4c1ddb14b390778c838c1fcf39b8440ce3d63d2cf311613c9d1dcf6b7",
+   "image_size_px": [
+    1066,
+    882
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q11",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 11,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      124.6,
+      383.01,
+      386.98
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "11. 다음자료에나타난복지정책에대한설명으로옳은것은?ġ3점Ģ\n\n\n             ӭӭӭ사업 안내\n\n    ○사업 목적: 빈곤 가구에 대해 생계비를 한시적으로 지원하여 위기\n          상황을 극복하고 가족 해체를 방지하고자 함.\n\n    ○사업 대상: 경기 악화로 생계에 위협을 받는 가구 중 구성원 모두가\n          근로 무능력자인 가구\n\n    ○근로 무능력자의 범위\n        -18세 미만 아동∙청소년, 65세 이상 노인\n      -장애인복지법에 따른 장애 4급 이내인 자\n      -질병∙부상 또는 그 후유증으로 3개월 이상 치료가 필요한 자\n\n    ○선정 기준: 소득이 국민기초생활보장법에 의한 최저 생계비 이하인 가구\n\n    ○신청 기관: 거주지 주민센터\n\n ①복지와노동을연계한자활노동능력을강조한다.\n ②사회적연대를추구하는상호부조의성격이강하다.\n ③적용대상의기준이명확한사회보험의성격을가진다.\n ④사회안전망을확보하는정책으로비용은정부가전액부담한다.\n ⑤경기악화에의한실직으로상실된소득을보전하는정책이다.",
+   "shared_passage_text": "",
+   "stem": "11. 다음자료에나타난복지정책에대한설명으로옳은것은?ġ3점Ģ",
+   "passage": "ӭӭӭ사업 안내\n\n    ○사업 목적: 빈곤 가구에 대해 생계비를 한시적으로 지원하여 위기\n          상황을 극복하고 가족 해체를 방지하고자 함.\n\n    ○사업 대상: 경기 악화로 생계에 위협을 받는 가구 중 구성원 모두가\n          근로 무능력자인 가구\n\n    ○근로 무능력자의 범위\n        -18세 미만 아동∙청소년, 65세 이상 노인\n      -장애인복지법에 따른 장애 4급 이내인 자\n      -질병∙부상 또는 그 후유증으로 3개월 이상 치료가 필요한 자\n\n    ○선정 기준: 소득이 국민기초생활보장법에 의한 최저 생계비 이하인 가구\n\n    ○신청 기관: 거주지 주민센터",
+   "choices": [
+    {
+     "number": 1,
+     "text": "복지와노동을연계한자활노동능력을강조한다."
+    },
+    {
+     "number": 2,
+     "text": "사회적연대를추구하는상호부조의성격이강하다."
+    },
+    {
+     "number": 3,
+     "text": "적용대상의기준이명확한사회보험의성격을가진다."
+    },
+    {
+     "number": 4,
+     "text": "사회안전망을확보하는정책으로비용은정부가전액부담한다."
+    },
+    {
+     "number": 5,
+     "text": "경기악화에의한실직으로상실된소득을보전하는정책이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 12,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q11.png",
+   "question_image_sha256": "965d693935caf62aef2baae90cfd4695c0ff54914fe19dc5c58d38d71906deb0",
+   "image_size_px": [
+    1045,
+    796
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q12",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 12,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      431.81,
+      383.01,
+      694.86
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 432.97,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "12. 다음은A시의낙후원인에대해각기다른관점을가지고있는\n  갑, 을, 병의주장이다. 이에대한설명으로가장적절한것은?\n\n\n   갑: A시의 주력 산업이 국가에서 추진하는 경제 발전 계획에 제대로 부\n    합하지 못하여 A시가 국가 발전에 효과적으로 기여하지 못하고 있\n    기 때문이다.\n   을: A시의 지원 요구에도 불구하고 국가 지원에서 부당하게 배제되어\n    경제 발전을 위한 재원이 부족하였기 때문이다.\n   병: A시가 낙후되었다고 인식하는 것은 우리가 A시를 낙후된 지역이라\n    고 규정하고 있기 때문이다. 정작 A시 주민들은 낙후되지 않았다고\n    생각할 수 있다.\n\n\n ①갑은A시의문제를자원배분에따른집단간갈등의결과로\n   본다.\n ②갑은A시가주력산업을변경함으로써A시의문제를해결할\n  수있다고본다.\n ③을은A시의낙후성을평가하는절대적기준이없다고본다.\n ④병은A시의문제를A시주민들의개인적특성에서찾는다.\n ⑤을과병모두A시의문제를구조적인차원에서바라본다.",
+   "shared_passage_text": "",
+   "stem": "12. 다음은A시의낙후원인에대해각기다른관점을가지고있는 갑, 을, 병의주장이다. 이에대한설명으로가장적절한것은?",
+   "passage": "갑: A시의 주력 산업이 국가에서 추진하는 경제 발전 계획에 제대로 부\n    합하지 못하여 A시가 국가 발전에 효과적으로 기여하지 못하고 있\n    기 때문이다.\n   을: A시의 지원 요구에도 불구하고 국가 지원에서 부당하게 배제되어\n    경제 발전을 위한 재원이 부족하였기 때문이다.\n   병: A시가 낙후되었다고 인식하는 것은 우리가 A시를 낙후된 지역이라\n    고 규정하고 있기 때문이다. 정작 A시 주민들은 낙후되지 않았다고\n    생각할 수 있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑은A시의문제를자원배분에따른집단간갈등의결과로 본다."
+    },
+    {
+     "number": 2,
+     "text": "갑은A시가주력산업을변경함으로써A시의문제를해결할 수있다고본다."
+    },
+    {
+     "number": 3,
+     "text": "을은A시의낙후성을평가하는절대적기준이없다고본다."
+    },
+    {
+     "number": 4,
+     "text": "병은A시의문제를A시주민들의개인적특성에서찾는다."
+    },
+    {
+     "number": 5,
+     "text": "을과병모두A시의문제를구조적인차원에서바라본다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 8,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q12.png",
+   "question_image_sha256": "63428139a59c6ad1a21079281de3bbbd59db3976f911c075f28f5bcc23fae063",
+   "image_size_px": [
+    1045,
+    798
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q13",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 13,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      737.05,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 738.6,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "13. 표에대한분석으로옳은것은?ġ3점Ģ\n\n                 <한부모 가구 현황>\n\n          연도     1985     1990     1995     2000     2005   구분\n          사별      443      498      526      502       501\n    한부모          이혼       50       79      124      246       399\n    가구 수\n    (천 가구)  미혼      101       85       94      123       142\n          합계      594      662      744      871      1,042\n   한부모 가구 비율(%)      6.2        5.8        5.7        6.1        6.7\n\n   ӄ한부모 가구 비율: 한부모 가구가 전체 가구에서 차지하는 비율\n\n ①한부모가구수의증가로한부모가구비율이계속늘어났다.\n ②한부모가구중사별로인한한부모가구의비율은50% 이상\n  을유지하고있다.\n ③2000년부터는이혼과미혼으로인한한부모가구의수가사\n  별로인한한부모가구의수보다많아졌다.\n ④1985년대비2005년에전체가구수의증가율보다한부모가\n  구수의증가율이더크다.\n ⑤1985년대비2005년에는이혼으로인한한부모가구수보다\n  사별로인한한부모가구수가더크게증가하였다",
+   "shared_passage_text": "",
+   "stem": "13. 표에대한분석으로옳은것은?ġ3점Ģ",
+   "passage": "<한부모 가구 현황>\n\n          연도     1985     1990     1995     2000     2005   구분\n          사별      443      498      526      502       501\n    한부모          이혼       50       79      124      246       399\n    가구 수\n    (천 가구)  미혼      101       85       94      123       142\n          합계      594      662      744      871      1,042\n   한부모 가구 비율(%)      6.2        5.8        5.7        6.1        6.7\n\n   ӄ한부모 가구 비율: 한부모 가구가 전체 가구에서 차지하는 비율",
+   "choices": [
+    {
+     "number": 1,
+     "text": "한부모가구수의증가로한부모가구비율이계속늘어났다."
+    },
+    {
+     "number": 2,
+     "text": "한부모가구중사별로인한한부모가구의비율은50% 이상 을유지하고있다."
+    },
+    {
+     "number": 3,
+     "text": "2000년부터는이혼과미혼으로인한한부모가구의수가사 별로인한한부모가구의수보다많아졌다."
+    },
+    {
+     "number": 4,
+     "text": "1985년대비2005년에전체가구수의증가율보다한부모가 구수의증가율이더크다."
+    },
+    {
+     "number": 5,
+     "text": "1985년대비2005년에는이혼으로인한한부모가구수보다 사별로인한한부모가구수가더크게증가하였다"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 1,
+    "curves": 0,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q13.png",
+   "question_image_sha256": "42102b4b041606b7bdc686ae3f8d74e26ab2d132e9021c43e786c965d2092f99",
+   "image_size_px": [
+    1045,
+    885
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q14",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 14,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      124.93,
+      738.56,
+      410.72
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "14. 다음은40대성인을대상으로노인부양에대한태도를조사\n 한결과이다. 이에대한설명으로가장적절한것은?\n\n\n    ӥ 현재 나이 든 부모를 누가 부양해야 하는가에 대해서는‘자녀가 부양해야\n      한다.’는 응답이 58%로 가장 많았다.‘스스로 책임져야 한다.’는 응답은\n     30%,‘정부와 사회가 부양해야 한다.’는 응답은 12%였다.\n\n    ӥ 자신이 노인이 되었을 때 누가 부양해야 하는가에 대해서는‘스스로 책임\n    져야 한다.’는 응답이 77%로 가장 많았다.‘정부와 사회가 부양해야 한다.’는\n    응답은 12%,‘자녀가 부양해야 한다.’는 응답은 11%였다.\n\n    ӥ 위 조사 결과는 현재 나이 든 부모들이 젊어서는 부모를 부양하고 늙어서는\n    자녀로부터 부양받는 것을 자연스럽게 생각하고 살아온 것과 차이가 있다.\n\n\n ①노후준비를둘러싼세대간의가치관갈등이드러나있다.\n ②부모로서의역할과자녀로서의역할사이에역할갈등이있다.\n ③응답자의반응으로보아가족의노인부양기능이약화될것으로\n   예측된다.\n ④부모세대와비교하여응답자세대에는부모의역할행동이\n   변화하였다.\n ⑤노인부양에대한태도변화는가족제도의변화양상을따라\n  가지못하고있다.",
+   "shared_passage_text": "",
+   "stem": "14. 다음은40대성인을대상으로노인부양에대한태도를조사 한결과이다. 이에대한설명으로가장적절한것은?",
+   "passage": "ӥ 현재 나이 든 부모를 누가 부양해야 하는가에 대해서는‘자녀가 부양해야\n      한다.’는 응답이 58%로 가장 많았다.‘스스로 책임져야 한다.’는 응답은\n     30%,‘정부와 사회가 부양해야 한다.’는 응답은 12%였다.\n\n    ӥ 자신이 노인이 되었을 때 누가 부양해야 하는가에 대해서는‘스스로 책임\n    져야 한다.’는 응답이 77%로 가장 많았다.‘정부와 사회가 부양해야 한다.’는\n    응답은 12%,‘자녀가 부양해야 한다.’는 응답은 11%였다.\n\n    ӥ 위 조사 결과는 현재 나이 든 부모들이 젊어서는 부모를 부양하고 늙어서는\n    자녀로부터 부양받는 것을 자연스럽게 생각하고 살아온 것과 차이가 있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "노후준비를둘러싼세대간의가치관갈등이드러나있다."
+    },
+    {
+     "number": 2,
+     "text": "부모로서의역할과자녀로서의역할사이에역할갈등이있다."
+    },
+    {
+     "number": 3,
+     "text": "응답자의반응으로보아가족의노인부양기능이약화될것으로 예측된다."
+    },
+    {
+     "number": 4,
+     "text": "부모세대와비교하여응답자세대에는부모의역할행동이 변화하였다."
+    },
+    {
+     "number": 5,
+     "text": "노인부양에대한태도변화는가족제도의변화양상을따라 가지못하고있다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 4,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q14.png",
+   "question_image_sha256": "1cf27d099493b8452fa41989227f3b3492ba2ac6e9a18e12346caa60ebf48ede",
+   "image_size_px": [
+    1066,
+    867
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q15",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 15,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      431.81,
+      738.56,
+      753.53
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 433.05,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "15. 다음신문기사에근거할때, IPTV의등장으로일어날사회\n 변화에대한추론으로가장적절한것은?\n\n\n                ӥ ӥ 신문\n\n    초고속 인터넷으로 텔레비전을 보는 IPTV가 본격적인 상용 서비스를 개시\n    하였다. IPTV는 케이블 방송과 비슷해 보이지만 인터넷의 특성인 양 방향성\n   을 가졌다는 점에서 기존의 대중 매체와 뚜렷이 구별된다.\n      IPTV는 교육 미디어로서의 기능도 할 수 있다. 한 번의 강의로 끝나지 않\n   고 원하는 시간과 장소에서 원하는 만큼 반복해서 볼 수 있으며 다양한 교육\n   프로그램 가운데 좋은 것들만 골라서 수강할 수도 있다. 소수의 사람만을 위\n   한 맞춤 채널, 특정 회원만 접근∙이용할 수 있는 비공개 독립 채널인 폐쇄\n   이용자 그룹(Closed User Group)도 활성화될 수 있다.\n\n\n ①지역별정보격차가해소되어사회적불평등이완화될것이다.\n ②시민의정치적참여가확대되면서감시와통제가약화될것이다.\n ③대중매체의상업성이확대되어정보생산의획일성이높아\n   질것이다.\n ④대중매체의영향력이확대되면서대중문화를수동적으로\n  수용하는경향이강화될것이다.\n ⑤대중매체에대한수요자의선택이중요해지면서그로인해\n  사회화가차별적으로이루어질것이다.",
+   "shared_passage_text": "",
+   "stem": "15. 다음신문기사에근거할때, IPTV의등장으로일어날사회 변화에대한추론으로가장적절한것은?",
+   "passage": "ӥ ӥ 신문\n\n    초고속 인터넷으로 텔레비전을 보는 IPTV가 본격적인 상용 서비스를 개시\n    하였다. IPTV는 케이블 방송과 비슷해 보이지만 인터넷의 특성인 양 방향성\n   을 가졌다는 점에서 기존의 대중 매체와 뚜렷이 구별된다.\n      IPTV는 교육 미디어로서의 기능도 할 수 있다. 한 번의 강의로 끝나지 않\n   고 원하는 시간과 장소에서 원하는 만큼 반복해서 볼 수 있으며 다양한 교육\n   프로그램 가운데 좋은 것들만 골라서 수강할 수도 있다. 소수의 사람만을 위\n   한 맞춤 채널, 특정 회원만 접근∙이용할 수 있는 비공개 독립 채널인 폐쇄\n   이용자 그룹(Closed User Group)도 활성화될 수 있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "지역별정보격차가해소되어사회적불평등이완화될것이다."
+    },
+    {
+     "number": 2,
+     "text": "시민의정치적참여가확대되면서감시와통제가약화될것이다."
+    },
+    {
+     "number": 3,
+     "text": "대중매체의상업성이확대되어정보생산의획일성이높아 질것이다."
+    },
+    {
+     "number": 4,
+     "text": "대중매체의영향력이확대되면서대중문화를수동적으로 수용하는경향이강화될것이다."
+    },
+    {
+     "number": 5,
+     "text": "대중매체에대한수요자의선택이중요해지면서그로인해 사회화가차별적으로이루어질것이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 2,
+    "curves": 22,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q15.png",
+   "question_image_sha256": "5fd5bcf36cef7c32813db559864b947c40ba30024fc4523d71b8ceffa006737e",
+   "image_size_px": [
+    1066,
+    976
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q16",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 16,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      775.29,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 776.66,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "16. 갑, 을이사용한연구방법의일반적인특징에대한설명으로\n 옳은것은?ġ3점Ģ\n\n\n   ӥ 갑은 개인의 정치적 성향이 사형 제도에 대한 찬반 의견에 영향을 미친다는\n   잠정적 진술을 가지고 전국의 성인 1,000명을 대상으로 조사를 실시하였다.\n   수집한 자료를 통계 분석하여 잠정적 진술을 지지하는 연구 결과를 얻었다.\n\n   ӥ 을은 교도소에 수감 중인 사형수를 면담하여 범죄자가 사형 제도를 어\n   떻게 받아들이고 있는지 연구하였다. 조사 결과 사형수들은 범행 당시\n   사형 제도에 대해 잘 인식하지 못하는 경우가 많았으나 사형 선고를 받\n   은 이후에는 두려움, 억울함, 무관심, 분노, 체념 등의 다양한 감정을 느\n   끼고 있음을 밝혀냈다.\n\n\n ①갑의연구는연역적절차보다귀납적절차를우선시한다.\n ②을의연구는사회현상에대한개인의주관적이해를강조한다.\n ③갑의연구는현상에대한기술을, 을의연구는설명을중시한다.\n ④을의연구는갑의연구에비해방법론적일원론에더충실하다.\n ⑤을의연구는갑의연구와달리사회현상을예측가능한것으\n   로본다.",
+   "shared_passage_text": "",
+   "stem": "16. 갑, 을이사용한연구방법의일반적인특징에대한설명으로 옳은것은?ġ3점Ģ",
+   "passage": "ӥ 갑은 개인의 정치적 성향이 사형 제도에 대한 찬반 의견에 영향을 미친다는\n   잠정적 진술을 가지고 전국의 성인 1,000명을 대상으로 조사를 실시하였다.\n   수집한 자료를 통계 분석하여 잠정적 진술을 지지하는 연구 결과를 얻었다.\n\n   ӥ 을은 교도소에 수감 중인 사형수를 면담하여 범죄자가 사형 제도를 어\n   떻게 받아들이고 있는지 연구하였다. 조사 결과 사형수들은 범행 당시\n   사형 제도에 대해 잘 인식하지 못하는 경우가 많았으나 사형 선고를 받\n   은 이후에는 두려움, 억울함, 무관심, 분노, 체념 등의 다양한 감정을 느\n   끼고 있음을 밝혀냈다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑의연구는연역적절차보다귀납적절차를우선시한다."
+    },
+    {
+     "number": 2,
+     "text": "을의연구는사회현상에대한개인의주관적이해를강조한다."
+    },
+    {
+     "number": 3,
+     "text": "갑의연구는현상에대한기술을, 을의연구는설명을중시한다."
+    },
+    {
+     "number": 4,
+     "text": "을의연구는갑의연구에비해방법론적일원론에더충실하다."
+    },
+    {
+     "number": 5,
+     "text": "을의연구는갑의연구와달리사회현상을예측가능한것으 로본다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 4,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q16.png",
+   "question_image_sha256": "d035da0fceb6283d66cb8efeefd55fc447aa9aadd769c47093ea15bc45169563",
+   "image_size_px": [
+    1066,
+    769
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q17",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 17,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      124.93,
+      383.01,
+      570.92
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "17. (가), (나)의자료수집방법이갖는일반적인특징에대한설\n 명으로가장적절한것은?\n\n\n   (가) 이방법을사용하는이유는다른방법에비해좀더다\n    양하고자세한자료를얻기위해서이다. 이방법은연\n    구의목적에어긋나지않는범위내에서연구자의유연\n    성을허용하며, 이것은연구자가보다좋은정보를얻\n    는데도움이된다. 이방법은구조화된질문내용이있\n    는경우도있고없는경우도있는데, 그렇다고해서주\n    제나연구의일관성이없는것은아니다.\n\n   (나) 이방법은개인을분석단위로하는연구에주로사용\n     된다. 집단의특성이나집단간상호작용을분석하는\n    경우에도개인이조사대상또는정보제공자가된다.\n    이방법은연구하고자하는대상의전체나일부를조사\n    하며이를통해모든조사대상자로부터같은형태의\n    자료를얻을수있다.\n\n\n ①(가)는(나)에비해다수의응답자를대상으로실시하는데\n   적합하다.\n ②(가)는(나)에비해응답의정확성이높아가설을검증하기에\n   용이하다.\n ③(가)는(나)에비해연구자와대상자사이의정서적유대가\n  중요하게작용한다.\n ④(나)는(가)에비해응답자의예상치못한반응에대처하기가\n   용이하다.\n ⑤(나)는(가)에비해시간과비용은적게들지만연구자의주\n  관이개입될우려가크다.",
+   "shared_passage_text": "",
+   "stem": "17. (가), (나)의자료수집방법이갖는일반적인특징에대한설 명으로가장적절한것은?",
+   "passage": "(가) 이방법을사용하는이유는다른방법에비해좀더다\n    양하고자세한자료를얻기위해서이다. 이방법은연\n    구의목적에어긋나지않는범위내에서연구자의유연\n    성을허용하며, 이것은연구자가보다좋은정보를얻\n    는데도움이된다. 이방법은구조화된질문내용이있\n    는경우도있고없는경우도있는데, 그렇다고해서주\n    제나연구의일관성이없는것은아니다.\n\n   (나) 이방법은개인을분석단위로하는연구에주로사용\n     된다. 집단의특성이나집단간상호작용을분석하는\n    경우에도개인이조사대상또는정보제공자가된다.\n    이방법은연구하고자하는대상의전체나일부를조사\n    하며이를통해모든조사대상자로부터같은형태의\n    자료를얻을수있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)는(나)에비해다수의응답자를대상으로실시하는데 적합하다."
+    },
+    {
+     "number": 2,
+     "text": "(가)는(나)에비해응답의정확성이높아가설을검증하기에 용이하다."
+    },
+    {
+     "number": 3,
+     "text": "(가)는(나)에비해연구자와대상자사이의정서적유대가 중요하게작용한다."
+    },
+    {
+     "number": 4,
+     "text": "(나)는(가)에비해응답자의예상치못한반응에대처하기가 용이하다."
+    },
+    {
+     "number": 5,
+     "text": "(나)는(가)에비해시간과비용은적게들지만연구자의주 관이개입될우려가크다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q17.png",
+   "question_image_sha256": "d8c5679ce39aeaea37ecf20e2c60a0801e49e6e42726f93239160fb6310f54c5",
+   "image_size_px": [
+    1045,
+    1353
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q18",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 18,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      635.85,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 637.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "18. 다음조사과정에대한옳은설명을<보기>에서고른것은?\n                              ġ3점Ģ\n\n\n\n    ӥ 연구 주제: 사회경제적 지위와 악성 댓글 쓰기 간의 관계\n\n    ӥ 연구 가설: 사회경제적 지위가 낮은 사람일수록 악성 댓글을\n           더 많이 쓸 것이다.\n\n    ӥ 조사 대상자 선정\n            - 모집단: 전국의 20세 이상 성인 남녀\n            - 표본 선정: 20대, 30대, 40대, 50대를 각각 100명씩 무작위로 선정\n\n    ӥ 자료 수집\n            - 조사 방법: 설문지를 이용하여 조사 실시\n            - 설문 내용: 사회경제적 지위, 악성 댓글을 쓴 경험\n\n    ӥ 분석 결과: 통계 분석한 결과 사회경제적 지위가 높은 사람일수록\n           악성 댓글을 쓴 경험이 더 많은 것으로 나타남.\n\n\n\n                       <`보기`>\n\n   ㄱ. 분석결과를보면연구가설은채택될수없다.\n   ㄴ. 연구가설을검증하기위해사회경제적지위를조작적으\n    로정의해야한다.\n   ㄷ. 연구가설에서독립변수에해당하는것은‘사회경제적\n    지위가낮은사람’이다.\n   ㄹ. 조사대상자를무작위로선정하였으므로선정된표본은\n    대표성에문제가없다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "18. 다음조사과정에대한옳은설명을<보기>에서고른것은? ġ3점Ģ",
+   "passage": "ӥ 연구 주제: 사회경제적 지위와 악성 댓글 쓰기 간의 관계\n\n    ӥ 연구 가설: 사회경제적 지위가 낮은 사람일수록 악성 댓글을\n           더 많이 쓸 것이다.\n\n    ӥ 조사 대상자 선정\n            - 모집단: 전국의 20세 이상 성인 남녀\n            - 표본 선정: 20대, 30대, 40대, 50대를 각각 100명씩 무작위로 선정\n\n    ӥ 자료 수집\n            - 조사 방법: 설문지를 이용하여 조사 실시\n            - 설문 내용: 사회경제적 지위, 악성 댓글을 쓴 경험\n\n    ӥ 분석 결과: 통계 분석한 결과 사회경제적 지위가 높은 사람일수록\n           악성 댓글을 쓴 경험이 더 많은 것으로 나타남.\n\n\n\n                       <`보기`>\n\n   ㄱ. 분석결과를보면연구가설은채택될수없다.\n   ㄴ. 연구가설을검증하기위해사회경제적지위를조작적으\n    로정의해야한다.\n   ㄷ. 연구가설에서독립변수에해당하는것은‘사회경제적\n    지위가낮은사람’이다.\n   ㄹ. 조사대상자를무작위로선정하였으므로선정된표본은\n    대표성에문제가없다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 4,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q18.png",
+   "question_image_sha256": "8572499a7d55b16bc20454dfb72e1c301367f33148206f5600f66119c7b2f396",
+   "image_size_px": [
+    1045,
+    1192
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q19",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 19,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      124.93,
+      738.56,
+      525.76
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "19. 다음사례에나타난농촌마을에대한적절한추론을<보기>에\n 서고른것은?\n\n\n      마을 마을안내\n\n\n                       http://invil.org/village/info/intro/contents.jsp\n                                   www.invil.org     마을                로그인 회원가입\n\n      마을안내   농촌생태체험   사이버농장   직거래장터   민박안내   게시판\n\n\n\n      마을안내\n                                       마/을/소/개\n\n     마을 소개    우리 마을은 옛 모습이 잘 보존된 전형적인 농촌 마을입\n     마을 볼거리     니다. 우리 마을은 여러분의 관심으로 지난 몇 년 사이 괄\n           목할 만한 발전을 거듭하고 있습니다.\n     마을 잠자리\n            마을에서 생산한 친환경 농산물에 대한 여러분의 폭발적\n     마을 오시는 길  인 주문에 부응하여 금년에도 품질 좋은 친환경 농산물\n     우리 마을 자랑  생산에 박차를 가하겠습니다.\n\n           민박 시설을 한 단계 업그레이드하여 농촌 생태 체험에\n            참가하는 여러분께 불편이 없도록 하겠습니다.\n\n                       <`보기`>\n\n   ㄱ. 도시민의유입으로인구의고령화속도가빨라진다.\n   ㄴ. 농산물생산위주의농업에서벗어나농가소득원이다\n    양해진다.\n   ㄷ. 도시민과의교류가확대되고생태환경에대한관심도\n    증가한다.\n   ㄹ. 대면접촉의범위가축소되고타산적이해가주민관계\n    를지배하게된다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "19. 다음사례에나타난농촌마을에대한적절한추론을<보기>에 서고른것은?",
+   "passage": "마을 마을안내\n\n\n                       http://invil.org/village/info/intro/contents.jsp\n                                   www.invil.org     마을                로그인 회원가입\n\n      마을안내   농촌생태체험   사이버농장   직거래장터   민박안내   게시판\n\n\n\n      마을안내\n                                       마/을/소/개\n\n     마을 소개    우리 마을은 옛 모습이 잘 보존된 전형적인 농촌 마을입\n     마을 볼거리     니다. 우리 마을은 여러분의 관심으로 지난 몇 년 사이 괄\n           목할 만한 발전을 거듭하고 있습니다.\n     마을 잠자리\n            마을에서 생산한 친환경 농산물에 대한 여러분의 폭발적\n     마을 오시는 길  인 주문에 부응하여 금년에도 품질 좋은 친환경 농산물\n     우리 마을 자랑  생산에 박차를 가하겠습니다.\n\n           민박 시설을 한 단계 업그레이드하여 농촌 생태 체험에\n            참가하는 여러분께 불편이 없도록 하겠습니다.\n\n                       <`보기`>\n\n   ㄱ. 도시민의유입으로인구의고령화속도가빨라진다.\n   ㄴ. 농산물생산위주의농업에서벗어나농가소득원이다\n    양해진다.\n   ㄷ. 도시민과의교류가확대되고생태환경에대한관심도\n    증가한다.\n   ㄹ. 대면접촉의범위가축소되고타산적이해가주민관계\n    를지배하게된다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "ㅁㅁ마을 마을안내                                  뼈뻔영\n\n> 마/을/소/캐",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 1,
+    "diagonal_lines": 25,
+    "curves": 521,
+    "filled_shapes": 23
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q19.png",
+   "question_image_sha256": "d0d4717d9bf3325f5eaf89e4af9ff6eddd80f832ac07d6ce325732c09bd86eb8",
+   "image_size_px": [
+    1066,
+    1216
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2010_SEPTEMBER_Q20",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2010_SEPTEMBER",
+   "year": 2010,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 20,
+   "source_file": "2010학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "387eb1ded708282eb8411684ad9a9e3bc9c97ca19de1ab981fb90cd6357c5c0a",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      547.51,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 548.78,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "20. 그림은(가), (나) 사회의계층구성비와각계층별로그들의\n 출신계층을나타낸것이다. 이에대한옳은분석을<보기>에서\n 고른것은?ġ3점Ģ\n\n                                                        1\n\n                    99\n\n                                                   39\n                   15\n\n\n                         66\n                              2\n                                              1                   31                   88\n              1010         22                        24     부모가 상층          3                             8    13        부모가 중층\n         2                               4           부모가 하층\n                                              2\n      상  중  하      상  중  하\n          (가) 사회          (나) 사회\n\n       ӄ(가), (나) 사회의 인구는 동일하며 수치는 비율(%)을 나타냄.\n\n                       <`보기`>\n\n   ㄱ. (가) 사회에서계층지위가대물림된사람은하층이가\n    장많다.\n   ㄴ. (나) 사회는세대간상승이동이하강이동보다더많이\n    일어났다.\n   ㄷ. (가) 사회보다(나) 사회가세대간이동이더많이일어\n     났다.\n   ㄹ. 계층구조로보면(가) 사회보다(나) 사회가안정된사\n    회모습을나타낸다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ\n\n\n ӄ 확인사항\n\n ○답안지의해당란에필요한내용을정확히기입(표기)했는지확인\n   하시오.",
+   "shared_passage_text": "",
+   "stem": "20. 그림은(가), (나) 사회의계층구성비와각계층별로그들의 출신계층을나타낸것이다. 이에대한옳은분석을<보기>에서 고른것은?ġ3점Ģ",
+   "passage": "1\n\n                    99\n\n                                                   39\n                   15\n\n\n                         66\n                              2\n                                              1                   31                   88\n              1010         22                        24     부모가 상층          3                             8    13        부모가 중층\n         2                               4           부모가 하층\n                                              2\n      상  중  하      상  중  하\n          (가) 사회          (나) 사회\n\n       ӄ(가), (나) 사회의 인구는 동일하며 수치는 비율(%)을 나타냄.\n\n                       <`보기`>\n\n   ㄱ. (가) 사회에서계층지위가대물림된사람은하층이가\n    장많다.\n   ㄴ. (나) 사회는세대간상승이동이하강이동보다더많이\n    일어났다.\n   ㄷ. (가) 사회보다(나) 사회가세대간이동이더많이일어\n     났다.\n   ㄹ. 계층구조로보면(가) 사회보다(나) 사회가안정된사\n    회모습을나타낸다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ ӄ 확인사항 ○답안지의해당란에필요한내용을정확히기입(표기)했는지확인 하시오."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 2,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 14
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2010_SEPTEMBER_Q20.png",
+   "question_image_sha256": "22dd5012504c4b95247e73e0bfe7f9faa4f5a471f9c7dbd3b2a28946b1616243",
+   "image_size_px": [
+    1066,
+    1460
+   ],
+   "review_required": false,
+   "review_reasons": []
+  }
+ ]
+}

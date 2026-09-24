@@ -1,0 +1,1738 @@
+{
+ "exam_id": "SOCIOCULTURE_2022_JUNE",
+ "subject": "SOCIOCULTURE",
+ "year": 2022,
+ "exam_type": "JUNE",
+ "exam_period": "6월 모의평가",
+ "source_file": "2022학년도_06월_사회문화_문제.pdf",
+ "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+ "pipeline_version": "p1-v1",
+ "page_count": 4,
+ "start_page": 1,
+ "end_page": 4,
+ "skipped_pages": [],
+ "anchor_method": "pdf_text",
+ "inferred_numbers": [],
+ "shared_passage_groups": [],
+ "missing_numbers": [],
+ "header_metadata": {
+  "year": 2022,
+  "exam_type": "JUNE",
+  "subject_in_header": true,
+  "source": "ocr",
+  "raw": "2022화년도 une 6월 모의평가 문제지        1\n\n    사회탐구 영       역(사회ㆍ    문화)\n\n성명     ass) :  ： . |-| ： ㅣ: | AO\n\nTH ue"
+ },
+ "metadata_verified": true,
+ "layout": [
+  {
+   "page": 0,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 245.8683197947841,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.826
+  },
+  {
+   "page": 1,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.823
+  },
+  {
+   "page": 2,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.82
+  },
+  {
+   "page": 3,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.791
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q01",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 1,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      256.31,
+      418.46,
+      585.69
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 257.88,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "1. 밑줄 친 ㉠～㉣과 같은 현상의 일반적인 특징에 대한 설명으로\n 옳은 것은?\n\n\n   이산화탄소의 과도한 발생으로 ㉠지구의 평균 기온이 상승\n  하면서 다양한 환경 문제가 나타났다. 이에 대응하여 일부 국가\n  에서는 ㉡환경 친화적 소비를 유도하고 이산화탄소의 발생량을\n  감소시키고자 탄소 발자국을 표시하기 시작하였다. 탄소 발자국\n  이란 제품의 생산, 소비, 폐기 등의 과정에서 발생하는 이산화\n  탄소의 총량을 말한다. 탄소 발자국은 이산화탄소의 배출량을\n  무게 단위(kg)로 표시하거나, ㉢식물의 광합성을 통해 감소될\n  수 있는 이산화탄소 배출량을 ㉣나무의 수로 환산하여 표시한다.\n\n\n ①㉠과같은현상은㉡과 같은 현상과 달리 경험적 자료를 통해\n   연구할 수 있다.\n ②㉡과같은현상은㉢과 같은 현상에 비해 보편성이 강하게 나타\n   난다.\n ③㉢과같은현상은㉣과 같은 현상에 비해 인과관계가 분명하다.\n ④㉣과같은현상은㉠과같은 현상과 달리 확실성의 원리가 적용\n   된다.\n ⑤㉠, ㉢과 같은 현상은 ㉡, ㉣과 같은 현상과 달리 가치 함축적이다.",
+   "shared_passage_text": "",
+   "stem": "1. 밑줄 친 ㉠～㉣과 같은 현상의 일반적인 특징에 대한 설명으로 옳은 것은?",
+   "passage": "이산화탄소의 과도한 발생으로 ㉠지구의 평균 기온이 상승\n  하면서 다양한 환경 문제가 나타났다. 이에 대응하여 일부 국가\n  에서는 ㉡환경 친화적 소비를 유도하고 이산화탄소의 발생량을\n  감소시키고자 탄소 발자국을 표시하기 시작하였다. 탄소 발자국\n  이란 제품의 생산, 소비, 폐기 등의 과정에서 발생하는 이산화\n  탄소의 총량을 말한다. 탄소 발자국은 이산화탄소의 배출량을\n  무게 단위(kg)로 표시하거나, ㉢식물의 광합성을 통해 감소될\n  수 있는 이산화탄소 배출량을 ㉣나무의 수로 환산하여 표시한다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠과같은현상은㉡과 같은 현상과 달리 경험적 자료를 통해 연구할 수 있다."
+    },
+    {
+     "number": 2,
+     "text": "㉡과같은현상은㉢과 같은 현상에 비해 보편성이 강하게 나타 난다."
+    },
+    {
+     "number": 3,
+     "text": "㉢과같은현상은㉣과 같은 현상에 비해 인과관계가 분명하다."
+    },
+    {
+     "number": 4,
+     "text": "㉣과같은현상은㉠과같은 현상과 달리 확실성의 원리가 적용 된다."
+    },
+    {
+     "number": 5,
+     "text": "㉠, ㉢과 같은 현상은 ㉡, ㉣과 같은 현상과 달리 가치 함축적이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q01.png",
+   "question_image_sha256": "769a052d6328b78521a530a4c8f7196693203a7dd1f8dc427b8a679020095fe0",
+   "image_size_px": [
+    957,
+    915
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q02",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 2,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      622.41,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 624.12,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "2. 다음 연구에 대한 설명으로 옳은 것은? [3점]\n\n\n   갑은 ‘재난 상황에서 인간의 행동에 미치는 주변인의 영향’\n  이라는 주제를 연구하기 위해 자료를 수집하였다. 갑은 대학\n  생활에 관한 ㉠설문 조사를 한다는 명목으로 조사에 참여할\n  ㉡대학생 100명을 모집하여 무작위로 A 집단에 60명, B 집단에\n    20명, C집단에 20명을 배정하였다. 갑은 A집단에게 설문 조사는\n  연구의 목적과 아무 관련이 없다는 점을 설명하고, 방에 연기가\n  들어오더라도 무해하니 설문지를 작성하는 척하면서 나오지\n  말라고 하였다. 반면 B 집단, C 집단에게는 연기에 대한 언급\n  없이 설문 조사에 성실하게 임해 달라고만 하였다. 이후 갑은\n  격리된 방 40개를 마련하여 20개 방 각각에는 A집단 학생 3명과\n   B 집단 학생 1명이, 또 다른 20개 방 각각에는 A 집단 학생 없이\n  C집단 학생 1명만 들어가서 설문지를 작성하게 하였다. 갑은 설문\n  조사 시작 1분 후 각 방에 연기를 들여보내고, 폐쇄회로 텔레비전\n   (CCTV)을 통해 ㉢B집단과 C집단 학생들의 행동을 관찰하였다.\n  연기가 들어오자 B 집단 중 5명은 ㉣A 집단 학생들의 행동을\n  의식하지 않고 곧바로 방을 나갔고 15명은 다른 학생들을 살피\n  면서 설문지를 계속 작성하였다. C 집단의 경우, 연기가 들어\n  오자 15명은 방에서 곧바로 나갔고 5명은 설문지를 계속 작성\n  하였다. 갑은 이러한 관찰 결과를 바탕으로 논문을 발표하였다.\n\n\n ①㉠은 사전 검사에 해당한다.\n ②㉡은 모집단, A 집단은 표본 집단이다.\n ③㉢은 독립 변인, ㉣은 종속 변인이다.\n ④B 집단은 실험 집단, C 집단은 통제 집단이다.\n ⑤갑은 의도한 결과를 얻기 위해 자료를 자의적으로 조작하였다.",
+   "shared_passage_text": "",
+   "stem": "2. 다음 연구에 대한 설명으로 옳은 것은? [3점]",
+   "passage": "갑은 ‘재난 상황에서 인간의 행동에 미치는 주변인의 영향’\n  이라는 주제를 연구하기 위해 자료를 수집하였다. 갑은 대학\n  생활에 관한 ㉠설문 조사를 한다는 명목으로 조사에 참여할\n  ㉡대학생 100명을 모집하여 무작위로 A 집단에 60명, B 집단에\n    20명, C집단에 20명을 배정하였다. 갑은 A집단에게 설문 조사는\n  연구의 목적과 아무 관련이 없다는 점을 설명하고, 방에 연기가\n  들어오더라도 무해하니 설문지를 작성하는 척하면서 나오지\n  말라고 하였다. 반면 B 집단, C 집단에게는 연기에 대한 언급\n  없이 설문 조사에 성실하게 임해 달라고만 하였다. 이후 갑은\n  격리된 방 40개를 마련하여 20개 방 각각에는 A집단 학생 3명과\n   B 집단 학생 1명이, 또 다른 20개 방 각각에는 A 집단 학생 없이\n  C집단 학생 1명만 들어가서 설문지를 작성하게 하였다. 갑은 설문\n  조사 시작 1분 후 각 방에 연기를 들여보내고, 폐쇄회로 텔레비전\n   (CCTV)을 통해 ㉢B집단과 C집단 학생들의 행동을 관찰하였다.\n  연기가 들어오자 B 집단 중 5명은 ㉣A 집단 학생들의 행동을\n  의식하지 않고 곧바로 방을 나갔고 15명은 다른 학생들을 살피\n  면서 설문지를 계속 작성하였다. C 집단의 경우, 연기가 들어\n  오자 15명은 방에서 곧바로 나갔고 5명은 설문지를 계속 작성\n  하였다. 갑은 이러한 관찰 결과를 바탕으로 논문을 발표하였다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠은 사전 검사에 해당한다."
+    },
+    {
+     "number": 2,
+     "text": "㉡은 모집단, A 집단은 표본 집단이다."
+    },
+    {
+     "number": 3,
+     "text": "㉢은 독립 변인, ㉣은 종속 변인이다."
+    },
+    {
+     "number": 4,
+     "text": "B 집단은 실험 집단, C 집단은 통제 집단이다."
+    },
+    {
+     "number": 5,
+     "text": "갑은 의도한 결과를 얻기 위해 자료를 자의적으로 조작하였다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q02.png",
+   "question_image_sha256": "d61d1ee6a8f5917e81c1493ed74a6d0a38b22e0c31867c93efceb38982814a4c",
+   "image_size_px": [
+    957,
+    1232
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q03",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 3,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      256.31,
+      774.1,
+      474.82
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 257.88,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "3. 다음 대화에 대한 설명으로 옳은 것은? (단, A～C는 각각 주류 문화,\n 하위문화, 반문화 중 하나이다.)\n\n\n   교사: 지난 시간에 배운 A, B, C에 대해 발표해 볼까요?\n   갑: 1960년대 미국의 히피 문화는 A이자 C의 사례에 해당합니다.\n   을: 모든 A는 C에 해당하지만 모든 C가 A에 해당하는 것은 아닙니다.\n\n   병:               (가)\n   교사: 갑, 을, 병 모두 옳게 발표하였습니다.\n\n\n ①타 지역에서도 즐기는 특정 지역의 음식은 A의 사례에 해당한다.\n ②A는B와달리한 사회 구성원 대부분이 공유하는 문화이다.\n ③B는C와달리전체 사회의 문화적 다양성 증진에 기여한다.\n ④B는A와C의총합으로 구성된다.\n ⑤(가)에는 ‘C는 사회 변화에 따라 B가 되기도 합니다.’가 들어갈 수 있다.",
+   "shared_passage_text": "",
+   "stem": "3. 다음 대화에 대한 설명으로 옳은 것은? (단, A～C는 각각 주류 문화, 하위문화, 반문화 중 하나이다.)",
+   "passage": "교사: 지난 시간에 배운 A, B, C에 대해 발표해 볼까요?\n   갑: 1960년대 미국의 히피 문화는 A이자 C의 사례에 해당합니다.\n   을: 모든 A는 C에 해당하지만 모든 C가 A에 해당하는 것은 아닙니다.\n\n   병:               (가)\n   교사: 갑, 을, 병 모두 옳게 발표하였습니다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "타 지역에서도 즐기는 특정 지역의 음식은 A의 사례에 해당한다."
+    },
+    {
+     "number": 2,
+     "text": "A는B와달리한 사회 구성원 대부분이 공유하는 문화이다."
+    },
+    {
+     "number": 3,
+     "text": "B는C와달리전체 사회의 문화적 다양성 증진에 기여한다."
+    },
+    {
+     "number": 4,
+     "text": "B는A와C의총합으로 구성된다."
+    },
+    {
+     "number": 5,
+     "text": "(가)에는 ‘C는 사회 변화에 따라 B가 되기도 합니다.’가 들어갈 수 있다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q03.png",
+   "question_image_sha256": "a7d64327036f86a5a5c961c6c22b80df531ba266278856fc0da25cedd8e46c84",
+   "image_size_px": [
+    977,
+    607
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q04",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 4,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      489.94,
+      774.1,
+      841.64
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 491.82,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "4. 그림은 일탈 이론 (가), (나)를 적용하여 청소년을 특성별로 분류한\n 것이다. 이에 대한 설명으로 옳은 것은? [3점]\n\n\n        (가)를 적용한 분류          (나)를 적용한 분류\n\n\n\n\n\n ①(가)에 따르면, B 집단보다 A 집단에 속한 청소년이 일탈 행동을\n  할 가능성이 높다.\n ②(나)에 따르면, C 집단보다 D 집단에 속한 청소년이 일탈 행동을\n  할 가능성이 높다.\n ③(가)는(나)와달리 일탈 행동의 대책으로 사회 규범의 통제력\n   강화를 중시한다.\n ④(나)는(가)와달리 일탈 행동을 규정하는 객관적인 기준이\n   없다고 본다.\n  ⑤(가), (나)는 모두 일탈 행동의 원인으로 타인과의 상호 작용을\n   중시한다.",
+   "shared_passage_text": "",
+   "stem": "4. 그림은 일탈 이론 (가), (나)를 적용하여 청소년을 특성별로 분류한 것이다. 이에 대한 설명으로 옳은 것은? [3점]",
+   "passage": "(가)를 적용한 분류          (나)를 적용한 분류",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)에 따르면, B 집단보다 A 집단에 속한 청소년이 일탈 행동을 할 가능성이 높다."
+    },
+    {
+     "number": 2,
+     "text": "(나)에 따르면, C 집단보다 D 집단에 속한 청소년이 일탈 행동을 할 가능성이 높다."
+    },
+    {
+     "number": 3,
+     "text": "(가)는(나)와달리 일탈 행동의 대책으로 사회 규범의 통제력 강화를 중시한다."
+    },
+    {
+     "number": 4,
+     "text": "(나)는(가)와달리 일탈 행동을 규정하는 객관적인 기준이 없다고 본다."
+    },
+    {
+     "number": 5,
+     "text": "(가), (나)는 모두 일탈 행동의 원인으로 타인과의 상호 작용을 중시한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "ag\n\n적음               많음\n\n일탈 집단과의\n\n교류\n\n낮음\n낮음\n\n낮을              높을\n문화적 목표 달성에\n\n대한 욕구",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q04.png",
+   "question_image_sha256": "f95fcdb1d6df7c37fdb62afce90d71bd86cf60db529d617bdc2c4667aa7937cf",
+   "image_size_px": [
+    977,
+    977
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q05",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 5,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      856.76,
+      774.1,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 858.54,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "5. 다음은 A, B의 일반적인 특징을 비교한 것이다. 이에 대한 설명으로\n 옳은 것은? (단, A와 B는 각각 산업 사회, 정보 사회 중 하나이다.)\n\n\n  ◦A는 B에 비해 의사 결정의 분권화 정도가 높다.\n\n  ◦A는 B에 비해            (가)         이/가 크다.\n\n  ◦B는 A에 비해            (나)         이/가 빠르다.\n\n\n ①A는 B에 비해 비대면 접촉의 비중이 낮다.\n ②B는 A에 비해 쌍방향 매체의 정보 전달 비중이 낮다.\n ③A는 소품종 대량 생산 체제, B는 다품종 소량 생산 체제가 지배적이다.\n ④(가)에는 ‘물리적 거리가 사회적 관계 형성에 미치는 제약’이\n   들어갈 수 있다.\n ⑤(나)에는 ‘정보의 확산 속도’가 들어갈 수 있다.",
+   "shared_passage_text": "",
+   "stem": "5. 다음은 A, B의 일반적인 특징을 비교한 것이다. 이에 대한 설명으로 옳은 것은? (단, A와 B는 각각 산업 사회, 정보 사회 중 하나이다.)",
+   "passage": "◦A는 B에 비해 의사 결정의 분권화 정도가 높다.\n\n  ◦A는 B에 비해            (가)         이/가 크다.\n\n  ◦B는 A에 비해            (나)         이/가 빠르다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는 B에 비해 비대면 접촉의 비중이 낮다."
+    },
+    {
+     "number": 2,
+     "text": "B는 A에 비해 쌍방향 매체의 정보 전달 비중이 낮다."
+    },
+    {
+     "number": 3,
+     "text": "A는 소품종 대량 생산 체제, B는 다품종 소량 생산 체제가 지배적이다."
+    },
+    {
+     "number": 4,
+     "text": "(가)에는 ‘물리적 거리가 사회적 관계 형성에 미치는 제약’이 들어갈 수 있다."
+    },
+    {
+     "number": 5,
+     "text": "(나)에는 ‘정보의 확산 속도’가 들어갈 수 있다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q05.png",
+   "question_image_sha256": "758248c15f584a3fe83c26893cba17c9f3287a20ad609613e140636c39f8e7df",
+   "image_size_px": [
+    977,
+    581
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q06",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 6,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      158.39,
+      418.46,
+      519.46
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 160.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "6. 다음 자료에 대한 분석으로 옳은 것은? [3점]\n\n\n   표는 갑국과 을국에서 발생한 문화 변동을 나타낸 것이다. 1차 문화 변동\n  시기에는 내재적 변동만, 2차 문화 변동 시기에는 갑국과 을국 간 문화 접변만\n   있었다. (가)～(라)는 각각 발견, 발명, 직접 전파, 자극 전파 중 하나이며,\n   (가)와 (다)는 각각 새로운 문화 요소를 창조하는 요인이다.\n\n             <갑국과 을국의 문화 변동>\n\n                   1차 문화 변동     2차 문화 변동\n       변동 전\n   구분        변동   추가된   변동   추가된\n       문화 요소\n             요인  문화 요소  요인  문화 요소\n\n   갑국       a       (가)        c       (다)        e\n\n   을국       b       (나)       d       (라)          a, c\n\n     * a～e는 서로 다른 문화 요소를 의미하며, 이외에 다른 문화 요소는 존재하지\n     않는다.\n    ** 제시된 문화 변동 이외에 다른 문화 변동은 없었으며, 문화 요소의 소멸도\n     없었다.\n\n\n ①(가)는 발견, (다)는 자극 전파이다.\n ②(나)는 (라)와 달리 을국의 문화 요소를 다양하게 하는 요인이다.\n ③2차 문화 변동 결과, 을국에서는 문화 병존이 나타났다.\n ④을국은 매개체를 통해 갑국의 문화 요소를 전달받았다.\n ⑤2차 문화 변동 결과, 갑국과 을국에 공통으로 존재하는 문화\n   요소는 3개이다.",
+   "shared_passage_text": "",
+   "stem": "6. 다음 자료에 대한 분석으로 옳은 것은? [3점]",
+   "passage": "표는 갑국과 을국에서 발생한 문화 변동을 나타낸 것이다. 1차 문화 변동\n  시기에는 내재적 변동만, 2차 문화 변동 시기에는 갑국과 을국 간 문화 접변만\n   있었다. (가)～(라)는 각각 발견, 발명, 직접 전파, 자극 전파 중 하나이며,\n   (가)와 (다)는 각각 새로운 문화 요소를 창조하는 요인이다.\n\n             <갑국과 을국의 문화 변동>\n\n                   1차 문화 변동     2차 문화 변동\n       변동 전\n   구분        변동   추가된   변동   추가된\n       문화 요소\n             요인  문화 요소  요인  문화 요소\n\n   갑국       a       (가)        c       (다)        e\n\n   을국       b       (나)       d       (라)          a, c\n\n     * a～e는 서로 다른 문화 요소를 의미하며, 이외에 다른 문화 요소는 존재하지\n     않는다.\n    ** 제시된 문화 변동 이외에 다른 문화 변동은 없었으며, 문화 요소의 소멸도\n     없었다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)는 발견, (다)는 자극 전파이다."
+    },
+    {
+     "number": 2,
+     "text": "(나)는 (라)와 달리 을국의 문화 요소를 다양하게 하는 요인이다."
+    },
+    {
+     "number": 3,
+     "text": "2차 문화 변동 결과, 을국에서는 문화 병존이 나타났다."
+    },
+    {
+     "number": 4,
+     "text": "을국은 매개체를 통해 갑국의 문화 요소를 전달받았다."
+    },
+    {
+     "number": 5,
+     "text": "2차 문화 변동 결과, 갑국과 을국에 공통으로 존재하는 문화 요소는 3개이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q06.png",
+   "question_image_sha256": "15a85e1becdcf07dcf29afed3892fdf81f384b91de52bebcd979d61112cf5092",
+   "image_size_px": [
+    957,
+    1003
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q07",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 7,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      548.97,
+      418.46,
+      782.96
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 550.56,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "7. 그림은 사회 집단 및 사회 조직의 유형 A, B와 자발적 결사체의\n 포함 관계를 나타낸 것이다. 이에 대한 설명으로 옳은 것은? (단,\n A와 B는 각각 비공식 조직, 이익 사회 중 하나이다.)\n\n\n\n\n\n ①A는 비공식적 제재가 지배적이다.\n ②B는 형식적, 수단적 인간관계가 지배적이다.\n ③A는 자발적 결사체와 달리 가입과 탈퇴가 자유롭다.\n ④A는B와 달리 선택 의지에 의해 인위적으로 형성된 집단이다.\n ⑤A의 사례로는 학교를, B의 사례로는 사내 동호회를 들 수 있다.",
+   "shared_passage_text": "",
+   "stem": "7. 그림은 사회 집단 및 사회 조직의 유형 A, B와 자발적 결사체의 포함 관계를 나타낸 것이다. 이에 대한 설명으로 옳은 것은? (단, A와 B는 각각 비공식 조직, 이익 사회 중 하나이다.)",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는 비공식적 제재가 지배적이다."
+    },
+    {
+     "number": 2,
+     "text": "B는 형식적, 수단적 인간관계가 지배적이다."
+    },
+    {
+     "number": 3,
+     "text": "A는 자발적 결사체와 달리 가입과 탈퇴가 자유롭다."
+    },
+    {
+     "number": 4,
+     "text": "A는B와 달리 선택 의지에 의해 인위적으로 형성된 집단이다."
+    },
+    {
+     "number": 5,
+     "text": "A의 사례로는 학교를, B의 사례로는 사내 동호회를 들 수 있다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "A                   자발적 결사체\n\n자발적 결사체                                  B",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q07.png",
+   "question_image_sha256": "5a995d66cc5ecd8140086edb9f033424d36e3316dc1d5ccb7b3e1e963a6c8b86",
+   "image_size_px": [
+    957,
+    650
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q08",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 8,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      811.4,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 813.24,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "8. 밑줄 친 ㉠～㉥에 대한 설명으로 옳은 것은?\n\n\n    코로나19의 확산으로 ㉠사회적 거리 두기가 장기화되면서 ㉡‘홈코노미\n    (homeconomy)’ 문화가 빠른 속도로 확산되고 있다. 이제 집은 단순한 주거\n  공간이 아니라 재택 근무, 온라인 쇼핑을 비롯한 각종 경제 활동을 하고\n  ㉢문화생활을 즐기는 공간으로 인식되고 있다. 이와 같이 ㉣집을 중심으로\n  다양한 활동이 이루어지면서 관련 산업들이 급성장하고 있다. 특히 ㉤동영상\n  전송 기술의 발달과 콘텐츠의 다양화로 인해 콘텐츠 서비스 이용자 수도\n  폭발적으로 증가하고 있다. 그 결과 ㉥많은 이용자가 한꺼번에 접속하면서\n  서비스 이용에 장애가 발생하기도 한다.\n\n    * 홈코노미: 집(home)과 경제(economy)가 합쳐져서 만들어진 신조어이다.\n\n\n ①㉠에는 문화의 축적성이 부각되어 있다.\n ②㉡과 ㉢에서의 ‘문화’는 모두 좁은 의미로 사용되었다.\n ③㉣은 문화의 총체성으로 설명할 수 있다.\n ④㉤은 비물질문화에 해당한다.\n ⑤㉥은 문화 지체 현상에 해당한다.",
+   "shared_passage_text": "",
+   "stem": "8. 밑줄 친 ㉠～㉥에 대한 설명으로 옳은 것은?",
+   "passage": "코로나19의 확산으로 ㉠사회적 거리 두기가 장기화되면서 ㉡‘홈코노미\n    (homeconomy)’ 문화가 빠른 속도로 확산되고 있다. 이제 집은 단순한 주거\n  공간이 아니라 재택 근무, 온라인 쇼핑을 비롯한 각종 경제 활동을 하고\n  ㉢문화생활을 즐기는 공간으로 인식되고 있다. 이와 같이 ㉣집을 중심으로\n  다양한 활동이 이루어지면서 관련 산업들이 급성장하고 있다. 특히 ㉤동영상\n  전송 기술의 발달과 콘텐츠의 다양화로 인해 콘텐츠 서비스 이용자 수도\n  폭발적으로 증가하고 있다. 그 결과 ㉥많은 이용자가 한꺼번에 접속하면서\n  서비스 이용에 장애가 발생하기도 한다.\n\n    * 홈코노미: 집(home)과 경제(economy)가 합쳐져서 만들어진 신조어이다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠에는 문화의 축적성이 부각되어 있다."
+    },
+    {
+     "number": 2,
+     "text": "㉡과 ㉢에서의 ‘문화’는 모두 좁은 의미로 사용되었다."
+    },
+    {
+     "number": 3,
+     "text": "㉣은 문화의 총체성으로 설명할 수 있다."
+    },
+    {
+     "number": 4,
+     "text": "㉤은 비물질문화에 해당한다."
+    },
+    {
+     "number": 5,
+     "text": "㉥은 문화 지체 현상에 해당한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q08.png",
+   "question_image_sha256": "14715c7538f9df41647cf23bb3a713e01a5a89ee6789a5ffce9a3767c1b78a6c",
+   "image_size_px": [
+    957,
+    707
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q09",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 9,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      158.39,
+      774.1,
+      565.17
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 160.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "9. 다음 자료에 대한 분석으로 옳은 것은? [3점]\n\n\n   그림은 갑국과 을국의 자녀 세대를 대상으로 본인의 계층과 본인의 어머니\n  또는 아버지의 계층을 전수 조사한 것이다. 계층은 상층, 중층, 하층으로만\n   구성된다. 부모 세대에서 부부의 계층은 동일하며, 모든 부모의 자녀는 1명씩\n   이다.\n\n\n\n\n\n    * 음영 부분 면적의 크기는 사람 수에 비례하며, 각 의 면적은 동일하다.\n\n\n ①갑국은 을국과 달리 세대 간 상승 이동이 나타났다.\n ②을국은 갑국과 달리 세대 간 하강 이동이 나타났다.\n ③갑국의자녀 세대에서는 피라미드형 계층 구조가 나타나고,\n  을국의자녀 세대에서는 모래시계형 계층 구조가 나타난다.\n ④갑국과을국모두부모 세대에서는 다이아몬드형 계층 구조가\n   나타난다.\n ⑤갑국과을국모두부모의 계층을 대물림 받은 자녀는 하층에서\n   가장 많다.",
+   "shared_passage_text": "",
+   "stem": "9. 다음 자료에 대한 분석으로 옳은 것은? [3점]",
+   "passage": "그림은 갑국과 을국의 자녀 세대를 대상으로 본인의 계층과 본인의 어머니\n  또는 아버지의 계층을 전수 조사한 것이다. 계층은 상층, 중층, 하층으로만\n   구성된다. 부모 세대에서 부부의 계층은 동일하며, 모든 부모의 자녀는 1명씩\n   이다.\n\n\n\n\n\n    * 음영 부분 면적의 크기는 사람 수에 비례하며, 각 의 면적은 동일하다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑국은 을국과 달리 세대 간 상승 이동이 나타났다."
+    },
+    {
+     "number": 2,
+     "text": "을국은 갑국과 달리 세대 간 하강 이동이 나타났다."
+    },
+    {
+     "number": 3,
+     "text": "갑국의자녀 세대에서는 피라미드형 계층 구조가 나타나고, 을국의자녀 세대에서는 모래시계형 계층 구조가 나타난다."
+    },
+    {
+     "number": 4,
+     "text": "갑국과을국모두부모 세대에서는 다이아몬드형 계층 구조가 나타난다."
+    },
+    {
+     "number": 5,
+     "text": "갑국과을국모두부모의 계층을 대물림 받은 자녀는 하층에서 가장 많다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "하층 중층\n\n부모 세디                                               부모 세다\n\n상층                           하층 중층 상층",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q09.png",
+   "question_image_sha256": "4a96d5a8f54e3f74a676b48261a5bb7e8e08c451cc984cd8058578edd57f9940",
+   "image_size_px": [
+    977,
+    1130
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q10",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 10,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      667.77,
+      774.1,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 669.66,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "10. 다음 자료에 대한 옳은 설명만을 <보기>에서 고른 것은? [3점]\n\n\n\n\n\n                <보 기>\n\n   ㄱ. 성차별 개선 조치 시행 후 남녀 신입 사원의 월 평균 임금\n    격차는 60% 감소하였다.\n   ㄴ. 성차별 개선 조치 시행 전후 신입 사원 수가 같다면, 여성\n    신입 사원 수는 조치 시행 후 50% 증가하였다.\n   ㄷ. 남성 임원 대 여성 임원의 비는 성차별 개선 조치 시행 전\n       3 : 1에서 조치 시행 후 3 : 2로 변화하였다.\n   ㄹ. (가)에는 ‘남성 신입 사원의 월 평균 임금이 여성 신입 사원의\n   월 평균 임금보다 30% 높다.’가 들어갈 수 있다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "10. 다음 자료에 대한 옳은 설명만을 <보기>에서 고른 것은? [3점]",
+   "passage": "<보 기>\n\n   ㄱ. 성차별 개선 조치 시행 후 남녀 신입 사원의 월 평균 임금\n    격차는 60% 감소하였다.\n   ㄴ. 성차별 개선 조치 시행 전후 신입 사원 수가 같다면, 여성\n    신입 사원 수는 조치 시행 후 50% 증가하였다.\n   ㄷ. 남성 임원 대 여성 임원의 비는 성차별 개선 조치 시행 전\n       3 : 1에서 조치 시행 후 3 : 2로 변화하였다.\n   ㄹ. (가)에는 ‘남성 신입 사원의 월 평균 임금이 여성 신입 사원의\n   월 평균 임금보다 30% 높다.’가 들어갈 수 있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "HE 갑국의 쇼 기업에서 시행한 성차별 개선 조치의 효과를 보여\n\n줍니다. 하지만 표에 나타나 있는\n\n것처럼 조치 시행 후에도\n\n(가) |라는 사실은 여전히 기업 내 성차별이 남아 USS\n\n보여 준다고 생각합니다.\n\noe       조치 시행 전 | 조치 시행 후\n\n남성 | 여성 | 남성 | 여성\n\n신입 사원 월 평균 임금(달러) | 3,000 | 2,500 | 3,300 | 3,000\n\n신입 사원 중 남녀 비율(%) | 60 | 40 | 40 | 60\n\n이\n\ni —\n원 중 남녀\nHIB (%) ㅣ\n7 |\n25\n| 60\n| 40\n|",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q10.png",
+   "question_image_sha256": "0c71de60847b1e575df469c10b90ae036a04f76b3bea8269bddf7d59310580d7",
+   "image_size_px": [
+    977,
+    1106
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q11",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 11,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      158.39,
+      418.46,
+      516.58
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 160.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "11. 다음은 학생들이 제출한 수행 평가 과제에 대해 교사가 평가한\n 내용이다. 이에 대한 설명으로 옳은 것은?\n\n    A 조 과제에 대한 평가      B 조 과제에 대한 평가\n\n   A조는 ‘에고서핑(ego-surfing)’의   B조는 ‘에고서핑(ego-surfing)’을\n  의미를 찾아 ㉠‘인터넷으로 자신에  하는 사람들의 심리를 알기 위해 심층\n  대한 정보나 댓글을 검색하는 것’  인터뷰를 실시하였습니다. B 조가\n  이라고 소개한 후 ‘에고서핑을 많이  제출한 과제는 인터넷상에 나타난\n  하는 사람일수록 자존감이 낮을  자신에 대한 정보나 댓글에 매우\n   것이다.’라는 가설을 세워 검증  민감한 연예인, 유명 인터넷 1인\n   하였습니다. A조가 제출한 과제는  방송인 등을 대상으로 그들이 왜\n  일반인을 대상으로 가설과 관련한  불편한 감정을 감수하고 에고서핑을\n  일반적인 경향성을 적절히 규명한  하는지에 대해 적절히 조사한 연구\n   연구입니다.                입니다.\n\n\n\n ①㉠은 A 조가 연구 과정에서 실시한 개념의 조작적 정의이다.\n ②B 조가사용한 연구 방법은 법칙 발견을 목적으로 한다.\n ③A 조가사용한 연구 방법은 B 조가 사용한 연구 방법에 비해\n   계량화가 어려운 인간의 주관적 영역에 대해 탐구하기 곤란하다.\n ④B 조가 사용한 연구 방법은 A 조가 사용한 연구 방법과 달리\n   자료 수집 과정에서 연구자의 가치 중립이 요구된다.\n ⑤A 조가 사용한 연구 방법은 방법론적 이원론을, B 조가 사용한\n   연구 방법은 방법론적 일원론을 전제로 한다.",
+   "shared_passage_text": "",
+   "stem": "11. 다음은 학생들이 제출한 수행 평가 과제에 대해 교사가 평가한 내용이다. 이에 대한 설명으로 옳은 것은?",
+   "passage": "A 조 과제에 대한 평가      B 조 과제에 대한 평가\n\n   A조는 ‘에고서핑(ego-surfing)’의   B조는 ‘에고서핑(ego-surfing)’을\n  의미를 찾아 ㉠‘인터넷으로 자신에  하는 사람들의 심리를 알기 위해 심층\n  대한 정보나 댓글을 검색하는 것’  인터뷰를 실시하였습니다. B 조가\n  이라고 소개한 후 ‘에고서핑을 많이  제출한 과제는 인터넷상에 나타난\n  하는 사람일수록 자존감이 낮을  자신에 대한 정보나 댓글에 매우\n   것이다.’라는 가설을 세워 검증  민감한 연예인, 유명 인터넷 1인\n   하였습니다. A조가 제출한 과제는  방송인 등을 대상으로 그들이 왜\n  일반인을 대상으로 가설과 관련한  불편한 감정을 감수하고 에고서핑을\n  일반적인 경향성을 적절히 규명한  하는지에 대해 적절히 조사한 연구\n   연구입니다.                입니다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠은 A 조가 연구 과정에서 실시한 개념의 조작적 정의이다."
+    },
+    {
+     "number": 2,
+     "text": "B 조가사용한 연구 방법은 법칙 발견을 목적으로 한다."
+    },
+    {
+     "number": 3,
+     "text": "A 조가사용한 연구 방법은 B 조가 사용한 연구 방법에 비해 계량화가 어려운 인간의 주관적 영역에 대해 탐구하기 곤란하다."
+    },
+    {
+     "number": 4,
+     "text": "B 조가 사용한 연구 방법은 A 조가 사용한 연구 방법과 달리 자료 수집 과정에서 연구자의 가치 중립이 요구된다."
+    },
+    {
+     "number": 5,
+     "text": "A 조가 사용한 연구 방법은 방법론적 이원론을, B 조가 사용한 연구 방법은 방법론적 일원론을 전제로 한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q11.png",
+   "question_image_sha256": "d220fe5506d632c09037eff29ca2a25c8833ca63551d68a2e6ca467b9887e6b5",
+   "image_size_px": [
+    957,
+    995
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q12",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 12,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      606.21,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 608.04,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "12. 다음은 자료 수집 방법의 일반적인 특징을 활용한 수업이다.\n 이에 대한 설명으로 옳은 것은? [3점]\n\n\n   교사: 자료 수집 방법 중에서 질문지법, 참여 관찰법, 면접법의 공통점을\n     알아보기 위해 카드 게임을 해봅시다. 학생 갑, 을, 병에게 각각 나눠 준\n      6장의 카드에는 자료 수집 방법의 일반적인 특징이 적혀 있습니다.\n      3가지 자료 수집 방법의 특징 모두에 해당하는 카드는 3점, 2가지에만\n     해당하는 카드는 2점, 1가지에만 해당하는 카드는 1점을 받습니다.\n      6장의 카드 중에서 가장 높은 점수를 받을 수 있도록 3장을 뽑으세요.\n\n              <학생이 받은 카드>\n\n\n\n\n\n   갑: 저는 [카드 1], [카드 2], [카드 3]을 뽑았습니다.\n   을: 저는 [카드 3], [카드 4], [카드 6]을 뽑았습니다.\n   병: 저는 [카드 1], [카드 2], [카드 5]를 뽑았습니다.\n\n\n ①높은 점수를 받을 학생부터 순서대로 나열하면 병, 갑, 을 순이다.\n ②갑이뽑은카드중에는 3가지 자료 수집 방법 모두에 해당하는\n   특징이 적힌 카드가 1장 있다.\n ③을이뽑은카드중에는 질문지법에 해당하는 특징이 적힌 카드가\n   없다.\n ④병이 뽑은 모든 카드에는 참여 관찰법에 해당하는 특징이 적혀\n   있다.\n ⑤갑, 을, 병은 모두 면접법에 해당하는 특징이 적힌 카드를 2장\n   이상씩 뽑았다.",
+   "shared_passage_text": "",
+   "stem": "12. 다음은 자료 수집 방법의 일반적인 특징을 활용한 수업이다. 이에 대한 설명으로 옳은 것은? [3점]",
+   "passage": "교사: 자료 수집 방법 중에서 질문지법, 참여 관찰법, 면접법의 공통점을\n     알아보기 위해 카드 게임을 해봅시다. 학생 갑, 을, 병에게 각각 나눠 준\n      6장의 카드에는 자료 수집 방법의 일반적인 특징이 적혀 있습니다.\n      3가지 자료 수집 방법의 특징 모두에 해당하는 카드는 3점, 2가지에만\n     해당하는 카드는 2점, 1가지에만 해당하는 카드는 1점을 받습니다.\n      6장의 카드 중에서 가장 높은 점수를 받을 수 있도록 3장을 뽑으세요.\n\n              <학생이 받은 카드>\n\n\n\n\n\n   갑: 저는 [카드 1], [카드 2], [카드 3]을 뽑았습니다.\n   을: 저는 [카드 3], [카드 4], [카드 6]을 뽑았습니다.\n   병: 저는 [카드 1], [카드 2], [카드 5]를 뽑았습니다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "높은 점수를 받을 학생부터 순서대로 나열하면 병, 갑, 을 순이다."
+    },
+    {
+     "number": 2,
+     "text": "갑이뽑은카드중에는 3가지 자료 수집 방법 모두에 해당하는 특징이 적힌 카드가 1장 있다."
+    },
+    {
+     "number": 3,
+     "text": "을이뽑은카드중에는 질문지법에 해당하는 특징이 적힌 카드가 없다."
+    },
+    {
+     "number": 4,
+     "text": "병이 뽑은 모든 카드에는 참여 관찰법에 해당하는 특징이 적혀 있다."
+    },
+    {
+     "number": 5,
+     "text": "갑, 을, 병은 모두 면접법에 해당하는 특징이 적힌 카드를 2장 이상씩 뽑았다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "1차 자료의 수집용으로 | | 연구 대상자와의 언어적 || 질적 자료 수집을\n\n[카트 1]                [카드 21        | |        [카드 3)\n\n활용된다.          상호 작용이 필수적이다.        목적으로 한다.\n[카드 4]                 [카드 5]                 [카드 6]\n생생한 자료를 현장에서         양적 자료의              문맹자에게\n\n직접 수집할 수 있다.       수집에 용이하다.        활용하기 곤란하다.",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q12.png",
+   "question_image_sha256": "8f152ccc7708bcb2f6f34489c400930290e553b7cbc3e49aa5224fc317f5b4a4",
+   "image_size_px": [
+    957,
+    1277
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q13",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 13,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      158.39,
+      774.1,
+      380.86
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 160.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "13. 밑줄 친 ㉠～㉦에 대한 설명으로 옳은 것은? [3점]\n\n\n   미국으로 건너간 이주자 갑은 준비했던 사업에 실패한 후 가족의 생계\n  유지를 위해 무슨 일을 해야 할지 ㉠고민하다 과일 농장에 취업하였다. 갑의\n  ㉡남편인 을 역시 가계에 보탬이 되고자 ㉢대형 할인점에서 ㉣직원으로\n  일하기 시작하였다. 한편, 아들 병은 ㉤미국 고등학교에 ㉥적응하지 못한 채\n  방황을 계속하였다. 결국 병은 다니던 학교를 그만두고 홈스쿨링(home\n    schooling)을 하고 싶다고 하였다. 이런 모습을 지켜보던 갑과 을은 미국 학교에\n  병이 적응할 때까지 기다릴지, 홈스쿨링을 시킬지를 두고 ㉦갈등을 빚었다.\n\n ①㉢은 2차적 사회화 기관이자 비공식적 사회화 기관이다.\n ②㉤은 병의 내집단이자 준거 집단이다.\n ③㉥은 병의 역할 행동에 대한 제재이다.\n ④㉡은㉣과달리 개인의 노력을 통해 후천적으로 획득한 지위이다.\n ⑤㉦은㉠과달리 갑의 역할 갈등에 해당하지 않는다.",
+   "shared_passage_text": "",
+   "stem": "13. 밑줄 친 ㉠～㉦에 대한 설명으로 옳은 것은? [3점]",
+   "passage": "미국으로 건너간 이주자 갑은 준비했던 사업에 실패한 후 가족의 생계\n  유지를 위해 무슨 일을 해야 할지 ㉠고민하다 과일 농장에 취업하였다. 갑의\n  ㉡남편인 을 역시 가계에 보탬이 되고자 ㉢대형 할인점에서 ㉣직원으로\n  일하기 시작하였다. 한편, 아들 병은 ㉤미국 고등학교에 ㉥적응하지 못한 채\n  방황을 계속하였다. 결국 병은 다니던 학교를 그만두고 홈스쿨링(home\n    schooling)을 하고 싶다고 하였다. 이런 모습을 지켜보던 갑과 을은 미국 학교에\n  병이 적응할 때까지 기다릴지, 홈스쿨링을 시킬지를 두고 ㉦갈등을 빚었다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉢은 2차적 사회화 기관이자 비공식적 사회화 기관이다."
+    },
+    {
+     "number": 2,
+     "text": "㉤은 병의 내집단이자 준거 집단이다."
+    },
+    {
+     "number": 3,
+     "text": "㉥은 병의 역할 행동에 대한 제재이다."
+    },
+    {
+     "number": 4,
+     "text": "㉡은㉣과달리 개인의 노력을 통해 후천적으로 획득한 지위이다."
+    },
+    {
+     "number": 5,
+     "text": "㉦은㉠과달리 갑의 역할 갈등에 해당하지 않는다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q13.png",
+   "question_image_sha256": "d5826367e8c6490a18f75a29ad3cc3fe41d72532a415266c8f3e42b49af8a6ff",
+   "image_size_px": [
+    977,
+    618
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q14",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 14,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      409.66,
+      774.1,
+      691.53
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 411.36,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "14. 표는 질문을 통해 사회 변동 이론 A, B를 구분한 것이다. 이에\n 대한 설명으로 옳은 것은? (단, A와 B는 각각 진화론, 순환론 중\n 하나이다.)\n\n            질문               A       B\n\n     사회가 퇴보할 수 있다고 보는가?      예    아니요\n\n                    (가)            예    예\n\n                    (나)            아니요   예\n\n ①A는 단기적 사회 변동보다는 장기적 사회 변동을 설명하는 데\n   유용하다.\n ②B는 사회 변동의 방향이 사회마다 다르다고 본다.\n ③A는 B와 달리 사회가 단순한 형태에서 복잡한 형태로 변화\n   한다고 본다.\n ④(가)에는 ‘사회 변동에 작용하는 인간의 자율성을 강조하는가?’가\n   들어갈 수 있다.\n ⑤(나)에는 ‘사회가 주기적으로 동일한 과정을 반복하며 변동\n   한다고 보는가?’가 들어갈 수 있다.",
+   "shared_passage_text": "",
+   "stem": "14. 표는 질문을 통해 사회 변동 이론 A, B를 구분한 것이다. 이에 대한 설명으로 옳은 것은? (단, A와 B는 각각 진화론, 순환론 중 하나이다.)",
+   "passage": "질문               A       B\n\n     사회가 퇴보할 수 있다고 보는가?      예    아니요\n\n                    (가)            예    예\n\n                    (나)            아니요   예",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는 단기적 사회 변동보다는 장기적 사회 변동을 설명하는 데 유용하다."
+    },
+    {
+     "number": 2,
+     "text": "B는 사회 변동의 방향이 사회마다 다르다고 본다."
+    },
+    {
+     "number": 3,
+     "text": "A는 B와 달리 사회가 단순한 형태에서 복잡한 형태로 변화 한다고 본다."
+    },
+    {
+     "number": 4,
+     "text": "(가)에는 ‘사회 변동에 작용하는 인간의 자율성을 강조하는가?’가 들어갈 수 있다."
+    },
+    {
+     "number": 5,
+     "text": "(나)에는 ‘사회가 주기적으로 동일한 과정을 반복하며 변동 한다고 보는가?’가 들어갈 수 있다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q14.png",
+   "question_image_sha256": "ab5fb981aba6b04c2fef216843c9ffc5fb407da18e610103085385fed57bafed",
+   "image_size_px": [
+    977,
+    783
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q15",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 15,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      720.33,
+      774.1,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 722.16,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "15. 다음 자료에 대한 분석으로 옳은 것은? (단, A～C는 각각 사회\n 보험, 공공 부조, 사회 서비스 중 하나이다.) [3점]\n\n\n   우리나라 사회 보장 제도 유형 A～C 중 A는 B와 달리 금전적 지원을\n  원칙으로 한다. 또한, C는 A와 달리 상호 부조의 원리가 적용된다. 우리나라\n    (가), (나) 지역의 모든 가구는 A～C 중 한 가지 이상의 혜택을 받고 있으며,\n  지역별 중복 수혜 가구 비율은 다음과 같다.\n                                             (단위: %)\n\n         구분               (가) 지역      (나) 지역\n\n     A와 B의 중복 수혜 가구           10              20\n\n     A와 C의 중복 수혜 가구            6              9\n\n     B와 C의 중복 수혜 가구           50              45\n\n    * (가) 지역의 각 수치에는 A, B, C 중복 수혜 가구 비율(2%)이, (나) 지역의\n   각 수치에는 A, B, C 중복 수혜 가구 비율(5%)이 포함되어 있다.\n\n ①A는B, C와 달리 사전 예방적 목적을 가진다.\n ②B는A, C와 달리 보편적 복지의 이념을 바탕으로 한다.\n ③C는A, B와 달리 비용 부담자와 수혜자가 일치하지 않는다.\n ④사회 보험과 사회 서비스의 혜택은 모두 받지만, 공공 부조의\n   혜택은 받지 않는 가구의 비율은 (나) 지역이 (가) 지역보다 높다.\n ⑤사회 보험과 공공 부조의 혜택은 모두 받지만, 사회 서비스의\n   혜택은 받지 않는 가구의 비율은 (가), (나) 지역이 같다.",
+   "shared_passage_text": "",
+   "stem": "15. 다음 자료에 대한 분석으로 옳은 것은? (단, A～C는 각각 사회 보험, 공공 부조, 사회 서비스 중 하나이다.) [3점]",
+   "passage": "우리나라 사회 보장 제도 유형 A～C 중 A는 B와 달리 금전적 지원을\n  원칙으로 한다. 또한, C는 A와 달리 상호 부조의 원리가 적용된다. 우리나라\n    (가), (나) 지역의 모든 가구는 A～C 중 한 가지 이상의 혜택을 받고 있으며,\n  지역별 중복 수혜 가구 비율은 다음과 같다.\n                                             (단위: %)\n\n         구분               (가) 지역      (나) 지역\n\n     A와 B의 중복 수혜 가구           10              20\n\n     A와 C의 중복 수혜 가구            6              9\n\n     B와 C의 중복 수혜 가구           50              45\n\n    * (가) 지역의 각 수치에는 A, B, C 중복 수혜 가구 비율(2%)이, (나) 지역의\n   각 수치에는 A, B, C 중복 수혜 가구 비율(5%)이 포함되어 있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는B, C와 달리 사전 예방적 목적을 가진다."
+    },
+    {
+     "number": 2,
+     "text": "B는A, C와 달리 보편적 복지의 이념을 바탕으로 한다."
+    },
+    {
+     "number": 3,
+     "text": "C는A, B와 달리 비용 부담자와 수혜자가 일치하지 않는다."
+    },
+    {
+     "number": 4,
+     "text": "사회 보험과 사회 서비스의 혜택은 모두 받지만, 공공 부조의 혜택은 받지 않는 가구의 비율은 (나) 지역이 (가) 지역보다 높다."
+    },
+    {
+     "number": 5,
+     "text": "사회 보험과 공공 부조의 혜택은 모두 받지만, 사회 서비스의 혜택은 받지 않는 가구의 비율은 (가), (나) 지역이 같다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q15.png",
+   "question_image_sha256": "f0326f26fae77a7c6b52e6c5382dc4a1972d044c9739d73de662125d9ab537ec",
+   "image_size_px": [
+    977,
+    960
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q16",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 16,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      158.39,
+      418.46,
+      457.9
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 160.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "16. 개인과 사회의 관계를 바라보는 갑, 을의 관점에 대한 설명으로\n 옳은 것은?\n\n\n\n\n\n ①갑의관점은개인이 사회 속에서만 존재의 의미를 갖는다고 본다.\n ②을의관점은사회 문제의 해결책으로 제도의 개혁보다 개인의\n   의식 개선을 강조한다.\n ③갑의관점은을의 관점과 달리 사회의 특성이 개인의 특성으로\n   환원될 수 없다고 본다.\n ④을의관점은갑의 관점과 달리 사회가 개인의 외부에 실재한다고 본다.\n ⑤갑의관점은개인에 대한 사회의 구속성을, 을의 관점은 사회에\n   대한 개인의 자율성을 강조한다.",
+   "shared_passage_text": "",
+   "stem": "16. 개인과 사회의 관계를 바라보는 갑, 을의 관점에 대한 설명으로 옳은 것은?",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑의관점은개인이 사회 속에서만 존재의 의미를 갖는다고 본다."
+    },
+    {
+     "number": 2,
+     "text": "을의관점은사회 문제의 해결책으로 제도의 개혁보다 개인의 의식 개선을 강조한다."
+    },
+    {
+     "number": 3,
+     "text": "갑의관점은을의 관점과 달리 사회의 특성이 개인의 특성으로 환원될 수 없다고 본다."
+    },
+    {
+     "number": 4,
+     "text": "을의관점은갑의 관점과 달리 사회가 개인의 외부에 실재한다고 본다."
+    },
+    {
+     "number": 5,
+     "text": "갑의관점은개인에 대한 사회의 구속성을, 을의 관점은 사회에 대한 개인의 자율성을 강조한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "개인과 사회의 관계는 원자와 사물의        개인과 사회의 관계는 부품과 기계의\n\nBAB ABS 수 있습니다. 사물이     관계로 설명할 수 있습니다. 부품은\n그것을 구성하는 원자의 집합체에    기계를 구성하는 . 요소이지만 기계는\n불과하듯이 사회도 개인의 집합체일     개별 부품의 속성만으로는 설명되지\n뿐입니다.                         않는 고유한 특성을 지닙니다.\n\nV\n\nLy",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q16.png",
+   "question_image_sha256": "8eeb88d4beb542c2b7b90f8d221a600704924dc753738c3d79509ce88e3c4b3b",
+   "image_size_px": [
+    957,
+    832
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q17",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 17,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      473.02,
+      418.46,
+      716.73
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 474.6,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "17. 빈곤 유형 (가), (나)에 대한 옳은 설명만을 <보기>에서 고른 것은?\n  (단, (가)와 (나)는 각각 절대적 빈곤, 상대적 빈곤 중 하나이다.)\n\n    (가) 생존 및 생계 유지에 필수적인 자원이나 자원을 확보하는 데 필요한\n     소득이 부족한 상태\n    (나) 한 사회에서 구성원들이 일반적으로 누리는 생활 수준에 필요한 소득이\n     부족한 상태\n\n\n                <보 기>\n\n   ㄱ. (가)를 판단하기 위해 우리나라에서는 최저 임금액을 기준선\n    으로 활용한다.\n   ㄴ. (가)에 속하지 않는 가구도 (나)에 속할 수 있다.\n   ㄷ. (나)는 (가)와 달리 상대적 박탈감의 원인이 된다.\n   ㄹ. (가)와 (나) 모두 우리나라에서는 객관화된 기준에 의해\n    분류된다.\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "17. 빈곤 유형 (가), (나)에 대한 옳은 설명만을 <보기>에서 고른 것은? (단, (가)와 (나)는 각각 절대적 빈곤, 상대적 빈곤 중 하나이다.)",
+   "passage": "(가) 생존 및 생계 유지에 필수적인 자원이나 자원을 확보하는 데 필요한\n     소득이 부족한 상태\n    (나) 한 사회에서 구성원들이 일반적으로 누리는 생활 수준에 필요한 소득이\n     부족한 상태\n\n\n                <보 기>\n\n   ㄱ. (가)를 판단하기 위해 우리나라에서는 최저 임금액을 기준선\n    으로 활용한다.\n   ㄴ. (가)에 속하지 않는 가구도 (나)에 속할 수 있다.\n   ㄷ. (나)는 (가)와 달리 상대적 박탈감의 원인이 된다.\n   ㄹ. (가)와 (나) 모두 우리나라에서는 객관화된 기준에 의해\n    분류된다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q17.png",
+   "question_image_sha256": "309a3e87d759febf05f7d0eabae2ea6df91de71dcc92909a56fa208f0220995d",
+   "image_size_px": [
+    957,
+    677
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q18",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 18,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      729.69,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 731.28,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "18. 사회ㆍ문화 현상을 바라보는 (가)～(다)의 관점에 대한 설명으로\n 옳은 것은? [3점]\n\n    (가) 질병은 구성원 각자가 부여하는 의미나 가치에 의해 사회적으로 규정될\n    수 있다. 예컨대 19세기 유럽에서는 폐결핵에 걸린 지식인과 예술인의\n     마른 자태를 열정과 낭만의 징표로 인식하기도 하였다.\n    (나) 질병은 사회 체계 유지라는 측면에서 볼 때 사회 통합에 긍정적으로\n     작용하지 못하기 때문에 사회 문제로 규정된다. 따라서 질병 치료는\n     일종의 사회 통제라고 볼 수 있다.\n    (다) 질병으로부터 자신을 보호할 자원이 부족한 이들에게는 사회 구조적\n     모순이 고스란히 전달되어 질병으로 나타난다. 질병에 걸릴 위험은\n    사회 계급에 따라 차등적으로 분포되어 있기 때문이다.\n\n ①(가)의관점은사회 구조가 개인에게 미치는 영향을 간과한다는\n   비판을 받는다.\n ②(나)의관점은사회 제도를 통해 기존의 불평등한 사회 구조가\n   재생산된다고 본다.\n ③(가)의관점은(나)의 관점과달리사회 각 부분이 상호 보완적\n   역할을 수행한다고 본다.\n ④(나)의관점은(다)의 관점과달리대립과 갈등을 사회 구조의\n   필연적 속성으로 본다.\n ⑤‘사회ㆍ문화 현상의 의미가 발생 상황과 행위 주체에 따라 달라\n   진다고 보는가?’라는 질문으로는 (가)와 (다)의 관점을 구분할 수 없다.",
+   "shared_passage_text": "",
+   "stem": "18. 사회ㆍ문화 현상을 바라보는 (가)～(다)의 관점에 대한 설명으로 옳은 것은? [3점]",
+   "passage": "(가) 질병은 구성원 각자가 부여하는 의미나 가치에 의해 사회적으로 규정될\n    수 있다. 예컨대 19세기 유럽에서는 폐결핵에 걸린 지식인과 예술인의\n     마른 자태를 열정과 낭만의 징표로 인식하기도 하였다.\n    (나) 질병은 사회 체계 유지라는 측면에서 볼 때 사회 통합에 긍정적으로\n     작용하지 못하기 때문에 사회 문제로 규정된다. 따라서 질병 치료는\n     일종의 사회 통제라고 볼 수 있다.\n    (다) 질병으로부터 자신을 보호할 자원이 부족한 이들에게는 사회 구조적\n     모순이 고스란히 전달되어 질병으로 나타난다. 질병에 걸릴 위험은\n    사회 계급에 따라 차등적으로 분포되어 있기 때문이다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)의관점은사회 구조가 개인에게 미치는 영향을 간과한다는 비판을 받는다."
+    },
+    {
+     "number": 2,
+     "text": "(나)의관점은사회 제도를 통해 기존의 불평등한 사회 구조가 재생산된다고 본다."
+    },
+    {
+     "number": 3,
+     "text": "(가)의관점은(나)의 관점과달리사회 각 부분이 상호 보완적 역할을 수행한다고 본다."
+    },
+    {
+     "number": 4,
+     "text": "(나)의관점은(다)의 관점과달리대립과 갈등을 사회 구조의 필연적 속성으로 본다."
+    },
+    {
+     "number": 5,
+     "text": "‘사회ㆍ문화 현상의 의미가 발생 상황과 행위 주체에 따라 달라 진다고 보는가?’라는 질문으로는 (가)와 (다)의 관점을 구분할 수 없다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q18.png",
+   "question_image_sha256": "eeb4f569ad7836b7cc742afbdc146bfb078684e8fb6006987e74b716b8e61280",
+   "image_size_px": [
+    957,
+    934
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q19",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 19,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      158.39,
+      774.1,
+      529.53
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 160.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "19. 다음 자료의 A～D에 대한 설명으로 옳은 것은?\n\n\n      인권 다큐멘터리 영화제 주요 작품 소개\n\n\n   A: 갑국에서 대다수의 어린 여자 아이들이 단지 여자라는 이유만으로\n    취학을 하지 못하는 실상을 추적한 작품\n\n    B: 을국 정부에게 고용 안정과 처우 개선을 요구하는 비정규직 노동자들의\n    목소리를 담은 작품\n\n    C: 병국의 지배 세력에게 억압과 착취를 당하는 병국 내 소수 민족의\n    아픔을 표현한 작품\n\n   D: 정국에서 새로운 정보 기기를 잘 다루지 못하는 노인들이 겪고 있는\n    여러 가지 어려움을 취재한 작품\n\n\n ①A는 B와 달리 인간의 선천적 요인으로 인한 차별을 다룬 작품\n   이다.\n ②B는 C와 달리 구성원 수의 많고 적음에 따라 규정되는 사회적\n   소수자를 다룬 작품이다.\n ③C는 D와 달리 연령대에 따라 처우가 달라지는 차별을 다룬\n   작품이다.\n ④D는 A와 달리 적극적 우대 조치로 인해 역차별을 받는 집단을\n   다룬 작품이다.\n ⑤A와 C는 사회적 소수자에 대한 차별 사례를, B와 D는 해당\n   사회 주류 집단에 대한 우대 사례를 다룬 작품이다.",
+   "shared_passage_text": "",
+   "stem": "19. 다음 자료의 A～D에 대한 설명으로 옳은 것은?",
+   "passage": "인권 다큐멘터리 영화제 주요 작품 소개\n\n\n   A: 갑국에서 대다수의 어린 여자 아이들이 단지 여자라는 이유만으로\n    취학을 하지 못하는 실상을 추적한 작품\n\n    B: 을국 정부에게 고용 안정과 처우 개선을 요구하는 비정규직 노동자들의\n    목소리를 담은 작품\n\n    C: 병국의 지배 세력에게 억압과 착취를 당하는 병국 내 소수 민족의\n    아픔을 표현한 작품\n\n   D: 정국에서 새로운 정보 기기를 잘 다루지 못하는 노인들이 겪고 있는\n    여러 가지 어려움을 취재한 작품",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는 B와 달리 인간의 선천적 요인으로 인한 차별을 다룬 작품 이다."
+    },
+    {
+     "number": 2,
+     "text": "B는 C와 달리 구성원 수의 많고 적음에 따라 규정되는 사회적 소수자를 다룬 작품이다."
+    },
+    {
+     "number": 3,
+     "text": "C는 D와 달리 연령대에 따라 처우가 달라지는 차별을 다룬 작품이다."
+    },
+    {
+     "number": 4,
+     "text": "D는 A와 달리 적극적 우대 조치로 인해 역차별을 받는 집단을 다룬 작품이다."
+    },
+    {
+     "number": 5,
+     "text": "A와 C는 사회적 소수자에 대한 차별 사례를, B와 D는 해당 사회 주류 집단에 대한 우대 사례를 다룬 작품이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "더             &\n\nCO, UH 다큐멘터리 영화제 주요 작품 소개\n\nA: 갑국에서 대다수의 어린 여자 아이들이 단지 여자라는 이유만으로\n취학을 하지 못하는 WS 추적한 작품\n\nB: 을국 정부에게 고용 안정과 처우 개선을 요구하는 비정규직 노동자들의\n목소리를 담은 작품\n\nC: 병국의 지배 서력에게 억압과 착취를 당하는 Wa 내 소수 민족의\n\n아픔을 표현한 작품\n\n1): 정국에서 새로운 정보 기기를 잘 다루지 못하는 노인들이 겪고 있는\n여러 가지 어려움을 취재한 작품",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q19.png",
+   "question_image_sha256": "db7710b153cfa31a53a3f184842d421c7f318b1b4e50881dc3385dd8c6ab97e4",
+   "image_size_px": [
+    977,
+    1031
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2022_JUNE_Q20",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2022_JUNE",
+   "year": 2022,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 20,
+   "source_file": "2022학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "4cde289b1f5b35aa1a9f9a536a359a7994a7ded642ce1db85dbdf0ab512dddae",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      574.17,
+      774.1,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 575.82,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "20. 다음 자료에 대한 분석으로 옳은 것은? [3점]\n\n\n   표는 A지역의 인구 구성 비율을 나타낸 것이다. 2000년에 비해 2020년\n   A 지역의 총인구는 20% 증가하였다. A 지역의 노령화 지수는 2000년에\n     60, 2020년에 125였다. 단, 음영 처리된 부분은 주어진 자료와 단서를 통해\n  알 수 있다.\n                                             (단위: %)\n\n       구분              2000년            2020년\n\n       0～14세 인구\n                                                        20\n      (유소년 인구)\n\n       15～64세 인구\n       (부양 인구)\n\n       65세 이상 인구\n                                     15\n       (노인 인구)\n\n       * 노령화 지수= (65세 이상 인구/ 0～14세 인구) × 100\n      ** 유소년 부양비= (0～14세 인구/ 15～64세 인구) × 100\n     *** 노인 부양비= (65세 이상 인구/ 15～64세 인구) × 100\n     **** 총부양비= {(0～14세 인구+ 65세 이상 인구) / 15～64세 인구} × 100\n\n\n ①2020년에노인인구는 유소년 인구의 2배 이상이다.\n ②2000년에비해2020년의부양 인구는 감소하였다.\n ③2000년유소년부양비와2020년 노인 부양비는 동일하다.\n ④2000년에비해2020년의노인 인구는 10% 증가하였고, 유소년\n   인구는 5% 감소하였다.\n ⑤2000년에비해2020년의유소년 부양비는 감소하였고, 노인\n   부양비와 총부양비는 모두 증가하였다.\n\n\n\n\n  * 확인 사항\n\n ◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n\n   하시오.",
+   "shared_passage_text": "",
+   "stem": "20. 다음 자료에 대한 분석으로 옳은 것은? [3점]",
+   "passage": "표는 A지역의 인구 구성 비율을 나타낸 것이다. 2000년에 비해 2020년\n   A 지역의 총인구는 20% 증가하였다. A 지역의 노령화 지수는 2000년에\n     60, 2020년에 125였다. 단, 음영 처리된 부분은 주어진 자료와 단서를 통해\n  알 수 있다.\n                                             (단위: %)\n\n       구분              2000년            2020년\n\n       0～14세 인구\n                                                        20\n      (유소년 인구)\n\n       15～64세 인구\n       (부양 인구)\n\n       65세 이상 인구\n                                     15\n       (노인 인구)\n\n       * 노령화 지수= (65세 이상 인구/ 0～14세 인구) × 100\n      ** 유소년 부양비= (0～14세 인구/ 15～64세 인구) × 100\n     *** 노인 부양비= (65세 이상 인구/ 15～64세 인구) × 100\n     **** 총부양비= {(0～14세 인구+ 65세 이상 인구) / 15～64세 인구} × 100",
+   "choices": [
+    {
+     "number": 1,
+     "text": "2020년에노인인구는 유소년 인구의 2배 이상이다."
+    },
+    {
+     "number": 2,
+     "text": "2000년에비해2020년의부양 인구는 감소하였다."
+    },
+    {
+     "number": 3,
+     "text": "2000년유소년부양비와2020년 노인 부양비는 동일하다."
+    },
+    {
+     "number": 4,
+     "text": "2000년에비해2020년의노인 인구는 10% 증가하였고, 유소년 인구는 5% 감소하였다."
+    },
+    {
+     "number": 5,
+     "text": "2000년에비해2020년의유소년 부양비는 감소하였고, 노인 부양비와 총부양비는 모두 증가하였다. * 확인 사항 ◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 4
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2022_JUNE_Q20.png",
+   "question_image_sha256": "4c2aec125ccf75d22e67f3248e9db2789cca96d17f49d3d70a04a7d7a77117a1",
+   "image_size_px": [
+    977,
+    1366
+   ],
+   "review_required": false,
+   "review_reasons": []
+  }
+ ]
+}

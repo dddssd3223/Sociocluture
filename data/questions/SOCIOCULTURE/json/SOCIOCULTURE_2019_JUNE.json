@@ -1,0 +1,1738 @@
+{
+ "exam_id": "SOCIOCULTURE_2019_JUNE",
+ "subject": "SOCIOCULTURE",
+ "year": 2019,
+ "exam_type": "JUNE",
+ "exam_period": "6월 모의평가",
+ "source_file": "2019학년도_06월_사회문화_문제.pdf",
+ "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+ "pipeline_version": "p1-v1",
+ "page_count": 4,
+ "start_page": 1,
+ "end_page": 4,
+ "skipped_pages": [],
+ "anchor_method": "pdf_text",
+ "inferred_numbers": [],
+ "shared_passage_groups": [],
+ "missing_numbers": [],
+ "header_metadata": {
+  "year": 2019,
+  "exam_type": "JUNE",
+  "subject_in_header": false,
+  "source": "ocr",
+  "raw": "2019확년도 a oa 6월 모의평가 문제지         1\n\n    사회탐구 SS (tay 2p\n\n| 성명|   | |수혈번회 | | | | | | | | |"
+ },
+ "metadata_verified": true,
+ "layout": [
+  {
+   "page": 0,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 422.25994014536127,
+    "top": 245.8683197947841,
+    "bottom": 1068.4292432663533
+   },
+   "text_quality": 0.882
+  },
+  {
+   "page": 1,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.8200085506627,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.8
+  },
+  {
+   "page": 2,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.8200085506627,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.81
+  },
+  {
+   "page": 3,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.8200085506627,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.807
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q01",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 1,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      256.31,
+      420.26,
+      625.65
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 257.87,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "1. 밑줄 친 ㉠～㉣과 같은 현상의 일반적인 특징에 대한 질문에 모두\n 옳게 응답한 학생은?\n\n\n   전염성이 강한 AI 바이러스는 닭과 오리 등의 ㉠체내에 침투한 뒤\n  세포에 붙어 폐사에 이르게 해 농가에 막대한 피해를 주고 있다. 이에\n  국내 연구팀은 SL이 ㉡조류의 체내에 침투한 AI 바이러스가 세포에\n  달라붙는 것을 막아 감염을 차단하는지를 확인하기 위해 동물 실험을\n   했다. 이 실험에서 닭에게 SL을 먹이면 AI 바이러스가 체내에 있는\n  ㉢SL의 올리고당과 결합해 체외로 배출되는 결과를 확인했다. 이를\n  토대로 ㉣닭의 사료에 SL을 섞어 사육하면 AI 바이러스 감염과 확산을\n  예방할 수 있다고 발표했다.\n\n     * AI : 조류 인플루엔자의 약자\n    ** SL: 인체의 면역 성분인 시알릭락토스의 약자\n\n\n                  학생                     갑 을 병 정 무  질문\n  ㉠과 같은 현상은 가치 함축적인가?    × ○  ×  × ○\n\n  ㉡과 같은 현상은 동일한 조건하에서는\n                     ○  ×  × ○  ×\n  항상 동일한 결과가 발생하는가?\n\n  ㉢과 같은 현상은 보편성과 특수성이 공존\n                          × ○ ○  ×  ×\n  하는가?\n  ㉣과 같은 현상은 당위 법칙을 따르는가?  ×  × ○ ○ ○\n\n                                      (○: 예, × : 아니요)\n\n ① 갑   ② 을   ③ 병   ④ 정   ⑤ 무",
+   "shared_passage_text": "",
+   "stem": "1. 밑줄 친 ㉠～㉣과 같은 현상의 일반적인 특징에 대한 질문에 모두 옳게 응답한 학생은?",
+   "passage": "전염성이 강한 AI 바이러스는 닭과 오리 등의 ㉠체내에 침투한 뒤\n  세포에 붙어 폐사에 이르게 해 농가에 막대한 피해를 주고 있다. 이에\n  국내 연구팀은 SL이 ㉡조류의 체내에 침투한 AI 바이러스가 세포에\n  달라붙는 것을 막아 감염을 차단하는지를 확인하기 위해 동물 실험을\n   했다. 이 실험에서 닭에게 SL을 먹이면 AI 바이러스가 체내에 있는\n  ㉢SL의 올리고당과 결합해 체외로 배출되는 결과를 확인했다. 이를\n  토대로 ㉣닭의 사료에 SL을 섞어 사육하면 AI 바이러스 감염과 확산을\n  예방할 수 있다고 발표했다.\n\n     * AI : 조류 인플루엔자의 약자\n    ** SL: 인체의 면역 성분인 시알릭락토스의 약자\n\n\n                  학생                     갑 을 병 정 무  질문\n  ㉠과 같은 현상은 가치 함축적인가?    × ○  ×  × ○\n\n  ㉡과 같은 현상은 동일한 조건하에서는\n                     ○  ×  × ○  ×\n  항상 동일한 결과가 발생하는가?\n\n  ㉢과 같은 현상은 보편성과 특수성이 공존\n                          × ○ ○  ×  ×\n  하는가?\n  ㉣과 같은 현상은 당위 법칙을 따르는가?  ×  × ○ ○ ○\n\n                                      (○: 예, × : 아니요)",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑"
+    },
+    {
+     "number": 2,
+     "text": "을"
+    },
+    {
+     "number": 3,
+     "text": "병"
+    },
+    {
+     "number": 4,
+     "text": "정"
+    },
+    {
+     "number": 5,
+     "text": "무"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 1,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q01.png",
+   "question_image_sha256": "7bd4b478557b0e9b8e01daadb009e485f7f49b32f3863cee5e7ae5bc34c87a90",
+   "image_size_px": [
+    962,
+    1026
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q02",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 2,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      663.09,
+      420.26,
+      1067.35
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 664.91,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "2. 사회･문화 현상을 바라보는 갑～병의 서로 다른 관점에 대한\n 설명으로 옳은 것은? [3점]\n\n\n  사회자: 세대 갈등의 원인에 대한 의견을 말씀해 주십시오.\n   갑: 기성세대는 자신의 지식과 경험을 전수하고, 젊은 세대는 이것을\n    배우면서 새로운 아이디어를 제공하는 역할을 맡고 있습니다. 그런데\n    급격한 사회 변동으로 인해 이러한 역할 수행 체계가 무너지고\n    구성원 간 상호 의존성이 약화되면 세대 갈등이 나타납니다.\n   을: 여러 사회 집단 내에서 나타나는 다양한 상황에 대해 개별 행위자\n    들은 주관적으로 해석하고 각기 다른 의미를 부여합니다. 이러한\n    의미 부여의 차이는 세대 간에 더욱 두드러지게 나타납니다. 이는\n    세대 간 인식, 태도, 행동의 차이로 이어지고 그 결과 세대 갈등이\n     발생합니다.\n   병: 사회 각 분야에서 주도적으로 의사 결정권을 행사하는 기성세대는\n    사회의 지배적 규범을 자신들에게 유리하게 만들어, 젊은 세대가\n    주류 사회로 진입하고 성장하는 것을 가로막고 있습니다. 이로 인해\n    세대 갈등이 나타납니다.\n\n ①갑의관점은상징을 통한 개인 간 상호 작용에 초점을 맞춘다.\n ②을의관점은사회 각 부분이 상호 보완적 역할을 수행한다고\n    본다.\n ③병의관점은갈등을 사회 변동의 원동력으로 본다.\n ④갑의관점은을의관점과달리 사회 구조가 개인에게 미치는\n   영향을 간과한다.\n ⑤병의관점은갑의관점과달리 능력에 따른 차등 보상의 필요\n   성을 강조한다.",
+   "shared_passage_text": "",
+   "stem": "2. 사회･문화 현상을 바라보는 갑～병의 서로 다른 관점에 대한 설명으로 옳은 것은? [3점]",
+   "passage": "사회자: 세대 갈등의 원인에 대한 의견을 말씀해 주십시오.\n   갑: 기성세대는 자신의 지식과 경험을 전수하고, 젊은 세대는 이것을\n    배우면서 새로운 아이디어를 제공하는 역할을 맡고 있습니다. 그런데\n    급격한 사회 변동으로 인해 이러한 역할 수행 체계가 무너지고\n    구성원 간 상호 의존성이 약화되면 세대 갈등이 나타납니다.\n   을: 여러 사회 집단 내에서 나타나는 다양한 상황에 대해 개별 행위자\n    들은 주관적으로 해석하고 각기 다른 의미를 부여합니다. 이러한\n    의미 부여의 차이는 세대 간에 더욱 두드러지게 나타납니다. 이는\n    세대 간 인식, 태도, 행동의 차이로 이어지고 그 결과 세대 갈등이\n     발생합니다.\n   병: 사회 각 분야에서 주도적으로 의사 결정권을 행사하는 기성세대는\n    사회의 지배적 규범을 자신들에게 유리하게 만들어, 젊은 세대가\n    주류 사회로 진입하고 성장하는 것을 가로막고 있습니다. 이로 인해\n    세대 갈등이 나타납니다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑의관점은상징을 통한 개인 간 상호 작용에 초점을 맞춘다."
+    },
+    {
+     "number": 2,
+     "text": "을의관점은사회 각 부분이 상호 보완적 역할을 수행한다고 본다."
+    },
+    {
+     "number": 3,
+     "text": "병의관점은갈등을 사회 변동의 원동력으로 본다."
+    },
+    {
+     "number": 4,
+     "text": "갑의관점은을의관점과달리 사회 구조가 개인에게 미치는 영향을 간과한다."
+    },
+    {
+     "number": 5,
+     "text": "병의관점은갑의관점과달리 능력에 따른 차등 보상의 필요 성을 강조한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q02.png",
+   "question_image_sha256": "1ee64cbfc9a6b96fc0a129dc774e90b46bb30ade8248dbe4b554b114660141e5",
+   "image_size_px": [
+    962,
+    1123
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q03",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 3,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      424.26,
+      256.31,
+      774.1,
+      576.33
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 257.87,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "3. 갑～병이 가진 문화 이해 태도에 대한 설명으로 옳은 것은?\n\n\n\n\n\n ①갑의태도는을의태도와달리 문화 간에 우열이 존재한다고 본다.\n ②을의태도는갑의태도에비해 타 문화 수용에 적극적이다.\n ③을의태도는병의태도에비해 문화의 다양성 확보에 유리하다.\n ④병의태도는을의태도와달리 집단 구성원의 결속력을 높이는 데\n   기여한다.\n ⑤을, 병의 태도는 모두 특정 사회의 문화를 기준으로 타 문화를\n   평가할 수 있다고 본다.",
+   "shared_passage_text": "",
+   "stem": "3. 갑～병이 가진 문화 이해 태도에 대한 설명으로 옳은 것은?",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑의태도는을의태도와달리 문화 간에 우열이 존재한다고 본다."
+    },
+    {
+     "number": 2,
+     "text": "을의태도는갑의태도에비해 타 문화 수용에 적극적이다."
+    },
+    {
+     "number": 3,
+     "text": "을의태도는병의태도에비해 문화의 다양성 확보에 유리하다."
+    },
+    {
+     "number": 4,
+     "text": "병의태도는을의태도와달리 집단 구성원의 결속력을 높이는 데 기여한다."
+    },
+    {
+     "number": 5,
+     "text": "을, 병의 태도는 모두 특정 사회의 문화를 기준으로 타 문화를 평가할 수 있다고 본다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "스스 지역 OO 부족은 가족이 죽으면 장례 비용을 마련할 때까지\n몇 년 동안 시신을 집안에 두었다가 나중에 매장하는 풍습이\n있어. 이러한 SSS 시신이 잘 썩지 않는 AA 지역의 자연적\n조건과 장례를 성대하게 치를수록 내세에 더 좋은 곳으로\n간다는 OO 부족의 믿음에서 비롯된 것으로 이해할 수 2\n\n우리나라처럼 조상을 양지바른 곳에 모시고 묘를 잘 관리\n하는 전통에 비추어 볼 때, 조상의 시신을 방치하는 것은\n조상에 대한 모독일 뿐만 아니라 비위생적이라고 생각해.\nOO 부족의 장례 문화는 바뀌어야지.\n\n내가 알고 있는 AROS 이미 화장(례)이 보편적인 장례       cK\nptt, | 풍습으로 정착되었어. 화장은 토지 낭비를 막고 시신을 위생적으로 | =f\n\nBele 수 있는 선진적인 장례 문화야. ( OO 부족이나 우리에게\n5    남아있는 매장 BES 하루 빨리 화장으로 완전히 대체되어야 해.",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q03.png",
+   "question_image_sha256": "1886bc7cf93c7279785855d3f1bd1e0d9ac4a6fc15f86ee62e43a5044b8ccc42",
+   "image_size_px": [
+    972,
+    889
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q04",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 4,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      424.26,
+      591.81,
+      774.1,
+      822.2
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 593.51,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "4. 밑줄 친 ㉠～㉥에 대한 설명으로 옳은 것은?\n\n\n    갑은 교사가 되길 원하던 어머니의 희망대로 ㉠사회교육과에 진학하였다.\n  그러나 어릴 적부터 간절히 진학을 꿈꿔 온 ㉡미술 대학이 아니었기 때문에\n  갑은 점점 ㉢학업에 흥미를 잃고 강의에도 자주 결석하였다. 사범 대학을 계속\n  다닐지 말지 거듭 ㉣고민하던 갑은 두 학과의 교육과정을 모두 이수할 수 있는\n  복수 전공제가 있다는 것을 알고 미술교육과의 강의를 듣기 시작하였다. 또한,\n  미술교육과 친구들이 추천한 ㉤교육 봉사 동아리에 가입하여 열심히 활동하였다.\n  이 과정에서 가르침의 보람을 느끼게 된 갑은 졸업식장에서 ㉥성적 최우수상을 받을\n  것을 기대하며 학과 공부에 매진하고 있다.\n\n ①㉠은 2차적 사회화 기관, ㉤은 공식적 사회화 기관이다.\n ②㉡은 갑의 내집단이자 비공식적 사회화 기관이다.\n ③㉢의 원인은 소속 집단과 준거 집단 간의 불일치에 있다.\n ④㉣은 갑이 겪은 역할 갈등이며, 제도적 뒷받침에 의해 해결되었다.\n ⑤㉥은 갑의 역할에 대한 보상에 해당한다.",
+   "shared_passage_text": "",
+   "stem": "4. 밑줄 친 ㉠～㉥에 대한 설명으로 옳은 것은?",
+   "passage": "갑은 교사가 되길 원하던 어머니의 희망대로 ㉠사회교육과에 진학하였다.\n  그러나 어릴 적부터 간절히 진학을 꿈꿔 온 ㉡미술 대학이 아니었기 때문에\n  갑은 점점 ㉢학업에 흥미를 잃고 강의에도 자주 결석하였다. 사범 대학을 계속\n  다닐지 말지 거듭 ㉣고민하던 갑은 두 학과의 교육과정을 모두 이수할 수 있는\n  복수 전공제가 있다는 것을 알고 미술교육과의 강의를 듣기 시작하였다. 또한,\n  미술교육과 친구들이 추천한 ㉤교육 봉사 동아리에 가입하여 열심히 활동하였다.\n  이 과정에서 가르침의 보람을 느끼게 된 갑은 졸업식장에서 ㉥성적 최우수상을 받을\n  것을 기대하며 학과 공부에 매진하고 있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠은 2차적 사회화 기관, ㉤은 공식적 사회화 기관이다."
+    },
+    {
+     "number": 2,
+     "text": "㉡은 갑의 내집단이자 비공식적 사회화 기관이다."
+    },
+    {
+     "number": 3,
+     "text": "㉢의 원인은 소속 집단과 준거 집단 간의 불일치에 있다."
+    },
+    {
+     "number": 4,
+     "text": "㉣은 갑이 겪은 역할 갈등이며, 제도적 뒷받침에 의해 해결되었다."
+    },
+    {
+     "number": 5,
+     "text": "㉥은 갑의 역할에 대한 보상에 해당한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q04.png",
+   "question_image_sha256": "6330d682ca879f103371acbb56f0e4768e215424cfaa5ddc35bd6a43d0310ace",
+   "image_size_px": [
+    972,
+    640
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q05",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 5,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      424.26,
+      837.68,
+      774.1,
+      1067.35
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 839.33,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "5. 밑줄 친 ㉠～㉥에 대한 설명으로 옳은 것은? [3점]\n\n\n    노예 해방 이후에도 미국 흑인들의 삶은 고달팠다. 이들은 삶의 애환을 음악에\n  담아 표현하였는데 이것이 ㉠블루스이다. 한편 미국 서부 지역에서는 백인들을\n  중심으로 ㉡웨스턴 뮤직이 출현하였다. 백인들은 ㉢블루스를 ‘인종 음악’이라고\n  부르면서 천대하였고, 자신들의 음악과 철저히 구분하였다. 그러나 1950년대 무렵\n  흑인과 백인의 음악은 각각의 색채가 모두 담긴 ㉣새로운 음악 장르인 로큰롤로\n   발전되었다. 당시 로큰롤은 ㉤통속적이고 즉흥적이라는 이유로 비난받는 경우도\n   있었으나, 이후 ㉥TV와 라디오를 통해 전 세계로 급속히 진출하면서 대중문화의\n  한 줄기를 이루었다.\n\n ① ㉠, ㉡은 모두 미국 사회의 하위문화였다.\n ② ㉢은 문화 지체 사례에 해당한다.\n ③ ㉣은 문화 공존 사례에 해당한다.\n ④ ㉤은 물질문화의 확산에 대한 반발이다.\n ⑤ ㉥은 강제적 문화 접변 사례에 해당한다.",
+   "shared_passage_text": "",
+   "stem": "5. 밑줄 친 ㉠～㉥에 대한 설명으로 옳은 것은? [3점]",
+   "passage": "노예 해방 이후에도 미국 흑인들의 삶은 고달팠다. 이들은 삶의 애환을 음악에\n  담아 표현하였는데 이것이 ㉠블루스이다. 한편 미국 서부 지역에서는 백인들을\n  중심으로 ㉡웨스턴 뮤직이 출현하였다. 백인들은 ㉢블루스를 ‘인종 음악’이라고\n  부르면서 천대하였고, 자신들의 음악과 철저히 구분하였다. 그러나 1950년대 무렵\n  흑인과 백인의 음악은 각각의 색채가 모두 담긴 ㉣새로운 음악 장르인 로큰롤로\n   발전되었다. 당시 로큰롤은 ㉤통속적이고 즉흥적이라는 이유로 비난받는 경우도\n   있었으나, 이후 ㉥TV와 라디오를 통해 전 세계로 급속히 진출하면서 대중문화의\n  한 줄기를 이루었다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠, ㉡은 모두 미국 사회의 하위문화였다."
+    },
+    {
+     "number": 2,
+     "text": "㉢은 문화 지체 사례에 해당한다."
+    },
+    {
+     "number": 3,
+     "text": "㉣은 문화 공존 사례에 해당한다."
+    },
+    {
+     "number": 4,
+     "text": "㉤은 물질문화의 확산에 대한 반발이다."
+    },
+    {
+     "number": 5,
+     "text": "㉥은 강제적 문화 접변 사례에 해당한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q05.png",
+   "question_image_sha256": "4f27d05780821bbeab9536fa27f4d53da9c45fb87e1215cb802315cc3a7351f5",
+   "image_size_px": [
+    972,
+    638
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q06",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 6,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      158.39,
+      418.82,
+      510.46
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 160.13,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "6. 표는 자료 수집 방법 A～C의 일반적인 특징을 나타낸 것이다.\n 이에 대한 옳은 설명을 <보기>에서 고른 것은? (단, A～C는 각각\n 실험법, 질문지법, 면접법 중 하나이다.) [3점]\n\n   자료 수집 방법       A          B          C\n                                 (가)\n    일반적인 특징                                    (나)\n                          (다)          (라)\n\n               <보 기>\n\n   ㄱ. A가 질문지법이고, (가)가 ‘독립 변수와 종속 변수의 관계를\n    검증하는 연구에 적합하다.’라면, (나)는 ‘자료 수집 과정에서\n    연구자가 유연성이나 융통성을 발휘하기 어렵다.’가 적절하다.\n   ㄴ. C가 면접법이고, (다)가 ‘인위적으로 상황을 통제함으로써\n    변수의 효과를 관찰하기에 용이하다.’라면, (라)는 ‘대규모\n    집단을 대상으로 한 자료 수집에 용이하다.’가 적절하다.\n   ㄷ. (가)가 ‘연구 대상자와 언어를 매개로 한 상호 작용이 필수적\n      이다.’라면, (나)는 ‘실제성이 높은 생생한 자료를 수집하기에\n     용이하다.’가 적절하다.\n   ㄹ. (나)가 ‘소수의 응답자로부터 깊이 있는 정보를 수집하기에\n     용이하다.’라면, (가)는 ‘수집된 자료를 통계적으로 처리하기에\n     용이하다.’가 적절하다.\n\n ① ㄱ, ㄴ ② ㄱ, ㄷ ③ ㄴ, ㄷ ④ ㄴ, ㄹ ⑤ ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "6. 표는 자료 수집 방법 A～C의 일반적인 특징을 나타낸 것이다. 이에 대한 옳은 설명을 <보기>에서 고른 것은? (단, A～C는 각각 실험법, 질문지법, 면접법 중 하나이다.) [3점]",
+   "passage": "자료 수집 방법       A          B          C\n                                 (가)\n    일반적인 특징                                    (나)\n                          (다)          (라)\n\n               <보 기>\n\n   ㄱ. A가 질문지법이고, (가)가 ‘독립 변수와 종속 변수의 관계를\n    검증하는 연구에 적합하다.’라면, (나)는 ‘자료 수집 과정에서\n    연구자가 유연성이나 융통성을 발휘하기 어렵다.’가 적절하다.\n   ㄴ. C가 면접법이고, (다)가 ‘인위적으로 상황을 통제함으로써\n    변수의 효과를 관찰하기에 용이하다.’라면, (라)는 ‘대규모\n    집단을 대상으로 한 자료 수집에 용이하다.’가 적절하다.\n   ㄷ. (가)가 ‘연구 대상자와 언어를 매개로 한 상호 작용이 필수적\n      이다.’라면, (나)는 ‘실제성이 높은 생생한 자료를 수집하기에\n     용이하다.’가 적절하다.\n   ㄹ. (나)가 ‘소수의 응답자로부터 깊이 있는 정보를 수집하기에\n     용이하다.’라면, (가)는 ‘수집된 자료를 통계적으로 처리하기에\n     용이하다.’가 적절하다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q06.png",
+   "question_image_sha256": "c677f2613eb945e72bb2370286ae9a2146cb850e49e85f497b9f04a570659592",
+   "image_size_px": [
+    958,
+    978
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q07",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 7,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      519.46,
+      418.82,
+      767.12
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 521.27,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "7. 다음 자료에 대한 설명으로 옳은 것은? (단, A, B는 각각 상대적\n 빈곤과 절대적 빈곤 중 하나이다.)\n\n\n    A는 인간이 최소한의 생활을 유지하기 어려운 상태로서, 주로 자원이나\n  소득이 부족한 상태를 의미한다. 우리나라에서는 A를 측정하기 위한 기준선으로\n\n       (가)  을/를 활용한다. B는 개인이 다른 사람에 비해 자원이나 소득이 결핍되어\n  사회 구성원 다수가 누리는 생활을 영위하지 못하는 상태를 의미한다. 우리나라\n\n  에서는 B를 측정하기 위한 기준선으로   (나)  을/를 활용한다.\n\n\n ①B는 개인이 빈곤 상태에 있다고 주관적으로 인식하는 개념이다.\n ②B의 기준을 적용하면 기본적인 의식주가 충족된 가구라도\n   빈곤 가구에 포함될 수 있다.\n ③A는 B와 달리 소득의 불평등 정도를 측정하는 데 활용된다.\n ④A에 따른 빈곤율과 B에 따른 빈곤율의 합이 그 나라 전체의\n   빈곤율이다.\n ⑤(가)는 중위 소득의 50%, (나)는 최저 생계비이다.",
+   "shared_passage_text": "",
+   "stem": "7. 다음 자료에 대한 설명으로 옳은 것은? (단, A, B는 각각 상대적 빈곤과 절대적 빈곤 중 하나이다.)",
+   "passage": "A는 인간이 최소한의 생활을 유지하기 어려운 상태로서, 주로 자원이나\n  소득이 부족한 상태를 의미한다. 우리나라에서는 A를 측정하기 위한 기준선으로\n\n       (가)  을/를 활용한다. B는 개인이 다른 사람에 비해 자원이나 소득이 결핍되어\n  사회 구성원 다수가 누리는 생활을 영위하지 못하는 상태를 의미한다. 우리나라\n\n  에서는 B를 측정하기 위한 기준선으로   (나)  을/를 활용한다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "B는 개인이 빈곤 상태에 있다고 주관적으로 인식하는 개념이다."
+    },
+    {
+     "number": 2,
+     "text": "B의 기준을 적용하면 기본적인 의식주가 충족된 가구라도 빈곤 가구에 포함될 수 있다."
+    },
+    {
+     "number": 3,
+     "text": "A는 B와 달리 소득의 불평등 정도를 측정하는 데 활용된다."
+    },
+    {
+     "number": 4,
+     "text": "A에 따른 빈곤율과 B에 따른 빈곤율의 합이 그 나라 전체의 빈곤율이다."
+    },
+    {
+     "number": 5,
+     "text": "(가)는 중위 소득의 50%, (나)는 최저 생계비이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q07.png",
+   "question_image_sha256": "b8c69d7f4871d62ce4695322b2e7dde9fdea6edc0017ab24559d7711193aea42",
+   "image_size_px": [
+    958,
+    688
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q08",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 8,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      776.48,
+      418.82,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 778.07,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "8. 밑줄 친 ㉠～㉥과 같은 사회 집단과 사회 조직의 일반적 특징에\n 대한 설명으로 옳은 것은? [3점]\n\n\n   갑은 ㉠법학 전문 대학원 학생이다. 평소 환경 문제에 관심이 많아서\n  ㉡○○시민 연대에서 활동하고 있다. 또한 주말마다 ○○시민 연대의 ㉢야구\n  동호회를 통해 친목을 다지고 있다. 한편 갑의 남편 을은 자동차 회사에 재직\n  하면서 ㉣노동조합 활동도 열심히 하고 있다. 주말에는 ㉤음악 학원에서 드럼을\n  배우며 스트레스를 해소하고 있다. 두 사람은 너무 바쁘지만 ㉥가족과 좀 더\n  많은 시간을 보낼 방법에 대해 고민 중이다.\n\n\n ①㉠은 공동의 목표나 관심사를 가진 사람들의 자발적 참여로\n   결성된 집단이다.\n ②㉥은 선택 의지에 의해 형성된 집단이다.\n ③㉠은 ㉣과 달리 특정 목적 달성을 위한 지위와 역할이 명확한\n   조직이다.\n ④㉡은㉣, ㉥과달리구성원 간 직접적 접촉을 통한 전인격적\n   관계에 기초한 집단이다.\n ⑤㉢은㉠, ㉤과달리공식 조직 내에서 구성원 간의 친밀한\n   인간관계에 바탕을 두고 형성된 조직이다.",
+   "shared_passage_text": "",
+   "stem": "8. 밑줄 친 ㉠～㉥과 같은 사회 집단과 사회 조직의 일반적 특징에 대한 설명으로 옳은 것은? [3점]",
+   "passage": "갑은 ㉠법학 전문 대학원 학생이다. 평소 환경 문제에 관심이 많아서\n  ㉡○○시민 연대에서 활동하고 있다. 또한 주말마다 ○○시민 연대의 ㉢야구\n  동호회를 통해 친목을 다지고 있다. 한편 갑의 남편 을은 자동차 회사에 재직\n  하면서 ㉣노동조합 활동도 열심히 하고 있다. 주말에는 ㉤음악 학원에서 드럼을\n  배우며 스트레스를 해소하고 있다. 두 사람은 너무 바쁘지만 ㉥가족과 좀 더\n  많은 시간을 보낼 방법에 대해 고민 중이다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠은 공동의 목표나 관심사를 가진 사람들의 자발적 참여로 결성된 집단이다."
+    },
+    {
+     "number": 2,
+     "text": "㉥은 선택 의지에 의해 형성된 집단이다."
+    },
+    {
+     "number": 3,
+     "text": "㉠은 ㉣과 달리 특정 목적 달성을 위한 지위와 역할이 명확한 조직이다."
+    },
+    {
+     "number": 4,
+     "text": "㉡은㉣, ㉥과달리구성원 간 직접적 접촉을 통한 전인격적 관계에 기초한 집단이다."
+    },
+    {
+     "number": 5,
+     "text": "㉢은㉠, ㉤과달리공식 조직 내에서 구성원 간의 친밀한 인간관계에 바탕을 두고 형성된 조직이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q08.png",
+   "question_image_sha256": "b6413cdf94137c9c415ae83d71ec1c1294842aa08e56a110a114c2fdceaa99d7",
+   "image_size_px": [
+    958,
+    804
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q09",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 9,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      158.39,
+      774.1,
+      538.89
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 160.13,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "9. 그림은 문화 변동 요인 ㉠～㉤을 구분한 것이다. 이에 대한 설명\n 으로 옳은 것은? (단, ㉠～㉤은 각각 발견, 발명, 직접 전파, 자극\n 전파, 간접 전파 중 하나이다.)\n\n\n\n\n\n ①(가)가 ‘존재하지 않던 문화 요소를 새롭게 만들어냈는가?’라면,\n   인쇄술은 ㉡의 사례에 해당한다.\n ②(나)가 ‘문화 요소가 매체에 의해 전달되었는가?’라면, 통신\n   기술이 발달할수록 ㉣을 통한 문화 변동이 더 용이하게 나타날\n   수 있다.\n ③㉠의사례로활을 들 수 있다면, (가)는 ‘존재하고 있었으나\n   알려지지 않았던 문화 요소를 찾아냈는가?’가 적절하다.\n ④㉢의사례로전쟁을 통해 유럽에 전파된 설탕을 들 수 있다면,\n    (나)는 ‘문화 요소의 전달이 직접 이루어졌는가?’가 적절하다.\n ⑤㉤의사례로외국인 선교사에 의해 외래 종교가 전래된 것을\n  들 수 있다.",
+   "shared_passage_text": "",
+   "stem": "9. 그림은 문화 변동 요인 ㉠～㉤을 구분한 것이다. 이에 대한 설명 으로 옳은 것은? (단, ㉠～㉤은 각각 발견, 발명, 직접 전파, 자극 전파, 간접 전파 중 하나이다.)",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)가 ‘존재하지 않던 문화 요소를 새롭게 만들어냈는가?’라면, 인쇄술은 ㉡의 사례에 해당한다."
+    },
+    {
+     "number": 2,
+     "text": "(나)가 ‘문화 요소가 매체에 의해 전달되었는가?’라면, 통신 기술이 발달할수록 ㉣을 통한 문화 변동이 더 용이하게 나타날 수 있다."
+    },
+    {
+     "number": 3,
+     "text": "㉠의사례로활을 들 수 있다면, (가)는 ‘존재하고 있었으나 알려지지 않았던 문화 요소를 찾아냈는가?’가 적절하다."
+    },
+    {
+     "number": 4,
+     "text": "㉢의사례로전쟁을 통해 유럽에 전파된 설탕을 들 수 있다면, (나)는 ‘문화 요소의 전달이 직접 이루어졌는가?’가 적절하다."
+    },
+    {
+     "number": 5,
+     "text": "㉤의사례로외국인 선교사에 의해 외래 종교가 전래된 것을 들 수 있다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "Le Mer es ete 만들는가? |          oe\n®",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q09.png",
+   "question_image_sha256": "f901a4c7cc90d991543beecd8af15a19236fd505d6b5f52e46e98b778b4beec5",
+   "image_size_px": [
+    976,
+    1057
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q10",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 10,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      636.81,
+      774.1,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 638.45,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "10. 다음 연구에 대한 옳은 설명만을 <보기>에서 있는 대로 고른\n 것은? [3점]\n\n\n   갑은 청소년 비행에 부모와의 친밀도 및 ㉠비행 친구와의 교제가\n  미치는 영향에 대하여 연구하고자 선행 연구 자료를 분석하였다. 그리고\n  ㉡‘부모와의 친밀도가 높을수록 비행을 덜 저지를 것이다.’, ㉢‘비행\n  친구와 교제할수록 비행을 더 저지를 것이다.’라는 잠정적 결론을 도출\n   하였다. 이어 청소년 1,000명을 대상으로 부모와의 1주일 평균 대화\n   시간, ㉣주당 1시간 이상 접촉하는 친구 중에 비행을 저지른 친구가\n  있는지의 여부, 그리고 지난 1년간 비행 경험 유무에 대하여 설문\n  조사를 실시하였다. 수집된 자료 분석 결과는 아래와 같으며, 이 결과는\n  통계적 검증 과정을 거쳤다.\n\n                                                    (단위: 명)\n\n   ㉤부모와의  ㉥비행 친구    비행 경험 유무\n                                 계\n    대화 시간     유무     없음    있음\n\n             있음           140          60          200\n     적음\n             없음           180          120         300\n\n             있음           240          60          300\n     많음\n             없음           140          60          200\n\n\n               <보 기>\n\n   ㄱ. 1차 자료와 2차 자료가 모두 활용되었다.\n   ㄴ. ㉡은 ㉤과 ㉥의 관계를 통해 검증된다.\n   ㄷ. ㉣은 ㉠의 조작적 정의에 해당한다.\n   ㄹ. 분석 결과는 ㉡과 ㉢을 지지하는 근거로 활용될 수 있다.\n\n ① ㄱ, ㄴ     ② ㄱ, ㄷ     ③ ㄴ, ㄹ\n ④ ㄱ, ㄷ, ㄹ   ⑤ ㄴ, ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "10. 다음 연구에 대한 옳은 설명만을 <보기>에서 있는 대로 고른 것은? [3점]",
+   "passage": "갑은 청소년 비행에 부모와의 친밀도 및 ㉠비행 친구와의 교제가\n  미치는 영향에 대하여 연구하고자 선행 연구 자료를 분석하였다. 그리고\n  ㉡‘부모와의 친밀도가 높을수록 비행을 덜 저지를 것이다.’, ㉢‘비행\n  친구와 교제할수록 비행을 더 저지를 것이다.’라는 잠정적 결론을 도출\n   하였다. 이어 청소년 1,000명을 대상으로 부모와의 1주일 평균 대화\n   시간, ㉣주당 1시간 이상 접촉하는 친구 중에 비행을 저지른 친구가\n  있는지의 여부, 그리고 지난 1년간 비행 경험 유무에 대하여 설문\n  조사를 실시하였다. 수집된 자료 분석 결과는 아래와 같으며, 이 결과는\n  통계적 검증 과정을 거쳤다.\n\n                                                    (단위: 명)\n\n   ㉤부모와의  ㉥비행 친구    비행 경험 유무\n                                 계\n    대화 시간     유무     없음    있음\n\n             있음           140          60          200\n     적음\n             없음           180          120         300\n\n             있음           240          60          300\n     많음\n             없음           140          60          200\n\n\n               <보 기>\n\n   ㄱ. 1차 자료와 2차 자료가 모두 활용되었다.\n   ㄴ. ㉡은 ㉤과 ㉥의 관계를 통해 검증된다.\n   ㄷ. ㉣은 ㉠의 조작적 정의에 해당한다.\n   ㄹ. 분석 결과는 ㉡과 ㉢을 지지하는 근거로 활용될 수 있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 4,
+     "text": "ㄱ, ㄷ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄴ, ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q10.png",
+   "question_image_sha256": "3408d4e10cabb34c8746394da85d1373efc65729334b1f2c2498177f2d51a753",
+   "image_size_px": [
+    976,
+    1192
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q11",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 11,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      158.39,
+      418.82,
+      404.26
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 160.13,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "11. 그림의 (가)～(다)에 들어갈 내용으로 옳은 것은? (단, A～C는\n 각각 인쇄 매체, 영상 매체, 뉴 미디어 중 하나이다.) [3점]\n\n\n\n\n\n ①(가) －정보 유통의 신속성\n ②(나) －정보 전달의 양방향성\n ③(나) －정보 확산 경로의 다양성\n ④(다) －정보 생산자의 익명성\n ⑤(다) －정보 생산자와 소비자 간 경계의 명확성",
+   "shared_passage_text": "",
+   "stem": "11. 그림의 (가)～(다)에 들어갈 내용으로 옳은 것은? (단, A～C는 각각 인쇄 매체, 영상 매체, 뉴 미디어 중 하나이다.) [3점]",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가) －정보 유통의 신속성"
+    },
+    {
+     "number": 2,
+     "text": "(나) －정보 전달의 양방향성"
+    },
+    {
+     "number": 3,
+     "text": "(나) －정보 확산 경로의 다양성"
+    },
+    {
+     "number": 4,
+     "text": "(다) －정보 생산자의 익명성"
+    },
+    {
+     "number": 5,
+     "text": "(다) －정보 생산자와 소비자 간 경계의 명확성"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "| A, BE (에 비해 정보 재가공의 용이성이 낮아요. A, C= Be} 달리 복합 감각 정보의\n\n전달이 가능해요. (가) ~ (다)를 기준으로 ~ (의 일반적인 SAS 비교해 봅시다.\n\n(가)\n\n(다)\n\n(나)     |\naly\n\n히                        히\n름                                        =\n\n낮\n\noe)\n\nu\n\n낮\n\n을\n음\n\nmil) “Suge\nAC   4461 |",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q11.png",
+   "question_image_sha256": "a5ca9811088b4d5a4f1031ab181bb34ed0cc28b23ada69c15d6bcd47e0600174",
+   "image_size_px": [
+    958,
+    683
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q12",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 12,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      428.38,
+      418.82,
+      755.24
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 430.01,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "12. 교육을 바라보는 갑, 을의 관점에 대한 설명으로 옳은 것은?\n\n\n\n\n\n ①갑의관점은교육을 사회가 요구하는 규범 체계의 내면화 과정\n   으로 본다.\n ②갑의관점은교육 활동이 이루어지는 상황적 맥락에 대한\n   이해에 초점을 맞춘다.\n ③을의관점은교육이 계층의 재생산을 억제한다고 본다.\n ④을의관점은현재의 사회 질서를 유지하기 위해 교육 접근\n   기회의 평등을 강조한다.\n ⑤갑, 을의 관점은 모두 학교 교육의 내용에 계층 간 유불리가\n   존재함을 강조한다.",
+   "shared_passage_text": "",
+   "stem": "12. 교육을 바라보는 갑, 을의 관점에 대한 설명으로 옳은 것은?",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑의관점은교육을 사회가 요구하는 규범 체계의 내면화 과정 으로 본다."
+    },
+    {
+     "number": 2,
+     "text": "갑의관점은교육 활동이 이루어지는 상황적 맥락에 대한 이해에 초점을 맞춘다."
+    },
+    {
+     "number": 3,
+     "text": "을의관점은교육이 계층의 재생산을 억제한다고 본다."
+    },
+    {
+     "number": 4,
+     "text": "을의관점은현재의 사회 질서를 유지하기 위해 교육 접근 기회의 평등을 강조한다."
+    },
+    {
+     "number": 5,
+     "text": "갑, 을의 관점은 모두 학교 교육의 내용에 계층 간 유불리가 존재함을 강조한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "OO 고민 게시판\n\n원하는 대학에도 가고 좋은 직장도 가지고 싶은데 어떻게 해야 할까요?\n\nGRe: (갑) 열심히 공부하면 누구나 원하는 대학에 갈 수 있어요. 대학에서\n높은 학점을 받고 실력을 쌓으면 자기 전공에 맞게 AAS 할 수 있어요.\n이처럼 우리 교육이 인재를 양성해서 사회가 필요한 곳에 배치하는 역할을\n잘 수행하고 있으니 열심히 노력해 보세요.\n\nGRe: (을) 그렇지 않아요. 솔직히 부유층 자녀들만 원하는 대학에 가고\n좋은 직장 갖는 거 아닌가요? 그렇지 않은 아이들은 좋은 대학에도 못\n가지만, 설령 가더라도 좋은 직장에는 취업하기 어려워요. 결국 교육은\n가진 자들의 기득권을 유지하는 수단일 뿐이에요.",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q12.png",
+   "question_image_sha256": "ec3d4f9f8fa465c227f711dca58e1618b37f059f7736d76152d9e8429d888d9b",
+   "image_size_px": [
+    958,
+    908
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q13",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 13,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      779.36,
+      418.82,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 781.01,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "13. (가)～(다)에 나타난 일탈 이론에 대한 설명으로 옳은 것은? [3점]\n\n\n    (가) 가정에서 주로 생활하던 아이가 성장하여 학교에 가면 다양한 부류의\n     친구를 접하게 된다. 그 과정에서 소위 말하는 ‘문제아’를 친구로 사귀게\n     되면 일탈을 행하게 된다.\n\n    (나) 처음부터 ‘문제아’가 따로 있는 것이 아니다. 교사나 주변 학생들이 ‘문제아’\n     라고 손가락질하면 평범한 학생도 ‘문제아’로 인식되어 정상적인 학교생활에서\n     소외되고 배제되어 일탈을 행하게 된다.\n\n    (다) 우리 사회는 학업 성적과 대학 입시만을 지나치게 강조하는 반면, 학업 부진\n     학생들에게 적절한 방안을 제시하지 못하고 있다. 이 때문에 그 학생들이\n     학업을 포기하고 일탈을 행하게 된다.\n\n\n ①(가)는 차별적인 제재를 일탈 행동의 원인으로 본다.\n ②(나)는 문화적 목표와 제도적 수단 간의 괴리를 일탈 행동의\n   원인으로 본다.\n ③(다)는 일탈 행동의 원인을 거시적 측면에서 찾는다.\n ④(가)는 (나)와 달리 최초 일탈보다 일탈 행동의 반복에 초점을\n   맞춘다.\n ⑤(다)는 (나)와 달리 일탈 행동에 대한 사회적 반응을 중시한다.",
+   "shared_passage_text": "",
+   "stem": "13. (가)～(다)에 나타난 일탈 이론에 대한 설명으로 옳은 것은? [3점]",
+   "passage": "(가) 가정에서 주로 생활하던 아이가 성장하여 학교에 가면 다양한 부류의\n     친구를 접하게 된다. 그 과정에서 소위 말하는 ‘문제아’를 친구로 사귀게\n     되면 일탈을 행하게 된다.\n\n    (나) 처음부터 ‘문제아’가 따로 있는 것이 아니다. 교사나 주변 학생들이 ‘문제아’\n     라고 손가락질하면 평범한 학생도 ‘문제아’로 인식되어 정상적인 학교생활에서\n     소외되고 배제되어 일탈을 행하게 된다.\n\n    (다) 우리 사회는 학업 성적과 대학 입시만을 지나치게 강조하는 반면, 학업 부진\n     학생들에게 적절한 방안을 제시하지 못하고 있다. 이 때문에 그 학생들이\n     학업을 포기하고 일탈을 행하게 된다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)는 차별적인 제재를 일탈 행동의 원인으로 본다."
+    },
+    {
+     "number": 2,
+     "text": "(나)는 문화적 목표와 제도적 수단 간의 괴리를 일탈 행동의 원인으로 본다."
+    },
+    {
+     "number": 3,
+     "text": "(다)는 일탈 행동의 원인을 거시적 측면에서 찾는다."
+    },
+    {
+     "number": 4,
+     "text": "(가)는 (나)와 달리 최초 일탈보다 일탈 행동의 반복에 초점을 맞춘다."
+    },
+    {
+     "number": 5,
+     "text": "(다)는 (나)와 달리 일탈 행동에 대한 사회적 반응을 중시한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q13.png",
+   "question_image_sha256": "1a63564047a143b81e5528899baef56ed9764eddc261db9d0042325722f28e1e",
+   "image_size_px": [
+    958,
+    796
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q14",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 14,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      158.39,
+      774.1,
+      492.46
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 160.13,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "14. 밑줄 친 ㉠～㉢에 부각되어 있는 문화의 속성에 대한 설명으로\n 가장 적절한 것은?\n\n\n    뉴기니의 ○○ 부족 사회에서 남자는 아름답고 예술적인 것을 추구하는 존재로서,\n  여자는 공적인 일을 경영하고 추진하는 존재로서 각각 역할을 수행한다. 만약\n  ㉠그와 반대로 성 역할을 구분하는 사회의 구성원이 ○○ 부족을 만나 함께\n  생활한다면 어색함을 느낄 것이다. 이것은 성 역할이 하나의 문화로서 사회마다\n   다르다는 것을 의미한다. 사실 ㉡타고난 특성에서 기인한다고 생각하는 성 역할도\n  사회 속에서 후천적으로 획득된다. 최근 우리 사회에서는 성 역할에 대한\n  인식의 변화와 함께 성 평등 관련 제도의 도입, 여성의 경제적 지위 향상 등\n  다양한 요인에 의해 전통적인 성 역할 문화에 큰 변화가 일어나고 있다. ㉢이는\n  결혼 문화와 가족 형태에도 영향을 미치고 있다.\n\n\n ①㉠은 문화가 계승되고 발전하는 현상임을 보여준다.\n ②㉠은 한 문화 요소의 변화가 다른 문화 요소에 연쇄적 변화를\n   가져옴을 보여준다.\n ③㉡은 시간의 흐름에 따라 기존 문화 요소가 사라지거나 변화함을\n   보여준다.\n ④㉢은 특정 상황에서 상대방의 행동 방식을 예측할 수 있음을\n   보여준다.\n ⑤㉢은 문화 요소가 다른 문화 요소와 관련을 맺으며 하나의\n   전체를 형성하고 있음을 보여준다.",
+   "shared_passage_text": "",
+   "stem": "14. 밑줄 친 ㉠～㉢에 부각되어 있는 문화의 속성에 대한 설명으로 가장 적절한 것은?",
+   "passage": "뉴기니의 ○○ 부족 사회에서 남자는 아름답고 예술적인 것을 추구하는 존재로서,\n  여자는 공적인 일을 경영하고 추진하는 존재로서 각각 역할을 수행한다. 만약\n  ㉠그와 반대로 성 역할을 구분하는 사회의 구성원이 ○○ 부족을 만나 함께\n  생활한다면 어색함을 느낄 것이다. 이것은 성 역할이 하나의 문화로서 사회마다\n   다르다는 것을 의미한다. 사실 ㉡타고난 특성에서 기인한다고 생각하는 성 역할도\n  사회 속에서 후천적으로 획득된다. 최근 우리 사회에서는 성 역할에 대한\n  인식의 변화와 함께 성 평등 관련 제도의 도입, 여성의 경제적 지위 향상 등\n  다양한 요인에 의해 전통적인 성 역할 문화에 큰 변화가 일어나고 있다. ㉢이는\n  결혼 문화와 가족 형태에도 영향을 미치고 있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠은 문화가 계승되고 발전하는 현상임을 보여준다."
+    },
+    {
+     "number": 2,
+     "text": "㉠은 한 문화 요소의 변화가 다른 문화 요소에 연쇄적 변화를 가져옴을 보여준다."
+    },
+    {
+     "number": 3,
+     "text": "㉡은 시간의 흐름에 따라 기존 문화 요소가 사라지거나 변화함을 보여준다."
+    },
+    {
+     "number": 4,
+     "text": "㉢은 특정 상황에서 상대방의 행동 방식을 예측할 수 있음을 보여준다."
+    },
+    {
+     "number": 5,
+     "text": "㉢은 문화 요소가 다른 문화 요소와 관련을 맺으며 하나의 전체를 형성하고 있음을 보여준다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q14.png",
+   "question_image_sha256": "5082eacea62d37cad8dd3f04a6fe903e6ae1d00f8854e03fab16777518e4f61f",
+   "image_size_px": [
+    976,
+    928
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q15",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 15,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      521.98,
+      774.1,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 523.79,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "15. 다음 자료에 대한 옳은 분석만을 <보기>에서 있는 대로 고른\n 것은? (단, (가)～(다)는 각각 사회 보험, 공공 부조, 사회 서비스\n 중 하나이다.) [3점]\n\n\n   <자료 1> 우리나라 사회 보장 제도의 사례\n\n    제도                 사례\n\n          소득, 건강, 주거, 사회적 접촉 등의 수준을 평가하여 선정된 65세 이상의 독거\n      (가)  노인에게 정기적인 안전 확인 및 정서적 지원, 보건 서비스 연계･조정, 생활\n       교육 지원 등을 하는 제도\n\n          사용자, 근로자 또는 자영업자 등이 공동으로 마련한 재원으로 노령에 따른 근로\n      (나)\n       소득 상실을 보전하기 위한 급여를 지급하는 제도\n\n        국가와 지방 자치 단체의 재정으로 65세 이상 노인 중 소득이 일정 수준 이하인\n      (다)\n       사람에게 생활 안정에 필요한 연금을 지급하는 제도\n\n\n   <자료 2> A 지역의 65세 이상 인구 중 (가)～(다)의 수혜자 현황\n                                                   (단위: %)\n      구분                2014년                    2015년\n      제도         (가)     (나)     (다)     (가)     (나)     (다)\n     수혜자 비율        12        40        60        12        40        60\n            남 여 남 여 남 여 남 여 남 여 남 여\n   수혜자 중 남녀 비율\n                         30   70   58   42   36   64   40   60   55   45   30   70\n\n       * 2014년 A 지역의 65세 이상 인구는 10,000명임.\n      ** 2015년 A 지역의 65세 이상 인구 증가율은 - 5%임.\n                  당해 연도 65세 이상 인구- 전년도 65세 이상     *** 65세 이상 인구 증가율(%) =                      인구× 100\n                         전년도 65세 이상 인구\n\n\n               <보 기>\n\n   ㄱ. 2014년에 소득 재분배 효과가 가장 큰 제도의 수혜자 수는\n    비금전적 지원이 원칙인 제도의 수혜자 수의 1.5배이다.\n   ㄴ. 2015년에 수혜 정도와 무관하게 능력에 따른 비용 부담이\n    원칙인 제도의 남자 수혜자 수는 여자 수혜자 수보다 많다.\n   ㄷ. 2015년에 상호 부조의 원리에 기반을 둔 제도의 여자 수혜자\n    수와 최저 생활 보장을 목적으로 하는 제도의 남자 수혜자\n    수는 동일하다.\n   ㄹ. 강제 가입이 원칙인 제도의 여자 수혜자 수는 2014년보다\n     2015년이 많다.\n\n ① ㄱ, ㄴ     ② ㄱ, ㄹ     ③ ㄴ, ㄷ\n ④ ㄱ, ㄷ, ㄹ   ⑤ ㄴ, ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "15. 다음 자료에 대한 옳은 분석만을 <보기>에서 있는 대로 고른 것은? (단, (가)～(다)는 각각 사회 보험, 공공 부조, 사회 서비스 중 하나이다.) [3점]",
+   "passage": "<자료 1> 우리나라 사회 보장 제도의 사례\n\n    제도                 사례\n\n          소득, 건강, 주거, 사회적 접촉 등의 수준을 평가하여 선정된 65세 이상의 독거\n      (가)  노인에게 정기적인 안전 확인 및 정서적 지원, 보건 서비스 연계･조정, 생활\n       교육 지원 등을 하는 제도\n\n          사용자, 근로자 또는 자영업자 등이 공동으로 마련한 재원으로 노령에 따른 근로\n      (나)\n       소득 상실을 보전하기 위한 급여를 지급하는 제도\n\n        국가와 지방 자치 단체의 재정으로 65세 이상 노인 중 소득이 일정 수준 이하인\n      (다)\n       사람에게 생활 안정에 필요한 연금을 지급하는 제도\n\n\n   <자료 2> A 지역의 65세 이상 인구 중 (가)～(다)의 수혜자 현황\n                                                   (단위: %)\n      구분                2014년                    2015년\n      제도         (가)     (나)     (다)     (가)     (나)     (다)\n     수혜자 비율        12        40        60        12        40        60\n            남 여 남 여 남 여 남 여 남 여 남 여\n   수혜자 중 남녀 비율\n                         30   70   58   42   36   64   40   60   55   45   30   70\n\n       * 2014년 A 지역의 65세 이상 인구는 10,000명임.\n      ** 2015년 A 지역의 65세 이상 인구 증가율은 - 5%임.\n                  당해 연도 65세 이상 인구- 전년도 65세 이상     *** 65세 이상 인구 증가율(%) =                      인구× 100\n                         전년도 65세 이상 인구\n\n\n               <보 기>\n\n   ㄱ. 2014년에 소득 재분배 효과가 가장 큰 제도의 수혜자 수는\n    비금전적 지원이 원칙인 제도의 수혜자 수의 1.5배이다.\n   ㄴ. 2015년에 수혜 정도와 무관하게 능력에 따른 비용 부담이\n    원칙인 제도의 남자 수혜자 수는 여자 수혜자 수보다 많다.\n   ㄷ. 2015년에 상호 부조의 원리에 기반을 둔 제도의 여자 수혜자\n    수와 최저 생활 보장을 목적으로 하는 제도의 남자 수혜자\n    수는 동일하다.\n   ㄹ. 강제 가입이 원칙인 제도의 여자 수혜자 수는 2014년보다\n     2015년이 많다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄹ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄱ, ㄷ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄴ, ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 2,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q15.png",
+   "question_image_sha256": "a33557cc6bf0862b69d7aeeede90df4fd80d45c9f44310045581840de4eea392",
+   "image_size_px": [
+    976,
+    1511
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q16",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 16,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      158.39,
+      418.82,
+      495.7
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 160.13,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "16. 그림은 A～C를 일반적인 특징에 따라 분류한 것이다. 이에 대한\n 옳은 설명을 <보기>에서 고른 것은? (단, A～C는 각각 농업 사회,\n 산업 사회, 정보 사회 중 하나이다.) [3점]\n\n\n\n\n\n               <보 기>\n\n   ㄱ. (가)가 ‘전자 상거래 비중이 더 높은 사회인가?’라면, 기술의\n    발전 속도는 B > A > C로 나타난다.\n   ㄴ. (가)가 ‘면대면 접촉의 비중이 더 높은 사회인가?’라면,\n    일터와 가정의 분리 정도는 B > C > A로 나타난다.\n   ㄷ. (가)가 ‘소품종 대량 생산 방식이 더 보편적인 사회인가?’\n     라면, 구성원 간 익명성의 정도는 B > A > C로 나타난다.\n   ㄹ. (가)가 ‘조직 내 의사 결정 권한의 분산 정도가 더 높은\n     사회인가?’라면, 사회적 관계 형성의 공간적 제약 정도는\n    A > C > B로 나타난다.\n\n ① ㄱ, ㄴ ② ㄱ, ㄷ ③ ㄴ, ㄷ ④ ㄴ, ㄹ ⑤ ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "16. 그림은 A～C를 일반적인 특징에 따라 분류한 것이다. 이에 대한 옳은 설명을 <보기>에서 고른 것은? (단, A～C는 각각 농업 사회, 산업 사회, 정보 사회 중 하나이다.) [3점]",
+   "passage": "<보 기>\n\n   ㄱ. (가)가 ‘전자 상거래 비중이 더 높은 사회인가?’라면, 기술의\n    발전 속도는 B > A > C로 나타난다.\n   ㄴ. (가)가 ‘면대면 접촉의 비중이 더 높은 사회인가?’라면,\n    일터와 가정의 분리 정도는 B > C > A로 나타난다.\n   ㄷ. (가)가 ‘소품종 대량 생산 방식이 더 보편적인 사회인가?’\n     라면, 구성원 간 익명성의 정도는 B > A > C로 나타난다.\n   ㄹ. (가)가 ‘조직 내 의사 결정 권한의 분산 정도가 더 높은\n     사회인가?’라면, 사회적 관계 형성의 공간적 제약 정도는\n    A > C > B로 나타난다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "직업의 동질성이 가장 높은 사회인가? La)\n\n아니요\n\n(가)         |B)\n\n| 아니요",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q16.png",
+   "question_image_sha256": "691581c7c0dc3861ae39209f4f9fa7ba9ad4f5df565c26c6fa7f41cc1c9459ff",
+   "image_size_px": [
+    958,
+    937
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q17",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 17,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      508.66,
+      418.82,
+      782.96
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 510.23,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "17. 사회 불평등 현상을 설명하는 이론 A, B의 입장을 고려하여\n 자신에게 주어진 질문에 대한 응답을 모두 옳게 한 학생은?\n\n\n    A는 자본주의 체제에서 돈, 기계, 원료 등과 같은 생산 수단의 소유 여부를\n  기준으로 사회 불평등 현상을 설명한다. 한편 B는 사회 불평등의 층위가\n  사회적･정치적 차원에서도 발생한다고 주장하며, 현대 사회에서 나타나는\n  다양한 차원의 불평등을 근거로 제시한다.\n\n\n                                   A의  B의\n  학생             질문\n                                입장 입장\n  갑  사회 계층이 연속적으로 서열화되어 있다고 보는가?      ×  ○\n  을  계층 간 수직 이동이 극히 제한적이라고 보는가?      ×  ○\n  병  경제적 요인에 의해 계층화가 발생한다고 보는가?    ○   ×\n\n     동일한 계층에 속하는 구성원 간의 연대 의식이 강하다고\n  정                                   ×  ○\n      보는가?\n\n     한 사람의 지위가 계층화의 여러 차원에 따라 달라질 수\n  무                            ○   ×\n     있다고 보는가?\n\n                                            (○: 예, × : 아니요)\n ① 갑   ② 을   ③ 병   ④ 정   ⑤ 무",
+   "shared_passage_text": "",
+   "stem": "17. 사회 불평등 현상을 설명하는 이론 A, B의 입장을 고려하여 자신에게 주어진 질문에 대한 응답을 모두 옳게 한 학생은?",
+   "passage": "A는 자본주의 체제에서 돈, 기계, 원료 등과 같은 생산 수단의 소유 여부를\n  기준으로 사회 불평등 현상을 설명한다. 한편 B는 사회 불평등의 층위가\n  사회적･정치적 차원에서도 발생한다고 주장하며, 현대 사회에서 나타나는\n  다양한 차원의 불평등을 근거로 제시한다.\n\n\n                                   A의  B의\n  학생             질문\n                                입장 입장\n  갑  사회 계층이 연속적으로 서열화되어 있다고 보는가?      ×  ○\n  을  계층 간 수직 이동이 극히 제한적이라고 보는가?      ×  ○\n  병  경제적 요인에 의해 계층화가 발생한다고 보는가?    ○   ×\n\n     동일한 계층에 속하는 구성원 간의 연대 의식이 강하다고\n  정                                   ×  ○\n      보는가?\n\n     한 사람의 지위가 계층화의 여러 차원에 따라 달라질 수\n  무                            ○   ×\n     있다고 보는가?\n\n                                            (○: 예, × : 아니요)",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑"
+    },
+    {
+     "number": 2,
+     "text": "을"
+    },
+    {
+     "number": 3,
+     "text": "병"
+    },
+    {
+     "number": 4,
+     "text": "정"
+    },
+    {
+     "number": 5,
+     "text": "무"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q17.png",
+   "question_image_sha256": "275c9cb21b1c0e8742e83604ae89f1eef50e14cff6864766bf5dc8df4286f5bf",
+   "image_size_px": [
+    958,
+    762
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q18",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 18,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      795.92,
+      418.82,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 797.75,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "18. 다음 글에 나타난 개인과 사회의 관계를 바라보는 ‘나’의 관점에\n 부합하는 진술을 <보기>에서 고른 것은? [3점]\n\n\n   한 사회학자의 분석에 따르면, 규범적 통합이 강한 집단에서는 자살률이 낮은\n  반면 규범적 통합이 약한 집단에서는 자살률이 높다고 한다. 이것은 사회 통합의\n  정도에 따라 개인의 행위가 달라질 수 있다는 것으로 해석된다. 그러나 ‘나’는\n   자살률의 높고 낮음이 집단의 특성이 아니라 개인의 특성에서 비롯된다고 생각한다.\n  사회 현상에 대한 이해는 개별 인간의 행위에 대한 이해를 통해서만 가능하다.\n  그러므로 개인의 행위에 초점을 두고 사회를 연구해야 한다.\n\n\n               <보 기>\n\n   ㄱ. 사회는 개인의 외부에 존재한다.\n   ㄴ. 사회는 개인의 속성을 모두 합한 것에 불과하다.\n   ㄷ. 개인은 전체 사회와의 관련 속에서만 존재의 의미를 갖는다.\n   ㄹ. 사회적 조건보다 개인의 자유 의지가 인간 행동에 더 큰\n    영향을 미친다.\n\n ① ㄱ, ㄴ ② ㄱ, ㄷ ③ ㄴ, ㄷ ④ ㄴ, ㄹ ⑤ ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "18. 다음 글에 나타난 개인과 사회의 관계를 바라보는 ‘나’의 관점에 부합하는 진술을 <보기>에서 고른 것은? [3점]",
+   "passage": "한 사회학자의 분석에 따르면, 규범적 통합이 강한 집단에서는 자살률이 낮은\n  반면 규범적 통합이 약한 집단에서는 자살률이 높다고 한다. 이것은 사회 통합의\n  정도에 따라 개인의 행위가 달라질 수 있다는 것으로 해석된다. 그러나 ‘나’는\n   자살률의 높고 낮음이 집단의 특성이 아니라 개인의 특성에서 비롯된다고 생각한다.\n  사회 현상에 대한 이해는 개별 인간의 행위에 대한 이해를 통해서만 가능하다.\n  그러므로 개인의 행위에 초점을 두고 사회를 연구해야 한다.\n\n\n               <보 기>\n\n   ㄱ. 사회는 개인의 외부에 존재한다.\n   ㄴ. 사회는 개인의 속성을 모두 합한 것에 불과하다.\n   ㄷ. 개인은 전체 사회와의 관련 속에서만 존재의 의미를 갖는다.\n   ㄹ. 사회적 조건보다 개인의 자유 의지가 인간 행동에 더 큰\n    영향을 미친다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q18.png",
+   "question_image_sha256": "be1ba4d8b79c67808b7b5bb189da15f468542d4ea7d31a9c59598f5b784e9e3e",
+   "image_size_px": [
+    958,
+    750
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q19",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 19,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      158.39,
+      774.1,
+      498.94
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 160.13,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "19. 사회 변동을 바라보는 관점 (가), (나)에 대한 옳은 설명을 <보기>\n 에서 고른 것은? (단, (가), (나)는 각각 순환론, 진화론 중 하나이다.)\n\n\n    (가) 인류 문명의 발전 속도는 지역에 따라 다르게 나타난다. 그렇지만 문명이\n     단순한 것에서 분화된 것으로, 미신적인 것에서 합리적인 것으로, 낡은 것\n     에서 새로운 것으로 발전하는 경향은 일반적으로 나타난다.\n\n    (나) 인류 문명은 일정한 시간 동안에는 정해진 방향을 향해 나아가는 것 같지만\n     곧 한계에 부딪히게 되고, 문명에 내재한 힘을 따라 다시 반대 방향을 향해\n     움직이게 된다. 그러나 반대 방향의 움직임 역시 오래가지 못하고 문명은\n     다시 본래의 방향을 향하게 된다.\n\n\n               <보 기>\n\n   ㄱ. (가)는(나)와달리사회 변동을 동일한 과정의 주기적 반복\n    으로 설명한다.\n   ㄴ. (나)는(가)와달리사회가 항상 진보하는 것은 아니라고\n     본다.\n   ㄷ. (가)는(나)에비해개발도상국의 서구식 근대화 과정을\n    설명하기에 적합하다.\n   ㄹ. (나)는(가)에비해변동 방향을 예측하여 대응하기에 적합\n     하다.\n\n ① ㄱ, ㄴ ② ㄱ, ㄷ ③ ㄴ, ㄷ ④ ㄴ, ㄹ ⑤ ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "19. 사회 변동을 바라보는 관점 (가), (나)에 대한 옳은 설명을 <보기> 에서 고른 것은? (단, (가), (나)는 각각 순환론, 진화론 중 하나이다.)",
+   "passage": "(가) 인류 문명의 발전 속도는 지역에 따라 다르게 나타난다. 그렇지만 문명이\n     단순한 것에서 분화된 것으로, 미신적인 것에서 합리적인 것으로, 낡은 것\n     에서 새로운 것으로 발전하는 경향은 일반적으로 나타난다.\n\n    (나) 인류 문명은 일정한 시간 동안에는 정해진 방향을 향해 나아가는 것 같지만\n     곧 한계에 부딪히게 되고, 문명에 내재한 힘을 따라 다시 반대 방향을 향해\n     움직이게 된다. 그러나 반대 방향의 움직임 역시 오래가지 못하고 문명은\n     다시 본래의 방향을 향하게 된다.\n\n\n               <보 기>\n\n   ㄱ. (가)는(나)와달리사회 변동을 동일한 과정의 주기적 반복\n    으로 설명한다.\n   ㄴ. (나)는(가)와달리사회가 항상 진보하는 것은 아니라고\n     본다.\n   ㄷ. (가)는(나)에비해개발도상국의 서구식 근대화 과정을\n    설명하기에 적합하다.\n   ㄹ. (나)는(가)에비해변동 방향을 예측하여 대응하기에 적합\n     하다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q19.png",
+   "question_image_sha256": "62142b59ffc02fdceab6a2b2228ffd17c8962d9bc71396e3319d55531755e3e9",
+   "image_size_px": [
+    976,
+    946
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_JUNE_Q20",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_JUNE",
+   "year": 2019,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 20,
+   "source_file": "2019학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "84778b3f90002aca9b9fc116bb28a7e140921c8cab5fa13f31f747a4fba8af49",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      539.61,
+      774.1,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 541.49,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "20. 다음 자료에 대한 분석으로 옳은 것은?\n\n\n   <자료 1> 갑국의 자녀 세대 계층 구성 현황\n\n     자녀 세대의 A 비율은 B 비율보다는 20%p 크고, C 비율보다는 30%p\n     크다. 자녀 세대의 계층 구조는 다이아몬드형이며, C는 B보다 높은 계층이다.\n\n\n      * 갑국의 모든 부모의 자녀는 1명이고, 계층은 상층, 중층, 하층으로만 구분하며,\n    A～C는 각각 상층, 중층, 하층 중 하나임.\n     ** %p : 백분율 간의 차이를 나타내는 단위임. 예를 들어, 20%는 10%보다 10%p 크다고\n     표현함.\n\n   <자료 2> 갑국의 세대 간 계층 이동 현황\n                                                   (단위: %)\n\n                      계층                                A     B     C   구분\n\n   자녀 세대 계층 대비 부모 세대와 자녀 세대의\n                                                    90      50      40\n   계층 불일치 비율\n\n   부모 세대 계층 대비 부모 세대와 자녀 세대의\n                                                    25      30      40\n   계층 일치 비율\n\n      * 상층 부모를 둔 중층 자녀 인구는 하층 부모를 둔 상층 자녀 인구의 3배임.\n\n ①하층 대비 상층의 비율은 부모 세대가 자녀 세대보다 높다.\n ②세대 간 상승 이동한 비율이 세대 간 하강 이동한 비율보다\n   낮다.\n ③중층 부모를 둔 하층 자녀의 인구는 중층 부모를 둔 상층 자녀\n   인구의 4배이다.\n ④부모 세대의 계층 구조는 자녀 세대의 계층 구조에 비해 사회\n   통합에 유리하다.\n ⑤자녀 세대 계층 대비 세대 간 이동을 경험하지 않은 비율이\n   가장 높은 계층은 하층이다.\n\n\n\n\n  * 확인 사항\n\n ◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n\n   하시오.",
+   "shared_passage_text": "",
+   "stem": "20. 다음 자료에 대한 분석으로 옳은 것은?",
+   "passage": "<자료 1> 갑국의 자녀 세대 계층 구성 현황\n\n     자녀 세대의 A 비율은 B 비율보다는 20%p 크고, C 비율보다는 30%p\n     크다. 자녀 세대의 계층 구조는 다이아몬드형이며, C는 B보다 높은 계층이다.\n\n\n      * 갑국의 모든 부모의 자녀는 1명이고, 계층은 상층, 중층, 하층으로만 구분하며,\n    A～C는 각각 상층, 중층, 하층 중 하나임.\n     ** %p : 백분율 간의 차이를 나타내는 단위임. 예를 들어, 20%는 10%보다 10%p 크다고\n     표현함.\n\n   <자료 2> 갑국의 세대 간 계층 이동 현황\n                                                   (단위: %)\n\n                      계층                                A     B     C   구분\n\n   자녀 세대 계층 대비 부모 세대와 자녀 세대의\n                                                    90      50      40\n   계층 불일치 비율\n\n   부모 세대 계층 대비 부모 세대와 자녀 세대의\n                                                    25      30      40\n   계층 일치 비율\n\n      * 상층 부모를 둔 중층 자녀 인구는 하층 부모를 둔 상층 자녀 인구의 3배임.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "하층 대비 상층의 비율은 부모 세대가 자녀 세대보다 높다."
+    },
+    {
+     "number": 2,
+     "text": "세대 간 상승 이동한 비율이 세대 간 하강 이동한 비율보다 낮다."
+    },
+    {
+     "number": 3,
+     "text": "중층 부모를 둔 하층 자녀의 인구는 중층 부모를 둔 상층 자녀 인구의 4배이다."
+    },
+    {
+     "number": 4,
+     "text": "부모 세대의 계층 구조는 자녀 세대의 계층 구조에 비해 사회 통합에 유리하다."
+    },
+    {
+     "number": 5,
+     "text": "자녀 세대 계층 대비 세대 간 이동을 경험하지 않은 비율이 가장 높은 계층은 하층이다. * 확인 사항 ◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 1,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_JUNE_Q20.png",
+   "question_image_sha256": "1b7ea218b41ec3e1443a5170eef8213b2686dfe7eebd759ff8767b1bf3e093d9",
+   "image_size_px": [
+    976,
+    1462
+   ],
+   "review_required": false,
+   "review_reasons": []
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "SOCIOCULTURE_2005_CSAT": {
+  "year": 2005,
+  "exam_type": "CSAT",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2005학년도 대학수학능력시험 문제지"
+ },
+ "SOCIOCULTURE_2014_CSAT": {
+  "year": 2014,
+  "exam_type": "CSAT",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2014학년도 대학수학능력시험 문제지"
+ },
+ "SOCIOCULTURE_2017_SEPTEMBER": {
+  "year": 2017,
+  "exam_type": "SEPTEMBER",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2017학년도 대학수학능력시험 9월 모의평가 문제지"
+ },
+ "SOCIOCULTURE_2020_CSAT": {
+  "year": 2020,
+  "exam_type": "CSAT",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2020학년도 대학수학능력시험 문제지"
+ },
+ "SOCIOCULTURE_2020_SEPTEMBER": {
+  "year": 2020,
+  "exam_type": "SEPTEMBER",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2020학년도 대학수학능력시험 9월 모의평가 문제지"
+ },
+ "SOCIOCULTURE_2021_CSAT": {
+  "year": 2021,
+  "exam_type": "CSAT",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2021학년도 대학수학능력시험 문제지"
+ },
+ "SOCIOCULTURE_2021_SEPTEMBER": {
+  "year": 2021,
+  "exam_type": "SEPTEMBER",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2021학년도 대학수학능력시험 9월 모의평가 문제지"
+ },
+ "SOCIOCULTURE_2022_CSAT": {
+  "year": 2022,
+  "exam_type": "CSAT",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2022학년도 대학수학능력시험 문제지"
+ },
+ "SOCIOCULTURE_2022_SEPTEMBER": {
+  "year": 2022,
+  "exam_type": "SEPTEMBER",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2022학년도 대학수학능력시험 9월 모의평가 문제지"
+ },
+ "SOCIOCULTURE_2023_CSAT": {
+  "year": 2023,
+  "exam_type": "CSAT",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2023학년도 대학수학능력시험 문제지"
+ },
+ "SOCIOCULTURE_2023_JUNE": {
+  "year": 2023,
+  "exam_type": "JUNE",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2023학년도 대학수학능력시험 6월 모의평가 문제지"
+ },
+ "SOCIOCULTURE_2023_SEPTEMBER": {
+  "year": 2023,
+  "exam_type": "SEPTEMBER",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2023학년도 대학수학능력시험 9월 모의평가 문제지"
+ },
+ "SOCIOCULTURE_2024_SEPTEMBER": {
+  "year": 2024,
+  "exam_type": "SEPTEMBER",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2024학년도 대학수학능력시험 9월 모의평가 문제지"
+ },
+ "SOCIOCULTURE_2025_SEPTEMBER": {
+  "year": 2025,
+  "exam_type": "SEPTEMBER",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2025학년도 대학수학능력시험 9월 모의평가 문제지"
+ },
+ "SOCIOCULTURE_2026_CSAT": {
+  "year": 2026,
+  "exam_type": "CSAT",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2026학년도 대학수학능력시험 문제지"
+ },
+ "SOCIOCULTURE_2026_SEPTEMBER": {
+  "year": 2026,
+  "exam_type": "SEPTEMBER",
+  "method": "visual inspection of the printed page-1 exam title (automatic header OCR misread outlined title font)",
+  "printed_title": "2026학년도 대학수학능력시험 9월 모의평가 문제지"
+ }
+}

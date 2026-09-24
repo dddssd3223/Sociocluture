@@ -1,0 +1,1777 @@
+{
+ "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+ "subject": "SOCIOCULTURE",
+ "year": 2006,
+ "exam_type": "SEPTEMBER",
+ "exam_period": "9월 모의평가",
+ "source_file": "2006학년도_09월_사회문화_문제.pdf",
+ "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+ "pipeline_version": "p1-v1",
+ "page_count": 4,
+ "start_page": 1,
+ "end_page": 4,
+ "skipped_pages": [],
+ "anchor_method": "pdf_text",
+ "inferred_numbers": [],
+ "shared_passage_groups": [
+  {
+   "page": 1,
+   "col": 0,
+   "y": 565.3628540039062,
+   "first": 6,
+   "last": 7,
+   "text": "[6～7] 다음자료는어느나라의직장인을대상으로한조사연구"
+  }
+ ],
+ "missing_numbers": [],
+ "header_metadata": {
+  "year": 2006,
+  "exam_type": "SEPTEMBER",
+  "subject_in_header": true,
+  "source": "pdf_text",
+  "raw": "로그인/회원가입 필요없는 학습자료 무료제공 사이트\n레전드스터디 닷컴 http://LegendStudy.com\n2006학년도대학수학능력시험9월모의평가문제지\n사회탐구영역(사회․문화)\n◦자신이선택한과목의문제지인지확인하시오.\n◦문제지에성명과수험번호를정확히써넣으시오.\n◦답안지에성명과수험번호를써넣고, 또수험번호와답을정확히\n표시하시오.\n◦과목을선택한순서대로풀고, 답은답"
+ },
+ "metadata_verified": true,
+ "layout": [
+  {
+   "page": 0,
+   "zoom": 2.7812128418549347,
+   "w_pt": 841.0,
+   "h_pt": 1190.0,
+   "divider": {
+    "x": 420.3202223172296,
+    "top": 268.2283026934587,
+    "bottom": 1088.3740914920907
+   },
+   "text_quality": 0.886
+  },
+  {
+   "page": 1,
+   "zoom": 2.7812128418549347,
+   "w_pt": 841.0,
+   "h_pt": 1190.0,
+   "divider": {
+    "x": 420.6797776827704,
+    "top": 154.24925181701582,
+    "bottom": 1073.6323215049167
+   },
+   "text_quality": 0.779
+  },
+  {
+   "page": 2,
+   "zoom": 2.7812128418549347,
+   "w_pt": 841.0,
+   "h_pt": 1190.0,
+   "divider": {
+    "x": 420.6797776827704,
+    "top": 154.24925181701582,
+    "bottom": 1073.6323215049167
+   },
+   "text_quality": 0.851
+  },
+  {
+   "page": 3,
+   "zoom": 2.7812128418549347,
+   "w_pt": 841.0,
+   "h_pt": 1190.0,
+   "divider": {
+    "x": 420.6797776827704,
+    "top": 154.24925181701582,
+    "bottom": 1073.6323215049167
+   },
+   "text_quality": 0.806
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q01",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 1,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.74,
+      426.43,
+      418.32,
+      670.93
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 427.66,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "1. 다음글에나타난사회관에부합하는설명을<보기>에서모두\n\n 고른것은?\n\n\n  회사의발전이여러분의발전과직결된다는점을잊지마\n  십시오. 우리회사가여러분의명예를높인것처럼여러분도\n  회사의명예를높일수있도록노력해주십시오.\n\n\n            <보기>\n\n   ᄀ. 인간은사회로부터자유롭지못하다.\n   ᄂ. 사회는개인의단순한집합체보다크다.\n   ᄃ. 국가는개인간의계약관계로성립된다.\n   ᄅ. 사회를분석할때구조적요인에초점을맞춘다.\n\n\n ①ᄀ, ᄂ      ②ᄂ, ᄃ      ③ᄃ, ᄅ\n ④ᄀ, ᄂ, ᄅ    ⑤ᄀ, ᄃ, ᄅ",
+   "shared_passage_text": "",
+   "stem": "1. 다음글에나타난사회관에부합하는설명을<보기>에서모두 고른것은?",
+   "passage": "회사의발전이여러분의발전과직결된다는점을잊지마\n  십시오. 우리회사가여러분의명예를높인것처럼여러분도\n  회사의명예를높일수있도록노력해주십시오.\n\n\n            <보기>\n\n   ᄀ. 인간은사회로부터자유롭지못하다.\n   ᄂ. 사회는개인의단순한집합체보다크다.\n   ᄃ. 국가는개인간의계약관계로성립된다.\n   ᄅ. 사회를분석할때구조적요인에초점을맞춘다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ᄀ, ᄂ"
+    },
+    {
+     "number": 2,
+     "text": "ᄂ, ᄃ"
+    },
+    {
+     "number": 3,
+     "text": "ᄃ, ᄅ"
+    },
+    {
+     "number": 4,
+     "text": "ᄀ, ᄂ, ᄅ"
+    },
+    {
+     "number": 5,
+     "text": "ᄀ, ᄃ, ᄅ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 8,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q01.png",
+   "question_image_sha256": "229aca9868a6fc4bb0b09a869c8f9d0eabb2353aa14436014169c1add6a8e989",
+   "image_size_px": [
+    958,
+    680
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q02",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 2,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.74,
+      690.71,
+      418.32,
+      1067.52
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 692.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "2. 다음사례로부터도출할수있는결론으로가장적절한것은?\n\n\n    아프리카의누어(Nuer) 족은입법, 사법, 행정기관이없\n  지만사회가혼란상태에있지는않다. 이사회는‘질서있는\n  무정부상태’라고할수있다. 누어족의기본적경제단위는\n  가구이며몇개의가구가모여소종족을이루고, 소종족이\n  모여대종족을, 대종족이모여최대종족을, 그리고최대\n  종족이모여씨족을이루게된다. 씨족은수천명의사람으\n  로구성되며, 영토전체에걸쳐흩어져살고있지만사회적\n  유대를이루는네트워크를형성한다. 씨족은사회내에서분\n  쟁이생길경우조정하는기능을가지고있다. 또한씨족들\n  은족외혼을하기때문에혼인동맹을통해다른씨족들과\n  유대를형성할수있다.\n\n\n ①종족이더큰단위로통합되면사회적혼란이발생하지않는다.\n ②분쟁을조절하고정치적통합성을유지하는방법은보편성을\n   갖는다.\n ③미분화된사회일수록사회를통제하고조절하는제도적기구가\n   더필요하다.\n ④입법, 사법, 행정기관등제도적장치가있어야정치적통합을\n   유지할수있다.\n\n ⑤공식적정치조직이없는사회에서도사회적통합을제공하는\n   문화적장치가존재한다.",
+   "shared_passage_text": "",
+   "stem": "2. 다음사례로부터도출할수있는결론으로가장적절한것은?",
+   "passage": "아프리카의누어(Nuer) 족은입법, 사법, 행정기관이없\n  지만사회가혼란상태에있지는않다. 이사회는‘질서있는\n  무정부상태’라고할수있다. 누어족의기본적경제단위는\n  가구이며몇개의가구가모여소종족을이루고, 소종족이\n  모여대종족을, 대종족이모여최대종족을, 그리고최대\n  종족이모여씨족을이루게된다. 씨족은수천명의사람으\n  로구성되며, 영토전체에걸쳐흩어져살고있지만사회적\n  유대를이루는네트워크를형성한다. 씨족은사회내에서분\n  쟁이생길경우조정하는기능을가지고있다. 또한씨족들\n  은족외혼을하기때문에혼인동맹을통해다른씨족들과\n  유대를형성할수있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "종족이더큰단위로통합되면사회적혼란이발생하지않는다."
+    },
+    {
+     "number": 2,
+     "text": "분쟁을조절하고정치적통합성을유지하는방법은보편성을 갖는다."
+    },
+    {
+     "number": 3,
+     "text": "미분화된사회일수록사회를통제하고조절하는제도적기구가 더필요하다."
+    },
+    {
+     "number": 4,
+     "text": "입법, 사법, 행정기관등제도적장치가있어야정치적통합을 유지할수있다."
+    },
+    {
+     "number": 5,
+     "text": "공식적정치조직이없는사회에서도사회적통합을제공하는 문화적장치가존재한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 1,
+    "curves": 13,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q02.png",
+   "question_image_sha256": "84b9b93d268cdc5bb99a7b07a6cac42cc9d05b7430cf312264bde2ce874d968c",
+   "image_size_px": [
+    958,
+    1048
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q03",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 3,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.32,
+      257.44,
+      773.26,
+      662.3
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 258.54,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "3. 다음두사례를종합하여전통문화를이해한것으로가장적\n\n 절한것은? [3점]\n\n\n  ◦스코틀랜드사람들은17세기후반까지도독자적인민족\n   집단을형성하지못하였다. 이들은잉글랜드와통합되면\n   서비로소독자적인민족집단을형성하기시작했고, 이\n   과정에서자신들이오래전부터내려온민족집단임을내\n   세우기위해‘문화적전통’을창출하기시작하였다. 전래\n   의관습이었던백파이프가전통문화로정착된것이그\n    대표적인예이다.\n  ◦전통적으로제사는조상숭배의의미를가지고있었으며\n   8촌이내의친족이함께지냈다. 그러나요즘은형제들만\n   모이는경우가많아서조상숭배의의미보다형제간의우\n   애를다지는의미가더커지고있다. 그리고제사음식으\n    로바나나, 케이크등새로운품목이사용되기도한다.\n\n\n ①민족을구분하는지표로서한민족만가지고있는관습이다.\n ②오랫동안변화되지않은것으로서민족정체성을표현하고\n    있다.\n ③오래된관습으로구성되어민족집단이오래되었음을나타내\n   는것이다.\n ④민족고유의관습에외래적인것을혼합하여보편성을갖도록\n   발전시킨것이다.\n ⑤과거로부터내려오던관습을시대적상황에부합할수있도\n   록새롭게구성하거나해석한것이다.",
+   "shared_passage_text": "",
+   "stem": "3. 다음두사례를종합하여전통문화를이해한것으로가장적 절한것은? [3점]",
+   "passage": "◦스코틀랜드사람들은17세기후반까지도독자적인민족\n   집단을형성하지못하였다. 이들은잉글랜드와통합되면\n   서비로소독자적인민족집단을형성하기시작했고, 이\n   과정에서자신들이오래전부터내려온민족집단임을내\n   세우기위해‘문화적전통’을창출하기시작하였다. 전래\n   의관습이었던백파이프가전통문화로정착된것이그\n    대표적인예이다.\n  ◦전통적으로제사는조상숭배의의미를가지고있었으며\n   8촌이내의친족이함께지냈다. 그러나요즘은형제들만\n   모이는경우가많아서조상숭배의의미보다형제간의우\n   애를다지는의미가더커지고있다. 그리고제사음식으\n    로바나나, 케이크등새로운품목이사용되기도한다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "민족을구분하는지표로서한민족만가지고있는관습이다."
+    },
+    {
+     "number": 2,
+     "text": "오랫동안변화되지않은것으로서민족정체성을표현하고 있다."
+    },
+    {
+     "number": 3,
+     "text": "오래된관습으로구성되어민족집단이오래되었음을나타내 는것이다."
+    },
+    {
+     "number": 4,
+     "text": "민족고유의관습에외래적인것을혼합하여보편성을갖도록 발전시킨것이다."
+    },
+    {
+     "number": 5,
+     "text": "과거로부터내려오던관습을시대적상황에부합할수있도 록새롭게구성하거나해석한것이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 20,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q03.png",
+   "question_image_sha256": "b5bd16f24b6aa68eceed4757c285b786062ad679485602defe50f44384477847",
+   "image_size_px": [
+    976,
+    1126
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q04",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 4,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.32,
+      678.84,
+      773.26,
+      1068.6
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 680.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "4. 다음은지역개발유형의사례이다. 각유형에대한기대효과로\n\n 적절하지않은것은?\n\n\n   (가) ○○강종합개발계획은강본류에여러개의댐을건\n    설하여홍수를방지하고전력을개발하며관개시설을\n    확충하는것이다. 이계획으로강유역에대규모산업\n    시설이밀집되기시작하였으며그효과가주변지역으\n     로확산되었다.\n   (나) △△국가는전국의대표적인낙후지역을‘개발촉진\n    지구’로지정하여개발하였다. 이들지역에대한개발\n    사업은크게관광휴양사업, 지역특화사업등으로나\n    누어진행되었다. 사업을통해기간시설이갖추어지면\n    서다른지역이나기간도로망과의연계성이높아졌다.\n\n\n ①(가)는한정된자원을집중투입하기때문에효율적개발의\n   가능성이크다.\n ②(가)는집적이익의극대화를지향하기때문에(나)보다기업의\n   투자유치에더유리하다.\n ③(나)는전국에몇개의거점지역을선정해대규모생산기반을\n   조성할수있다.\n ④(나)는지역생활권중심의개발로서사업이익을효과적으로\n   나누어가질수있다.\n ⑤(나)는(가)에비해지역사회특성에적합한개발을추구하\n   는데더효율적이다.",
+   "shared_passage_text": "",
+   "stem": "4. 다음은지역개발유형의사례이다. 각유형에대한기대효과로 적절하지않은것은?",
+   "passage": "(가) ○○강종합개발계획은강본류에여러개의댐을건\n    설하여홍수를방지하고전력을개발하며관개시설을\n    확충하는것이다. 이계획으로강유역에대규모산업\n    시설이밀집되기시작하였으며그효과가주변지역으\n     로확산되었다.\n   (나) △△국가는전국의대표적인낙후지역을‘개발촉진\n    지구’로지정하여개발하였다. 이들지역에대한개발\n    사업은크게관광휴양사업, 지역특화사업등으로나\n    누어진행되었다. 사업을통해기간시설이갖추어지면\n    서다른지역이나기간도로망과의연계성이높아졌다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)는한정된자원을집중투입하기때문에효율적개발의 가능성이크다."
+    },
+    {
+     "number": 2,
+     "text": "(가)는집적이익의극대화를지향하기때문에(나)보다기업의 투자유치에더유리하다."
+    },
+    {
+     "number": 3,
+     "text": "(나)는전국에몇개의거점지역을선정해대규모생산기반을 조성할수있다."
+    },
+    {
+     "number": 4,
+     "text": "(나)는지역생활권중심의개발로서사업이익을효과적으로 나누어가질수있다."
+    },
+    {
+     "number": 5,
+     "text": "(나)는(가)에비해지역사회특성에적합한개발을추구하 는데더효율적이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 2,
+    "curves": 6,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q04.png",
+   "question_image_sha256": "40df280e01eea37ec9ebb19b16d9a25a2c0094594e59076a140a6cd6d151ea0c",
+   "image_size_px": [
+    976,
+    1084
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q05",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 5,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.74,
+      158.2,
+      418.68,
+      525.31
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 159.46,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "5. 다음글을쓴필자의문화이해태도와이글에대한독자의\n\n 관점을가장바르게연결한것은? [3점]\n\n\n\n\n\n  <독자의평>\n  필자는당시조선사람들의음식먹는관습을다른문화\n  요소들, 즉당시의생업기술, 가족구성, 계층구조, 가치관\n  등과관련시켜보았어야했다.\n\n\n     필자         독자\n ①문화사대주의    비교론적관점\n ②문화사대주의    총체론적관점\n ③자문화중심주의   비교론적관점\n ④자문화중심주의   상대론적관점\n ⑤자문화중심주의   총체론적관점",
+   "shared_passage_text": "",
+   "stem": "5. 다음글을쓴필자의문화이해태도와이글에대한독자의 관점을가장바르게연결한것은? [3점]",
+   "passage": "<독자의평>\n  필자는당시조선사람들의음식먹는관습을다른문화\n  요소들, 즉당시의생업기술, 가족구성, 계층구조, 가치관\n  등과관련시켜보았어야했다.\n\n\n     필자         독자",
+   "choices": [
+    {
+     "number": 1,
+     "text": "문화사대주의 비교론적관점"
+    },
+    {
+     "number": 2,
+     "text": "문화사대주의 총체론적관점"
+    },
+    {
+     "number": 3,
+     "text": "자문화중심주의 비교론적관점"
+    },
+    {
+     "number": 4,
+     "text": "자문화중심주의 상대론적관점"
+    },
+    {
+     "number": 5,
+     "text": "자문화중심주의 총체론적관점"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "내가 만난 조선 사람들의 식사법 중에서 가장 이해\n하기 힘든 것은 탐식을 한다는 것인데, 일본인, 프랑\n스인, 중국인들도 이를     언하고 있다. 우리와 달리\n조선 사람들에게 식사를 “ol 하는 것은 자랑스러운\n\n것이며 잔치에 대한 평가는 음식의 질에 있는 것이\n\n아니라 양에 있다. 그들은 먹는 음식을 가리지 않으\n며 그만 먹겠다는 법이 없다. 개고기는 가장 흔한 Al\n품이며 복숭아나 참외 SS BIS 벗기지 않고 먹\n어치운다.\n\n-그리피스, 은자으 비라 조  6선(1884)-",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 15,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q05.png",
+   "question_image_sha256": "3a7fee3caa9b090c2b38fa036bffe1aba326f4010a5c12c238c9c9acfffdaad0",
+   "image_size_px": [
+    959,
+    1021
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q06",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 6,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": true,
+     "bbox_pt": [
+      73.74,
+      563.06,
+      418.68,
+      843.52
+     ]
+    },
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.74,
+      855.74,
+      418.68,
+      1067.88
+     ]
+    }
+   ],
+   "shared_passage_group": {
+    "range": "6-7",
+    "header_text": "[6～7] 다음자료는어느나라의직장인을대상으로한조사연구",
+    "manual": false
+   },
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 856.96,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "6. 위연구에서사용된자료수집방법의일반적특징을<보기>\n\n 에서모두고른것은? [3점]\n\n            <보기>\n\n   ᄀ. 언어나문자로표현하기어려운현상을조사한다.\n   ᄂ. 표본이전체집단을대표할수있는가를고려해야한다.\n   ᄃ. 짧은시간과적은비용으로여러사람들을조사할수있다.\n   ᄅ. 통제와처치를통해하나의변수가다른변수에어떠한\n    영향을미치는가를조사한다.\n\n\n ①ᄀ, ᄂ      ②ᄂ, ᄃ      ③ᄀ, ᄂ, ᄃ\n ④ᄀ, ᄃ, ᄅ    ⑤ᄂ, ᄃ, ᄅ",
+   "shared_passage_text": "[6～7] 다음자료는어느나라의직장인을대상으로한조사연구\n 결과이다.",
+   "stem": "6. 위연구에서사용된자료수집방법의일반적특징을<보기> 에서모두고른것은? [3점]",
+   "passage": "<보기>\n\n   ᄀ. 언어나문자로표현하기어려운현상을조사한다.\n   ᄂ. 표본이전체집단을대표할수있는가를고려해야한다.\n   ᄃ. 짧은시간과적은비용으로여러사람들을조사할수있다.\n   ᄅ. 통제와처치를통해하나의변수가다른변수에어떠한\n    영향을미치는가를조사한다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ᄀ, ᄂ"
+    },
+    {
+     "number": 2,
+     "text": "ᄂ, ᄃ"
+    },
+    {
+     "number": 3,
+     "text": "ᄀ, ᄂ, ᄃ"
+    },
+    {
+     "number": 4,
+     "text": "ᄀ, ᄃ, ᄅ"
+    },
+    {
+     "number": 5,
+     "text": "ᄂ, ᄃ, ᄅ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "으으                     1990년                          200044\n문 항         (사례수 : 1,017명)          (사례수 : 1.380명)\n\n후배들의                0\n요구와 상사의        =\n\n지시가 달라서       35\n\n고민한 경우가\n\n있다.\n\n승진에 혈연,\n지연 등 연고가\n작용한다.\n\n현재 업무를                               Fa\n\n추진하기 위해                50             “\n새로운 교육                                의   Pw\n훈련을 받을\n\n필요를 Zc\n\n현 직장보다               고\n\n찾기 위히                고\n\nSHS 하고               Ee\n있다\n\n뿔그렇다 MSsoct [아니다     (단위 : %)",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 17,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q06.png",
+   "question_image_sha256": "9c76013a4688fd5a71b199cdda05db85563b99a4a4170399030d05a126bb022e",
+   "image_size_px": [
+    959,
+    1384
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q07",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 7,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": true,
+     "bbox_pt": [
+      73.74,
+      563.06,
+      418.68,
+      843.52
+     ]
+    },
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      158.2,
+      773.26,
+      318.57
+     ]
+    }
+   ],
+   "shared_passage_group": {
+    "range": "6-7",
+    "header_text": "[6～7] 다음자료는어느나라의직장인을대상으로한조사연구",
+    "manual": false
+   },
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 159.46,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "7. 위자료에대한옳은해석을<보기>에서모두고른것은?\n\n             <보기>\n\n   ᄀ. 재사회화의필요성이줄어들었다.\n   ᄂ. 역할갈등의가능성이증가하였다.\n   ᄃ. 귀속지위가전보다더중요시되었다.\n   ᄅ. 내집단과준거집단간불일치가확대되었다.\n\n\n ①ᄀ, ᄂ      ②ᄀ, ᄅ      ③ᄂ, ᄃ\n ④ᄀ, ᄂ, ᄃ    ⑤ᄂ, ᄃ, ᄅ",
+   "shared_passage_text": "[6～7] 다음자료는어느나라의직장인을대상으로한조사연구\n 결과이다.",
+   "stem": "7. 위자료에대한옳은해석을<보기>에서모두고른것은?",
+   "passage": "<보기>\n\n   ᄀ. 재사회화의필요성이줄어들었다.\n   ᄂ. 역할갈등의가능성이증가하였다.\n   ᄃ. 귀속지위가전보다더중요시되었다.\n   ᄅ. 내집단과준거집단간불일치가확대되었다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ᄀ, ᄂ"
+    },
+    {
+     "number": 2,
+     "text": "ᄀ, ᄅ"
+    },
+    {
+     "number": 3,
+     "text": "ᄂ, ᄃ"
+    },
+    {
+     "number": 4,
+     "text": "ᄀ, ᄂ, ᄃ"
+    },
+    {
+     "number": 5,
+     "text": "ᄂ, ᄃ, ᄅ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "으으                     1990년                          200044\n문 항         (사례수 : 1,017명)          (사례수 : 1.380명)\n\n후배들의                0\n요구와 상사의        =\n\n지시가 달라서       35\n\n고민한 경우가\n\n있다.\n\n승진에 혈연,\n지연 등 연고가\n작용한다.\n\n현재 업무를                               Fa\n\n추진하기 위해                50             “\n새로운 교육                                의   Pw\n훈련을 받을\n\n필요를 Zc\n\n현 직장보다               고\n\n찾기 위히                고\n\nSHS 하고               Ee\n있다\n\n뿔그렇다 MSsoct [아니다     (단위 : %)",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 8,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q07.png",
+   "question_image_sha256": "05225349f4283dd09f4de649fd6dec89e3219de1004869f77ce237e335a5f060",
+   "image_size_px": [
+    975,
+    1240
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q08",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 8,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      362.79,
+      773.26,
+      699.34
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 363.97,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "8. 다음과같은현상이나타나는사회의등장과관련있는요인을\n\n <보기>에서모두고른것은? [3점]\n\n\n  ◦사람들의소비구조가크게변하였다. 기성복, 기성화와\n   같은일반소비재뿐만아니라전기세탁기, 전기냉장고\n   등내구소비재의구매가증가하였다. 이러한내구소비\n   재는더이상일부계층의전유물이아니라대부분이가\n   질수있는것으로되었다.\n  ◦사람들은생활수준이향상되고교육기회가확대됨으로써\n   다양한문화를향유할수있게되었다. 텔레비전, 라디오와\n   같은대중매체의발달로정보전달과여론형성이용이\n   하게되었으며국민들의지적수준이높아졌다.\n\n\n             <보기>\n\n   ᄀ. 개성을중시하는맞춤형서비스의발달\n   ᄂ. 기계화와자동화에따른대량생산시스템의구축\n   ᄃ. 보통선거제도의확립에따른민주주의이념의확산\n   ᄅ. 국가와시장기능을보완하기위한시민사회단체의성장\n\n\n ①ᄀ, ᄂ  ②ᄀ, ᄃ  ③ᄂ, ᄃ  ④ᄂ, ᄅ  ⑤ᄃ, ᄅ",
+   "shared_passage_text": "",
+   "stem": "8. 다음과같은현상이나타나는사회의등장과관련있는요인을 <보기>에서모두고른것은? [3점]",
+   "passage": "◦사람들의소비구조가크게변하였다. 기성복, 기성화와\n   같은일반소비재뿐만아니라전기세탁기, 전기냉장고\n   등내구소비재의구매가증가하였다. 이러한내구소비\n   재는더이상일부계층의전유물이아니라대부분이가\n   질수있는것으로되었다.\n  ◦사람들은생활수준이향상되고교육기회가확대됨으로써\n   다양한문화를향유할수있게되었다. 텔레비전, 라디오와\n   같은대중매체의발달로정보전달과여론형성이용이\n   하게되었으며국민들의지적수준이높아졌다.\n\n\n             <보기>\n\n   ᄀ. 개성을중시하는맞춤형서비스의발달\n   ᄂ. 기계화와자동화에따른대량생산시스템의구축\n   ᄃ. 보통선거제도의확립에따른민주주의이념의확산\n   ᄅ. 국가와시장기능을보완하기위한시민사회단체의성장",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ᄀ, ᄂ"
+    },
+    {
+     "number": 2,
+     "text": "ᄀ, ᄃ"
+    },
+    {
+     "number": 3,
+     "text": "ᄂ, ᄃ"
+    },
+    {
+     "number": 4,
+     "text": "ᄂ, ᄅ"
+    },
+    {
+     "number": 5,
+     "text": "ᄃ, ᄅ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 20,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q08.png",
+   "question_image_sha256": "76e6e58a355976e5ec50efe22e3a3477a206cf92468bba6567baba4d22cab0a5",
+   "image_size_px": [
+    975,
+    936
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q09",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 9,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      743.2,
+      773.26,
+      1068.24
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 744.57,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "9. 그림은한사회의계층구조의변화를보여주고있다. A, B,\n\n  C, D 각단계에대한옳은설명을<보기>에서모두고른것은?\n\n\n\n\n\n             <보기>\n\n   ᄀ. A에서는성취지위에의해사회적역할이결정된다.\n   ᄂ. A에서C로변하는데산업화가중요한역할을한다.\n   ᄃ. A보다D에서민주주의가발달할가능성이더높다.\n   ᄅ. B에서D로변화함에따라화이트칼라직종이늘어난다.\n\n\n ①ᄀ, ᄂ      ②ᄀ, ᄅ      ③ᄂ, ᄃ\n ④ᄀ, ᄂ, ᄃ    ⑤ᄂ, ᄃ, ᄅ",
+   "shared_passage_text": "",
+   "stem": "9. 그림은한사회의계층구조의변화를보여주고있다. A, B, C, D 각단계에대한옳은설명을<보기>에서모두고른것은?",
+   "passage": "<보기>\n\n   ᄀ. A에서는성취지위에의해사회적역할이결정된다.\n   ᄂ. A에서C로변하는데산업화가중요한역할을한다.\n   ᄃ. A보다D에서민주주의가발달할가능성이더높다.\n   ᄅ. B에서D로변화함에따라화이트칼라직종이늘어난다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ᄀ, ᄂ"
+    },
+    {
+     "number": 2,
+     "text": "ᄀ, ᄅ"
+    },
+    {
+     "number": 3,
+     "text": "ᄂ, ᄃ"
+    },
+    {
+     "number": 4,
+     "text": "ᄀ, ᄂ, ᄃ"
+    },
+    {
+     "number": 5,
+     "text": "ᄂ, ᄃ, ᄅ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "사회 이동\n가능성\n\n>\n\n05 10 «15            8.0\nSHS 비율/하류층 비율\n\n※상류층의 WBE 10%로 고정되어 있음.",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 17,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q09.png",
+   "question_image_sha256": "6ff1475f23d3e7a247786914b71ae65a1e3b59cb0bacac52c8da4095b7ea3bbc",
+   "image_size_px": [
+    975,
+    904
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q10",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 10,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.74,
+      158.2,
+      418.68,
+      482.16
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 159.46,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "10. 다음자료는정부가도입을검토하고있는어떤제도에관한\n\n 내용이다. 타당한해석을<보기>에서모두고른것은? [3점]\n\n\n\n\n\n            <보기>\n\n   ᄀ. 소득재분배효과가발생한다.\n   ᄂ. 기업의조세부담을경감시킬수있다.\n   ᄃ. 소득수준을정확하게파악할수있을때실효성이있다.\n   ᄅ. 기초생활보장수급권자의최저생활보장을목적으로한다.\n   ᄆ. 근로를통한복지라는점에서생산적복지개념에부합\n     한다.\n\n\n ①ᄀ, ᄂ, ᄅ    ②ᄀ, ᄃ, ᄅ    ③ᄀ, ᄃ, ᄆ\n ④ᄂ, ᄃ, ᄅ    ⑤ᄃ, ᄅ, ᄆ",
+   "shared_passage_text": "",
+   "stem": "10. 다음자료는정부가도입을검토하고있는어떤제도에관한 내용이다. 타당한해석을<보기>에서모두고른것은? [3점]",
+   "passage": "<보기>\n\n   ᄀ. 소득재분배효과가발생한다.\n   ᄂ. 기업의조세부담을경감시킬수있다.\n   ᄃ. 소득수준을정확하게파악할수있을때실효성이있다.\n   ᄅ. 기초생활보장수급권자의최저생활보장을목적으로한다.\n   ᄆ. 근로를통한복지라는점에서생산적복지개념에부합\n     한다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ᄀ, ᄂ, ᄅ"
+    },
+    {
+     "number": 2,
+     "text": "ᄀ, ᄃ, ᄅ"
+    },
+    {
+     "number": 3,
+     "text": "ᄀ, ᄃ, ᄆ"
+    },
+    {
+     "number": 4,
+     "text": "ᄂ, ᄃ, ᄅ"
+    },
+    {
+     "number": 5,
+     "text": "ᄃ, ᄅ, ᄆ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "실시 전                정책\n\n실시 후\n\n절                   2\n=                  x\n분\n지                   =\n원                   소\n글                  들\na                   득\n>»                   >\n=                 =                     =\n근로 소득           근로 소득              근로 소득\n\n※가처분 소득 : 개인이 실제로 사용할 수 있는 소득의 총액",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 16,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q10.png",
+   "question_image_sha256": "18814d20706b554e91963df27eb8b08efa3eed44732482a9dd4dd83228ee985f",
+   "image_size_px": [
+    959,
+    901
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q11",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 11,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.74,
+      501.22,
+      418.68,
+      800.73
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 502.27,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "11. 다음은어떤연구보고서에대한요약이다. 이보고서에대한\n\n 평가로가장적절한것은? [3점]\n\n\n\n\n\n ①지나치게이론적인주제를선정하였다.\n ②윤리적으로논란이발생할수있는제언을제시하였다.\n ③가설과무관한결론이도출되어연구의신뢰도가낮다.\n ④변수간상관관계검증이불가능한가설을설정하였다.\n ⑤양적방법으로만자료를수집하여질적인요소를파악하기\n   어렵다.",
+   "shared_passage_text": "",
+   "stem": "11. 다음은어떤연구보고서에대한요약이다. 이보고서에대한 평가로가장적절한것은? [3점]",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "지나치게이론적인주제를선정하였다."
+    },
+    {
+     "number": 2,
+     "text": "윤리적으로논란이발생할수있는제언을제시하였다."
+    },
+    {
+     "number": 3,
+     "text": "가설과무관한결론이도출되어연구의신뢰도가낮다."
+    },
+    {
+     "number": 4,
+     "text": "변수간상관관계검증이불가능한가설을설정하였다."
+    },
+    {
+     "number": 5,
+     "text": "양적방법으로만자료를수집하여질적인요소를파악하기 어렵다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "연구 요약\n\n1.주제 온라인 게임이 청소년의 집단 따돌림 현상에\n미치는 영향\n2.가설 온라인 게임 접속 시간이 많은 학생일수록\n집단 따돌림의 가해자가 될 가능성이 크다.\nALB 수집 방법 질문지법과 참여 관찰법\n4.결론 온라인 게임을 많이 한 학생일수록 집단\n따돌림 현상의 가해자가 될 확률이 높다.\n5.제언 연구 과정에서 확보한 게임 접속 시간이\n많은 학생의 명단을 학교에 통보하여\n집단 따돌림 예방 교육을 받게 한다.",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 12,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q11.png",
+   "question_image_sha256": "f6b9fcc3872bb66fa3441cb0defed399e5b9a258849efd6e38d6dca89981f12d",
+   "image_size_px": [
+    959,
+    833
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q12",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 12,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.74,
+      819.07,
+      418.68,
+      1066.44
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 820.37,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "12. 다음글을통해추론한내용으로가장적절한것은?\n\n\n   도시는외관적으로는비농업인구가집중적으로거주하는\n  지역처럼보이지만, 본질적으로는생산․유통․소비라는자\n  본주의적생산의총과정이지역․공간적으로표현된형태라\n  고할수있다. 자본주의사회의도시는생산의간접비용및\n  유통과소비에들어가는경비와시간을줄이려는필요성때\n  문에출현하였고, 계속성장하고있는것이다.\n\n\n ①대도시일수록상품의유통비용이많이든다.\n ②도시는생산활동보다소비활동에더유리한공간이다.\n ③도시와농촌을구분하는핵심적인조건은인구규모이다.\n\n ④같은조건이면도시에서제품을구입하는것이합리적이다.\n ⑤대도시가되면생산시설을도시밖으로이전하는것이경제\n   적이다.",
+   "shared_passage_text": "",
+   "stem": "12. 다음글을통해추론한내용으로가장적절한것은?",
+   "passage": "도시는외관적으로는비농업인구가집중적으로거주하는\n  지역처럼보이지만, 본질적으로는생산․유통․소비라는자\n  본주의적생산의총과정이지역․공간적으로표현된형태라\n  고할수있다. 자본주의사회의도시는생산의간접비용및\n  유통과소비에들어가는경비와시간을줄이려는필요성때\n  문에출현하였고, 계속성장하고있는것이다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "대도시일수록상품의유통비용이많이든다."
+    },
+    {
+     "number": 2,
+     "text": "도시는생산활동보다소비활동에더유리한공간이다."
+    },
+    {
+     "number": 3,
+     "text": "도시와농촌을구분하는핵심적인조건은인구규모이다."
+    },
+    {
+     "number": 4,
+     "text": "같은조건이면도시에서제품을구입하는것이합리적이다."
+    },
+    {
+     "number": 5,
+     "text": "대도시가되면생산시설을도시밖으로이전하는것이경제 적이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 1,
+    "curves": 17,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q12.png",
+   "question_image_sha256": "3ca74888b6ced0a32ed76f25fa0ea5c680f74772233f28378b8e65cc8e842fb4",
+   "image_size_px": [
+    959,
+    688
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q13",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 13,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      158.2,
+      773.26,
+      519.56
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 159.46,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "13. 다음각사례에서나타나는가족형태와관련된추론으로가\n\n 장타당한것은? [3점]\n\n\n  ◦(가)는농업을경제기반으로한사회이다. 따라서많은노\n   동력을필요로하여그에부합한가족제도가발달하였다.\n  ◦(나)는부부또는부부와미혼자녀로구성되는가족형\n   태가보편화된사회이다. 공업화이후직업이분화되고\n   교육과고용의기회가증대되어많은사람들이농촌에서\n   도시로이동하였다.\n  ◦(다)는수렵과채집을하는사회이다. 이사회에서는가\n   족이하나의독립적단위를이루어생활을영위해나간\n     다. 자연자원이희소할뿐만아니라넓은지역에흩어져\n   있어서규모가작은단위일수록적응력이강하다.\n\n\n ①(가)는이동성이높은사회이며부부와자녀가함께생활했을\n   것이다.\n ②(나)는가족구성원개인의특성보다가족전체의질서를중\n   요시하였을것이다.\n ③(다)의가족형태는에스키모인들의가족형태와비슷할것이다.\n ④(가)의가족형태는(나)의가족형태보다부부간의관계가\n   더긴밀하고평등할것이다.\n ⑤(나)와(다)는가계의전통과영속성을중시하였을것이다.",
+   "shared_passage_text": "",
+   "stem": "13. 다음각사례에서나타나는가족형태와관련된추론으로가 장타당한것은? [3점]",
+   "passage": "◦(가)는농업을경제기반으로한사회이다. 따라서많은노\n   동력을필요로하여그에부합한가족제도가발달하였다.\n  ◦(나)는부부또는부부와미혼자녀로구성되는가족형\n   태가보편화된사회이다. 공업화이후직업이분화되고\n   교육과고용의기회가증대되어많은사람들이농촌에서\n   도시로이동하였다.\n  ◦(다)는수렵과채집을하는사회이다. 이사회에서는가\n   족이하나의독립적단위를이루어생활을영위해나간\n     다. 자연자원이희소할뿐만아니라넓은지역에흩어져\n   있어서규모가작은단위일수록적응력이강하다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)는이동성이높은사회이며부부와자녀가함께생활했을 것이다."
+    },
+    {
+     "number": 2,
+     "text": "(나)는가족구성원개인의특성보다가족전체의질서를중 요시하였을것이다."
+    },
+    {
+     "number": 3,
+     "text": "(다)의가족형태는에스키모인들의가족형태와비슷할것이다."
+    },
+    {
+     "number": 4,
+     "text": "(가)의가족형태는(나)의가족형태보다부부간의관계가 더긴밀하고평등할것이다."
+    },
+    {
+     "number": 5,
+     "text": "(나)와(다)는가계의전통과영속성을중시하였을것이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 24,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q13.png",
+   "question_image_sha256": "1ef9f77a2b2862f57dddace9169ebfa2158c3c9268878bbf6278568fbd24fb32",
+   "image_size_px": [
+    975,
+    1005
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q14",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 14,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      540.05,
+      773.26,
+      837.04
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 541.37,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "14. 다음과같은사회적상황을해결하기위한대안을<보기>에서\n\n 모두고른것은?\n\n\n  ◦인터넷채팅에서욕설이난무하여정신적고통을당하는\n   사람들이늘어났다.\n  ◦온라인서점으로부터구매하지도않은책에대한대금이\n   신용카드로청구되었다.\n  ◦국회의원입후보자에대한비방게시물이인터넷에확산\n   되어선거의공정성문제가제기되었다.\n\n\n             <보기>\n\n   ᄀ. 전자투표제도입\n   ᄂ. 인터넷실명제실시\n   ᄃ. 저소득층컴퓨터보급확대\n   ᄅ. 전자상거래보안규제강화\n\n\n ①ᄀ, ᄂ      ②ᄀ, ᄅ      ③ᄂ, ᄅ\n ④ᄀ, ᄂ, ᄃ    ⑤ᄂ, ᄃ, ᄅ",
+   "shared_passage_text": "",
+   "stem": "14. 다음과같은사회적상황을해결하기위한대안을<보기>에서 모두고른것은?",
+   "passage": "◦인터넷채팅에서욕설이난무하여정신적고통을당하는\n   사람들이늘어났다.\n  ◦온라인서점으로부터구매하지도않은책에대한대금이\n   신용카드로청구되었다.\n  ◦국회의원입후보자에대한비방게시물이인터넷에확산\n   되어선거의공정성문제가제기되었다.\n\n\n             <보기>\n\n   ᄀ. 전자투표제도입\n   ᄂ. 인터넷실명제실시\n   ᄃ. 저소득층컴퓨터보급확대\n   ᄅ. 전자상거래보안규제강화",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ᄀ, ᄂ"
+    },
+    {
+     "number": 2,
+     "text": "ᄀ, ᄅ"
+    },
+    {
+     "number": 3,
+     "text": "ᄂ, ᄅ"
+    },
+    {
+     "number": 4,
+     "text": "ᄀ, ᄂ, ᄃ"
+    },
+    {
+     "number": 5,
+     "text": "ᄂ, ᄃ, ᄅ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 2,
+    "curves": 10,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q14.png",
+   "question_image_sha256": "462a9f488386d515730c678eb88506e8d33c0ad5147e9c77a4b91d8302198faf",
+   "image_size_px": [
+    975,
+    826
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q15",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 15,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      856.1,
+      773.26,
+      1067.16
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 857.44,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "15. 장수를바라보는갑과을의견해에대한설명으로옳은것은?\n\n\n  갑：요즘장수마을의기사가TV에자주나와. 인간이장수\n    하는것은오래사는유전인자를가지고있기때문이야.\n  을：그렇지않아. 장수하는사람들을보면생활습관이다른\n    사람들과다르고, 인간관계에서심리적안정감이더높\n      아. 그래서오래사는게아닐까?\n\n\n ①갑은확실성의원리가지배하는현상을강조하고있다.\n ②갑은시․공간적특수성을가지는현상을강조하고있다.\n ③갑은당위적이고가치함축적인현상에관심을가지고있다.\n ④을은인간의지와무관한현상에대하여이야기하고있다.\n ⑤을은객관적인법칙발견이용이한현상을강조하고있다.",
+   "shared_passage_text": "",
+   "stem": "15. 장수를바라보는갑과을의견해에대한설명으로옳은것은?",
+   "passage": "갑：요즘장수마을의기사가TV에자주나와. 인간이장수\n    하는것은오래사는유전인자를가지고있기때문이야.\n  을：그렇지않아. 장수하는사람들을보면생활습관이다른\n    사람들과다르고, 인간관계에서심리적안정감이더높\n      아. 그래서오래사는게아닐까?",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑은확실성의원리가지배하는현상을강조하고있다."
+    },
+    {
+     "number": 2,
+     "text": "갑은시․공간적특수성을가지는현상을강조하고있다."
+    },
+    {
+     "number": 3,
+     "text": "갑은당위적이고가치함축적인현상에관심을가지고있다."
+    },
+    {
+     "number": 4,
+     "text": "을은인간의지와무관한현상에대하여이야기하고있다."
+    },
+    {
+     "number": 5,
+     "text": "을은객관적인법칙발견이용이한현상을강조하고있다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 19,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q15.png",
+   "question_image_sha256": "5213e7eb5a3a73aa4e4fa38f7c8372b702763901d729ef1e395216990bf3bca7",
+   "image_size_px": [
+    975,
+    587
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q16",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 16,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.74,
+      158.2,
+      418.68,
+      466.7
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 159.46,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "16. 신문기사를보고아래와같이탐구과제의제목을정하였다.\n\n 각모둠이수행한활동으로적절하지않은것은? [3점]\n\n\n  <기사>\n   지난주말에출근길빗길교통사고로40여명이숨지거나\n  다치고, 농부들이급류에휩쓸려숨지는등피해가이어졌다.\n  <탐구과제>\n   (가) 모둠：장마철익사사고에대한농촌주민의심정이해\n   (나) 모둠：장마로인한피해유형과지역간상관관계발견\n\n\n ①(가)는연도별강수량을독립변수로, 익사사고자수를종속\n   변수로설정하였다.\n ②(가)는익사사고가많이발생한농촌지역에가서주민들을\n   심층적으로면접하였다.\n ③(나)는인구5만명을기준으로도시와농촌을구분하였다.\n ④(나)는도시지역에서는교통사고가, 농촌지역에서는익사\n   사고가많다는가설을설정하였다.\n ⑤(나)는도시와농촌지역에서발생한교통사고와익사사고\n   의건수를조사하였다.",
+   "shared_passage_text": "",
+   "stem": "16. 신문기사를보고아래와같이탐구과제의제목을정하였다. 각모둠이수행한활동으로적절하지않은것은? [3점]",
+   "passage": "<기사>\n   지난주말에출근길빗길교통사고로40여명이숨지거나\n  다치고, 농부들이급류에휩쓸려숨지는등피해가이어졌다.\n  <탐구과제>\n   (가) 모둠：장마철익사사고에대한농촌주민의심정이해\n   (나) 모둠：장마로인한피해유형과지역간상관관계발견",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)는연도별강수량을독립변수로, 익사사고자수를종속 변수로설정하였다."
+    },
+    {
+     "number": 2,
+     "text": "(가)는익사사고가많이발생한농촌지역에가서주민들을 심층적으로면접하였다."
+    },
+    {
+     "number": 3,
+     "text": "(나)는인구5만명을기준으로도시와농촌을구분하였다."
+    },
+    {
+     "number": 4,
+     "text": "(나)는도시지역에서는교통사고가, 농촌지역에서는익사 사고가많다는가설을설정하였다."
+    },
+    {
+     "number": 5,
+     "text": "(나)는도시와농촌지역에서발생한교통사고와익사사고 의건수를조사하였다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 21,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q16.png",
+   "question_image_sha256": "f66172d488bb6cc4685b52e2cd2282c114a09a36915c7d75c64c0afe783c8cc1",
+   "image_size_px": [
+    959,
+    858
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q17",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 17,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.74,
+      487.92,
+      418.68,
+      758.3
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 489.2,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "17. 표는아노미(Anomie) 개념에근거한개인의적응양식유형\n\n 이다. (가), (나), (다)의적응양식유형이바르게연결된것은?\n\n\n\n\n\n    (가)   (나)  (다)            (가)  (나)  (다)\n ① B   A   D     ② B   D   C\n ③ C   C   B      ④ C   D   B\n ⑤ D   B   A",
+   "shared_passage_text": "",
+   "stem": "17. 표는아노미(Anomie) 개념에근거한개인의적응양식유형 이다. (가), (나), (다)의적응양식유형이바르게연결된것은?",
+   "passage": "(가)   (나)  (다)            (가)  (나)  (다)",
+   "choices": [
+    {
+     "number": 1,
+     "text": "B A D"
+    },
+    {
+     "number": 2,
+     "text": "B D C"
+    },
+    {
+     "number": 3,
+     "text": "C C B"
+    },
+    {
+     "number": 4,
+     "text": "C D B"
+    },
+    {
+     "number": 5,
+     "text": "D B A"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "무하저 목표\n제도적 eq SF       거부\n\n수용       A     B\n\n거부       @     2\n\n(가) 좋은 기록을 내기 위해 금지 약물을 복용한 운동 선수\n\n(나) 부귀 영화가 덧없음을 느끼고 일생을 방랑자로 보낸 사람\n\n(다) 회사의 과업 달성에는 관심이 없고 업무 절차에만 충실한\n회사원",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 12,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q17.png",
+   "question_image_sha256": "c88f11c754403569b0f130c48e57aae180cc8619f1dedf788eba5abb7e6f6595",
+   "image_size_px": [
+    959,
+    752
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q18",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 18,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.74,
+      778.8,
+      418.68,
+      1068.6
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 780.07,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "18. 그림은문화의어떤속성을담고있다. 이속성에대한옳은\n\n 진술을<보기>에서모두고른것은?\n\n\n\n\n\n            <보기>\n\n   ᄀ. 이속성에의해다른사람의행동이예측가능하게된다.\n   ᄂ. 이속성은후천적인것으로서생물학적요인과무관하다.\n   ᄃ. 문화의한부분에변화가생기면다른부분에도영향을\n    미치게된다.\n   ᄅ. 이민자의후손이모국음식보다거주국의음식을더잘\n   먹는것은이속성의사례이다.\n\n\n ①ᄀ, ᄂ  ②ᄀ, ᄃ  ③ᄂ, ᄃ  ④ᄂ, ᄅ  ⑤ᄃ, ᄅ",
+   "shared_passage_text": "",
+   "stem": "18. 그림은문화의어떤속성을담고있다. 이속성에대한옳은 진술을<보기>에서모두고른것은?",
+   "passage": "<보기>\n\n   ᄀ. 이속성에의해다른사람의행동이예측가능하게된다.\n   ᄂ. 이속성은후천적인것으로서생물학적요인과무관하다.\n   ᄃ. 문화의한부분에변화가생기면다른부분에도영향을\n    미치게된다.\n   ᄅ. 이민자의후손이모국음식보다거주국의음식을더잘\n   먹는것은이속성의사례이다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ᄀ, ᄂ"
+    },
+    {
+     "number": 2,
+     "text": "ᄀ, ᄃ"
+    },
+    {
+     "number": 3,
+     "text": "ᄂ, ᄃ"
+    },
+    {
+     "number": 4,
+     "text": "ᄂ, ᄅ"
+    },
+    {
+     "number": 5,
+     "text": "ᄃ, ᄅ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "일란성 쌍둥이인데\n각기 다른 나라에 입양되더니\n다른 나라 사람이 되었네",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 24,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q18.png",
+   "question_image_sha256": "f8c66ee0f3236dd605c40df26b337df9798c02574c3366f631e67368086d7fc1",
+   "image_size_px": [
+    959,
+    806
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q19",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 19,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      158.2,
+      773.26,
+      494.75
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 159.46,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "19. 다음갑, 을, 병각단체에대한설명으로옳은것은? [3점]\n\n\n  ◦갑은교직원들로구성되며, 회원간의상호교류증진과\n   올바른여가선용의기회제공에목적을두고있다. 아울\n   러건전한가족중심의낚시문화를정착하고후손들에게\n   깨끗한자연환경을물려주고자한다.\n  ◦을은항상고객의입장에서최고의가치를주는제품을\n    생산하며, 열린경영과공정한보상등을통해인간존중\n   을실현하고자한다.\n  ◦병은민간경제인들에의해설립된종합경제단체로서\n   사단법인의지위를갖고있다. 설립목적은자유시장경\n   제를창달하고올바른경제정책을제시하는것이다.\n\n\n ①갑은1차집단, 을은2차집단에해당한다.\n ②갑과병은자발적결사체라는공통점이있다.\n ③갑은공식조직, 병은비공식조직이다.\n ④갑과병은구성원의역할분담, 업무수행의절차, 행위규범을\n   명시적으로규정한다.\n ⑤을과병은공동의관심혹은취미에따른친밀한인간관계를\n   바탕으로한다.",
+   "shared_passage_text": "",
+   "stem": "19. 다음갑, 을, 병각단체에대한설명으로옳은것은? [3점]",
+   "passage": "◦갑은교직원들로구성되며, 회원간의상호교류증진과\n   올바른여가선용의기회제공에목적을두고있다. 아울\n   러건전한가족중심의낚시문화를정착하고후손들에게\n   깨끗한자연환경을물려주고자한다.\n  ◦을은항상고객의입장에서최고의가치를주는제품을\n    생산하며, 열린경영과공정한보상등을통해인간존중\n   을실현하고자한다.\n  ◦병은민간경제인들에의해설립된종합경제단체로서\n   사단법인의지위를갖고있다. 설립목적은자유시장경\n   제를창달하고올바른경제정책을제시하는것이다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑은1차집단, 을은2차집단에해당한다."
+    },
+    {
+     "number": 2,
+     "text": "갑과병은자발적결사체라는공통점이있다."
+    },
+    {
+     "number": 3,
+     "text": "갑은공식조직, 병은비공식조직이다."
+    },
+    {
+     "number": 4,
+     "text": "갑과병은구성원의역할분담, 업무수행의절차, 행위규범을 명시적으로규정한다."
+    },
+    {
+     "number": 5,
+     "text": "을과병은공동의관심혹은취미에따른친밀한인간관계를 바탕으로한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 21,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q19.png",
+   "question_image_sha256": "986c8c3543bf3072ddb971e48d0ea94526c7d54b87819afc3b971923a9f05a63",
+   "image_size_px": [
+    975,
+    936
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_SEPTEMBER_Q20",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_SEPTEMBER",
+   "year": 2006,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 20,
+   "source_file": "2006학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "51cf67213336a62e3110fb16d1f7bae4bfb241c163582f5cf77bd3362f96e239",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      544.01,
+      773.26,
+      1069.32
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 545.21,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "20. 다음은어느인터넷신문기사의일부이다.\n\n\n\n\n\n  위의댓글을단사람들의관점에서사회불평등현상을바라볼\n 때적절한것을<보기>에서모두고른것은? [3점]\n\n             <보기>\n\n   ᄀ. 사회계층은사회적분화가서열로전환된것이다.\n   ᄂ. 지위와역할은사회전체의요구충족을위하여규정된\n     것이다.\n   ᄃ. 필요한인재를적재적소에배치하기위하여공적부문의\n    개입이필요하다.\n   ᄅ. 사회불평등은집단간이해관계가반영되어성립된\n    분배체계의결과이다.\n\n\n ①ᄀ, ᄂ      ②ᄀ, ᄅ      ③ᄃ, ᄅ\n ④ᄀ, ᄂ, ᄃ    ⑤ᄂ, ᄃ, ᄅ\n\n\n\n\n\n  * 확인사항\n\n ◦답안지의해당란에필요한내용을정확히기입(표기)했는지확인\n\n   하시오.",
+   "shared_passage_text": "",
+   "stem": "20. 다음은어느인터넷신문기사의일부이다. 위의댓글을단사람들의관점에서사회불평등현상을바라볼 때적절한것을<보기>에서모두고른것은? [3점]",
+   "passage": "<보기>\n\n   ᄀ. 사회계층은사회적분화가서열로전환된것이다.\n   ᄂ. 지위와역할은사회전체의요구충족을위하여규정된\n     것이다.\n   ᄃ. 필요한인재를적재적소에배치하기위하여공적부문의\n    개입이필요하다.\n   ᄅ. 사회불평등은집단간이해관계가반영되어성립된\n    분배체계의결과이다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ᄀ, ᄂ"
+    },
+    {
+     "number": 2,
+     "text": "ᄀ, ᄅ"
+    },
+    {
+     "number": 3,
+     "text": "ᄃ, ᄅ"
+    },
+    {
+     "number": 4,
+     "text": "ᄀ, ᄂ, ᄃ"
+    },
+    {
+     "number": 5,
+     "text": "ᄂ, ᄃ, ᄅ * 확인사항 ◦답안지의해당란에필요한내용을정확히기입(표기)했는지확인 하시오."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "파일) BAG 21M BARA SAD 도움말내)\n<)    0 HAD Px 이 9282 @\\ㅁ0 @ e-2Ses\n220/16                                          ViBos 22\n\n'어로장' AS 수억 원 … 뱃사람들의 꿈\n\n선단의 총책임자인 어로장은 연봉 5억~6억 원은 기본이고 이와 별도로\n생산 장려 수당을 3억원에서 많으면 0억원까지 받는다. 스타 어로장의\n연봉은 수억 원에서 10억 원까지 된다.\n\n어로장의 능력이 전체 선단의 어업 실적을 좌우합니다. 이렇게\n사회적으로 중요한 일을 하는 사람을 경게적으로 우대해야 합니다.\n아무리 첨단 장비로 과학적인 조업이 이루어져도 어로장의 실력은\n못 따라가니 할 수 없죠.\n\nCEE",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 1,
+    "curves": 21,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_SEPTEMBER_Q20.png",
+   "question_image_sha256": "6d6e7b6586f572f6730f60dcfb7012816c9180b14a0f654d5a3cdb510f2a6ed1",
+   "image_size_px": [
+    975,
+    1461
+   ],
+   "review_required": false,
+   "review_reasons": []
+  }
+ ]
+}

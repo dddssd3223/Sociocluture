@@ -1,0 +1,70 @@
+{
+ "phase2a_direct": 280,
+ "phase2a_adaptable": 168,
+ "phase2a_low": 248,
+ "phase2a_none": 664,
+ "low_reviewed": 248,
+ "low_rescue": 9,
+ "low_remain_low": 239,
+ "none_audit_rule": "NONE with curriculum_codes, rule_first_pass DIRECT, rule_first_pass ADAPTABLE with I>=3, any Phase 2A review flag, or a direct 통합사회 concept in required_content",
+ "none_audit_count": 28,
+ "none_audit_rescue": 0,
+ "none_audit_remain_none": 28,
+ "none_audit_remain_low": 0,
+ "total_rescue": 9,
+ "phase2c_candidate_count": 457,
+ "phase2c_candidate_by_source": {
+  "PHASE2B_RESCUE": 9,
+  "PHASE2A_DIRECT": 280,
+  "PHASE2A_ADAPTABLE": 168
+ },
+ "rescue_by_domain": {
+  "문화와 다양성": 4,
+  "인권보장과 헌법": 1,
+  "생활공간과 사회": 1,
+  "사회정의와 불평등": 1,
+  "시장경제와 지속가능발전": 1,
+  "기타": 1
+ },
+ "rescue_by_standard": {
+  "10통사1-04-01": 2,
+  "10통사2-01-02": 1,
+  "10통사1-05-02": 1,
+  "10통사2-02-02": 1,
+  "10통사2-03-02": 1,
+  "10통사2-03-01": 1,
+  "10통사1-04-04": 1,
+  "10통사1-01-02": 1,
+  "10통사1-04-02": 1
+ },
+ "phase2b_review_required": 6,
+ "qa": {
+  "phase2a_input": 1360,
+  "phase2a_counts_from_file": {
+   "NONE": 664,
+   "LOW": 248,
+   "DIRECT": 280,
+   "ADAPTABLE": 168
+  },
+  "phase2a_counts_match_summary": true,
+  "low_reviewed": 248,
+  "low_decision_sum_ok": true,
+  "none_audit_count": 28,
+  "none_audit_decision_sum_ok": true,
+  "invalid_decisions": 0,
+  "decision_rows_not_in_review_set": [],
+  "phase2c_candidate_count": 457,
+  "phase2c_count_ok": true,
+  "candidate_duplicate_ids": 0,
+  "candidate_missing_source_ids": 0,
+  "rescue_without_curriculum_evidence": 0,
+  "rescue_without_rationale": 0,
+  "official_answers_modified": 0
+ },
+ "inputs": {
+  "data/phase2/SOCIOCULTURE/phase2a_relevance.jsonl": "ac78757f93a9ac868c0911e432abb650df74ab5f3d4074e165582f2a74a820f0",
+  "data/phase2/SOCIOCULTURE/phase2a_relevance_summary.json": "a5820557b4fea4c1512118d0e021e922a9d73b74495de8151ff715c0ec6ea635",
+  "reference/curriculum/integrated_social_official_scope.json": "362030700ee8a434908609a2f9b75b045c0b63094a4ee8f49b555faddfba8b80",
+  "data/phase2/SOCIOCULTURE/phase2b_rescue_decisions.tsv": "66e6568fc229a16d1fdd7fb6fab5938c840d9f0794de2642a83e8c67db76a059"
+ }
+}

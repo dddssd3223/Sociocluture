@@ -1,0 +1,124 @@
+{
+ "total": 1360,
+ "DIRECT": 280,
+ "ADAPTABLE": 168,
+ "LOW": 248,
+ "NONE": 664,
+ "phase2a_review_required": 324,
+ "phase2a_review_reasons": {
+  "INDIRECT_CURRICULUM_LINK": 238,
+  "BOUNDARY_DIRECT_ADAPTABLE": 55,
+  "DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE": 21,
+  "OCR_UNCERTAIN": 19
+ },
+ "phase1_review_required_by_decision": {
+  "NONE": 67,
+  "LOW": 29,
+  "DIRECT": 30,
+  "ADAPTABLE": 24
+ },
+ "decision_source": {
+  "semantic_review": 1360
+ },
+ "by_domain": {
+  "문화와 다양성": {
+   "total": 224,
+   "DIRECT": 83,
+   "ADAPTABLE": 49,
+   "LOW": 92,
+   "NONE": 0
+  },
+  "사회정의와 불평등": {
+   "total": 187,
+   "DIRECT": 95,
+   "ADAPTABLE": 21,
+   "LOW": 71,
+   "NONE": 0
+  },
+  "생활공간과 사회": {
+   "total": 169,
+   "DIRECT": 41,
+   "ADAPTABLE": 73,
+   "LOW": 55,
+   "NONE": 0
+  },
+  "인권보장과 헌법": {
+   "total": 42,
+   "DIRECT": 21,
+   "ADAPTABLE": 14,
+   "LOW": 7,
+   "NONE": 0
+  },
+  "시장경제와 지속가능발전": {
+   "total": 5,
+   "DIRECT": 0,
+   "ADAPTABLE": 0,
+   "LOW": 5,
+   "NONE": 0
+  },
+  "세계화와 평화": {
+   "total": 14,
+   "DIRECT": 7,
+   "ADAPTABLE": 2,
+   "LOW": 5,
+   "NONE": 0
+  },
+  "미래와 지속가능한 삶": {
+   "total": 50,
+   "DIRECT": 31,
+   "ADAPTABLE": 9,
+   "LOW": 10,
+   "NONE": 0
+  },
+  "기타": {
+   "total": 669,
+   "DIRECT": 2,
+   "ADAPTABLE": 0,
+   "LOW": 3,
+   "NONE": 664
+  }
+ },
+ "by_standard_direct_adaptable": {
+  "10통사1-03-03": 2,
+  "10통사1-04-01": 1,
+  "10통사1-04-02": 66,
+  "10통사1-04-03": 56,
+  "10통사1-04-04": 9,
+  "10통사1-05-01": 54,
+  "10통사1-05-02": 37,
+  "10통사1-05-03": 23,
+  "10통사2-01-01": 2,
+  "10통사2-01-02": 10,
+  "10통사2-01-03": 23,
+  "10통사2-02-01": 1,
+  "10통사2-02-03": 115,
+  "10통사2-04-01": 7,
+  "10통사2-04-02": 2,
+  "10통사2-05-01": 39,
+  "10통사2-05-02": 1
+ },
+ "rule_first_pass": {
+  "LOW": 300,
+  "NONE": 450,
+  "ADAPTABLE": 362,
+  "DIRECT": 248
+ },
+ "qa": {
+  "input_questions": 1360,
+  "output_records": 1360,
+  "decision_sum_ok": true,
+  "unique_question_ids": 1360,
+  "duplicate_ids": 0,
+  "missing_ids": 0,
+  "unknown_ids_in_review": [],
+  "direct_without_curriculum_evidence": 0,
+  "adaptable_without_evidence_or_rationale": 0,
+  "official_answers_changed": 0,
+  "invalid_decisions": 0,
+  "semantic_review_rows": 1360
+ },
+ "inputs": {
+  "phase1_jsonl_sha256": "e1af2dc96612153acc1c9ce35ffe194d6354df7f7f33b5b06174d53fd04feb7b",
+  "curriculum_master": "reference/curriculum/integrated_social_official_scope.json"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "SOCIOCULTURE_2006_CSAT": [
+  {
+   "page": 3,
+   "col": 0,
+   "y_pt": 445.0,
+   "first": 11,
+   "last": 12,
+   "note": "[11~12] located by OCR word box of the printed group instruction on an image page; verified visually in the stitched crop"
+  }
+ ],
+ "SOCIOCULTURE_2006_JUNE": [
+  {
+   "page": 3,
+   "col": 1,
+   "y_pt": 165.8,
+   "first": 13,
+   "last": 14,
+   "note": "[13~14] located by OCR word box of the printed group instruction on an image page; verified visually in the stitched crop"
+  },
+  {
+   "page": 4,
+   "col": 1,
+   "y_pt": 161.4,
+   "first": 18,
+   "last": 19,
+   "note": "[18~19] located by OCR word box of the printed group instruction on an image page; verified visually in the stitched crop"
+  }
+ ]
+}

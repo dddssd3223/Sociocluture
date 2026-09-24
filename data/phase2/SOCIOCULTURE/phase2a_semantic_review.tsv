@@ -1,0 +1,1363 @@
+# PHASE 2A semantic review (Claude, batch reading of stem/passage/choices/official answer; PNG checked where OCR broken)
+# columns: question_id<TAB>decision<TAB>codes (short, 10통사 prefix implied)<TAB>required_content (;-sep)<TAB>adaptation_note / rationale<TAB>phase2a review flags
+# flags: BOUNDARY_DIRECT_ADAPTABLE, INDIRECT_CURRICULUM_LINK, DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE, OCR_UNCERTAIN
+2005_CSAT_Q01	NONE		사회·문화 현상과 자연 현상 비교	사문 고유(현상 특성 비교)	
+2005_CSAT_Q02	NONE		내집단; 역할 갈등	집단·역할 분류	
+2005_CSAT_Q03	LOW	2-01-02	자발적 결사체; 시민 참여	시민단체 소재는 시민참여와 연결되나 정답 논리는 조직 유형	INDIRECT_CURRICULUM_LINK
+2005_CSAT_Q04	NONE		연구 방법	소재(시민단체)만 관련, 연구방법 문항	
+2005_CSAT_Q05	NONE		일탈 이론	일탈 이론 학자별	
+2005_CSAT_Q06	DIRECT	1-05-01	산업화·도시화에 따른 인구·가구 변화 자료 해석	도시화 지역 변화 표 해석	BOUNDARY_DIRECT_ADAPTABLE
+2005_CSAT_Q07	ADAPTABLE	1-04-03	문화를 사회 맥락 속에서 이해	총체론적 관점(사문 용어)을 문화 이해 태도(상대주의적 이해)로 바꾸면 활용	BOUNDARY_DIRECT_ADAPTABLE
+2005_CSAT_Q08	NONE		연구 절차	연구방법	
+2005_CSAT_Q09	DIRECT	2-02-03	사회 보험과 공공 부조 비교	사회 복지 제도 비교; 예시문항 13번(기초연금)과 같은 층위	
+2005_CSAT_Q10	NONE		사회 실재론	사회관	
+2005_CSAT_Q11	ADAPTABLE	1-04-02	문화 변동(문화 접변); 문화 지체	문화지체·내재적 변동 용어를 문화 변동 양상 중심으로 바꾸면 활용	
+2005_CSAT_Q12	NONE		관료제	조직론	
+2005_CSAT_Q13	ADAPTABLE	1-05-03,1-04-02	지역 문화와 지역사회 발전 관점	지역 축제 쟁점 → 지역사회 변화·전통문화 활용 문항으로 변형	
+2005_CSAT_Q14	DIRECT	1-03-03	환경 문제 원인과 해결 방안(정부·개인 노력)	환경 문제 해결 노력 주체	
+2005_CSAT_Q15	LOW	1-05-02	온라인·오프라인 활동 자료 해석	자료만 정보화 소재, 정답 논리는 단순 그래프 해석	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2005_CSAT_Q16	DIRECT	1-05-02	정보화에 따른 생활양식 변화(인터넷, 쌍방향 매체)	정보 사회 변화	
+2005_CSAT_Q17	LOW	2-05-01	가족 기능; 노인 문제	가족 기능 분류가 핵심, 고령화 소재만 관련	INDIRECT_CURRICULUM_LINK
+2005_CSAT_Q18	NONE		갈등론	관점 이론	
+2005_CSAT_Q19	ADAPTABLE	1-04-03	문화를 그 사회 맥락에서 이해(증여 관습)	문화 이해 관점 사례로 변형 가능	BOUNDARY_DIRECT_ADAPTABLE
+2005_CSAT_Q20	ADAPTABLE	2-02-03	학력별 임금 격차 자료 해석	소득 불평등 자료로 활용, 상대 임금 계산은 단순화 필요	
+2005_JUNE_Q01	NONE		사회·문화 현상과 자연 현상	현상 특성	
+2005_JUNE_Q02	NONE		자료 수집 방법	연구방법	
+2005_JUNE_Q03	LOW	2-02-03	계층론과 계급론	불평등 소재이나 정답 논리는 계층 이론	INDIRECT_CURRICULUM_LINK
+2005_JUNE_Q04	NONE		양적 연구	연구방법	
+2005_JUNE_Q05	LOW	2-02-03	학력 동질혼 표 해석	자료는 사회 구조·불평등 소재, 정답 논리는 표 해석	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2005_JUNE_Q06	ADAPTABLE	1-05-01	도시와 농촌 인구 구조·도시성 특징	도시화에 따른 생활양식(익명성 등) 문항으로 변형; 성취지위 선지 제거 필요	
+2005_JUNE_Q07	DIRECT	2-05-01	연령별 인구 구성 변화와 노령화	인구 구조 자료 해석	
+2005_JUNE_Q08	ADAPTABLE	2-01-02	시민 단체와 시민 참여	시민 참여 주체 문항으로 변형; 결사체 분류 선지 제거	
+2005_JUNE_Q09	LOW	1-05-01	가족 형태(핵가족·확대 가족)	생활양식 변화 소재, 가족 형태 분류는 사문	INDIRECT_CURRICULUM_LINK
+2005_JUNE_Q10	NONE		가족 해체를 보는 관점(갈등론)	관점 이론	
+2005_JUNE_Q11	NONE		역할 갈등	역할 개념	
+2005_JUNE_Q12	NONE		공식·비공식 조직	조직 분류	
+2005_JUNE_Q13	NONE		탐구 태도	연구 태도	
+2005_JUNE_Q14	NONE		연구 방법	연구방법	
+2005_JUNE_Q15	NONE		연구 방법	연구방법	
+2005_JUNE_Q16	NONE		탈관료제	조직론	
+2005_JUNE_Q17	NONE		내집단; 준거집단	집단 분류	
+2005_JUNE_Q18	DIRECT	2-02-03,1-05-03	수도권 인구 집중과 지역 격차; 지역 개발 방식	공간 불평등·지역 격차 완화	
+2005_JUNE_Q19	NONE		사회 이동 유형	사회 이동 분류	
+2005_JUNE_Q20	ADAPTABLE	1-05-03	지역 이기주의와 지역 문제 해결	지역사회 문제 해결 방안 문항으로 활용	
+2005_SEPTEMBER_Q01	LOW	2-01-03	청소년 인권 소재; 학문 분야별 연구 주제	인권 소재지만 정답 논리는 학문 분야 구분	INDIRECT_CURRICULUM_LINK
+2005_SEPTEMBER_Q02	LOW	2-02-01	기여(업적)에 따른 차등 보상 관점	업적 기준 분배 소재 → 정의의 실질적 기준 문항으로 변형 가능; 현재 정답은 기능론 관점 판별	INDIRECT_CURRICULUM_LINK
+2005_SEPTEMBER_Q03	LOW	2-03-02	소비자 권리·소비자 단체	소비자 역할 소재, 보기 OCR 불완전	OCR_UNCERTAIN
+2005_SEPTEMBER_Q04	DIRECT	2-02-03	국가 복지의 등장; 국민기초생활보장(공공 부조)	사회 복지 제도	
+2005_SEPTEMBER_Q05	DIRECT	1-05-02,2-01-02	인터넷 실명제 쟁점(표현의 자유 vs 인권 침해)	정보화에 따른 문제와 해결 방안	BOUNDARY_DIRECT_ADAPTABLE
+2005_SEPTEMBER_Q06	LOW	1-03-03	환경 단체(비정부 기구) 특성	환경 NGO 소재, 정답은 결사체 특성	INDIRECT_CURRICULUM_LINK,OCR_UNCERTAIN
+2005_SEPTEMBER_Q07	NONE		온라인 설문 조사 분석	연구방법	
+2005_SEPTEMBER_Q08	DIRECT	1-05-02	정보 사회의 생산·소비 방식 변화; 전자상거래·재택근무	정보화에 따른 생활양식 변화	
+2005_SEPTEMBER_Q09	ADAPTABLE	1-04-02,2-04-01	한류 확산과 문화 접변; 수용 사회의 재해석	문화 전파·세계화 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2005_SEPTEMBER_Q10	NONE		지위·역할·준거집단	지위·역할 퍼즐	
+2005_SEPTEMBER_Q11	LOW	2-02-03	계층 구조 변화(산업화)	계층 구조 유형 소재, 정답 논리는 사회 이동·계층 구조 분류	INDIRECT_CURRICULUM_LINK
+2005_SEPTEMBER_Q12	ADAPTABLE	1-05-01	산업화와 핵가족화	산업화에 따른 생활양식 변화로 변형; 가족 형태 비교 선지 조정	
+2005_SEPTEMBER_Q13	NONE		연구 주제와 자료 수집 방법	연구방법	
+2005_SEPTEMBER_Q14	DIRECT	1-04-02	문화 전파·문화 접변 사례(말의 도입)	문화 변동 양상	
+2005_SEPTEMBER_Q15	NONE		대규모 조직(관료제) 특징	조직론	
+2005_SEPTEMBER_Q16	DIRECT	1-05-01,2-05-01	도시·농촌 인구 피라미드와 도시 문제	도시화와 인구 구조 자료 해석	
+2005_SEPTEMBER_Q17	ADAPTABLE	1-04-03	가족 제도의 보편성과 다양성	문화 다양성·상대주의 이해 문항으로 변형	
+2005_SEPTEMBER_Q18	DIRECT	1-04-02	전통문화의 의의와 계승	현대 사회에서 전통문화의 의의	
+2005_SEPTEMBER_Q19	NONE		사회 실재론	사회관	
+2005_SEPTEMBER_Q20	ADAPTABLE	1-04-03	혼인 제도를 사회 맥락에서 이해; 문화 상대주의 선지	문화 상대주의적 이해 문항으로 변형	
+2006_CSAT_Q01	LOW	2-02-02	개인과 공동체 우선 관점	공동체주의 정의관 소재로 변형 가능, 현재 정답은 사회실재론	INDIRECT_CURRICULUM_LINK
+2006_CSAT_Q02	ADAPTABLE	2-02-03,2-01-01	가족법 개정과 양성평등; 가족 개념 변화	성 불평등 해소 제도 문항으로 변형	
+2006_CSAT_Q03	NONE		집단·역할 개념	집단 분류	
+2006_CSAT_Q04	NONE		팀제 조직 개편	조직론	
+2006_CSAT_Q05	ADAPTABLE	2-02-03	계층 구조 변화와 양극화	계층 양극화 자료 해석 문항으로 변형; 폐쇄적 계층 선지 조정	
+2006_CSAT_Q06	NONE		연구 설계 분석	연구방법	
+2006_CSAT_Q07	DIRECT	2-05-01,2-02-03	독거노인 증가와 빈곤·인권 문제	고령화에 따른 문제와 취약 계층	
+2006_CSAT_Q08	ADAPTABLE	1-05-02	미디어 보급·이용 자료	정보화 자료 해석 문항으로 활용	
+2006_CSAT_Q09	NONE		지위 획득 방식 비교	인류학 사례의 지위 논리	
+2006_CSAT_Q10	DIRECT	1-04-02,1-04-04	재일교포 문패와 문화 접변 속 정체성 유지	문화 변동 양상	
+2006_CSAT_Q11	ADAPTABLE	1-05-02,2-01-03	청소년 게임 셧다운제 찬반 토론	정보화 문제와 청소년 권리 쟁점	OCR_UNCERTAIN
+2006_CSAT_Q12	NONE		여론 조사 방식 비교	연구방법(설문 방식)	
+2006_CSAT_Q13	DIRECT	1-03-03,2-05-02	환경 보전과 개발의 조화	지속가능한 개발	
+2006_CSAT_Q14	ADAPTABLE	1-05-02	농업·산업·정보 사회 비교	산업화·정보화에 따른 사회 변화 문항으로 변형	
+2006_CSAT_Q15	ADAPTABLE	1-04-03	문화를 전체 맥락에서 이해(총체론)	문화 이해 태도 문항으로 변형	
+2006_CSAT_Q16	DIRECT	2-02-03	복지 예산 변화와 소득 불평등·재정 문제	복지 제도 자료 해석	BOUNDARY_DIRECT_ADAPTABLE
+2006_CSAT_Q17	DIRECT	1-05-01	도시 인구 증가 요인(이촌향도)	도시화 자료 해석	
+2006_CSAT_Q18	LOW	1-05-02	대중 매체의 역기능	대중매체 소재	INDIRECT_CURRICULUM_LINK
+2006_CSAT_Q19	NONE		도시 생태학과 일탈 이론	일탈 이론	
+2006_CSAT_Q20	NONE		자료 수집 방법 도식	연구방법	
+2006_JUNE_Q01	NONE		사회·문화 현상과 자연 현상	현상 특성	
+2006_JUNE_Q02	NONE		임시 조직(태스크포스) 특성	조직론	
+2006_JUNE_Q03	ADAPTABLE	1-04-04	농촌 국제결혼 가정·다문화 가정 자녀 차별 자료로 탐구 주제 설정	다문화 사회 현황 탐구 설계 문항(예시문항 13번 유형)으로 변형	
+2006_JUNE_Q04	ADAPTABLE	2-05-01,1-05-01	지역별 고령화·인구 이동 자료 해석	인구 문제 자료 문항으로 변형; 1차적 관계 선지 조정	
+2006_JUNE_Q05	NONE		갈등론·기능론 관점 판별	관점 이론	
+2006_JUNE_Q06	NONE		사회 실재론	사회관	
+2006_JUNE_Q07	DIRECT	1-05-03,2-02-03	국가 주도 개발의 문제(지역 격차, 수도권 집중)와 대책	지역 격차 완화·지역사회 주도 개발	
+2006_JUNE_Q08	NONE		사회 이동 유형	사회 이동 분류	
+2006_JUNE_Q09	ADAPTABLE	2-01-03	다양한 가족 형태에 대한 편견	소수자 편견·차별 문항으로 변형	
+2006_JUNE_Q10	DIRECT	2-05-01	평균 수명·출산율 추세와 저출산·고령화 영향	인구 문제 자료 해석	
+2006_JUNE_Q11	NONE		재사회화·준거집단	사회화·집단 개념	
+2006_JUNE_Q12	NONE		자료 수집 방법	연구방법	
+2006_JUNE_Q13	DIRECT	2-02-03,2-03-02	정규직·비정규직 임금·노동 시간 격차 자료	사회 불평등(고용 형태별 격차) 자료 해석	
+2006_JUNE_Q14	ADAPTABLE	2-02-01,2-02-03	임금 격차에 대한 상반된 입장(능력·노력 vs 구조 개혁)	분배 기준·불평등 해결 관점 문항으로 변형	
+2006_JUNE_Q15	NONE		질적 연구 특성	연구방법	
+2006_JUNE_Q16	LOW	2-01-01	연구 윤리(개인정보·인권 침해)	인권 소재, 정답 논리는 연구 윤리	INDIRECT_CURRICULUM_LINK
+2006_JUNE_Q17	NONE		역할 갈등; 성 역할 고정관념 선지	역할 개념	
+2006_JUNE_Q18	NONE		사회 집단 분류	집단 분류	
+2006_JUNE_Q19	NONE		자발적 결사체	집단 분류	
+2006_JUNE_Q20	NONE		설문 문항 설계	연구방법	
+2006_SEPTEMBER_Q01	NONE		사회 실재론	사회관	
+2006_SEPTEMBER_Q02	NONE		무국가 사회의 통합 장치	인류학 사례 해석	
+2006_SEPTEMBER_Q03	DIRECT	1-04-02	전통문화의 창출·재해석	현대 사회에서 전통문화의 의의	
+2006_SEPTEMBER_Q04	ADAPTABLE	1-05-03,2-02-03	지역 개발 방식(거점·균형) 비교	지역 격차 완화 정책 문항으로 변형; 개발 방식 세부 비교 축소	BOUNDARY_DIRECT_ADAPTABLE
+2006_SEPTEMBER_Q05	ADAPTABLE	1-04-03	자문화 중심주의; 총체론적 이해	총체론 부분을 문화 상대주의로 바꾸면 활용	
+2006_SEPTEMBER_Q06	NONE		질문지법 특징	연구방법	
+2006_SEPTEMBER_Q07	NONE		역할 갈등·귀속지위 자료	지위·역할 해석	
+2006_SEPTEMBER_Q08	ADAPTABLE	1-05-01	산업 사회 등장과 대중 소비·대중 매체	산업화에 따른 생활양식 변화 문항으로 변형	
+2006_SEPTEMBER_Q09	ADAPTABLE	2-02-03,1-05-01	산업화에 따른 계층 구조 변화	계층 구조 변화 자료 문항으로 변형; 성취지위 선지 조정	
+2006_SEPTEMBER_Q10	DIRECT	2-02-03	근로 장려형 소득 지원 제도의 재분배 효과	사회 복지 제도	
+2006_SEPTEMBER_Q11	NONE		연구 윤리	연구방법	
+2006_SEPTEMBER_Q12	LOW	1-05-01	자본주의와 도시 형성	도시화 소재, 정답은 제시문 추론	INDIRECT_CURRICULUM_LINK
+2006_SEPTEMBER_Q13	LOW	1-05-01	사회 유형별 가족 형태	가족 형태 분류 중심	INDIRECT_CURRICULUM_LINK
+2006_SEPTEMBER_Q14	DIRECT	1-05-02	정보 사회 문제(사이버 폭력·전자상거래 피해)와 대책	정보화 문제 해결 방안	
+2006_SEPTEMBER_Q15	NONE		사회·문화 현상과 자연 현상	현상 특성	
+2006_SEPTEMBER_Q16	NONE		탐구 과제별 연구 설계	연구방법	
+2006_SEPTEMBER_Q17	NONE		아노미 적응 유형	일탈 이론	
+2006_SEPTEMBER_Q18	LOW	1-04-03	문화의 속성(학습성)	문화 이해 기초 소재	INDIRECT_CURRICULUM_LINK
+2006_SEPTEMBER_Q19	NONE		집단·조직 분류	집단 분류	
+2006_SEPTEMBER_Q20	LOW	2-02-03	불평등을 보는 기능론적 관점	불평등 소재, 정답 논리는 계층화 이론	INDIRECT_CURRICULUM_LINK
+2007_CSAT_Q01	NONE		양적 연구 특징	연구방법	
+2007_CSAT_Q02	NONE		사회 명목론·실재론	사회관	
+2007_CSAT_Q03	NONE		조직 유형 도식	조직론	
+2007_CSAT_Q04	ADAPTABLE	1-04-01,1-04-03	음식 문화의 지역적 특수성과 맥락적 이해	문화권·문화 이해 태도 문항으로 변형; 총체론 표현 조정	
+2007_CSAT_Q05	DIRECT	2-02-03	계층별 소득 점유율 변화와 공공 부조·과세의 불평등 완화 효과	복지 제도·소득 불평등 자료 해석	
+2007_CSAT_Q06	ADAPTABLE	1-05-02	정보 사회를 보는 낙관적·비판적 관점	정보화에 따른 변화와 문제 문항으로 변형	
+2007_CSAT_Q07	NONE		조사 계획의 자료 수집 방법	연구방법	
+2007_CSAT_Q08	DIRECT	1-04-02,1-04-03,2-04-01	다국적 기업과 문화 전파·접변; 자문화 중심주의·상대주의	세계화 속 문화 변동과 문화 이해 태도	
+2007_CSAT_Q09	LOW	1-05-01	가족 형태 다양화와 혈연 중심 가족관 약화	가족 변화 소재	INDIRECT_CURRICULUM_LINK
+2007_CSAT_Q10	NONE		사회화 기관·집단 분류	집단 분류	
+2007_CSAT_Q11	LOW	2-02-03	계층 구성 요소의 세대 간 일치(빈곤 대물림)	불평등 소재, 정답 논리는 계층 구성 요소 표 해석	INDIRECT_CURRICULUM_LINK
+2007_CSAT_Q12	LOW	1-04-03	문화의 속성(공유성)	문화 이해 기초 소재	INDIRECT_CURRICULUM_LINK
+2007_CSAT_Q13	LOW	2-05-01	노인 문제를 보는 기능론 관점	고령화 소재, 정답 논리는 사회문제 관점	INDIRECT_CURRICULUM_LINK
+2007_CSAT_Q14	ADAPTABLE	2-05-01	80세 이상 노인 가구 형태 자료	고령화·노인 문제 자료 해석으로 활용	
+2007_CSAT_Q15	ADAPTABLE	1-04-02	전통 의례의 상업화(문화 변동)	문화 변동·전통문화 의의 문항으로 변형	
+2007_CSAT_Q16	NONE		자료 활용의 가치 개입	연구 태도	
+2007_CSAT_Q17	NONE		지위·역할·집단	지위·역할 퍼즐	
+2007_CSAT_Q18	DIRECT	2-02-03,1-05-01	수도권 인구·금융 집중 자료	공간 불평등·도시화 자료 해석	
+2007_CSAT_Q19	ADAPTABLE	1-05-02	일방향·쌍방향 매체와 사회 구성원의 능동성	정보화에 따른 매체 변화 문항으로 변형	
+2007_CSAT_Q20	NONE		가설·자료 수집 평가	연구방법	
+2007_JUNE_Q01	LOW	1-05-01	핵가족화에 따른 가족 특징	가족 형태 분류 중심	INDIRECT_CURRICULUM_LINK
+2007_JUNE_Q02	NONE		관료제	조직론	
+2007_JUNE_Q03	NONE		갈등론 관점	관점 이론	
+2007_JUNE_Q04	NONE		지위·집단·사회 이동	지위 퍼즐	
+2007_JUNE_Q05	NONE		연구 단계	연구방법(소재: 소득별 사교육비)	
+2007_JUNE_Q06	NONE		집단·친족	집단 분류	
+2007_JUNE_Q07	LOW	2-02-03	계층론·계급론(중산층)	불평등 소재, 정답은 계층화 이론	INDIRECT_CURRICULUM_LINK
+2007_JUNE_Q08	ADAPTABLE	2-02-03	계층 구조 유형 변화와 양극화	계층 양극화 자료로 변형; 개방적 계층 선지 조정	BOUNDARY_DIRECT_ADAPTABLE
+2007_JUNE_Q09	DIRECT	1-05-03	혐오 시설 입지 갈등과 지역 문제 해결	지역사회 문제의 민주적 해결	
+2007_JUNE_Q10	NONE		연구 윤리	연구 윤리	
+2007_JUNE_Q11	NONE		사회 현상의 가치 함축성	현상 특성	
+2007_JUNE_Q12	NONE		집단·조직 분류	집단 분류	
+2007_JUNE_Q13	NONE		탐구 태도	탐구 태도	
+2007_JUNE_Q14	DIRECT	1-04-04,1-05-01	결혼 이민자 자녀 증가와 도시·농촌 변화	다문화 사회 현황 자료	
+2007_JUNE_Q15	ADAPTABLE	1-04-04	국제결혼 통계 해석	다문화 사회 현황 자료로 활용	
+2007_JUNE_Q16	NONE		사회 명목론·실재론	사회관	
+2007_JUNE_Q17	NONE		연구 방법 유형	연구방법	
+2007_JUNE_Q18	DIRECT	2-05-01	출생률·사망률·고령화 자료로 탐구 주제 설정	인구 문제 탐구 설계	BOUNDARY_DIRECT_ADAPTABLE
+2007_JUNE_Q19	NONE		설문지 문항 설계	연구방법	
+2007_JUNE_Q20	NONE		사회 이동률 표	사회 이동표	
+2007_SEPTEMBER_Q01	NONE		사회 명목론·실재론(가족)	사회관	
+2007_SEPTEMBER_Q02	NONE		지위·역할·집단	지위 퍼즐	
+2007_SEPTEMBER_Q03	ADAPTABLE	1-04-02	문화 융합·간접 전파; 하위문화	문화 변동 양상 문항으로 변형; 하위문화 요소 제거	
+2007_SEPTEMBER_Q04	LOW	2-02-03	세대 간 계층 구조 변화	계층 구조 소재, 정답 논리는 세대 간 이동·성취지위	INDIRECT_CURRICULUM_LINK
+2007_SEPTEMBER_Q05	DIRECT	2-04-01,1-04-04	세계 도시 형성, 고숙련·빈곤층 양극화, 외국인 노동자 거주지	세계화의 양상(세계도시)과 문제	
+2007_SEPTEMBER_Q06	NONE		여론 조사 계획 평가	연구방법	
+2007_SEPTEMBER_Q07	LOW	1-05-01	사회 발달 단계별 가족 변화	가족 기능 변화 중심	INDIRECT_CURRICULUM_LINK
+2007_SEPTEMBER_Q08	NONE		면접법 특징	연구방법	
+2007_SEPTEMBER_Q09	NONE		일탈 이론	일탈 이론	
+2007_SEPTEMBER_Q10	DIRECT	1-04-02	문화 전파가 기존 문화에 미치는 다차원적 영향	문화 변동	
+2007_SEPTEMBER_Q11	DIRECT	2-05-01	도시·농촌 부양비 변화	인구 구조 자료 해석	
+2007_SEPTEMBER_Q12	NONE		연구 윤리	연구 윤리	
+2007_SEPTEMBER_Q13	NONE		제한된 재화 관념 사례 추론	인류학 사례	
+2007_SEPTEMBER_Q14	DIRECT	1-04-03	극단적 문화 상대주의 비판과 보편 가치	문화 상대주의와 보편 윤리	
+2007_SEPTEMBER_Q15	NONE		정부 조직 운영 모델	조직론	
+2007_SEPTEMBER_Q16	NONE		실험 설계	연구방법	
+2007_SEPTEMBER_Q17	ADAPTABLE	1-05-02	인터넷 채팅과 의사소통 방식 변화	정보화에 따른 생활양식 변화 문항으로 변형	
+2007_SEPTEMBER_Q18	ADAPTABLE	2-02-03	빈곤을 불공정 분배의 결과로 보는 관점	빈곤 원인·해결 관점 문항으로 변형; 갈등론 용어 축소	BOUNDARY_DIRECT_ADAPTABLE
+2007_SEPTEMBER_Q19	ADAPTABLE	2-02-03	복지 유형(보편적 권리 vs 자선)	복지 제도 문항으로 변형	
+2007_SEPTEMBER_Q20	DIRECT	2-05-01,2-02-03	노령화 지수·노년 부양비와 노인 복지	고령화 자료와 노인 복지	
+2008_CSAT_Q01	ADAPTABLE	1-05-03	지역 축제 문제와 주민 참여	지역사회 문제 해결 문항으로 변형	
+2008_CSAT_Q02	LOW	1-05-03	지역 발전을 보는 갈등론·기능론	지역 발전 소재, 정답 논리는 관점 이론	INDIRECT_CURRICULUM_LINK
+2008_CSAT_Q03	NONE		사회·문화 현상과 자연 현상	현상 특성	
+2008_CSAT_Q04	ADAPTABLE	1-04-03	문화 이해 관점(총체론·비교론·상대론)	상대주의 부분 중심으로 변형	
+2008_CSAT_Q05	NONE		지위·집단·사회 이동	지위 퍼즐	
+2008_CSAT_Q06	LOW	2-02-01,2-02-03	계층화 이론과 분배 기준	분배 기준 소재, 정답 논리는 계층화 이론 도식	INDIRECT_CURRICULUM_LINK
+2008_CSAT_Q07	LOW	1-05-01	가족의 정의와 다양한 가족	가족 개념 소재	INDIRECT_CURRICULUM_LINK
+2008_CSAT_Q08	DIRECT	2-02-03,2-05-01	노인 인구의 연금·기초 생활 수급 현황	사회 보험·공공 부조 자료 해석	
+2008_CSAT_Q09	NONE		집단 분류 개수	집단 분류	
+2008_CSAT_Q10	NONE		자료 수집 방법 비교	연구방법	
+2008_CSAT_Q11	NONE		양적·질적 연구	연구방법	
+2008_CSAT_Q12	ADAPTABLE	1-04-02,1-04-04	조선족의 문화 접변과 정체성 유지	문화 변동 양상 문항으로 변형; 하위문화 요소 조정	
+2008_CSAT_Q13	LOW	2-02-03	혼인 상태별 여성 가구주 분포	자료만 활용 가능	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2008_CSAT_Q14	NONE		사회 문제의 성격	사회문제 정의	
+2008_CSAT_Q15	DIRECT	1-05-02	인터넷 과다 사용·사이버 비방·정보 격차 조사 결과	정보화 문제 자료	
+2008_CSAT_Q16	LOW	2-02-03	사회 문제를 보는 갈등론(여성 빈곤과 차별)	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2008_CSAT_Q17	NONE		조직 유형	조직론	
+2008_CSAT_Q18	LOW	1-05-02	대중 매체 역기능	대중매체 소재	INDIRECT_CURRICULUM_LINK
+2008_CSAT_Q19	DIRECT	2-02-03,1-05-03	지역 격차 해소 정책과 지역 반응	공간 불평등 완화 정책	
+2008_CSAT_Q20	LOW	2-02-03	세대 간 계층 구성	사회 이동표 중심	INDIRECT_CURRICULUM_LINK
+2008_JUNE_Q01	NONE		사회·문화 현상과 자연 현상	현상 특성	
+2008_JUNE_Q02	NONE		면접 연구 과정	연구방법	
+2008_JUNE_Q03	NONE		지위·역할·집단	지위 퍼즐	
+2008_JUNE_Q04	NONE		집단 분류표	집단 분류	
+2008_JUNE_Q05	NONE		탈관료제 조직	조직론	
+2008_JUNE_Q06	ADAPTABLE	1-05-01,2-05-01	1차 산업 비율·부양비·인간관계로 본 도시화 정도	도시화에 따른 지역 변화 자료 문항으로 변형	
+2008_JUNE_Q07	LOW	1-05-01	지역 유형과 가족 세대 구성	가족 유형 분류 중심	INDIRECT_CURRICULUM_LINK
+2008_JUNE_Q08	NONE		기능론 관점	관점 이론	
+2008_JUNE_Q09	LOW	2-04-03	통일 후 동독 주민의 가치관·지위 변화	분단·통일 소재, 정답 논리는 사회 이동·가치관	INDIRECT_CURRICULUM_LINK
+2008_JUNE_Q10	NONE		연구 결과 활용 윤리	연구 윤리	
+2008_JUNE_Q11	ADAPTABLE	1-05-01,2-02-03	도시 순전입 인구의 지역 분포(수도권 집중)	도시화·공간 불평등 자료로 활용	
+2008_JUNE_Q12	NONE		자료 수집 방법	연구방법	
+2008_JUNE_Q13	NONE		연구 단계	연구방법	
+2008_JUNE_Q14	NONE		질적 연구 주제	연구방법	
+2008_JUNE_Q15	LOW	2-02-03	계층론·계급론 설문	불평등 소재, 정답은 계층 이론	INDIRECT_CURRICULUM_LINK
+2008_JUNE_Q16	NONE		사회 실재론	사회관	
+2008_JUNE_Q17	LOW	2-05-01	인구·가구 통계와 가족 기능 변화	고령화 자료 소재, 정답은 가족 기능	INDIRECT_CURRICULUM_LINK
+2008_JUNE_Q18	NONE		조직 분류	조직론	
+2008_JUNE_Q19	ADAPTABLE	1-05-03,2-02-03	계층별 지역 개발 방식 선호(형평성·효율성)	지역 격차 완화 정책 쟁점 문항으로 변형	
+2008_JUNE_Q20	LOW	2-02-03	계층 구성 비율과 세대 내 이동	사회 이동 중심	INDIRECT_CURRICULUM_LINK
+2008_SEPTEMBER_Q01	LOW	2-02-03	불평등을 보는 갈등론	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2008_SEPTEMBER_Q02	NONE		사회 명목론·실재론	사회관	
+2008_SEPTEMBER_Q03	DIRECT	2-02-03,1-05-02	계층별 정규·비정규 일자리 변화(고용 양극화)	노동 시장 양극화·불평등 자료	
+2008_SEPTEMBER_Q04	LOW	1-05-01	입양에 대한 견해 조사	자료만 활용 가능	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2008_SEPTEMBER_Q05	NONE		지위·역할·집단	지위 퍼즐	
+2008_SEPTEMBER_Q06	DIRECT	2-02-03,1-05-01	절대·상대 빈곤율과 도시화	빈곤 자료 해석	
+2008_SEPTEMBER_Q07	DIRECT	2-02-03	사회 보장 제도(사회 보험·공공 부조)의 재분배 방향	복지 제도	
+2008_SEPTEMBER_Q08	NONE		질적·양적 연구	연구방법	
+2008_SEPTEMBER_Q09	ADAPTABLE	1-05-02	농업·산업·탈산업(정보) 사회 특징	산업화·정보화 사회 변화 문항으로 변형	
+2008_SEPTEMBER_Q10	LOW	2-05-01	노인 문제를 보는 관점	고령화 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2008_SEPTEMBER_Q11	ADAPTABLE	2-01-01,2-02-03	가족관계등록부 전환과 사생활 보호·양성평등	인권 확장·성 평등 제도 문항으로 변형	
+2008_SEPTEMBER_Q12	LOW	1-04-03	두 사회의 부고 비교	문화 비교 소재	INDIRECT_CURRICULUM_LINK
+2008_SEPTEMBER_Q13	LOW	1-05-01	사회 변화에 따른 문화 양상(대중·하위문화)	대중문화 이론 중심	INDIRECT_CURRICULUM_LINK
+2008_SEPTEMBER_Q14	NONE		조사 설계 분석	연구방법	
+2008_SEPTEMBER_Q15	NONE		조직 변화	조직론	
+2008_SEPTEMBER_Q16	DIRECT	1-05-03	거점 개발·관광 개발 문제와 주민 참여 개발	지역사회 문제 해결	
+2008_SEPTEMBER_Q17	ADAPTABLE	2-02-03	성 차이의 사회·문화적 형성	성 불평등 문항으로 변형	
+2008_SEPTEMBER_Q18	ADAPTABLE	1-05-02,1-05-03	온라인 동호회와 지역 주민 교류	정보화와 지역사회 변화 문항으로 변형	
+2008_SEPTEMBER_Q19	DIRECT	1-04-04	다문화 가정 외국인 배우자의 적응 어려움 조사	다문화 사회 현황 자료	
+2008_SEPTEMBER_Q20	LOW	1-04-03	넓은 의미의 문화 개념	문화 개념 소재	INDIRECT_CURRICULUM_LINK
+2009_CSAT_Q01	LOW	2-02-01	연봉제를 보는 기능론·갈등론(능력에 따른 분배)	분배 기준 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2009_CSAT_Q02	DIRECT	1-04-02	문화 접변 양상(동화·융합·병존) 사례 분류	문화 변동 양상	
+2009_CSAT_Q03	ADAPTABLE	1-05-02	정보화 영향 인식(사생활 침해·편리성) 조사	정보화 문제 자료로 활용; 비율 계산 단순화 필요	
+2009_CSAT_Q04	NONE		일탈 이론	일탈 이론	
+2009_CSAT_Q05	DIRECT	1-04-02	세시 풍속·민간 신앙의 변동과 전통문화	문화 변동과 전통문화	
+2009_CSAT_Q06	NONE		가계도와 사회 이동	사회 이동	
+2009_CSAT_Q07	LOW	1-05-02	대중 매체 유형 분류	매체 분류 퍼즐	INDIRECT_CURRICULUM_LINK
+2009_CSAT_Q08	LOW	1-04-04	결혼 이민자 생애사 연구의 방법	다문화 소재, 정답 논리는 연구방법	INDIRECT_CURRICULUM_LINK
+2009_CSAT_Q09	ADAPTABLE	1-05-03	지역 개발 방식(거점 개발) 특징	지역 격차·지역 개발 문항으로 변형	
+2009_CSAT_Q10	LOW	2-02-03	계층 구조 변화와 계층 이동	사회 이동 수치 중심	INDIRECT_CURRICULUM_LINK
+2009_CSAT_Q11	ADAPTABLE	2-05-01	노후 준비와 노부모 부양 책임 인식	고령화 대응 자료로 활용	
+2009_CSAT_Q12	NONE		집단 개수 세기	집단 분류	
+2009_CSAT_Q13	NONE		사회화·역할 행동	역할 개념	
+2009_CSAT_Q14	NONE		사회 문제를 보는 기능론	관점 이론	
+2009_CSAT_Q15	NONE		조사 연구 설계	연구방법	
+2009_CSAT_Q16	NONE		사회·문화 현상과 자연 현상	현상 특성	
+2009_CSAT_Q17	DIRECT	2-02-03	사회 복지 제도(사회 보험·공공 부조) 적용 인구 자료	복지 제도 자료 해석	
+2009_CSAT_Q18	ADAPTABLE	1-05-01,1-04-03	산업화에 따른 공동체·생활양식 변화	산업화에 따른 생활양식 변화 문항으로 변형; 총체론 표현 조정	
+2009_CSAT_Q19	DIRECT	1-05-01	도시와 농촌의 일반적 특징 비교	도시화와 생활양식	BOUNDARY_DIRECT_ADAPTABLE
+2009_CSAT_Q20	NONE		여론 조사 보고서 평가	연구방법	
+2009_JUNE_Q01	NONE		시대에 따른 규범 변화(현상 특성)	현상 특성	
+2009_JUNE_Q02	NONE		집단·조직 분류	집단 분류	
+2009_JUNE_Q03	NONE		연구 과정	연구방법	
+2009_JUNE_Q04	ADAPTABLE	1-05-01	가족 관계의 개인주의화	산업화·도시화에 따른 개인주의 가치관 확산 문항으로 변형	
+2009_JUNE_Q05	LOW	2-02-03	가사 노동을 보는 관점(가부장제)	성 불평등 소재, 정답은 관점 분석	INDIRECT_CURRICULUM_LINK
+2009_JUNE_Q06	NONE		연구 윤리	연구 윤리	
+2009_JUNE_Q07	LOW	2-02-03	계층 구조 유형	계층 구조 퍼즐	INDIRECT_CURRICULUM_LINK
+2009_JUNE_Q08	NONE		사회 실재론	사회관	
+2009_JUNE_Q09	LOW	2-02-03	가족 형태 변화와 여성 지위	가족 변화 소재	INDIRECT_CURRICULUM_LINK
+2009_JUNE_Q10	NONE		참여 관찰·면접	연구방법	
+2009_JUNE_Q11	NONE		연구 단계	연구방법	
+2009_JUNE_Q12	NONE		양적 연구	연구방법	
+2009_JUNE_Q13	NONE		조직 유형	조직론	
+2009_JUNE_Q14	ADAPTABLE	1-05-03,2-02-03	지역 개발 방식 비교와 지역 격차	지역 격차 완화 정책 문항으로 변형	
+2009_JUNE_Q15	ADAPTABLE	2-05-01	노인 거주 형태 변화	고령화·가족 변화 자료로 활용	
+2009_JUNE_Q16	LOW	1-04-04	결혼 이민자의 문화 차이(사회화·확대 가족)	다문화 소재, 정답은 사회학 개념	INDIRECT_CURRICULUM_LINK
+2009_JUNE_Q17	DIRECT	1-05-01	농촌과 도시의 특성 비교	도시화와 생활양식	BOUNDARY_DIRECT_ADAPTABLE
+2009_JUNE_Q18	LOW	1-05-02	농촌 관광 인터넷 사이트 운영 현황	자료만 정보화 소재	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2009_JUNE_Q19	LOW	2-02-01	계층 현상을 보는 관점(능력 vs 배경)	분배 기준 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2009_JUNE_Q20	NONE		농민 자녀 계층 이동 표	사회 이동표	
+2009_SEPTEMBER_Q01	LOW	2-02-01	기여도에 따른 차등 보상(기능론)	분배 기준 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2009_SEPTEMBER_Q02	NONE		연구 설계 분석	연구방법	
+2009_SEPTEMBER_Q03	LOW	2-03-02	명예퇴직자의 재취업과 소득 감소	노동 소재, 정답은 사회 이동 개념	INDIRECT_CURRICULUM_LINK
+2009_SEPTEMBER_Q04	NONE		실험 연구 설계	연구방법	
+2009_SEPTEMBER_Q05	ADAPTABLE	1-04-02	문화 변동 요인(발명·발견·전파)	문화 변동 양상 중심 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2009_SEPTEMBER_Q06	ADAPTABLE	2-05-01	노인이 겪는 문제와 생활비 마련 방법 조사	고령화 문제 자료로 활용	
+2009_SEPTEMBER_Q07	DIRECT	1-05-03,1-03-03	지역 개발과 생태 환경의 질에 따른 주민 만족도	지속가능한 지역 개발	
+2009_SEPTEMBER_Q08	NONE		조직 유형·지위	조직론	
+2009_SEPTEMBER_Q09	ADAPTABLE	1-04-03	응원 문화 비교와 문화 이해 태도	문화 상대주의적 이해 문항으로 변형	
+2009_SEPTEMBER_Q10	LOW	1-05-01	혼인·이혼 통계와 가족 형태	가족 변화 자료	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2009_SEPTEMBER_Q11	ADAPTABLE	1-05-03,1-05-01	귀촌 가족의 공동체 활동과 농촌 고령화	지역사회 변화와 공동체 참여 문항으로 변형	
+2009_SEPTEMBER_Q12	LOW	1-04-03	문화의 의미(넓은·좁은 의미)	문화 개념 기초 소재	INDIRECT_CURRICULUM_LINK
+2009_SEPTEMBER_Q13	DIRECT	2-02-03	사회 보험과 공공 부조의 특성 비교	복지 제도	
+2009_SEPTEMBER_Q14	NONE		사회 문제를 보는 갈등론	관점 이론	
+2009_SEPTEMBER_Q15	LOW	1-05-01	옷 입기의 사회적 의미(모방·구별 짓기)	대중문화 소재	INDIRECT_CURRICULUM_LINK
+2009_SEPTEMBER_Q16	NONE		집단 분류	집단 분류	
+2009_SEPTEMBER_Q17	ADAPTABLE	1-05-02	인터넷 언어 확산과 쌍방향 소통	정보화에 따른 문화 변화 문항으로 변형	
+2009_SEPTEMBER_Q18	LOW	2-01-03	이민 3세가 겪는 편견과 차별	소수자 차별 소재, 정답은 사회학 용어	INDIRECT_CURRICULUM_LINK
+2009_SEPTEMBER_Q19	NONE		조작적 정의 단계	연구방법	
+2009_SEPTEMBER_Q20	LOW	2-02-03	맞벌이 가구 아내 소득 기여도	소득 분배 자료, 계산 중심	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2010_CSAT_Q01	NONE		사회 현상과 자연 현상 연구	현상 특성	
+2010_CSAT_Q02	LOW	2-03-02	합리성과 부족 사회의 경제	합리적 선택 소재, 정답은 제시문 추론	INDIRECT_CURRICULUM_LINK
+2010_CSAT_Q03	NONE		조직 유형 변화	조직론	
+2010_CSAT_Q04	LOW	2-05-01	초고령 지역 질적 연구	고령화 소재, 정답은 연구방법	INDIRECT_CURRICULUM_LINK
+2010_CSAT_Q05	NONE		사회 실재론	사회관	
+2010_CSAT_Q06	NONE		혼인 형태 통계	자료 계산(가족)	
+2010_CSAT_Q07	DIRECT	1-04-02	커피의 전파와 문화 접변	문화 변동	
+2010_CSAT_Q08	ADAPTABLE	1-05-01,1-05-02	전통·산업·정보 사회의 가족 특징	산업화·정보화에 따른 생활양식 변화 문항으로 변형	
+2010_CSAT_Q09	DIRECT	2-02-03	노인·장애인 소득 지원 제도 비교(공공 부조·사회 보험)	복지 제도	
+2010_CSAT_Q10	LOW	1-04-03	현지 문화 적응(문화 이해)	문화 이해 소재, 정답은 사회학 개념	INDIRECT_CURRICULUM_LINK
+2010_CSAT_Q11	ADAPTABLE	1-05-02	매체별 특성(쌍방향성·익명성)	정보화에 따른 매체 변화 문항으로 변형	
+2010_CSAT_Q12	LOW	1-04-03	문화의 속성(공유성)	문화 이해 기초 소재	INDIRECT_CURRICULUM_LINK
+2010_CSAT_Q13	ADAPTABLE	1-05-03,2-02-03	지역 개발 방식 비교	지역 격차 완화 정책 문항으로 변형	
+2010_CSAT_Q14	LOW	1-04-04,2-01-03	이주 노동자 문제를 보는 관점	다문화·소수자 소재, 정답은 사회문제 관점 이론	INDIRECT_CURRICULUM_LINK
+2010_CSAT_Q15	NONE		자료 수집 방법	연구방법	
+2010_CSAT_Q16	DIRECT	1-05-01,2-05-01	농촌·도시 특징 가설과 검증 자료	도시화·인구 구조 탐구 설계(예시문항 13번 유형)	
+2010_CSAT_Q17	NONE		연구 단계	연구방법	
+2010_CSAT_Q18	NONE		소비자 교육 관련 집단 분류	집단 분류	
+2010_CSAT_Q19	LOW	2-02-03	계층 불평등을 보는 갈등론	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2010_CSAT_Q20	NONE		세대 내 계층 이동	사회 이동표	
+2010_JUNE_Q01	NONE		사회 현상과 자연 현상	현상 특성	
+2010_JUNE_Q02	ADAPTABLE	1-05-03,2-02-03	지역별 지역 개발 방식 선호 조사	지역 격차 완화·주민 참여 개발 문항으로 변형	
+2010_JUNE_Q03	NONE		양적·질적 연구 병행	연구방법	
+2010_JUNE_Q04	LOW	2-02-03	계급 개념과 계층 구조 그래프	불평등 소재, 정답은 계급론 개념	INDIRECT_CURRICULUM_LINK
+2010_JUNE_Q05	NONE		조직 변화	조직론	
+2010_JUNE_Q06	NONE		공식 조직·자발적 결사체	집단 분류	
+2010_JUNE_Q07	DIRECT	1-05-03	지역 문화 자원과 연계한 지역 개발	지역사회 발전 방안	
+2010_JUNE_Q08	LOW	2-02-03	사회 불평등을 보는 기능론·갈등론	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2010_JUNE_Q09	NONE		상징적 상호 작용론과 연구 방법	연구방법	
+2010_JUNE_Q10	NONE		자료 수집 방법 비교	연구방법	
+2010_JUNE_Q11	NONE		가족 구성 형태 표	가족 형태 계산	
+2010_JUNE_Q12	NONE		연구 태도	연구 태도	
+2010_JUNE_Q13	NONE		사회 실재론(계층별 음식 선호)	사회관	
+2010_JUNE_Q14	NONE		질문지 평가	연구방법	
+2010_JUNE_Q15	ADAPTABLE	1-04-04	다문화 가정 자녀의 이중 정체성	다문화 사회와 문화 다양성 존중 문항으로 변형	
+2010_JUNE_Q16	LOW	1-04-04	다문화 사회 갈등 요인(기능론 관점)	다문화 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2010_JUNE_Q17	NONE		가족 문제 가설과 자료	연구방법	
+2010_JUNE_Q18	NONE		실증적 연구 주제	연구방법	
+2010_JUNE_Q19	DIRECT	1-05-01	도시와 농촌의 사회적 특성 비교	도시화와 생활양식	BOUNDARY_DIRECT_ADAPTABLE
+2010_JUNE_Q20	NONE		부모·자녀 계층 구성	사회 이동표	
+2010_SEPTEMBER_Q01	NONE		사회 현상과 자연 현상	현상 특성	
+2010_SEPTEMBER_Q02	DIRECT	1-04-04	다문화 가구 현황과 시급한 해결 과제 조사	다문화 사회 현황과 갈등 해결	
+2010_SEPTEMBER_Q03	ADAPTABLE	1-04-03	숫자 선호에 담긴 중국 문화의 맥락	문화 상대주의적 이해 문항으로 변형	
+2010_SEPTEMBER_Q04	DIRECT	1-05-02	인터넷 익명성의 폐해와 대응 제도	정보화 문제 해결 방안	
+2010_SEPTEMBER_Q05	ADAPTABLE	1-04-02	탱고의 확산과 지위 변화(하위문화→주류)	문화 전파·변동 문항으로 변형	
+2010_SEPTEMBER_Q06	NONE		일탈 이론	일탈 이론	
+2010_SEPTEMBER_Q07	NONE		기능론	관점 이론	
+2010_SEPTEMBER_Q08	NONE		사회 실재론	사회관	
+2010_SEPTEMBER_Q09	NONE		조직 유형	조직론	
+2010_SEPTEMBER_Q10	DIRECT	1-04-02	교역을 통한 문화 전파와 문화 융합	문화 변동	
+2010_SEPTEMBER_Q11	DIRECT	2-02-03	긴급 생계 지원(공공 부조)	복지 제도	
+2010_SEPTEMBER_Q12	LOW	1-05-03	지역 낙후 원인을 보는 관점	지역 문제 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2010_SEPTEMBER_Q13	LOW	1-05-01	한부모 가구 현황	가족 변화 자료	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2010_SEPTEMBER_Q14	ADAPTABLE	2-05-01	노인 부양 책임 인식 변화	고령화 대응 문항으로 변형	
+2010_SEPTEMBER_Q15	ADAPTABLE	1-05-02	IPTV와 쌍방향 매체의 사회 변화	정보화에 따른 변화 문항으로 변형	
+2010_SEPTEMBER_Q16	NONE		양적·질적 연구	연구방법	
+2010_SEPTEMBER_Q17	NONE		면접법·질문지법	연구방법	
+2010_SEPTEMBER_Q18	NONE		조사 과정(악성 댓글 소재)	연구방법	
+2010_SEPTEMBER_Q19	DIRECT	1-05-02,1-05-03	정보화를 활용한 농촌 마을 발전(체험·직거래)	정보화와 지역사회 변화	BOUNDARY_DIRECT_ADAPTABLE
+2010_SEPTEMBER_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2011_CSAT_Q01	NONE		연구 방법 유형	연구방법	
+2011_CSAT_Q02	NONE		사회를 보는 관점 비교	관점 이론	
+2011_CSAT_Q03	LOW	2-01-02	자발적 결사체와 시민 참여(민주주의의 학교)	시민 참여 소재, 정답은 결사체 특성	INDIRECT_CURRICULUM_LINK
+2011_CSAT_Q04	NONE		관료제 순기능·역기능	조직론	
+2011_CSAT_Q05	NONE		지위·역할·집단	지위 퍼즐	
+2011_CSAT_Q06	DIRECT	1-04-04	다문화주의와 다문화 정책 방향	다문화 사회 갈등 해결	
+2011_CSAT_Q07	DIRECT	1-04-03	자문화 중심주의·문화 상대주의의 한계와 보편 기준	문화 상대주의와 보편 윤리	
+2011_CSAT_Q08	NONE		낙인 이론	일탈 이론	
+2011_CSAT_Q09	ADAPTABLE	1-05-03,2-02-03	거점 개발 방식의 특징	지역 격차 완화 정책 문항으로 변형	
+2011_CSAT_Q10	ADAPTABLE	1-05-01,1-05-02	산업 사회·대중 사회·정보 사회 특징	산업화·정보화 변화 문항으로 변형	
+2011_CSAT_Q11	DIRECT	2-02-03	공공 부조·사회 보험·근로 장려 세제 비교	복지 제도	
+2011_CSAT_Q12	NONE		가구 구성비 표	가족 형태 계산	
+2011_CSAT_Q13	DIRECT	1-05-02,2-01-01	정보 사회의 개인 정보·프라이버시 권리	정보화 문제와 인권	
+2011_CSAT_Q14	LOW	2-02-03	주관적 계층 의식과 실제 계층	계층 표 계산 중심	INDIRECT_CURRICULUM_LINK
+2011_CSAT_Q15	NONE		연구 요약 구성	연구방법	
+2011_CSAT_Q16	ADAPTABLE	1-05-01	도시와 농촌 분화 특징	도시화와 생활양식 문항으로 변형	
+2011_CSAT_Q17	NONE		실험 연구	연구방법	
+2011_CSAT_Q18	LOW	1-04-02	대중문화·한류와 문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2011_CSAT_Q19	ADAPTABLE	1-04-03	서구화와 문화 사대주의	문화 이해 태도 문항으로 변형; 아노미 선지 조정	
+2011_CSAT_Q20	DIRECT	2-05-01	지역별 부양비 변화	인구 구조 자료 해석	
+2011_JUNE_Q01	NONE		사회 현상과 자연 현상	현상 특성	
+2011_JUNE_Q02	LOW	2-02-01	성장·분배 여론 보도의 객관성	분배 쟁점 소재, 정답은 자료 해석 태도	INDIRECT_CURRICULUM_LINK
+2011_JUNE_Q03	NONE		실증적 연구 사례	연구방법	
+2011_JUNE_Q04	LOW	2-02-03	다차원적 불평등(계층론)	불평등 소재, 정답은 계층론 개념	INDIRECT_CURRICULUM_LINK
+2011_JUNE_Q05	NONE		상징적 상호 작용론	관점 이론	
+2011_JUNE_Q06	NONE		성찰적 탐구 태도	탐구 태도	
+2011_JUNE_Q07	NONE		참여 관찰·실험	연구방법	
+2011_JUNE_Q08	NONE		집단 개념 찾기	집단 분류	
+2011_JUNE_Q09	LOW	2-02-03	불평등을 보는 관점	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2011_JUNE_Q10	NONE		사회 조직 유형 기준	조직론	
+2011_JUNE_Q11	NONE		지위·사회 이동	지위 퍼즐	
+2011_JUNE_Q12	ADAPTABLE	1-05-03,2-02-03	균형 개발·거점 개발 비교	지역 격차 완화 정책 문항으로 변형	
+2011_JUNE_Q13	NONE		관료제	조직론	
+2011_JUNE_Q14	NONE		설문 조사 평가	연구방법	
+2011_JUNE_Q15	LOW	1-04-04	다문화 가구 연구 가설 요건	다문화 소재, 정답은 가설 요건	INDIRECT_CURRICULUM_LINK
+2011_JUNE_Q16	DIRECT	1-05-02,1-05-03	온라인 직거래로 인한 농촌 변화	정보화에 따른 생활공간 변화	
+2011_JUNE_Q17	NONE		개인과 사회 관계	사회관	
+2011_JUNE_Q18	NONE		가구 형태 표	가족 형태 계산	
+2011_JUNE_Q19	ADAPTABLE	2-05-01	출산 연령 상승과 육아 인식 변화	저출산 문제 문항으로 변형	
+2011_JUNE_Q20	LOW	2-02-03	계층 구조 변화	계층 구조 퍼즐	INDIRECT_CURRICULUM_LINK
+2011_SEPTEMBER_Q01	NONE		사회 현상과 자연 현상	현상 특성	
+2011_SEPTEMBER_Q02	LOW	2-03-02	청년 일자리 문제를 보는 관점	일자리 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2011_SEPTEMBER_Q03	NONE		실험 연구	연구방법	
+2011_SEPTEMBER_Q04	ADAPTABLE	1-05-03,2-02-03	거점·균형 개발 주장 비교	지역 격차 완화 정책 문항으로 변형	
+2011_SEPTEMBER_Q05	NONE		임시 조직 특징	조직론	
+2011_SEPTEMBER_Q06	NONE		일탈 이론	일탈 이론	
+2011_SEPTEMBER_Q07	LOW	1-04-03	문화의 속성(총체성·변동성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2011_SEPTEMBER_Q08	ADAPTABLE	1-04-04	이주민의 문화 정체성 존중(다문화 정책)	다문화 정책 문항으로 변형; 재사회화 선지 조정	
+2011_SEPTEMBER_Q09	DIRECT	1-04-03,2-01-01	문화 특수성과 인권의 보편 가치	보편 윤리 차원의 문화 평가	
+2011_SEPTEMBER_Q10	ADAPTABLE	1-04-04	외국인과의 혼인·이혼 증감률	다문화 사회 현황 자료로 활용; 증감률 계산 단순화	
+2011_SEPTEMBER_Q11	DIRECT	1-04-02	문화 접변 결과 유형(융합·병존·동화)	문화 변동 양상	
+2011_SEPTEMBER_Q12	NONE		해석적 연구 방법	연구방법	
+2011_SEPTEMBER_Q13	DIRECT	2-02-03	자활을 강화한 복지 정책	복지 제도	
+2011_SEPTEMBER_Q14	ADAPTABLE	1-05-02	정보 사회의 저작권 침해 문제	정보화 문제 문항으로 변형; 문화지체 용어 조정	
+2011_SEPTEMBER_Q15	NONE		역할 갈등	역할 개념	
+2011_SEPTEMBER_Q16	LOW	2-02-03	계급 개념	계급론	INDIRECT_CURRICULUM_LINK
+2011_SEPTEMBER_Q17	NONE		가치 중립	연구 태도	
+2011_SEPTEMBER_Q18	ADAPTABLE	2-04-01,1-04-02	전통 문화의 상품화(세계화 속 문화 변화)	세계화에 따른 문화 변화 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2011_SEPTEMBER_Q19	DIRECT	1-05-01	도시와 농촌 특징 비교	도시화와 생활양식	BOUNDARY_DIRECT_ADAPTABLE
+2011_SEPTEMBER_Q20	NONE		신분과 계층 분포	계층·이동 퍼즐	
+2012_CSAT_Q01	NONE		청소년 문제를 보는 관점	관점 이론	
+2012_CSAT_Q02	NONE		일탈 이론	일탈 이론	
+2012_CSAT_Q03	LOW	1-04-03	문화의 속성(공유성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2012_CSAT_Q04	LOW	1-05-01	가구 구성 변화(1인 가구 증가)	가구 자료 계산 중심	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2012_CSAT_Q05	DIRECT	1-04-03	자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2012_CSAT_Q06	DIRECT	1-04-02	문화 교류에 따른 문화 융합·병존	문화 변동 양상	
+2012_CSAT_Q07	LOW	1-01-02	학문 세분화와 간학문적 접근	통합적 관점 소재로 변형 가능	INDIRECT_CURRICULUM_LINK
+2012_CSAT_Q08	NONE		집단·사회화 기관	집단 분류	
+2012_CSAT_Q09	NONE		해석적 연구 주제	연구방법	
+2012_CSAT_Q10	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회의 특징	산업화·정보화 문항으로 변형	
+2012_CSAT_Q11	NONE		연구 요약 분석	연구방법	
+2012_CSAT_Q12	NONE		사회화를 보는 관점	관점 이론	
+2012_CSAT_Q13	ADAPTABLE	1-05-03,2-02-03	균형 개발·거점 개발 비교	지역 격차 완화 정책 문항으로 변형	
+2012_CSAT_Q14	DIRECT	1-05-01	도시화율과 산업 구조 변화	산업화·도시화 자료 해석	
+2012_CSAT_Q15	NONE		사회 명목론·실재론	사회관	
+2012_CSAT_Q16	NONE		조직 운영 방식	조직론	
+2012_CSAT_Q17	DIRECT	1-05-02	정보 사회 문제(개인 정보 보호·정보 격차) 해결 노력	정보화 문제 해결	
+2012_CSAT_Q18	DIRECT	2-02-03	사회 보험·공공 부조·사회 서비스 특징	복지 제도	
+2012_CSAT_Q19	NONE		지위·집단	지위 퍼즐	
+2012_CSAT_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2012_JUNE_Q01	NONE		업무 처리 방식(관료제)	조직론	
+2012_JUNE_Q02	NONE		기능론·갈등론	관점 이론	
+2012_JUNE_Q03	LOW	2-02-03	계급과 계층 개념	계층 이론	INDIRECT_CURRICULUM_LINK
+2012_JUNE_Q04	ADAPTABLE	1-05-01	이혼·1인 가구 증가와 개인주의 확산	개인주의 가치관 확산 문항으로 변형	
+2012_JUNE_Q05	NONE		자료 수집 방법	연구방법	
+2012_JUNE_Q06	LOW	2-02-01,2-02-03	차등 분배를 보는 관점	분배 기준 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2012_JUNE_Q07	NONE		일반화 원리와 실험	현상 특성	
+2012_JUNE_Q08	NONE		지위·역할	지위 퍼즐	
+2012_JUNE_Q09	NONE		연구 윤리	연구 윤리	
+2012_JUNE_Q10	NONE		집단 분류	집단 분류	
+2012_JUNE_Q11	NONE		연구 단계	연구방법	
+2012_JUNE_Q12	DIRECT	1-05-01	농촌과 도시 특징(익명성·인구 이동)	도시화와 생활양식	BOUNDARY_DIRECT_ADAPTABLE
+2012_JUNE_Q13	LOW	2-05-01	출산율 감소를 보는 사회 실재론	저출산 소재, 정답은 사회관	INDIRECT_CURRICULUM_LINK
+2012_JUNE_Q14	DIRECT	1-05-03	지역 여건을 고려한 지역사회 개발	지역사회 변화 방안	
+2012_JUNE_Q15	NONE		세대 간 계층 이동	사회 이동표	
+2012_JUNE_Q16	NONE		해석적 연구	연구방법	
+2012_JUNE_Q17	DIRECT	1-04-03	종교적 금기를 맥락 속에서 이해(문화 상대주의)	문화 상대주의	
+2012_JUNE_Q18	NONE		가구 구성 표	가족 형태 계산	
+2012_JUNE_Q19	NONE		연구 설계	연구방법	
+2012_JUNE_Q20	DIRECT	1-05-01,2-05-01	농촌·도시 문제 가설 검증 자료	도시화·인구 문제 탐구 설계	
+2012_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2012_SEPTEMBER_Q02	NONE		사실과 가치 구별	연구 태도	
+2012_SEPTEMBER_Q03	LOW	1-04-03	문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2012_SEPTEMBER_Q04	NONE		해석적 연구 주제	연구방법	
+2012_SEPTEMBER_Q05	DIRECT	1-04-03	문화 이해 태도 구분	문화 상대주의·자문화 중심주의·사대주의	
+2012_SEPTEMBER_Q06	NONE		지위·역할 개념	지위 퍼즐	
+2012_SEPTEMBER_Q07	NONE		축제를 보는 기능론·갈등론	관점 이론	
+2012_SEPTEMBER_Q08	NONE		세대 간 이동표	사회 이동표	
+2012_SEPTEMBER_Q09	ADAPTABLE	1-05-01	산업화와 대중·대중문화의 형성	산업화·도시화에 따른 생활양식 변화 문항으로 변형	
+2012_SEPTEMBER_Q10	NONE		관료제·탈관료제	조직론	
+2012_SEPTEMBER_Q11	LOW	2-02-03	계층화를 보는 갈등론	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2012_SEPTEMBER_Q12	DIRECT	1-05-02	집단 지성과 지식·정보 공유	정보 사회의 특징	
+2012_SEPTEMBER_Q13	NONE		혼인 형태	가족 제도	
+2012_SEPTEMBER_Q14	LOW	1-04-04	다문화 태도 연구 설계	다문화 소재, 정답은 연구방법	INDIRECT_CURRICULUM_LINK
+2012_SEPTEMBER_Q15	ADAPTABLE	2-05-01	노인 문제 인식 조사	고령화 자료로 활용	
+2012_SEPTEMBER_Q16	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 특징	산업화·정보화 문항으로 변형	
+2012_SEPTEMBER_Q17	DIRECT	1-04-02	문화 전파(직접·간접)와 문화 변동	문화 변동	
+2012_SEPTEMBER_Q18	NONE		집단 분류	집단 분류	
+2012_SEPTEMBER_Q19	DIRECT	2-02-03	공공 부조 제도의 특징	복지 제도	
+2012_SEPTEMBER_Q20	DIRECT	1-05-01,2-02-03	도시·농촌 인구와 지역 총생산	도시화·지역 격차 자료 해석	
+2013_CSAT_Q01	NONE		사회 현상과 자연 현상	현상 특성	
+2013_CSAT_Q02	NONE		일탈 이론	일탈 이론	
+2013_CSAT_Q03	NONE		연구 윤리	연구 윤리	
+2013_CSAT_Q04	LOW	1-04-03	문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2013_CSAT_Q05	ADAPTABLE	1-05-03,2-02-03	거점·광역·균형 개발 비교	지역 격차 완화 정책 문항으로 변형	
+2013_CSAT_Q06	DIRECT	2-05-01,1-05-01	농촌·도시 인구·가구 자료로 조사 결과 도출	인구 문제·도시화 탐구 설계	
+2013_CSAT_Q07	DIRECT	1-04-02	문화 접변 결과(병존·융합·동화)	문화 변동 양상	
+2013_CSAT_Q08	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 구분	산업화·정보화 문항으로 변형	
+2013_CSAT_Q09	NONE		실험 연구	연구방법	
+2013_CSAT_Q10	DIRECT	1-05-02	정보 사회의 소비자 맞춤형 생산	정보화에 따른 생활양식 변화	
+2013_CSAT_Q11	LOW	2-02-03	빈부 격차를 보는 관점(지니계수)	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2013_CSAT_Q12	DIRECT	2-02-03	사회 서비스·공공 부조(의료 급여)·사회 보험(건강 보험)	복지 제도	
+2013_CSAT_Q13	NONE		양적 연구	연구방법	
+2013_CSAT_Q14	NONE		사회 명목론·실재론	사회관	
+2013_CSAT_Q15	ADAPTABLE	1-05-01	도시·농촌 간 인구 이동	도시화(이촌향도) 자료로 활용	
+2013_CSAT_Q16	DIRECT	1-04-03	문화 이해 태도 비교	문화 상대주의·자문화 중심주의·사대주의	
+2013_CSAT_Q17	NONE		집단 분류	집단 분류	
+2013_CSAT_Q18	NONE		집단·조직 분류	집단 분류	
+2013_CSAT_Q19	NONE		지위·역할·사회화	지위 퍼즐	
+2013_CSAT_Q20	NONE		세대 간 이동	사회 이동표	
+2013_JUNE_Q01	NONE		사회 현상의 시대적 가변성	현상 특성	
+2013_JUNE_Q02	LOW	2-03-02	중장년 은퇴를 보는 관점	고용 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2013_JUNE_Q03	ADAPTABLE	1-05-03,2-02-03	지역 개발 방식에 따른 지역 총생산 비중 변화	지역 격차 자료 문항으로 변형	
+2013_JUNE_Q04	LOW	2-05-01	가족 정서 기능 강화 사례	저출산 소재, 정답은 가족 기능	INDIRECT_CURRICULUM_LINK
+2013_JUNE_Q05	NONE		관료제 문제점	조직론	
+2013_JUNE_Q06	NONE		집단 분류	집단 분류	
+2013_JUNE_Q07	NONE		집단 분류	집단 분류	
+2013_JUNE_Q08	NONE		관점 일관성	관점 이론	
+2013_JUNE_Q09	DIRECT	1-05-01,1-05-03	귀농 인구 증가와 농촌 직업 구성 변화	농촌 지역사회 변화 자료	
+2013_JUNE_Q10	LOW	2-02-03	계급·계층 개념	계층 이론	INDIRECT_CURRICULUM_LINK
+2013_JUNE_Q11	NONE		자료 수집 방법	연구방법	
+2013_JUNE_Q12	LOW	2-02-03,2-03-02	대기업과 영세 상인 격차를 보는 관점	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2013_JUNE_Q13	NONE		실험 연구	연구방법	
+2013_JUNE_Q14	DIRECT	1-05-01	농촌과 도시 특징 비교	도시화와 생활양식	BOUNDARY_DIRECT_ADAPTABLE
+2013_JUNE_Q15	NONE		연구 윤리	연구 윤리	
+2013_JUNE_Q16	NONE		혼인 형태 표	가족 자료 계산	
+2013_JUNE_Q17	NONE		사회 명목론·실재론	사회관	
+2013_JUNE_Q18	NONE		가설 설정 요건	연구방법	
+2013_JUNE_Q19	NONE		지위·역할	지위 퍼즐	
+2013_JUNE_Q20	NONE		세대 간 계층 일치 비율	사회 이동표	
+2013_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2013_SEPTEMBER_Q02	LOW	2-02-03	불평등의 원인을 보는 관점	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2013_SEPTEMBER_Q03	NONE		생활 세계(현상학적 관점)	관점 이론	
+2013_SEPTEMBER_Q04	DIRECT	1-05-02	정보 격차 요인 가설과 검증 자료	정보 격차 탐구 설계	
+2013_SEPTEMBER_Q05	DIRECT	1-04-03	문화 이해 태도 구분	문화 이해 태도	
+2013_SEPTEMBER_Q06	NONE		집단 분류	집단 분류	
+2013_SEPTEMBER_Q07	NONE		지위·역할 갈등	지위 퍼즐	
+2013_SEPTEMBER_Q08	NONE		탐구 과정	연구방법	
+2013_SEPTEMBER_Q09	NONE		사회 문제를 보는 관점	관점 이론	
+2013_SEPTEMBER_Q10	ADAPTABLE	2-05-01	고령자 가구 유형 변화	고령화 자료로 활용	
+2013_SEPTEMBER_Q11	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 특징 비교	산업화·정보화 문항으로 변형	
+2013_SEPTEMBER_Q12	ADAPTABLE	1-05-03,2-02-03	거점·균형 개발 특성	지역 격차 완화 정책 문항으로 변형	
+2013_SEPTEMBER_Q13	LOW	1-05-02	인터넷 이용 실태 질문지 평가	정보화 소재, 정답은 질문지 설계	INDIRECT_CURRICULUM_LINK
+2013_SEPTEMBER_Q14	DIRECT	2-05-01	노년 부양비·1인 가구 증가 요인	인구 문제 자료 해석	
+2013_SEPTEMBER_Q15	DIRECT	2-02-03	사회 보험·공공 부조·사회 서비스 구분	복지 제도	
+2013_SEPTEMBER_Q16	NONE		관료제 역기능	조직론	
+2013_SEPTEMBER_Q17	DIRECT	1-04-02	국수의 전파와 지역별 융합	문화 전파·융합	BOUNDARY_DIRECT_ADAPTABLE
+2013_SEPTEMBER_Q18	NONE		사회 실재론	사회관	
+2013_SEPTEMBER_Q19	LOW	1-04-03	문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2013_SEPTEMBER_Q20	LOW	2-02-03	계층 간 상대적 비율 변화	계층 구조 퍼즐	INDIRECT_CURRICULUM_LINK
+2014_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2014_CSAT_Q02	LOW	1-05-01	가족을 보는 교환 이론·기능론(산업화와 핵가족)	산업화 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2014_CSAT_Q03	NONE		일탈 이론	일탈 이론	
+2014_CSAT_Q04	NONE		양적·질적 연구	연구방법	
+2014_CSAT_Q05	LOW	1-04-03	반문화의 특징	문화 다양성 소재	INDIRECT_CURRICULUM_LINK
+2014_CSAT_Q06	DIRECT	1-04-03	문화 사대주의·자문화 중심주의	문화 이해 태도	
+2014_CSAT_Q07	NONE		사회 집단 유형	집단 분류	
+2014_CSAT_Q08	NONE		관료제·탈관료제	조직론	
+2014_CSAT_Q09	NONE		지위·역할	지위 퍼즐	
+2014_CSAT_Q10	NONE		탐구 태도	탐구 태도	
+2014_CSAT_Q11	LOW	2-02-01	직업 중요도에 따른 보수 차이(기능론)	분배 기준 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2014_CSAT_Q12	NONE		실험 연구	연구방법	
+2014_CSAT_Q13	DIRECT	2-01-03	사회적 소수자의 사회적 규정	사회적 소수자	
+2014_CSAT_Q14	ADAPTABLE	1-05-02	뉴미디어와 전통 대중 매체	정보화에 따른 매체 변화 문항으로 변형	
+2014_CSAT_Q15	DIRECT	2-02-03	사회 보험과 공공 부조 공통점·차이점	복지 제도	
+2014_CSAT_Q16	LOW	2-04-01	근대화와 서구화 동일시 주장	세계화·문화 사대주의 소재, 정답은 근대화론 해석	INDIRECT_CURRICULUM_LINK
+2014_CSAT_Q17	DIRECT	2-02-03	소득 계층별 남녀 임금 격차	성 불평등 자료 해석	
+2014_CSAT_Q18	LOW	1-04-03	문화의 속성과 조사 주제	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2014_CSAT_Q19	DIRECT	1-04-02,1-04-04	한류 확산과 이주민 증가에 따른 문화 변동·다문화주의	문화 변동과 다문화 사회	
+2014_CSAT_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2014_JUNE_Q01	LOW	1-04-03	문화적 맥락을 고려한 탐구 태도	문화 상대주의 소재, 정답은 탐구 태도	INDIRECT_CURRICULUM_LINK
+2014_JUNE_Q02	NONE		연구 방법 구분	연구방법	
+2014_JUNE_Q03	NONE		교육을 보는 기능론·갈등론	관점 이론	
+2014_JUNE_Q04	NONE		조직 운영 방식	조직론	
+2014_JUNE_Q05	NONE		사회화 기관	사회화 분류	
+2014_JUNE_Q06	LOW	1-04-03	문화의 속성(공유성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2014_JUNE_Q07	NONE		사회 명목론·실재론	사회관	
+2014_JUNE_Q08	NONE		일탈 이론	일탈 이론	
+2014_JUNE_Q09	NONE		역할 갈등(맞벌이·진로)	역할 개념	
+2014_JUNE_Q10	NONE		집단 분류	집단 분류	
+2014_JUNE_Q11	NONE		연구 설계	연구방법	
+2014_JUNE_Q12	NONE		사회 변동 이론(진화론·순환론)	변동 이론	
+2014_JUNE_Q13	LOW	2-02-03	계층화를 보는 관점	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2014_JUNE_Q14	DIRECT	2-02-03,2-05-01	국민 기초 생활 보장(공공 부조)·국민연금(사회 보험)	복지 제도와 고령화	
+2014_JUNE_Q15	LOW	1-05-02	대중 매체 보도의 선별성과 비판적 수용	대중매체 소재	INDIRECT_CURRICULUM_LINK
+2014_JUNE_Q16	DIRECT	2-02-03,2-03-02	성별·교육 수준별 비정규직 비율	고용 불평등 자료 해석	
+2014_JUNE_Q17	DIRECT	1-04-02	서양 의학 도입과 문화 동화	문화 변동 양상	BOUNDARY_DIRECT_ADAPTABLE
+2014_JUNE_Q18	ADAPTABLE	2-01-03,1-04-04	이주 노동자가 사회적 소수자가 되는 원인에 대한 관점	사회적 소수자 문제 원인·해결 문항으로 변형; 관점 이론 축소	BOUNDARY_DIRECT_ADAPTABLE
+2014_JUNE_Q19	ADAPTABLE	1-04-03	비교론·총체론적 문화 이해	문화 이해 태도 문항으로 변형	
+2014_JUNE_Q20	NONE		세대 간 이동	사회 이동표	
+2014_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2014_SEPTEMBER_Q02	NONE		혼인을 보는 관점	관점 이론	
+2014_SEPTEMBER_Q03	LOW	1-05-02	매체 유형별 특징	매체 분류	INDIRECT_CURRICULUM_LINK
+2014_SEPTEMBER_Q04	NONE		탐구 태도	탐구 태도	
+2014_SEPTEMBER_Q05	NONE		일탈 이론	일탈 이론	
+2014_SEPTEMBER_Q06	NONE		연구 방법	연구방법	
+2014_SEPTEMBER_Q07	LOW	1-04-03	문화의 속성(총체성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2014_SEPTEMBER_Q08	NONE		지위·사회화	지위 퍼즐	
+2014_SEPTEMBER_Q09	LOW	1-04-04	전체 문화와 하위문화	문화 다양성 소재	INDIRECT_CURRICULUM_LINK
+2014_SEPTEMBER_Q10	NONE		가구 구성 자료	가족 형태 계산	
+2014_SEPTEMBER_Q11	DIRECT	2-02-03	사회 보장 제도 세 유형	복지 제도	
+2014_SEPTEMBER_Q12	NONE		사회 변동 이론	변동 이론	
+2014_SEPTEMBER_Q13	DIRECT	2-01-03	사회적 소수자 발생 과정	사회적 소수자와 차별	
+2014_SEPTEMBER_Q14	DIRECT	1-04-03	문화 상대주의	문화 상대주의	
+2014_SEPTEMBER_Q15	NONE		집단·조직 분류	집단 분류	
+2014_SEPTEMBER_Q16	NONE		사회 실재론	사회관	
+2014_SEPTEMBER_Q17	DIRECT	2-05-01,2-02-03	고령화·빈곤·비정규직 격차·저출산 가설과 자료 수집(PNG 확인)	사회 문제 탐구 설계(예시문항 13번 유형)	
+2014_SEPTEMBER_Q18	LOW	2-02-03	다차원적 계층 이론	계층 이론	INDIRECT_CURRICULUM_LINK
+2014_SEPTEMBER_Q19	NONE		교육을 보는 기능론	관점 이론	
+2014_SEPTEMBER_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2015_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2015_CSAT_Q02	NONE		일탈 이론	일탈 이론	
+2015_CSAT_Q03	DIRECT	2-01-03,2-02-03	장애인·여성 차별 해소를 위한 제도 개선과 의식 개혁	사회적 소수자 차별 해결 방안	
+2015_CSAT_Q04	LOW	2-01-03	인종 차별 연구의 자료 수집	차별 소재, 정답은 연구방법	INDIRECT_CURRICULUM_LINK
+2015_CSAT_Q05	NONE		사회화 기관	사회화 분류	
+2015_CSAT_Q06	NONE		사회 실재론	사회관	
+2015_CSAT_Q07	NONE		교육을 보는 기능론·갈등론	관점 이론	
+2015_CSAT_Q08	LOW	1-05-01	1인 가구 증가를 보는 관점	가족 변화 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2015_CSAT_Q09	DIRECT	2-02-03	절대적·상대적 빈곤율 자료	빈곤 자료 해석	
+2015_CSAT_Q10	ADAPTABLE	1-04-02	한자 전래·한글 창제(문화 변동 요인)	문화 변동 양상 문항으로 변형	
+2015_CSAT_Q11	DIRECT	1-04-03	장례 문화를 사회 맥락에서 이해(문화 상대주의)	문화 상대주의	
+2015_CSAT_Q12	LOW	2-02-03	계급론·계층론	계층 이론	INDIRECT_CURRICULUM_LINK
+2015_CSAT_Q13	NONE		관료제·탈관료제	조직론	
+2015_CSAT_Q14	NONE		가치 개입과 가치 중립	연구 태도	
+2015_CSAT_Q15	DIRECT	2-02-03	사회 보험·공공 부조·사회 서비스 비교	복지 제도	
+2015_CSAT_Q16	NONE		진화론·순환론	변동 이론	
+2015_CSAT_Q17	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2015_CSAT_Q18	LOW	1-05-02	산업 현장 로봇 도입을 보는 관점(일자리)	노동 시장 변화 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2015_CSAT_Q19	LOW	1-04-03	문화의 의미와 속성(하우사족)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2015_CSAT_Q20	NONE		세대 간 계층 일치	사회 이동표	
+2015_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2015_JUNE_Q02	NONE		상징적 상호 작용론·교환 이론	관점 이론	
+2015_JUNE_Q03	NONE		사회화·역할 갈등	역할 개념	
+2015_JUNE_Q04	NONE		양적 연구 설계	연구방법	
+2015_JUNE_Q05	NONE		사회 실재론·명목론	사회관	
+2015_JUNE_Q06	NONE		일탈 이론	일탈 이론	
+2015_JUNE_Q07	NONE		집단 분류(인권 시민단체 소재)	집단 분류	
+2015_JUNE_Q08	LOW	1-04-03	장례 문화의 특수성과 문화의 의미	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2015_JUNE_Q09	LOW	1-04-04	결혼 이주 여성 연구의 연구 윤리	다문화 소재, 정답은 연구 윤리	INDIRECT_CURRICULUM_LINK
+2015_JUNE_Q10	DIRECT	1-04-02	문화 이식 정책과 강제적 문화 접변(동화·병존)	문화 변동 양상	
+2015_JUNE_Q11	LOW	2-02-03	불평등을 보는 관점	불평등 소재, 정답은 관점 판별	INDIRECT_CURRICULUM_LINK
+2015_JUNE_Q12	ADAPTABLE	1-05-02	산업 사회와 정보 사회 비교	정보화 문항으로 변형	
+2015_JUNE_Q13	DIRECT	1-04-03	문화 이해 태도	문화 이해 태도	
+2015_JUNE_Q14	DIRECT	2-01-03	사회적 소수자의 상대성과 불평등	사회적 소수자	
+2015_JUNE_Q15	DIRECT	2-02-03	상대적·절대적 빈곤율 자료	빈곤 자료 해석	
+2015_JUNE_Q16	NONE		가족을 보는 기능론·갈등론	관점 이론	
+2015_JUNE_Q17	DIRECT	2-02-03	사회 보험과 공공 부조	복지 제도	
+2015_JUNE_Q18	NONE		진화론·순환론	변동 이론	
+2015_JUNE_Q19	LOW	1-05-02	인쇄 매체와 뉴미디어 비교	매체 분류	INDIRECT_CURRICULUM_LINK
+2015_JUNE_Q20	NONE		부모·자녀 계층 일치 비율	사회 이동표	
+2015_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2015_SEPTEMBER_Q02	LOW	1-04-03	문화의 의미와 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2015_SEPTEMBER_Q03	LOW	2-02-03	계층 개념(계급·계층)	계층 이론	INDIRECT_CURRICULUM_LINK
+2015_SEPTEMBER_Q04	NONE		집단·지위	지위 퍼즐	
+2015_SEPTEMBER_Q05	NONE		자료 수집 방법	연구방법	
+2015_SEPTEMBER_Q06	NONE		사회를 보는 관점	관점 이론	
+2015_SEPTEMBER_Q07	NONE		연구 보고서 분석	연구방법	
+2015_SEPTEMBER_Q08	NONE		지위·역할	지위 퍼즐	
+2015_SEPTEMBER_Q09	NONE		일탈 이론	일탈 이론	
+2015_SEPTEMBER_Q10	DIRECT	2-02-03	절대적·상대적 빈곤 가구 비율 변화	빈곤 자료 해석	
+2015_SEPTEMBER_Q11	NONE		근대화론·종속 이론	변동 이론	
+2015_SEPTEMBER_Q12	NONE		연구 방법 비교	연구방법	
+2015_SEPTEMBER_Q13	DIRECT	2-02-03	사회 보장 제도 비교	복지 제도	
+2015_SEPTEMBER_Q14	ADAPTABLE	1-04-03	비교론·총체론적 문화 이해(장례 문화)	문화 이해 태도 문항으로 변형	
+2015_SEPTEMBER_Q15	NONE		교육을 보는 관점	관점 이론	
+2015_SEPTEMBER_Q16	ADAPTABLE	1-04-02	문화 변동 요인(발명·직접·간접·자극 전파)	문화 변동 양상 중심으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2015_SEPTEMBER_Q17	LOW	2-05-01	산업 구조와 초혼 연령·출산율(사회 실재론)	저출산 소재, 정답은 사회관	INDIRECT_CURRICULUM_LINK
+2015_SEPTEMBER_Q18	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2015_SEPTEMBER_Q19	LOW	1-05-02	대중 매체의 문제점	대중매체 소재	INDIRECT_CURRICULUM_LINK
+2015_SEPTEMBER_Q20	NONE		세대 내 계층 이동	사회 이동표	
+2016_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2016_CSAT_Q02	NONE		일탈 이론	일탈 이론	
+2016_CSAT_Q03	NONE		양적 연구	연구방법	
+2016_CSAT_Q04	ADAPTABLE	1-04-03	비교론·총체론적 문화 이해	문화 이해 태도 문항으로 변형	
+2016_CSAT_Q05	NONE		집단·조직 분류	집단 분류	
+2016_CSAT_Q06	LOW	1-04-03	문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2016_CSAT_Q07	ADAPTABLE	1-04-03	청년 하위문화와 문화 다양성	문화 다양성 문항으로 변형	
+2016_CSAT_Q08	NONE		지위·역할·사회화	지위 퍼즐	
+2016_CSAT_Q09	NONE		가족 문제를 보는 관점	관점 이론	
+2016_CSAT_Q10	LOW	1-05-02	인쇄 매체와 뉴미디어	매체 분류	INDIRECT_CURRICULUM_LINK
+2016_CSAT_Q11	NONE		연구 윤리	연구 윤리	
+2016_CSAT_Q12	LOW	2-02-03	계급론·계층론	계층 이론	INDIRECT_CURRICULUM_LINK
+2016_CSAT_Q13	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2016_CSAT_Q14	NONE		참여 관찰 연구	연구방법	
+2016_CSAT_Q15	DIRECT	2-02-03,2-05-01	국민연금·기초연금·기초 생활 보장 수급자 비율	복지 제도(예시문항 13번 기초연금과 같은 층위)	
+2016_CSAT_Q16	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2016_CSAT_Q17	DIRECT	1-04-02	문화 융합과 문화 병존	문화 변동 양상	
+2016_CSAT_Q18	NONE		사회 명목론·실재론	사회관	
+2016_CSAT_Q19	NONE		사회 변동 이론	변동 이론	
+2016_CSAT_Q20	NONE		3세대 계층 이동	사회 이동표	
+2016_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2016_JUNE_Q02	NONE		일탈 이론	일탈 이론	
+2016_JUNE_Q03	NONE		연구 윤리	연구 윤리	
+2016_JUNE_Q04	LOW	1-05-02	미디어 발달에 따른 사회 변동 단계	정보 사회 소재, 정답은 변동 이론	INDIRECT_CURRICULUM_LINK
+2016_JUNE_Q05	NONE		지위·역할·사회화	지위 퍼즐	
+2016_JUNE_Q06	NONE		종교를 보는 기능론	관점 이론	
+2016_JUNE_Q07	ADAPTABLE	1-04-03	인사 문화를 평가하는 태도와 맥락적 이해	문화 상대주의 문항으로 변형; 문화 요소 선지 조정	BOUNDARY_DIRECT_ADAPTABLE
+2016_JUNE_Q08	LOW	1-05-02	인쇄 매체와 뉴미디어	매체 분류	INDIRECT_CURRICULUM_LINK
+2016_JUNE_Q09	LOW	1-04-03	하위문화·반문화	문화 다양성 소재	INDIRECT_CURRICULUM_LINK
+2016_JUNE_Q10	ADAPTABLE	2-02-03	절대적·상대적 빈곤 가구 비율	빈곤 자료로 활용; 빈곤선 비율 계산 단순화 필요	
+2016_JUNE_Q11	NONE		교육을 보는 관점	관점 이론	
+2016_JUNE_Q12	NONE		자료 수집 방법	연구방법	
+2016_JUNE_Q13	NONE		집단·조직 분류	집단 분류	
+2016_JUNE_Q14	LOW	1-04-01,1-04-03	환경에 따른 음식·장례 문화(문화의 속성)	문화권 소재로 변형 가능, 정답은 문화 속성	INDIRECT_CURRICULUM_LINK
+2016_JUNE_Q15	DIRECT	2-02-03	소득 분위별 사회 보험·기초 생활 보장 급여 비중	복지 제도 자료 해석	
+2016_JUNE_Q16	LOW	2-02-03	다차원적 계층 이론	계층 이론	INDIRECT_CURRICULUM_LINK
+2016_JUNE_Q17	DIRECT	1-04-02	문화 교류에 따른 문화 융합·병존	문화 변동 양상	
+2016_JUNE_Q18	NONE		연구 설계	연구방법	
+2016_JUNE_Q19	NONE		사회 명목론·실재론	사회관	
+2016_JUNE_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2016_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2016_SEPTEMBER_Q02	NONE		교육을 보는 관점	관점 이론	
+2016_SEPTEMBER_Q03	LOW	2-05-01	고령자 삶의 만족도를 보는 관점	고령화 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2016_SEPTEMBER_Q04	NONE		실험·설문 연구(에너지 소비 소재)	연구방법	
+2016_SEPTEMBER_Q05	NONE		집단·지위·역할	지위 퍼즐	
+2016_SEPTEMBER_Q06	DIRECT	1-04-03	문화 사대주의·자문화 중심주의·문화 상대주의	문화 이해 태도	
+2016_SEPTEMBER_Q07	NONE		근대화론·종속 이론	변동 이론	
+2016_SEPTEMBER_Q08	NONE		자료 수집 방법	연구방법	
+2016_SEPTEMBER_Q09	NONE		사회 실재론	사회관	
+2016_SEPTEMBER_Q10	NONE		일탈 이론	일탈 이론	
+2016_SEPTEMBER_Q11	DIRECT	2-02-03	국가별 절대적·상대적 빈곤율 추이	빈곤 자료 해석	
+2016_SEPTEMBER_Q12	LOW	1-04-03	문화의 속성(총체성·변동성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2016_SEPTEMBER_Q13	NONE		연구 윤리	연구 윤리	
+2016_SEPTEMBER_Q14	ADAPTABLE	1-04-02	왕실 혼인을 통한 문화 전파와 융합	문화 변동 문항으로 변형; 하위문화 선지 조정	
+2016_SEPTEMBER_Q15	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2016_SEPTEMBER_Q16	DIRECT	2-02-03,2-05-01	고용 보험 실업 급여와 기초 연금	복지 제도	
+2016_SEPTEMBER_Q17	NONE		가족 문제를 보는 관점	관점 이론	
+2016_SEPTEMBER_Q18	LOW	1-05-02	신문·라디오·TV·인터넷 특징	매체 분류	INDIRECT_CURRICULUM_LINK
+2016_SEPTEMBER_Q19	LOW	2-02-03	계층론·계급론	계층 이론	INDIRECT_CURRICULUM_LINK
+2016_SEPTEMBER_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2017_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2017_CSAT_Q02	LOW	2-02-03	계층 이론(다차원론·계급론)	계층 이론	INDIRECT_CURRICULUM_LINK
+2017_CSAT_Q03	NONE		집단·조직 분류	집단 분류	
+2017_CSAT_Q04	NONE		자료 수집 방법	연구방법	
+2017_CSAT_Q05	NONE		변수와 가설(청소년 비행 소재)	연구방법	
+2017_CSAT_Q06	NONE		가치 중립 탐구 태도	탐구 태도	
+2017_CSAT_Q07	NONE		지위·역할·사회화	지위 퍼즐	
+2017_CSAT_Q08	NONE		사회화를 보는 관점	사회관	
+2017_CSAT_Q09	LOW	1-04-03	문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2017_CSAT_Q10	ADAPTABLE	1-04-02	문화 변동 요인(발견·발명·직접 전파)	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE
+2017_CSAT_Q11	ADAPTABLE	1-04-02,1-05-02	정보화에 따른 문화 변동과 하위문화	문화 변동 문항으로 변형; 하위문화 선지 조정	
+2017_CSAT_Q12	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2017_CSAT_Q13	NONE		일탈 이론	일탈 이론	
+2017_CSAT_Q14	NONE		사회 변동 이론	변동 이론	
+2017_CSAT_Q15	NONE		종교별 신도 비율 계산	통계 계산	
+2017_CSAT_Q16	LOW	1-05-02	인쇄 매체와 뉴미디어	매체 분류	INDIRECT_CURRICULUM_LINK
+2017_CSAT_Q17	DIRECT	2-02-03,2-05-01	노인 장기 요양 보험과 기초 연금(사회 보험·공공 부조)	복지 제도	
+2017_CSAT_Q18	ADAPTABLE	2-02-03	경력 단절 여성 규모와 사유	성 불평등 자료로 활용; 계산 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2017_CSAT_Q19	NONE		교육을 보는 관점	관점 이론	
+2017_CSAT_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2017_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2017_JUNE_Q02	NONE		아동 학대를 보는 관점	관점 이론	
+2017_JUNE_Q03	NONE		자료 수집 방법	연구방법	
+2017_JUNE_Q04	NONE		지위·역할·사회화	지위 퍼즐	
+2017_JUNE_Q05	NONE		진화론·순환론	변동 이론	
+2017_JUNE_Q06	DIRECT	2-01-03	사회적 소수자의 상대성	사회적 소수자	
+2017_JUNE_Q07	LOW	1-04-04	다문화 가정 자녀 차별 경험 연구	다문화 소재, 정답은 연구방법	INDIRECT_CURRICULUM_LINK
+2017_JUNE_Q08	LOW	1-04-04	피부색에 따른 태도 차이 실험의 연구 윤리	차별 소재, 정답은 연구 윤리	INDIRECT_CURRICULUM_LINK
+2017_JUNE_Q09	ADAPTABLE	1-05-01,1-05-02	산업 사회와 정보 사회 비교	산업화·정보화 문항으로 변형	
+2017_JUNE_Q10	ADAPTABLE	1-04-02	문화 변동 요인(발명·직접·자극 전파)	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE
+2017_JUNE_Q11	DIRECT	1-04-03	자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2017_JUNE_Q12	NONE		공식·비공식 조직과 자발적 결사체	집단 분류	
+2017_JUNE_Q13	NONE		일탈 이론	일탈 이론	
+2017_JUNE_Q14	NONE		교육을 보는 관점	관점 이론	
+2017_JUNE_Q15	LOW	1-05-02	매체 이용률과 신뢰도	매체 분류	INDIRECT_CURRICULUM_LINK
+2017_JUNE_Q16	LOW	2-02-03	계층론·계급론 분류	계층 이론	INDIRECT_CURRICULUM_LINK
+2017_JUNE_Q17	DIRECT	2-02-03	기초 생활 보장 제도 개편(상대적 빈곤 기준)	복지 제도	
+2017_JUNE_Q18	LOW	1-04-03,1-04-04	이민자 문화의 대중화(대중문화·고급문화)	문화 다양성 소재	INDIRECT_CURRICULUM_LINK
+2017_JUNE_Q19	NONE		사회 명목론·실재론	사회관	
+2017_JUNE_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2017_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2017_SEPTEMBER_Q02	NONE		지위·역할·집단	지위 퍼즐	
+2017_SEPTEMBER_Q03	NONE		관료제·탈관료제·비공식 조직	조직 분류	
+2017_SEPTEMBER_Q04	NONE		자료 수집 방법	연구방법	
+2017_SEPTEMBER_Q05	NONE		학교 규칙을 보는 기능론·상징적 상호작용론	관점 이론	
+2017_SEPTEMBER_Q06	ADAPTABLE	1-05-01,1-05-02	산업 사회와 정보 사회의 노동 방식 비교	산업화·정보화 문항으로 변형	
+2017_SEPTEMBER_Q07	NONE		사회 명목론·실재론	사회관	
+2017_SEPTEMBER_Q08	LOW	1-04-01,1-04-03	기후·지형에 따른 음식 문화(문화의 속성)	문화권 소재로 변형 가능, 정답은 문화 속성	INDIRECT_CURRICULUM_LINK
+2017_SEPTEMBER_Q09	LOW	1-05-02	자율 주행차 인식 조사	과학기술 소재, 정답은 연구방법	INDIRECT_CURRICULUM_LINK
+2017_SEPTEMBER_Q10	DIRECT	1-04-02	문화 변동 요인과 강제적 문화 접변(융합·동화)	문화 변동 양상	BOUNDARY_DIRECT_ADAPTABLE,OCR_UNCERTAIN
+2017_SEPTEMBER_Q11	NONE		일탈 이론	일탈 이론	
+2017_SEPTEMBER_Q12	LOW	1-04-03	전체 문화·하위문화·반문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2017_SEPTEMBER_Q13	NONE		사회 제도(가족) 형성	사회 제도	
+2017_SEPTEMBER_Q14	ADAPTABLE	1-04-03	문화 이해 관점(총체론·비교론)	문화 이해 문항으로 변형	
+2017_SEPTEMBER_Q15	NONE		근대화론·종속 이론	변동 이론	
+2017_SEPTEMBER_Q16	LOW	2-02-03	불평등을 보는 기능론·갈등론	계층 이론	INDIRECT_CURRICULUM_LINK
+2017_SEPTEMBER_Q17	DIRECT	2-02-03	공공 부조·사회 보험·사회 서비스 비교	복지 제도	
+2017_SEPTEMBER_Q18	LOW	1-05-02	누리 소통망·서적·TV 특징	매체 분류	INDIRECT_CURRICULUM_LINK
+2017_SEPTEMBER_Q19	DIRECT	2-02-03	유리 천장·유리 벽과 성 불평등 해소	성 불평등	
+2017_SEPTEMBER_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2018_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2018_CSAT_Q02	NONE		연구 윤리	연구 윤리	
+2018_CSAT_Q03	NONE		일탈 이론	일탈 이론	
+2018_CSAT_Q04	DIRECT	2-02-03,2-05-01	성별 노인 인구의 기초 생활 보장·국민연금·장기 요양 수급 비율	복지 제도 자료 해석	
+2018_CSAT_Q05	NONE		자료 수집 방법	연구방법	
+2018_CSAT_Q06	LOW	2-02-03	계급론(마르크스)	계층 이론	INDIRECT_CURRICULUM_LINK
+2018_CSAT_Q07	LOW	2-05-01	노인 소외를 보는 관점	고령화 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2018_CSAT_Q08	LOW	1-05-02	정보 격차 연구 설계	정보화 소재, 정답은 연구방법	INDIRECT_CURRICULUM_LINK
+2018_CSAT_Q09	LOW	1-04-03	전체 문화·반문화·하위문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2018_CSAT_Q10	LOW	1-05-01	가족 형태 가설과 자료(1인 가구, 핵가족)	가족 소재, 정답은 가설 검증 자료	INDIRECT_CURRICULUM_LINK
+2018_CSAT_Q11	LOW	1-05-02	인쇄 매체·영상 매체·뉴미디어	매체 분류	INDIRECT_CURRICULUM_LINK
+2018_CSAT_Q12	ADAPTABLE	1-04-02	문화 변동 요인(발견·발명·전파)과 문화 지체	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE
+2018_CSAT_Q13	NONE		가족 일정표와 집단·조직	집단 분류	
+2018_CSAT_Q14	DIRECT	1-04-03	자문화 중심주의·문화 사대주의	문화 이해 태도	
+2018_CSAT_Q15	ADAPTABLE	2-02-03	지역·계층별 학생 교육비 격차	불평등 자료로 활용; 진위 판단 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2018_CSAT_Q16	NONE		지위·역할·사회화	지위 퍼즐	
+2018_CSAT_Q17	NONE		사회 명목론·실재론	사회관	
+2018_CSAT_Q18	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2018_CSAT_Q19	NONE		진화론·순환론	변동 이론	
+2018_CSAT_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2018_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	OCR_UNCERTAIN
+2018_JUNE_Q02	NONE		연구 윤리	연구 윤리	
+2018_JUNE_Q03	NONE		가족 형태 변화를 보는 갈등론·기능론	관점 이론	
+2018_JUNE_Q04	DIRECT	1-04-02	문화 전파 유형과 문화 공존·동화·융합 사례	문화 변동 양상	BOUNDARY_DIRECT_ADAPTABLE
+2018_JUNE_Q05	NONE		변수와 조작적 정의(행복감 연구)	연구방법	
+2018_JUNE_Q06	NONE		일탈 이론	일탈 이론	
+2018_JUNE_Q07	NONE		집단·조직 분류	집단 분류	
+2018_JUNE_Q08	NONE		사회 실재론	사회관	
+2018_JUNE_Q09	NONE		자료 수집 방법	연구방법	
+2018_JUNE_Q10	NONE		지위·역할 갈등	지위 퍼즐	
+2018_JUNE_Q11	NONE		사회 규범을 보는 관점	관점 이론	
+2018_JUNE_Q12	DIRECT	1-04-03	문화 이해 태도(상대주의와 극단적 상대주의)	문화 이해 태도	
+2018_JUNE_Q13	NONE		순환론·진화론	변동 이론	
+2018_JUNE_Q14	LOW	1-05-02	세대별 매체 이용 실태	매체 분류	INDIRECT_CURRICULUM_LINK
+2018_JUNE_Q15	ADAPTABLE	1-05-01,2-05-01	산업 구조·학력·연령 구조 변화 자료	산업화·인구 구조 자료로 활용	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2018_JUNE_Q16	DIRECT	2-02-03	교육 불평등 해소 법 조항과 적극적 지원	불평등 해소 제도	
+2018_JUNE_Q17	LOW	2-02-03	다차원적 계층 이론	계층 이론	INDIRECT_CURRICULUM_LINK
+2018_JUNE_Q18	LOW	1-04-03	반문화와 하위문화 구분의 상대성	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2018_JUNE_Q19	DIRECT	2-02-03	공공 부조·사회 보험·사회 서비스 구분	복지 제도	
+2018_JUNE_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2018_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2018_SEPTEMBER_Q02	NONE		상징적 상호작용론·기능론	관점 이론	
+2018_SEPTEMBER_Q03	NONE		집단·지위·역할	지위 퍼즐	
+2018_SEPTEMBER_Q04	NONE		연구 과정(스마트폰 게임 중독)	연구방법	
+2018_SEPTEMBER_Q05	LOW	1-04-03	문화의 속성(주니족·야노마모족)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2018_SEPTEMBER_Q06	NONE		순환론·진화론	변동 이론	
+2018_SEPTEMBER_Q07	NONE		일탈 이론	일탈 이론	
+2018_SEPTEMBER_Q08	NONE		사회 실재론	사회관	
+2018_SEPTEMBER_Q09	DIRECT	1-04-02	햄버거의 전파와 문화 융합	문화 변동 양상	
+2018_SEPTEMBER_Q10	DIRECT	1-04-03	식사 문화에 대한 자문화 중심주의·문화 상대주의	문화 이해 태도	
+2018_SEPTEMBER_Q11	DIRECT	2-02-03,2-05-01	노인 대상 사회 보험·공공 부조·사회 서비스	복지 제도	
+2018_SEPTEMBER_Q12	LOW	1-04-04	난민의 사회화 기관	난민 소재, 정답은 사회화 기관 분류	INDIRECT_CURRICULUM_LINK
+2018_SEPTEMBER_Q13	LOW	1-05-02	음성·영상 매체와 뉴미디어	매체 분류	INDIRECT_CURRICULUM_LINK
+2018_SEPTEMBER_Q14	DIRECT	2-02-03	공공 부조 지원 기준과 대상 가구 현황	복지 제도 자료 해석	
+2018_SEPTEMBER_Q15	ADAPTABLE	1-05-01	농업·산업 사회의 가족 구조 변화	산업화와 생활양식 변화 문항으로 변형	
+2018_SEPTEMBER_Q16	LOW	2-02-03	계급 이론·계층 이론	계층 이론	INDIRECT_CURRICULUM_LINK
+2018_SEPTEMBER_Q17	LOW	1-04-02,1-04-03	부르주아 문화의 하위문화→반문화→전체문화 변화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2018_SEPTEMBER_Q18	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2018_SEPTEMBER_Q19	NONE		방관자 효과 실험	연구방법	
+2018_SEPTEMBER_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2019_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2019_CSAT_Q02	LOW	1-05-02	종이 신문·라디오·TV·인터넷 특징	매체 분류	INDIRECT_CURRICULUM_LINK
+2019_CSAT_Q03	NONE		근대화론·종속 이론	변동 이론	
+2019_CSAT_Q04	NONE		기능론·갈등론·상징적 상호작용론	관점 이론	
+2019_CSAT_Q05	NONE		가설과 자료 분석(게임 몰입)	연구방법	
+2019_CSAT_Q06	NONE		사회화·지위·역할	지위 퍼즐	
+2019_CSAT_Q07	NONE		자료 수집 방법	연구방법	
+2019_CSAT_Q08	LOW	2-02-03	계급론·계층론 비교	계층 이론	INDIRECT_CURRICULUM_LINK
+2019_CSAT_Q09	NONE		가구 구성비 계산	통계 계산	
+2019_CSAT_Q10	ADAPTABLE	1-04-03	음식 문화 이해의 총체론적·상대론적 관점	문화 이해 문항으로 변형	
+2019_CSAT_Q11	LOW	1-04-03	문화의 의미와 속성(파르테논 신전)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2019_CSAT_Q12	NONE		일탈 이론	일탈 이론	
+2019_CSAT_Q13	DIRECT	1-04-02	의복·음식·주거 분야 문화 융합·공존	문화 변동 양상	
+2019_CSAT_Q14	LOW	2-02-03	불평등을 보는 기능론	계층 이론	INDIRECT_CURRICULUM_LINK
+2019_CSAT_Q15	DIRECT	2-02-03	공공 부조·사회 보험·사회 서비스 구분	복지 제도	
+2019_CSAT_Q16	NONE		친목 집단·이익 집단·시민 단체 분류	집단 분류	
+2019_CSAT_Q17	NONE		교육을 보는 관점	관점 이론	
+2019_CSAT_Q18	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2019_CSAT_Q19	NONE		사회 실재론(만혼 원인)	사회관	
+2019_CSAT_Q20	NONE		세대 간·세대 내 계층 이동	사회 이동표	
+2019_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2019_JUNE_Q02	NONE		세대 갈등을 보는 관점	관점 이론	
+2019_JUNE_Q03	DIRECT	1-04-03	장례 문화에 대한 문화 상대주의·자문화 중심주의·문화 사대주의	문화 이해 태도	
+2019_JUNE_Q04	NONE		집단·사회화·역할	지위 퍼즐	
+2019_JUNE_Q05	ADAPTABLE	1-04-02,1-04-03	블루스·웨스턴 뮤직의 하위문화와 로큰롤로의 융합	문화 변동 문항으로 변형; 하위문화 선지 조정	
+2019_JUNE_Q06	NONE		자료 수집 방법	연구방법	
+2019_JUNE_Q07	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2019_JUNE_Q08	NONE		집단·조직 분류	집단 분류	
+2019_JUNE_Q09	ADAPTABLE	1-04-02	문화 변동 요인(발견·발명·전파)	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE,OCR_UNCERTAIN
+2019_JUNE_Q10	NONE		가설과 조작적 정의(청소년 비행)	연구방법	
+2019_JUNE_Q11	LOW	1-05-02	인쇄 매체·영상 매체·뉴미디어	매체 분류	INDIRECT_CURRICULUM_LINK,OCR_UNCERTAIN
+2019_JUNE_Q12	NONE		교육을 보는 관점	관점 이론	
+2019_JUNE_Q13	NONE		일탈 이론	일탈 이론	
+2019_JUNE_Q14	LOW	1-04-03	성 역할 문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2019_JUNE_Q15	DIRECT	2-02-03,2-05-01	노인 대상 사회 보장 제도 사례	복지 제도	
+2019_JUNE_Q16	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2019_JUNE_Q17	LOW	2-02-03	계급론·계층론	계층 이론	INDIRECT_CURRICULUM_LINK
+2019_JUNE_Q18	NONE		사회 명목론	사회관	
+2019_JUNE_Q19	NONE		순환론·진화론	변동 이론	
+2019_JUNE_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2019_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2019_SEPTEMBER_Q02	NONE		가설 검증(부부 친밀도)	연구방법	
+2019_SEPTEMBER_Q03	NONE		기능론·갈등론·상징적 상호작용론	관점 이론	
+2019_SEPTEMBER_Q04	LOW	2-02-03	베버의 계층론과 주관적 계층 의식	계층 이론	INDIRECT_CURRICULUM_LINK
+2019_SEPTEMBER_Q05	NONE		일탈 이론	일탈 이론	
+2019_SEPTEMBER_Q06	NONE		사회 명목론·실재론	사회관	
+2019_SEPTEMBER_Q07	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2019_SEPTEMBER_Q08	NONE		자료 수집 방법	연구방법	
+2019_SEPTEMBER_Q09	ADAPTABLE	2-02-03	성별·부모 계층별 상급 학교 진학률	교육 불평등 자료로 활용; 계산 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2019_SEPTEMBER_Q10	DIRECT	1-04-02	문화 변동 요인과 문화 융합·동화	문화 변동 양상	BOUNDARY_DIRECT_ADAPTABLE,OCR_UNCERTAIN
+2019_SEPTEMBER_Q11	NONE		진화론·순환론	변동 이론	
+2019_SEPTEMBER_Q12	LOW	1-04-03	문화의 속성(공유성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2019_SEPTEMBER_Q13	LOW	1-05-02	종이 신문·라디오·TV 특징	매체 분류	INDIRECT_CURRICULUM_LINK
+2019_SEPTEMBER_Q14	NONE		지위·집단·역할	지위 퍼즐	
+2019_SEPTEMBER_Q15	DIRECT	2-02-03	근로 장려금 지급 체계와 생산적 복지	복지 제도 자료 해석	
+2019_SEPTEMBER_Q16	NONE		집단·조직 분류	집단 분류	
+2019_SEPTEMBER_Q17	NONE		가족 문제를 보는 기능론	관점 이론	
+2019_SEPTEMBER_Q18	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2019_SEPTEMBER_Q19	DIRECT	1-04-03	자문화 중심주의·문화 상대주의·보편 윤리 관점	문화 이해 태도와 보편 윤리	
+2019_SEPTEMBER_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2020_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2020_CSAT_Q02	NONE		사회 실재론	사회관	
+2020_CSAT_Q03	NONE		지위·역할·사회화	지위 퍼즐	
+2020_CSAT_Q04	NONE		기능론·갈등론·상징적 상호작용론	관점 이론	
+2020_CSAT_Q05	LOW	2-02-03	성별 일·가정 양립 중시 정도 연구	성별 소재, 정답은 가설 검증	INDIRECT_CURRICULUM_LINK
+2020_CSAT_Q06	NONE		자료 수집 방법	연구방법	
+2020_CSAT_Q07	NONE		집단·조직·지위	지위 퍼즐	
+2020_CSAT_Q08	LOW	1-04-03	문화의 속성(공유성·전체성·축적성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2020_CSAT_Q09	LOW	1-04-02,1-04-03	인터넷 개인 방송의 하위문화→전체문화 변화와 문화 지체	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2020_CSAT_Q10	NONE		일탈 이론	일탈 이론	
+2020_CSAT_Q11	LOW	2-02-03	계급 이론·계층 이론 조사 자료	계층 이론	INDIRECT_CURRICULUM_LINK
+2020_CSAT_Q12	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2020_CSAT_Q13	DIRECT	1-04-02	크루아상·바인미의 전파와 문화 융합	문화 변동 양상	
+2020_CSAT_Q14	DIRECT	1-04-03	문화 사대주의·문화 상대주의·자문화 중심주의	문화 이해 태도	
+2020_CSAT_Q15	DIRECT	2-02-03	사회 보장 제도 지역·시기별 수급자 비율	복지 제도 자료 해석	
+2020_CSAT_Q16	NONE		가족 문제를 보는 관점	관점 이론	
+2020_CSAT_Q17	LOW	1-05-02	종이 신문·TV·인터넷 특징 게임	매체 분류	INDIRECT_CURRICULUM_LINK
+2020_CSAT_Q18	NONE		진화론·순환론	변동 이론	
+2020_CSAT_Q19	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2020_CSAT_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2020_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2020_JUNE_Q02	NONE		기능론·갈등론·상징적 상호작용론 카드 게임	관점 이론	
+2020_JUNE_Q03	NONE		가설 검증(스마트폰 의존도와 여가)	연구방법	
+2020_JUNE_Q04	DIRECT	1-04-02,1-05-02	간편 결제·1인 방송 악용과 문화 지체	문화 변동 양상; 과학기술 발달에 따른 문제	
+2020_JUNE_Q05	NONE		사회 실재론	사회관	
+2020_JUNE_Q06	NONE		지위·역할 갈등	지위 퍼즐	
+2020_JUNE_Q07	NONE		일탈 이론	일탈 이론	
+2020_JUNE_Q08	LOW	1-04-03	문화의 속성(공유성·전체성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2020_JUNE_Q09	NONE		순환론·진화론	변동 이론	
+2020_JUNE_Q10	DIRECT	1-04-02	문화 동화와 문화 융합(온돌·아파트)	문화 변동 양상	
+2020_JUNE_Q11	LOW	1-05-02	뉴미디어·영상 매체·인쇄 매체	매체 분류	INDIRECT_CURRICULUM_LINK
+2020_JUNE_Q12	NONE		질문지 작성법	연구방법	
+2020_JUNE_Q13	DIRECT	1-04-03	자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2020_JUNE_Q14	LOW	2-02-03	계급론·계층론	계층 이론	INDIRECT_CURRICULUM_LINK
+2020_JUNE_Q15	DIRECT	2-02-03	공공 부조·사회 보험 지역별 수급자 비율	복지 제도 자료 해석	
+2020_JUNE_Q16	NONE		집단·조직 분류	집단 분류	
+2020_JUNE_Q17	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2020_JUNE_Q18	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤 기준	빈곤 개념	
+2020_JUNE_Q19	NONE		교육을 보는 관점	관점 이론	
+2020_JUNE_Q20	NONE		세대 간 계층 이동	사회 이동표	
+2020_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2020_SEPTEMBER_Q02	LOW	1-04-04	다문화 교육과 다문화 수용성 실험	다문화 소재, 정답은 실험 집단	INDIRECT_CURRICULUM_LINK
+2020_SEPTEMBER_Q03	NONE		일탈 이론	일탈 이론	
+2020_SEPTEMBER_Q04	LOW	1-05-02	종이 신문·라디오·SNS	매체 분류	INDIRECT_CURRICULUM_LINK
+2020_SEPTEMBER_Q05	LOW	2-04-03	통일 관련 연구 주제의 자료 수집 방법	통일 소재, 정답은 연구방법	INDIRECT_CURRICULUM_LINK
+2020_SEPTEMBER_Q06	NONE		지위·역할	지위 퍼즐	
+2020_SEPTEMBER_Q07	DIRECT	2-02-03	공공 부조·사회 보험·사회 서비스 사례	복지 제도	
+2020_SEPTEMBER_Q08	NONE		집단·조직 분류	집단 분류	
+2020_SEPTEMBER_Q09	NONE		종교를 보는 기능론·갈등론	관점 이론	
+2020_SEPTEMBER_Q10	DIRECT	2-02-03	절대적·상대적 빈곤 가구 지원 정책	빈곤 대책 자료 해석	
+2020_SEPTEMBER_Q11	LOW	1-04-03	문화의 속성(학습성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2020_SEPTEMBER_Q12	NONE		기능론·갈등론·상징적 상호작용론	관점 이론	
+2020_SEPTEMBER_Q13	LOW	2-02-03	계급론·계층론 분류	계층 이론	INDIRECT_CURRICULUM_LINK
+2020_SEPTEMBER_Q14	LOW	1-04-03	청소년 하위문화의 반문화적 성격	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2020_SEPTEMBER_Q15	LOW	2-02-03	지역·가정 배경별 교육 격차 가설과 자료	교육 불평등 소재, 정답은 가설 검증 자료	INDIRECT_CURRICULUM_LINK
+2020_SEPTEMBER_Q16	NONE		근대화론·종속 이론	변동 이론	
+2020_SEPTEMBER_Q17	ADAPTABLE	1-04-02	문화 변동 요인(발견·발명·직접·자극 전파)	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE
+2020_SEPTEMBER_Q18	ADAPTABLE	1-05-01,1-05-02	농업·산업·정보 사회 비교	산업화·정보화 문항으로 변형	
+2020_SEPTEMBER_Q19	NONE		사회 실재론	사회관	
+2020_SEPTEMBER_Q20	NONE		분배 정책과 세대 간 계층 이동	사회 이동표	
+2021_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2021_CSAT_Q02	DIRECT	1-05-02	정보 사회의 문제(허위 정보, 불법 공유)와 정보 활용 능력	정보화 문제와 해결	
+2021_CSAT_Q03	ADAPTABLE	2-01-02	환경 단체 활동·민주화 운동 등 사회 운동 유형	시민 참여 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2021_CSAT_Q04	DIRECT	1-04-03,1-04-04	이주민 종교 문화에 대한 자문화 중심주의·문화 상대주의	문화 이해 태도	
+2021_CSAT_Q05	NONE		실험 연구 설계	연구방법	
+2021_CSAT_Q06	NONE		사회 명목론·실재론(환경 오염 소재)	사회관	
+2021_CSAT_Q07	NONE		일탈 이론	일탈 이론	
+2021_CSAT_Q08	LOW	1-04-03	문화의 속성(공유성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2021_CSAT_Q09	LOW	1-04-03	주류 문화·하위문화·반문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2021_CSAT_Q10	LOW	2-02-03	불평등을 보는 기능론·갈등론	계층 이론	INDIRECT_CURRICULUM_LINK
+2021_CSAT_Q11	NONE		자료 수집 방법	연구방법	
+2021_CSAT_Q12	NONE		지위·역할 갈등	지위 퍼즐	
+2021_CSAT_Q13	NONE		연구 윤리	연구 윤리	
+2021_CSAT_Q14	NONE		워라밸을 보는 관점	관점 이론	
+2021_CSAT_Q15	DIRECT	2-02-03,2-05-01	기초 연금·국민연금 지역별 수급자 비율	복지 제도 자료 해석	
+2021_CSAT_Q16	DIRECT	1-04-02	직접·자극 전파와 문화 병존·융합	문화 변동 양상	
+2021_CSAT_Q17	NONE		진화론·순환론	변동 이론	
+2021_CSAT_Q18	DIRECT	2-05-01	총부양비·노령화 지수와 고령 사회 단계	인구 구조 자료 해석	
+2021_CSAT_Q19	NONE		집단·조직 분류	집단 분류	
+2021_CSAT_Q20	DIRECT	2-02-03	성별 임금·교육 격차 지수	성 불평등 자료 해석	
+2021_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2021_JUNE_Q02	LOW	1-04-04	다문화 가정 연구의 연구 윤리	다문화 소재, 정답은 가치 개입	INDIRECT_CURRICULUM_LINK
+2021_JUNE_Q03	DIRECT	1-04-03	자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2021_JUNE_Q04	NONE		집단·조직 분류	집단 분류	
+2021_JUNE_Q05	NONE		실험 연구 설계	연구방법	
+2021_JUNE_Q06	NONE		자료 수집 방법	연구방법	
+2021_JUNE_Q07	NONE		집단·지위·역할	지위 퍼즐	
+2021_JUNE_Q08	NONE		흥부전을 보는 관점	관점 이론	
+2021_JUNE_Q09	NONE		일탈 이론	일탈 이론	
+2021_JUNE_Q10	DIRECT	2-02-03	국가별 성별 임금 격차·여성 의원 비율	성 불평등 자료 해석	
+2021_JUNE_Q11	LOW	1-04-03	하위문화·반문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2021_JUNE_Q12	DIRECT	1-04-02	문화 융합·강제적 문화 접변·발명	문화 변동 양상	
+2021_JUNE_Q13	DIRECT	1-05-02	정보 격차	정보화 문제	
+2021_JUNE_Q14	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2021_JUNE_Q15	DIRECT	2-02-03,2-05-01	기초 연금·장기 요양 보험·노인 돌봄 서비스	복지 제도	
+2021_JUNE_Q16	LOW	1-04-03	문화의 의미와 조직 문화·여가 문화 변화	문화 개념 중심	INDIRECT_CURRICULUM_LINK
+2021_JUNE_Q17	ADAPTABLE	2-01-02	6월 민주 항쟁·금 모으기 운동(사회 운동)	시민 참여 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2021_JUNE_Q18	NONE		진화론·순환론	변동 이론	
+2021_JUNE_Q19	NONE		사회 명목론·실재론	사회관	
+2021_JUNE_Q20	DIRECT	2-05-01	합계 출산율·노령화 지수와 고령화 단계	인구 구조 자료 해석	
+2021_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2021_SEPTEMBER_Q02	NONE		참여 관찰법·면접법	연구방법	
+2021_SEPTEMBER_Q03	DIRECT	1-04-02	완당·카레의 전파와 문화 융합	문화 변동 양상	
+2021_SEPTEMBER_Q04	NONE		연구 윤리	연구 윤리	
+2021_SEPTEMBER_Q05	NONE		입양아 범죄 경력 연구	연구방법	
+2021_SEPTEMBER_Q06	NONE		비혼 증가를 보는 관점	관점 이론	
+2021_SEPTEMBER_Q07	ADAPTABLE	2-02-03	기업별 신입 사원·임원 성비 불균형	성 불평등 자료로 활용; 계산 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2021_SEPTEMBER_Q08	LOW	1-04-03	뉴트로 현상과 문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2021_SEPTEMBER_Q09	DIRECT	2-01-03,2-01-02	흑인 민권 운동·튀니지 민주화 운동	사회적 소수자 권리 보장 운동	
+2021_SEPTEMBER_Q10	DIRECT	1-05-02,2-02-03	정보화에 따른 노동 시장 변화와 경제적 격차	정보화 문제	
+2021_SEPTEMBER_Q11	LOW	2-02-03	불평등을 보는 기능론(인적 자본)	계층 이론	INDIRECT_CURRICULUM_LINK
+2021_SEPTEMBER_Q12	LOW	1-04-03	반문화와 청년 하위문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2021_SEPTEMBER_Q13	NONE		집단·조직 분류	집단 분류	
+2021_SEPTEMBER_Q14	NONE		낙인 이론	일탈 이론	
+2021_SEPTEMBER_Q15	NONE		진화론·순환론	변동 이론	
+2021_SEPTEMBER_Q16	DIRECT	2-05-01	노령화 지수·총부양비와 고령화 단계	인구 구조 자료 해석	
+2021_SEPTEMBER_Q17	DIRECT	1-04-03	축제 문화에 대한 문화 상대주의·자문화 중심주의	문화 이해 태도	
+2021_SEPTEMBER_Q18	NONE		지위·역할(환경 운동가 소재)	지위 퍼즐	
+2021_SEPTEMBER_Q19	NONE		사회 명목론·실재론	사회관	
+2021_SEPTEMBER_Q20	DIRECT	2-02-03	공공 부조·사회 보험 지역별 수급자 비율	복지 제도 자료 해석	
+2022_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2022_CSAT_Q02	NONE		일탈 이론	일탈 이론	
+2022_CSAT_Q03	NONE		기능론·갈등론·상징적 상호작용론	관점 이론	
+2022_CSAT_Q04	NONE		실험·질문지 연구 설계	연구방법	
+2022_CSAT_Q05	LOW	1-04-02,1-04-03	판소리의 퓨전 음악화와 문화의 축적성	전통문화 소재, 정답은 문화 속성	INDIRECT_CURRICULUM_LINK
+2022_CSAT_Q06	NONE		지위·역할	지위 퍼즐	
+2022_CSAT_Q07	ADAPTABLE	2-02-03	정보 분야 성별 임금 지수	성 불평등 자료로 활용; 계산 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2022_CSAT_Q08	NONE		자료 수집 방법	연구방법	
+2022_CSAT_Q09	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2022_CSAT_Q10	LOW	1-04-03	K-팝 하위문화와 생태 공동체 반문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2022_CSAT_Q11	ADAPTABLE	1-05-01,1-05-02	산업 사회와 정보 사회 비교	산업화·정보화 문항으로 변형	
+2022_CSAT_Q12	NONE		사회 실재론(분업)	사회관	
+2022_CSAT_Q13	NONE		진화론·순환론	변동 이론	
+2022_CSAT_Q14	DIRECT	1-04-03	축제에 대한 문화 사대주의·상대주의·자문화 중심주의	문화 이해 태도	
+2022_CSAT_Q15	DIRECT	2-02-03,2-05-01	기초 연금·장기 요양 보험 지역별 수급자 비율	복지 제도 자료 해석	
+2022_CSAT_Q16	NONE		세대 간 계층 이동	사회 이동표	
+2022_CSAT_Q17	ADAPTABLE	1-04-02	통조림 기술의 전파 유형	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE
+2022_CSAT_Q18	NONE		집단·조직 분류	집단 분류	
+2022_CSAT_Q19	DIRECT	2-01-03	사회적 소수자의 개념과 특징	사회적 소수자	
+2022_CSAT_Q20	DIRECT	2-05-01	총부양비·노령화 지수 변화	인구 구조 자료 해석	
+2022_JUNE_Q01	NONE		자연 현상과 사회 현상(탄소 발자국 소재)	현상 특성	
+2022_JUNE_Q02	NONE		실험 집단·통제 집단	연구방법	
+2022_JUNE_Q03	LOW	1-04-03	주류 문화·하위문화·반문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2022_JUNE_Q04	NONE		일탈 이론	일탈 이론	
+2022_JUNE_Q05	ADAPTABLE	1-05-01,1-05-02	산업 사회와 정보 사회 비교	산업화·정보화 문항으로 변형	
+2022_JUNE_Q06	ADAPTABLE	1-04-02	문화 변동 요인과 문화 병존	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE
+2022_JUNE_Q07	NONE		비공식 조직·이익 사회·자발적 결사체	집단 분류	
+2022_JUNE_Q08	LOW	1-04-03,1-05-02	홈코노미 문화와 문화의 총체성	과학기술 소재, 정답은 문화 속성	INDIRECT_CURRICULUM_LINK
+2022_JUNE_Q09	NONE		세대 간 계층 이동	사회 이동표	
+2022_JUNE_Q10	ADAPTABLE	2-02-03	성차별 개선 조치 전후 임금·임원 비율	성 불평등 자료로 활용; 계산 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2022_JUNE_Q11	NONE		양적·질적 연구	연구방법	
+2022_JUNE_Q12	NONE		자료 수집 방법 카드 게임	연구방법	
+2022_JUNE_Q13	NONE		이주 가족의 사회화·지위	지위 퍼즐	
+2022_JUNE_Q14	NONE		진화론·순환론	변동 이론	
+2022_JUNE_Q15	DIRECT	2-02-03	사회 보험·공공 부조·사회 서비스 중복 수혜	복지 제도 자료 해석	
+2022_JUNE_Q16	NONE		사회 명목론·실재론	사회관	
+2022_JUNE_Q17	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2022_JUNE_Q18	NONE		질병을 보는 관점	관점 이론	
+2022_JUNE_Q19	DIRECT	2-01-03	여아 교육 차별·비정규직·소수 민족·노인 정보 격차 인권 사례	사회적 소수자 차별	
+2022_JUNE_Q20	DIRECT	2-05-01	인구 구성 비율·부양비·노령화 지수	인구 구조 자료 해석	
+2022_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2022_SEPTEMBER_Q02	NONE		혼밥 증가를 보는 관점	관점 이론	
+2022_SEPTEMBER_Q03	NONE		자료 수집 방법	연구방법	
+2022_SEPTEMBER_Q04	NONE		양육 태도와 학업 성취 연구	연구방법	
+2022_SEPTEMBER_Q05	LOW	1-04-03	중세 기사 문화의 변화와 문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2022_SEPTEMBER_Q06	NONE		집단·조직 분류	집단 분류	
+2022_SEPTEMBER_Q07	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2022_SEPTEMBER_Q08	NONE		사회화 기관	사회화	
+2022_SEPTEMBER_Q09	ADAPTABLE	1-05-01,1-05-02	산업 사회와 정보 사회 비교	산업화·정보화 문항으로 변형	
+2022_SEPTEMBER_Q10	ADAPTABLE	2-02-03	노동자 성비와 성별 임금 격차	성 불평등 자료로 활용; 계산 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2022_SEPTEMBER_Q11	NONE		진화론·순환론	변동 이론	
+2022_SEPTEMBER_Q12	NONE		일탈 이론	일탈 이론	
+2022_SEPTEMBER_Q13	ADAPTABLE	1-04-02	간접·자극·직접 전파 사례	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE
+2022_SEPTEMBER_Q14	NONE		비밀 결사와 사회관	사회관	
+2022_SEPTEMBER_Q15	DIRECT	2-05-01	65세 이상 인구 비율과 부양비	인구 구조 자료 해석	
+2022_SEPTEMBER_Q16	DIRECT	1-04-03	자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2022_SEPTEMBER_Q17	DIRECT	2-01-03	사회적 소수자 차별의 발생 원인	사회적 소수자	
+2022_SEPTEMBER_Q18	NONE		시기별 계층 구성 비율	계층 구조 자료	
+2022_SEPTEMBER_Q19	LOW	1-04-03	지역 문화와 반문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2022_SEPTEMBER_Q20	DIRECT	2-02-03	의료 급여·고용 보험 지역별 수급자 비율	복지 제도 자료 해석	
+2023_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2023_CSAT_Q02	NONE		실험 처치와 조작적 정의	연구방법	
+2023_CSAT_Q03	NONE		기능론(분업과 질서)	관점 이론	
+2023_CSAT_Q04	DIRECT	1-04-02	직접 전파에 의한 문화 병존·강제적 문화 접변	문화 변동 양상	
+2023_CSAT_Q05	NONE		집단·조직·사회화 기관	집단 분류	
+2023_CSAT_Q06	LOW	1-05-03	도심 재생 사업 연구의 자료 수집 방법	지역 변화 소재, 정답은 연구방법	INDIRECT_CURRICULUM_LINK
+2023_CSAT_Q07	NONE		일탈 이론	일탈 이론	
+2023_CSAT_Q08	NONE		사회 명목론	사회관	
+2023_CSAT_Q09	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤 기준	빈곤 개념	
+2023_CSAT_Q10	ADAPTABLE	2-02-03	연령대별 남녀 임금 격차	성 불평등 자료로 활용; 계산 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2023_CSAT_Q11	DIRECT	1-04-03	자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2023_CSAT_Q12	NONE		계층 구성 비율 예측	계층 구조 자료	
+2023_CSAT_Q13	LOW	1-04-03	세대 하위문화와 유대감	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2023_CSAT_Q14	NONE		관료제·탈관료제	조직 이론	
+2023_CSAT_Q15	DIRECT	2-02-03	공공 부조·사회 보험 지역별 수급자 비율	복지 제도 자료 해석	
+2023_CSAT_Q16	LOW	1-04-03	배트 플립 문화와 문화의 의미	문화 개념 중심	INDIRECT_CURRICULUM_LINK
+2023_CSAT_Q17	NONE		진화론적 사회 변동관	변동 이론	
+2023_CSAT_Q18	ADAPTABLE	2-01-02	보행권 운동·소비자 운동	시민 참여 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2023_CSAT_Q19	DIRECT	2-01-03	사회적 소수자 중첩과 우대 정책	사회적 소수자	
+2023_CSAT_Q20	DIRECT	2-05-01	유소년·노년 부양비 변화	인구 구조 자료 해석	
+2023_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2023_JUNE_Q02	NONE		선행 연구 검토와 실험	연구방법	
+2023_JUNE_Q03	NONE		질문지 작성법	연구방법	
+2023_JUNE_Q04	NONE		일탈 이론	일탈 이론	
+2023_JUNE_Q05	DIRECT	1-04-03	자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2023_JUNE_Q06	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2023_JUNE_Q07	DIRECT	2-01-03	사회적 소수자의 특성과 유형	사회적 소수자	
+2023_JUNE_Q08	NONE		지위·역할 갈등	지위 퍼즐	
+2023_JUNE_Q09	ADAPTABLE	2-02-03	연봉 구간별 성별 분포	성 불평등 자료로 활용; 계산 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2023_JUNE_Q10	DIRECT	1-04-02	문화 동화·병존·융합	문화 변동 양상	
+2023_JUNE_Q11	LOW	1-04-03	반문화 집단과 세대 문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2023_JUNE_Q12	NONE		시기별 계층 구성 비율	계층 구조 자료	
+2023_JUNE_Q13	NONE		사회 명목론·실재론	사회관	
+2023_JUNE_Q14	ADAPTABLE	1-05-01,1-05-02	산업 사회와 정보 사회 비교	산업화·정보화 문항으로 변형	
+2023_JUNE_Q15	DIRECT	2-02-03	의료 급여·연금·가사 간병 서비스 수혜자 현황	복지 제도 자료 해석	
+2023_JUNE_Q16	LOW	1-04-03	문화의 속성(공유성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2023_JUNE_Q17	NONE		관료제·탈관료제	조직 이론	
+2023_JUNE_Q18	NONE		순환론·진화론	변동 이론	
+2023_JUNE_Q19	LOW	1-03-03	환경 문제를 보는 관점	환경 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2023_JUNE_Q20	DIRECT	2-05-01	유소년·노년 부양비 변화	인구 구조 자료 해석	
+2023_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2023_SEPTEMBER_Q02	NONE		양적·질적 연구(반려견 양육)	연구방법	
+2023_SEPTEMBER_Q03	LOW	1-04-03	주류 문화·하위문화·반문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2023_SEPTEMBER_Q04	NONE		집단·조직·역할 갈등	집단 분류	
+2023_SEPTEMBER_Q05	NONE		진화론·순환론	변동 이론	
+2023_SEPTEMBER_Q06	NONE		일탈 이론	일탈 이론	
+2023_SEPTEMBER_Q07	NONE		사회 실재론	사회관	
+2023_SEPTEMBER_Q08	NONE		연구 윤리	연구 윤리	
+2023_SEPTEMBER_Q09	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2023_SEPTEMBER_Q10	ADAPTABLE	2-02-03	가사 노동 시간·임금·고위 공직자 성별 자료	성 불평등 자료로 활용; 계산 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2023_SEPTEMBER_Q11	NONE		관료제·탈관료제	조직 이론	
+2023_SEPTEMBER_Q12	ADAPTABLE	1-04-02	문화 변동 요인(발명·발견·직접·자극 전파)	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE
+2023_SEPTEMBER_Q13	DIRECT	2-01-03	재일 교포·혼혈인·장애인 등 사회적 소수자 차별	사회적 소수자	
+2023_SEPTEMBER_Q14	NONE		기우제를 보는 관점	관점 이론	
+2023_SEPTEMBER_Q15	DIRECT	2-02-03,2-05-01	장기 요양 보험·기초 연금 수급자 비율	복지 제도 자료 해석	
+2023_SEPTEMBER_Q16	LOW	1-04-03,1-05-02	짠테크 문화와 물질·비물질 문화	문화 개념 중심	INDIRECT_CURRICULUM_LINK
+2023_SEPTEMBER_Q17	DIRECT	1-04-03	자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2023_SEPTEMBER_Q18	NONE		국가별 계층 구성 비율	계층 구조 자료	
+2023_SEPTEMBER_Q19	ADAPTABLE	2-01-02	사회 운동의 의미 판별	시민 참여 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2023_SEPTEMBER_Q20	DIRECT	2-05-01	저출산·고령화 시나리오와 부양비	인구 구조 자료 해석	
+2024_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2024_CSAT_Q02	NONE		사회 명목론(돈의 가치)	사회관	
+2024_CSAT_Q03	NONE		자료 수집 방법	연구방법	
+2024_CSAT_Q04	NONE		기능론·갈등론·상징적 상호작용론	관점 이론	
+2024_CSAT_Q05	NONE		여론 조사 실험 설계	연구방법	
+2024_CSAT_Q06	LOW	1-04-03	자전거 소재 문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2024_CSAT_Q07	NONE		집단·지위·사회화	지위 퍼즐	
+2024_CSAT_Q08	DIRECT	2-01-03	노인·이주민 3세의 사회적 소수자 차별	사회적 소수자	
+2024_CSAT_Q09	LOW	1-04-03	반문화의 형성	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2024_CSAT_Q10	NONE		세대 간 계층 이동	사회 이동표	
+2024_CSAT_Q11	NONE		일탈 이론	일탈 이론	
+2024_CSAT_Q12	NONE		관료제·탈관료제	조직 이론	
+2024_CSAT_Q13	NONE		순환론·진화론	변동 이론	
+2024_CSAT_Q14	DIRECT	1-04-02	음식 문화의 공존·융합과 전파	문화 변동 양상	
+2024_CSAT_Q15	DIRECT	2-02-03	사회 보험·공공 부조 수급자 비율	복지 제도 자료 해석	
+2024_CSAT_Q16	DIRECT	1-04-03	식사비 문화에 대한 자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2024_CSAT_Q17	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2024_CSAT_Q18	ADAPTABLE	2-01-02,2-01-03	기후 위기 청년 운동·노숙인 인권 운동	시민 참여·인권 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2024_CSAT_Q19	ADAPTABLE	1-05-01,1-05-02	산업 사회와 정보 사회 비교	산업화·정보화 문항으로 변형	
+2024_CSAT_Q20	DIRECT	2-05-01	합계 출산율·노령화 지수 비교	인구 구조 자료 해석	
+2024_JUNE_Q01	NONE		자연 현상과 사회 현상(핵융합 소재)	현상 특성	OCR_UNCERTAIN
+2024_JUNE_Q02	NONE		가설 검증(소비 활동 행복감)	연구방법	
+2024_JUNE_Q03	NONE		갈등론·기능론	관점 이론	
+2024_JUNE_Q04	NONE		관료제·탈관료제	조직 이론	
+2024_JUNE_Q05	LOW	1-04-03	종교와 식문화, 문화의 공유성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2024_JUNE_Q06	NONE		자료 수집 방법	연구방법	
+2024_JUNE_Q07	NONE		사회 실재론	사회관	
+2024_JUNE_Q08	DIRECT	2-01-03	외국인 근로자·다수 민족 차별과 소수자 중첩	사회적 소수자	
+2024_JUNE_Q09	DIRECT	1-04-03	햄릿 해석 사례의 문화 상대주의	문화 이해 태도	
+2024_JUNE_Q10	ADAPTABLE	2-02-03	혼인 상태·성별 연령대별 임금 격차	성 불평등 자료로 활용; 계산 단순화	DATA_ONLY_ANSWER_LOGIC_SOCIOCULTURE
+2024_JUNE_Q11	NONE		세대별 계층 구성 비율	계층 구조 자료	
+2024_JUNE_Q12	NONE		집단·지위·사회화	지위 퍼즐	
+2024_JUNE_Q13	LOW	2-04-02	전후 독일의 전쟁 기억과 세대 간 인식 변화	역사 갈등 소재	INDIRECT_CURRICULUM_LINK
+2024_JUNE_Q14	NONE		일탈 이론	일탈 이론	
+2024_JUNE_Q15	DIRECT	2-02-03,2-05-01	노인 기초 연금 도입안과 상대적 빈곤율	복지 제도 자료 해석	
+2024_JUNE_Q16	NONE		진화론적 사회 변동관	변동 이론	
+2024_JUNE_Q17	ADAPTABLE	2-01-02,1-03-03	계몽 운동·환경 운동	시민 참여·환경 운동 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2024_JUNE_Q18	ADAPTABLE	1-05-01,1-05-02	산업 사회와 정보 사회 비교	산업화·정보화 문항으로 변형	
+2024_JUNE_Q19	DIRECT	1-04-02	자발적 문화 융합과 강제적 문화 동화	문화 변동 양상	
+2024_JUNE_Q20	DIRECT	2-05-01	노년 부양비·노령화 지수 변화	인구 구조 자료 해석	
+2024_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2024_SEPTEMBER_Q02	LOW	1-04-03	외래 종교의 하위문화·반문화화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2024_SEPTEMBER_Q03	NONE		집단 간 경쟁 실험	연구방법	
+2024_SEPTEMBER_Q04	NONE		노인 대상 연구 윤리	연구 윤리	
+2024_SEPTEMBER_Q05	DIRECT	2-02-03	상대적 빈곤의 특징	빈곤 개념	
+2024_SEPTEMBER_Q06	LOW	1-04-03	문화의 속성 사례	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2024_SEPTEMBER_Q07	NONE		집단·조직·사회화 기관	집단 분류	
+2024_SEPTEMBER_Q08	NONE		순환론·진화론	변동 이론	
+2024_SEPTEMBER_Q09	NONE		일탈 이론	일탈 이론	
+2024_SEPTEMBER_Q10	NONE		자료 수집 방법	연구방법	
+2024_SEPTEMBER_Q11	NONE		국가별 계층 구조	계층 구조 자료	
+2024_SEPTEMBER_Q12	DIRECT	1-04-03	피자 문화에 대한 자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2024_SEPTEMBER_Q13	DIRECT	1-04-02	영화 기법·라면의 전파와 문화 융합	문화 변동 양상	
+2024_SEPTEMBER_Q14	ADAPTABLE	2-01-02	환경 캠페인·추모·여성 권리 운동 등 사회 운동 판별	시민 참여 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2024_SEPTEMBER_Q15	DIRECT	2-02-03,2-05-01	기초 연금·국민연금 성별 수급자 수	복지 제도 자료 해석	
+2024_SEPTEMBER_Q16	DIRECT	1-05-02,2-02-03	정보 격차로 인한 사회 불평등	정보화 문제	
+2024_SEPTEMBER_Q17	NONE		관료제·탈관료제	조직 이론	
+2024_SEPTEMBER_Q18	NONE		사회 실재론	사회관	
+2024_SEPTEMBER_Q19	NONE		기능론·갈등론·상징적 상호작용론	관점 이론	
+2024_SEPTEMBER_Q20	DIRECT	2-05-01	유소년·노년 인구 비율 변화	인구 구조 자료 해석	
+2025_CSAT_Q01	NONE		자연 현상과 사회 현상(기후 변화 소재)	현상 특성	OCR_UNCERTAIN
+2025_CSAT_Q02	NONE		기능론	관점 이론	
+2025_CSAT_Q03	NONE		관료제·탈관료제	조직 이론	
+2025_CSAT_Q04	NONE		집단·조직·사회화 기관	집단 분류	OCR_UNCERTAIN
+2025_CSAT_Q05	NONE		실험 연구 설계(문해력)	연구방법	
+2025_CSAT_Q06	LOW	1-04-02,1-04-03	손 씻기 문화의 하위문화→주류 문화 변화	하위문화 분류	INDIRECT_CURRICULUM_LINK,OCR_UNCERTAIN
+2025_CSAT_Q07	DIRECT	1-05-02	가공 콘텐츠 소비와 비판적 정보 분석 능력	정보화 문제와 해결	
+2025_CSAT_Q08	ADAPTABLE	2-04-01,2-03-02	다국적 기업 분유 마케팅과 국제 시민 단체 불매 운동	세계화 문제·기업 윤리 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE,OCR_UNCERTAIN
+2025_CSAT_Q09	LOW	1-04-03	웹툰 문화 사례의 문화 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2025_CSAT_Q10	NONE		세대 간·세대 내 계층 이동	사회 이동표	OCR_UNCERTAIN
+2025_CSAT_Q11	DIRECT	1-04-03	장례 문화에 대한 자문화 중심주의와 문화 상대주의	문화 이해 태도	OCR_UNCERTAIN
+2025_CSAT_Q12	NONE		사회 실재론(합리화)	사회관	
+2025_CSAT_Q13	NONE		자료 수집 방법	연구방법	
+2025_CSAT_Q14	NONE		일탈 이론	일탈 이론	
+2025_CSAT_Q15	DIRECT	2-02-03	공공 부조·사회 보험 수급자와 복지 사각지대	복지 제도 자료 해석	OCR_UNCERTAIN
+2025_CSAT_Q16	LOW	2-02-03	불평등을 보는 기능론·갈등론	계층 이론	INDIRECT_CURRICULUM_LINK
+2025_CSAT_Q17	DIRECT	2-01-03	장애인 편견과 인종 차별(생득적·후천적 요인)	사회적 소수자	BOUNDARY_DIRECT_ADAPTABLE,OCR_UNCERTAIN
+2025_CSAT_Q18	NONE		진화론적 사회 변동관	변동 이론	
+2025_CSAT_Q19	ADAPTABLE	1-04-02	디저트 문화의 전파와 문화 접변	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE,OCR_UNCERTAIN
+2025_CSAT_Q20	DIRECT	2-05-01	노령화 지수·부양비와 인구 문제	인구 구조 자료 해석	OCR_UNCERTAIN
+2025_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2025_JUNE_Q02	NONE		기능론	관점 이론	
+2025_JUNE_Q03	NONE		관료제·탈관료제	조직 이론	
+2025_JUNE_Q04	LOW	1-04-03	문화의 속성(공유성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2025_JUNE_Q05	NONE		온라인 게임 연구 과정	연구방법	
+2025_JUNE_Q06	LOW	1-05-02	대중문화의 상업성	대중 매체 문화 소재	INDIRECT_CURRICULUM_LINK
+2025_JUNE_Q07	NONE		사회 실재론	사회관	
+2025_JUNE_Q08	LOW	1-04-03	이민자 하위문화의 주류 문화화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2025_JUNE_Q09	NONE		자료 수집 방법	연구방법	
+2025_JUNE_Q10	NONE		국가별 계층 구조	계층 구조 자료	
+2025_JUNE_Q11	NONE		소속 집단과 준거 집단	집단 분류	
+2025_JUNE_Q12	ADAPTABLE	1-04-02,1-04-03	마테차의 전파와 문화 이해 관점	문화 변동·문화 이해 문항으로 변형	
+2025_JUNE_Q13	DIRECT	1-05-02,2-02-03	정보화와 정보 격차에 따른 불평등	정보화 문제	
+2025_JUNE_Q14	NONE		낙인 이론	일탈 이론	
+2025_JUNE_Q15	DIRECT	2-02-03	사회 보험·공공 부조·사회 서비스 수혜자 비율	복지 제도 자료 해석	
+2025_JUNE_Q16	DIRECT	2-01-03	이민자 차별과 사회적 소수자	사회적 소수자	
+2025_JUNE_Q17	ADAPTABLE	2-01-01	시민권 확대의 역사와 참정권 운동	인권 확장 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2025_JUNE_Q18	LOW	2-02-03	불평등을 보는 갈등론	계층 이론	INDIRECT_CURRICULUM_LINK
+2025_JUNE_Q19	DIRECT	2-04-02	국제기구·환경 단체와 국제 협력	세계 평화·협력 행위 주체	
+2025_JUNE_Q20	DIRECT	2-05-01	노년 인구 비율·노령화 지수·복지 지출	인구 구조 자료 해석	
+2025_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2025_SEPTEMBER_Q02	NONE		사회 명목론(사회 계약)	사회관	
+2025_SEPTEMBER_Q03	NONE		지위·역할 갈등	지위 퍼즐	
+2025_SEPTEMBER_Q04	NONE		자료 수집 방법	연구방법	
+2025_SEPTEMBER_Q05	NONE		노인 사회 관계망 연구	연구방법	
+2025_SEPTEMBER_Q06	LOW	2-02-03	계층적 지위를 보는 관점	계층 이론	INDIRECT_CURRICULUM_LINK
+2025_SEPTEMBER_Q07	NONE		내집단·외집단, 1차·2차 집단	집단 분류	
+2025_SEPTEMBER_Q08	DIRECT	2-04-01	다국적 기업 개발과 감염병의 전 지구적 확산	세계화의 문제점	
+2025_SEPTEMBER_Q09	NONE		일탈 이론	일탈 이론	
+2025_SEPTEMBER_Q10	NONE		세대 간·세대 내 계층 이동	사회 이동표	
+2025_SEPTEMBER_Q11	DIRECT	1-04-03	식사 문화에 대한 문화 상대주의	문화 이해 태도	
+2025_SEPTEMBER_Q12	NONE		순환론적 사회 변동관	변동 이론	
+2025_SEPTEMBER_Q13	ADAPTABLE	2-01-02,2-02-03	반전 평화 운동과 여성 운동	시민 참여·성 불평등 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2025_SEPTEMBER_Q14	LOW	1-04-03	문화의 속성 사례	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2025_SEPTEMBER_Q15	DIRECT	2-02-03	사회 보험·공공 부조 수급자 비율	복지 제도 자료 해석	
+2025_SEPTEMBER_Q16	LOW	1-05-02	대중문화의 기능(고급문화 대중화)	대중 매체 문화 소재	INDIRECT_CURRICULUM_LINK
+2025_SEPTEMBER_Q17	NONE		관료제·탈관료제	조직 이론	
+2025_SEPTEMBER_Q18	DIRECT	1-04-02	강제적 문화 접변에 따른 전통주 소멸과 문화 융합	문화 변동 양상과 전통문화	BOUNDARY_DIRECT_ADAPTABLE
+2025_SEPTEMBER_Q19	DIRECT	2-01-03,2-01-02	이주 여성의 국적·성별 차별과 소송	사회적 소수자 차별과 권리 구제	
+2025_SEPTEMBER_Q20	DIRECT	2-05-01	인구 변화와 세대 갈등·경제 성장 동력	인구 구조 자료 해석	
+2026_CSAT_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2026_CSAT_Q02	NONE		사회 실재론	사회관	
+2026_CSAT_Q03	ADAPTABLE	1-04-02,1-04-04	공용어 지정과 토착어 보존	문화 다양성 보존 문항으로 변형	
+2026_CSAT_Q04	LOW	1-04-03	문화의 속성 사례	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2026_CSAT_Q05	NONE		2차 자료 분석 연구	연구방법	
+2026_CSAT_Q06	DIRECT	1-04-03	식문화에 대한 자문화 중심주의·문화 상대주의	문화 이해 태도	
+2026_CSAT_Q07	DIRECT	1-04-02	음악 문화의 전파와 문화 공존·융합	문화 변동 양상	
+2026_CSAT_Q08	NONE		집단·지위·사회화	지위 퍼즐	
+2026_CSAT_Q09	NONE		일탈 이론	일탈 이론	
+2026_CSAT_Q10	NONE		세대 간 계층 이동	사회 이동표	
+2026_CSAT_Q11	DIRECT	1-05-02	정보화에 따른 감시·정보 의존 문제	정보화 문제	
+2026_CSAT_Q12	NONE		진화론적 사회 변동관	변동 이론	
+2026_CSAT_Q13	NONE		관료제·탈관료제	조직 이론	
+2026_CSAT_Q14	NONE		자료 수집 방법	연구방법	
+2026_CSAT_Q15	DIRECT	2-02-03	사회 보험·공공 부조·사회 서비스 중복 수혜	복지 제도 자료 해석	
+2026_CSAT_Q16	DIRECT	2-02-03	최저 임금 인상과 절대적·상대적 빈곤	빈곤 개념	
+2026_CSAT_Q17	DIRECT	2-01-03	종교·인종 사회적 소수자와 차별 시정 정책	사회적 소수자	
+2026_CSAT_Q18	NONE		기능론	관점 이론	
+2026_CSAT_Q19	DIRECT	2-04-01,2-05-02	자원 채굴의 국가 간 불평등과 세계 시민 사회 운동	세계화 문제와 지속가능 사회	
+2026_CSAT_Q20	DIRECT	2-05-01	총부양비·노령화 지수와 인구 변화	인구 구조 자료 해석	
+2026_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2026_JUNE_Q02	NONE		사회 실재론	사회관	
+2026_JUNE_Q03	DIRECT	1-04-02	식민 지배에 따른 문화 동화·융합과 기술 전파	문화 변동 양상	
+2026_JUNE_Q04	LOW	1-05-02	인공 지능 기술을 보는 관점	과학기술 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2026_JUNE_Q05	LOW	1-04-03	스케이트보드 반문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2026_JUNE_Q06	DIRECT	1-04-03	자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2026_JUNE_Q07	LOW	2-02-03	직업별 임금 차이를 보는 기능론·갈등론	계층 이론	INDIRECT_CURRICULUM_LINK
+2026_JUNE_Q08	NONE		지위·집단·사회화	지위 퍼즐	
+2026_JUNE_Q09	LOW	1-05-02	고령층 디지털 기기 활용 교육 연구	정보화 소재, 정답은 조작적 정의	INDIRECT_CURRICULUM_LINK
+2026_JUNE_Q10	NONE		자료 수집 방법	연구방법	
+2026_JUNE_Q11	DIRECT	2-05-02,2-05-03	전쟁·자원 고갈·기후 위기와 미래 세대 배려	지속가능한 삶	
+2026_JUNE_Q12	NONE		시기별 계층 구성 비율	계층 구조 자료	
+2026_JUNE_Q13	ADAPTABLE	2-01-02	사회 운동의 조직화	시민 참여 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2026_JUNE_Q14	NONE		일탈 이론	일탈 이론	
+2026_JUNE_Q15	DIRECT	2-02-03	공공 부조·사회 보험 지역별 수급자	복지 제도 자료 해석	
+2026_JUNE_Q16	NONE		진화론·순환론	변동 이론	
+2026_JUNE_Q17	DIRECT	2-02-03	상대적 빈곤 개념	빈곤 개념	
+2026_JUNE_Q18	NONE		관료제·탈관료제	조직 이론	
+2026_JUNE_Q19	LOW	1-04-02,1-04-03	제주 해녀 문화의 속성	전통문화 소재, 정답은 문화 속성	INDIRECT_CURRICULUM_LINK
+2026_JUNE_Q20	DIRECT	2-05-01	인구 구조와 경제 성장·세대 갈등	인구 구조 자료 해석	
+2026_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2026_SEPTEMBER_Q02	NONE		기능론	관점 이론	
+2026_SEPTEMBER_Q03	NONE		관료제·탈관료제	조직 이론	
+2026_SEPTEMBER_Q04	LOW	1-04-03	문화의 속성 사례	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2026_SEPTEMBER_Q05	NONE		2차 자료 분석 연구	연구방법	
+2026_SEPTEMBER_Q06	LOW	1-05-02	대중문화의 자극성 문제	대중 매체 문화 소재	INDIRECT_CURRICULUM_LINK
+2026_SEPTEMBER_Q07	NONE		사회 명목론	사회관	
+2026_SEPTEMBER_Q08	LOW	1-04-04,2-01-03	이주민 사회 운동과 하위문화	다문화 소재, 정답은 하위문화 구분	INDIRECT_CURRICULUM_LINK
+2026_SEPTEMBER_Q09	NONE		일탈 이론	일탈 이론	
+2026_SEPTEMBER_Q10	NONE		세대 간 계층 이동	사회 이동표	
+2026_SEPTEMBER_Q11	NONE		순환론적 사회 변동관	변동 이론	
+2026_SEPTEMBER_Q12	DIRECT	1-04-02	향수 문화의 자극 전파·직접 전파와 문화 병존	문화 변동 양상	BOUNDARY_DIRECT_ADAPTABLE
+2026_SEPTEMBER_Q13	LOW	2-01-03	외국인 노동자 산업 재해와 노동 인권 단체	노동 인권 소재, 정답은 집단 분류	INDIRECT_CURRICULUM_LINK
+2026_SEPTEMBER_Q14	NONE		자료 수집 방법	연구방법	
+2026_SEPTEMBER_Q15	DIRECT	2-02-03	청년 대상 사회 보험·공공 부조·사회 서비스	복지 제도 자료 해석	
+2026_SEPTEMBER_Q16	DIRECT	2-01-03	외국인 노동자·장애인의 제도적 차별	사회적 소수자	
+2026_SEPTEMBER_Q17	DIRECT	1-04-03	시간 문화에 대한 자문화 중심주의·문화 사대주의·문화 상대주의	문화 이해 태도	
+2026_SEPTEMBER_Q18	DIRECT	2-04-01	세계화의 이중적 영향과 국가 내 불평등	세계화의 문제점	
+2026_SEPTEMBER_Q19	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤 연구	빈곤 개념	
+2026_SEPTEMBER_Q20	DIRECT	2-05-01	부양비·노령화 지수와 인구 정책 필요성	인구 구조 자료 해석	
+2027_JUNE_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2027_JUNE_Q02	NONE		질병을 보는 기능론	관점 이론	
+2027_JUNE_Q03	NONE		관료제·탈관료제	조직 이론	
+2027_JUNE_Q04	DIRECT	1-04-03	빨래 문화에 대한 문화 이해 관점과 자문화 중심주의	문화 이해 태도	
+2027_JUNE_Q05	NONE		일탈 이론	일탈 이론	
+2027_JUNE_Q06	NONE		집단·사회화 기관·지위	지위 퍼즐	
+2027_JUNE_Q07	LOW	1-05-02	AI 상담 시스템 도입 연구	과학기술 소재, 정답은 가설	INDIRECT_CURRICULUM_LINK
+2027_JUNE_Q08	NONE		자료 수집 방법	연구방법	
+2027_JUNE_Q09	DIRECT	2-02-03	절대적 빈곤과 상대적 빈곤	빈곤 개념	
+2027_JUNE_Q10	NONE		세대별 계층 구성	계층 구조 자료	
+2027_JUNE_Q11	DIRECT	1-05-02	개인 정보 유출	정보화 문제	
+2027_JUNE_Q12	ADAPTABLE	1-04-02	이주민을 통한 농법·음식의 전파와 자극 전파	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE
+2027_JUNE_Q13	NONE		순환론적 사회 변동관	변동 이론	
+2027_JUNE_Q14	LOW	1-04-03	커피 문화의 속성	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2027_JUNE_Q15	DIRECT	2-02-03	사회 보험·공공 부조 수혜자 비율	복지 제도 자료 해석	
+2027_JUNE_Q16	NONE		사회 실재론(분업)	사회관	
+2027_JUNE_Q17	LOW	1-04-03,1-04-04	망명 종교 공동체의 배타적 하위문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2027_JUNE_Q18	DIRECT	2-01-03	소수 민족의 사회적 배제와 토지 소유권	사회적 소수자	BOUNDARY_DIRECT_ADAPTABLE
+2027_JUNE_Q19	DIRECT	2-04-02,2-05-02	지구 온난화·난민 문제와 기후 위기 국제 협력	국제 협력과 기후 위기 대응	
+2027_JUNE_Q20	DIRECT	2-05-01	부양 인구·총부양비·노령화 지수 변화	인구 구조 자료 해석	
+2027_SEPTEMBER_Q01	NONE		자연 현상과 사회 현상	현상 특성	
+2027_SEPTEMBER_Q02	NONE		사회 명목론(역할 거리)	사회관	
+2027_SEPTEMBER_Q03	LOW	1-04-03	문화의 속성(학습성·공유성)	문화 속성 중심	INDIRECT_CURRICULUM_LINK
+2027_SEPTEMBER_Q04	NONE		자료 수집·측정	연구방법	
+2027_SEPTEMBER_Q05	NONE		자료 수집 방법	연구방법	
+2027_SEPTEMBER_Q06	NONE		일탈의 순기능(블루머)	일탈 이론	
+2027_SEPTEMBER_Q07	NONE		관료제·탈관료제	조직 이론	
+2027_SEPTEMBER_Q08	ADAPTABLE	1-05-02,2-04-01	AI 이면의 저임금 노동과 구조적 불평등	정보화·세계화 문제 문항으로 변형	BOUNDARY_DIRECT_ADAPTABLE
+2027_SEPTEMBER_Q09	NONE		지위·집단·사회화	지위 퍼즐	
+2027_SEPTEMBER_Q10	NONE		세대 간 계층 이동	사회 이동표	
+2027_SEPTEMBER_Q11	DIRECT	1-04-03	양치 문화에 대한 문화 사대주의·자문화 중심주의	문화 이해 태도	
+2027_SEPTEMBER_Q12	LOW	1-04-03	독서 인증·코스프레 하위문화	하위문화 분류	INDIRECT_CURRICULUM_LINK
+2027_SEPTEMBER_Q13	DIRECT	2-01-03	이민자 차별과 소수자 우대 정책	사회적 소수자	
+2027_SEPTEMBER_Q14	ADAPTABLE	1-04-02	음악 문화의 직접·간접 전파	문화 변동 요인 퍼즐 단순화	BOUNDARY_DIRECT_ADAPTABLE
+2027_SEPTEMBER_Q15	DIRECT	2-02-03	공공 부조·사회 보험 지역별 수혜자	복지 제도 자료 해석	
+2027_SEPTEMBER_Q16	DIRECT	2-02-03	불황기 절대적·상대적 빈곤선	빈곤 개념	
+2027_SEPTEMBER_Q17	LOW	1-04-04	이주 노동자를 보는 관점	이주민 소재, 정답은 관점 이론	INDIRECT_CURRICULUM_LINK
+2027_SEPTEMBER_Q18	LOW	2-04-01	세계 시장 확장과 진화론적 변동관	세계화 소재, 정답은 변동 이론	INDIRECT_CURRICULUM_LINK
+2027_SEPTEMBER_Q19	DIRECT	2-04-01	세계화와 주권 국가의 정책 자율성 제약	세계화의 문제점	
+2027_SEPTEMBER_Q20	DIRECT	2-05-01	부양비 변화와 인구 정책 필요성	인구 구조 자료 해석	

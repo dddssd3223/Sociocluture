@@ -1,0 +1,1334 @@
+{
+ "exam_id": "SOCIOCULTURE_2006_JUNE",
+ "subject": "SOCIOCULTURE",
+ "year": 2006,
+ "exam_type": "JUNE",
+ "exam_period": "6월 모의평가",
+ "source_file": "2006학년도_06월_사회문화_문제.pdf",
+ "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+ "pipeline_version": "p1-v1",
+ "page_count": 4,
+ "start_page": 1,
+ "end_page": 4,
+ "skipped_pages": [],
+ "anchor_method": "image_structural_ocr",
+ "inferred_numbers": [
+  7
+ ],
+ "shared_passage_groups": [
+  {
+   "page": 2,
+   "col": 1,
+   "y": 165.8,
+   "first": 13,
+   "last": 14,
+   "text": "[13~14] located by OCR word box of the printed group instruction on an image page; verified visually in the stitched crop"
+  },
+  {
+   "page": 3,
+   "col": 1,
+   "y": 161.4,
+   "first": 18,
+   "last": 19,
+   "text": "[18~19] located by OCR word box of the printed group instruction on an image page; verified visually in the stitched crop"
+  }
+ ],
+ "missing_numbers": [],
+ "header_metadata": {
+  "year": 2006,
+  "exam_type": "JUNE",
+  "subject_in_header": true,
+  "source": "pdf_text",
+  "raw": "로그인/회원가입 필요없는 학습자료 무료제공 사이트\n레전드스터디 닷컴 http://LegendStudy.com\n2006학년도대학수학능력시험6월모의평가문제지\n사회탐구영역(사회․문화)\n◦자신이선택한과목의문제지인지확인하시오.\n◦문제지에성명과수험번호를정확히써넣으시오.\n◦답안지에성명과수험번호를써넣고, 또수험번호와답을정확히\n표시하시오.\n◦과목을선택한순서대로풀고, 답은답"
+ },
+ "metadata_verified": true,
+ "layout": [
+  {
+   "page": 0,
+   "zoom": 2.7812128418549347,
+   "w_pt": 841.0,
+   "h_pt": 1190.0,
+   "divider": {
+    "x": 420.3202223172296,
+    "top": 268.2283026934587,
+    "bottom": 1088.3740914920907
+   },
+   "text_quality": 0.815
+  },
+  {
+   "page": 1,
+   "zoom": 2.7812128418549347,
+   "w_pt": 841.0,
+   "h_pt": 1190.0,
+   "divider": null,
+   "text_quality": 0.0
+  },
+  {
+   "page": 2,
+   "zoom": 2.7812128418549347,
+   "w_pt": 841.0,
+   "h_pt": 1190.0,
+   "divider": {
+    "x": 420.6797776827704,
+    "top": 154.24925181701582,
+    "bottom": 1073.6323215049167
+   },
+   "text_quality": 0.0
+  },
+  {
+   "page": 3,
+   "zoom": 2.7812128418549347,
+   "w_pt": 841.0,
+   "h_pt": 1190.0,
+   "divider": {
+    "x": 420.6797776827704,
+    "top": 154.24925181701582,
+    "bottom": 1073.6323215049167
+   },
+   "text_quality": 0.0
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q01",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 1,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      77.87,
+      429.67,
+      418.32,
+      710.48
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 431.83,
+    "inferred": false,
+    "ocr": "1."
+   },
+   "question_text": "1. 그림의 두 연구자 갑, So] 대한 설명으로 적절하지 않은 것은?\n\n지금 비가 많이 내리면\n비가 이렇게 많이 내리다니\n그 원인이 뭘까?\n\na SS\n\n(8 잡은 현상의 객관적 법칙 발견에 관심을 갖고 있다.\n 잡은 인간의 의지와 무관한 현상에 더 관심을 갖는다.\n@ 을은 반복과 재현이 어려운 현상을 연구하고자 한다.\nOSS 특수성보다는 보편성의 지배를 받는 현상을 연구하려고\n한다.\n을은 갑에 비해 가치 함축적인 현상을 연구하려고 한다.",
+   "shared_passage_text": "",
+   "stem": "1. 그림의 두 연구자 갑, So] 대한 설명으로 적절하지 않은 것은?",
+   "passage": "지금 비가 많이 내리면\n비가 이렇게 많이 내리다니\n그 원인이 뭘까?\n\na SS\n\n(8 잡은 현상의 객관적 법칙 발견에 관심을 갖고 있다.\n 잡은 인간의 의지와 무관한 현상에 더 관심을 갖는다.\n@ 을은 반복과 재현이 어려운 현상을 연구하고자 한다.\nOSS 특수성보다는 보편성의 지배를 받는 현상을 연구하려고\n한다.\n을은 갑에 비해 가치 함축적인 현상을 연구하려고 한다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q01.png",
+   "question_image_sha256": "f6059fd97a0ed967490fe211340cffea3195229a7a4d3252e1ca8a1dc26568c2",
+   "image_size_px": [
+    947,
+    781
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q02",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 2,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      77.87,
+      758.66,
+      418.32,
+      1062.85
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 761.18,
+    "inferred": false,
+    "ocr": "2."
+   },
+   "question_text": "2. 다음 글에서 밑줄 a 조직 유형의 SAS <보기>에서 모두 고른\n것은? [3점]\n\n지금까지의 정부 BAS 공급자 중심, 공식 조직 중심의\n운영으로 인해 국민의 정책 수요에 탄력적으로 대처하지 못\n하였다. 이를 극복하기 위하여 정부의 (>(>부는 자율성 및\n부서간 협업에 기반한 과제 탑승제를 시행하기로 하였다. 이\nBAS 기존의 실ㆍ국의 범위를 넘거나 행정 환경 변화에 따\n라 요구되는 특별한 과제를 수행하기 위해 단기간 임시로 구\n성되며 해당 과제의 목적을 달성하면 해체된다.\n\n<보기>〉>\nㄱ. 직책보다는 직무 수행 Seo] 중시된다.\nㄴ. 업무의 전문성과 개인의 창의성이 발휘된다.\nㄷ. 과제 달성을 위해 구성원의 권한이 증대된다.\n2, 조직의 효율성은 떨어지나 자율성은 높아진다.\n\nOa,    @®a, =    (3) ㄷ, 2\n@ 7, =, &   @®v,c,2",
+   "shared_passage_text": "",
+   "stem": "2. 다음 글에서 밑줄 a 조직 유형의 SAS <보기>에서 모두 고른 것은? [3점]",
+   "passage": "지금까지의 정부 BAS 공급자 중심, 공식 조직 중심의\n운영으로 인해 국민의 정책 수요에 탄력적으로 대처하지 못\n하였다. 이를 극복하기 위하여 정부의 (>(>부는 자율성 및\n부서간 협업에 기반한 과제 탑승제를 시행하기로 하였다. 이\nBAS 기존의 실ㆍ국의 범위를 넘거나 행정 환경 변화에 따\n라 요구되는 특별한 과제를 수행하기 위해 단기간 임시로 구\n성되며 해당 과제의 목적을 달성하면 해체된다.\n\n<보기>〉>\nㄱ. 직책보다는 직무 수행 Seo] 중시된다.\nㄴ. 업무의 전문성과 개인의 창의성이 발휘된다.\nㄷ. 과제 달성을 위해 구성원의 권한이 증대된다.\n2, 조직의 효율성은 떨어지나 자율성은 높아진다.\n\nOa,    @®a, =    (3) ㄷ, 2\n@ 7, =, &   @®v,c,2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q02.png",
+   "question_image_sha256": "c85599ca90cbec2a41e37ae293c084a3b1fa4d99135a5a74ef9a8cba220ab27f",
+   "image_size_px": [
+    947,
+    846
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q03",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 3,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.32,
+      261.04,
+      769.13,
+      612.32
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 263.19,
+    "inferred": false,
+    "ocr": "3."
+   },
+   "question_text": "3, 다음 ARS 기초로 하여 연구 주제를 설정한다고 할 때 가장\n적절한 것은?\n(OOS 농촌 지역의 남성과 AEA 외국인 여성 현황>\n출신국 | 중국 | 필리핀 ㅣ 일본 ㅣ 타이 [wet] 기타\n수 (명) | 592     585     511     61      52     152\n\n<농촌 관련 기사>\n\n아시아 여성들이 우리나라 농촌에 시집와서 낳은 코시안\n(Kosian) $0] 늘고 있다. 이들은 엄마로부터 한국어를 정확\n히 배우기 어렵기 때문에 얻어 미숙, 학습 부진 등의 문제를\n겪는 경우가 많다. 특히 중국이나 일본 출신에 비해 우리와\n신체적 ㆍ문화적 차이가 큰 필리핀, 베트남, 타이 등 동남아\n시아 출신 여성의 자녀들은 사회적 편견과 차별로 인해 정신\n적 ㆍ경제적 고통까지 겪고 있다. daa 대한민국 국민인 이\n들에 대한 관심과 지원이 절실히 필요하다.\n\n(0) 농촌 사회의 문화 개방 수준 조사\n\n(3) 농촌 지역 가족 형태의 변화 조사\n\n(3) 농촌 사회의 결혼 풍속도 변화 연구\n\n(4 농촌 지역 외국인 여성 수의 증감 분석\n\n(5) 농촌 지역 국제 결혼 가정의 생활 모습 이해",
+   "shared_passage_text": "",
+   "stem": "",
+   "passage": "3, 다음 ARS 기초로 하여 연구 주제를 설정한다고 할 때 가장\n적절한 것은?\n(OOS 농촌 지역의 남성과 AEA 외국인 여성 현황>\n출신국 | 중국 | 필리핀 ㅣ 일본 ㅣ 타이 [wet] 기타\n수 (명) | 592     585     511     61      52     152\n\n<농촌 관련 기사>\n\n아시아 여성들이 우리나라 농촌에 시집와서 낳은 코시안\n(Kosian) $0] 늘고 있다. 이들은 엄마로부터 한국어를 정확\n히 배우기 어렵기 때문에 얻어 미숙, 학습 부진 등의 문제를\n겪는 경우가 많다. 특히 중국이나 일본 출신에 비해 우리와\n신체적 ㆍ문화적 차이가 큰 필리핀, 베트남, 타이 등 동남아\n시아 출신 여성의 자녀들은 사회적 편견과 차별로 인해 정신\n적 ㆍ경제적 고통까지 겪고 있다. daa 대한민국 국민인 이\n들에 대한 관심과 지원이 절실히 필요하다.\n\n(0) 농촌 사회의 문화 개방 수준 조사\n\n(3) 농촌 지역 가족 형태의 변화 조사\n\n(3) 농촌 사회의 결혼 풍속도 변화 연구\n\n(4 농촌 지역 외국인 여성 수의 증감 분석\n\n(5) 농촌 지역 국제 결혼 가정의 생활 모습 이해",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q03.png",
+   "question_image_sha256": "c8fe345b0b51e2cc216df587e9277583c4cdd97787693fca808f5e61119299fd",
+   "image_size_px": [
+    965,
+    977
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q04",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 4,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.32,
+      691.78,
+      769.13,
+      1063.92
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 694.3,
+    "inferred": false,
+    "ocr": "4."
+   },
+   "question_text": "4, 다음 자료에서 8지역에 비해 AZ|] 갖는 특성을 FEA 것으\n로 옮지 않은 것은?\n\n<65세 이상 인구 비율>\n\n비율(%)\n16                            14.7\nA\n…\n12                    Jy\nMe\n6.8 ^       59      > 전국 평균\need— 50   -a B\nat 39      a [a igs\nanal4    43     ㆍ\nS----        3.6     ;\n26    3.0\n\n1        1\n\n1                                  1\n1980        1985        1990        1995        2000 연도\n\n<인구 이동 양상>\n\n(단위 : %)\n지역 내 이동          지역 간 이동\n4.2        4.2        3.9        8.2\n\n(인구 이동성이 더 강하게 나타난다.\n\n@ 1차적 관계가 더 많이 나타날 것이다.\n\n@ 2 - 34} 산업의 비중이 더 낮을 것이다.\n\n@ 이동에 의한 인구 감소 가능성이 더 높다.\n(5) 전반적으로 고령화 진행 속도가 더 빠르다.",
+   "shared_passage_text": "",
+   "stem": "",
+   "passage": "4, 다음 자료에서 8지역에 비해 AZ|] 갖는 특성을 FEA 것으\n로 옮지 않은 것은?\n\n<65세 이상 인구 비율>\n\n비율(%)\n16                            14.7\nA\n…\n12                    Jy\nMe\n6.8 ^       59      > 전국 평균\need— 50   -a B\nat 39      a [a igs\nanal4    43     ㆍ\nS----        3.6     ;\n26    3.0\n\n1        1\n\n1                                  1\n1980        1985        1990        1995        2000 연도\n\n<인구 이동 양상>\n\n(단위 : %)\n지역 내 이동          지역 간 이동\n4.2        4.2        3.9        8.2\n\n(인구 이동성이 더 강하게 나타난다.\n\n@ 1차적 관계가 더 많이 나타날 것이다.\n\n@ 2 - 34} 산업의 비중이 더 낮을 것이다.\n\n@ 이동에 의한 인구 감소 가능성이 더 높다.\n(5) 전반적으로 고령화 진행 속도가 더 빠르다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q04.png",
+   "question_image_sha256": "19a250ea05a5c3c8d1680da76037355f30ce6f9cbf5db2ed9ee2eb831da65d14",
+   "image_size_px": [
+    965,
+    1035
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q05",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 5,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      77.87,
+      159.28,
+      418.68,
+      546.16
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 161.44,
+    "inferred": false,
+    "ocr": "5."
+   },
+   "question_text": "6. 그림은 사회ㆍ문화 현상을 바라보는 특정한 관점을 비유적으로\n나타내고 있다. 이 관점과 일치하는 ASS <보기>에서 고른 것은?\n[3점]\n\n<보기>\n\nㄱ. 법은 지배 집단에 유리하게 제정된다.\n\nㄴ. 청소년 비행은 가정 교육의 부재에서 발생한다.\n\nㄷ. 정보 사회의 계급 구조는 지식과 같은 생산 수단의 소유\n여부에 의해 결정된다.\n\n=. 사회의 지배적 가치를 구성원들이 공유하는 것은 사회\n질서 유지에 필수적이다.\n\n00ㅋㄱㄴ @7,e (39트르 .00ㄴ2 Orxr,#",
+   "shared_passage_text": "",
+   "stem": "6. 그림은 사회ㆍ문화 현상을 바라보는 특정한 관점을 비유적으로 나타내고 있다. 이 관점과 일치하는 ASS <보기>에서 고른 것은? [3점]",
+   "passage": "<보기>\n\nㄱ. 법은 지배 집단에 유리하게 제정된다.\n\nㄴ. 청소년 비행은 가정 교육의 부재에서 발생한다.\n\nㄷ. 정보 사회의 계급 구조는 지식과 같은 생산 수단의 소유\n여부에 의해 결정된다.\n\n=. 사회의 지배적 가치를 구성원들이 공유하는 것은 사회\n질서 유지에 필수적이다.\n\n00ㅋㄱㄴ @7,e (39트르 .00ㄴ2 Orxr,#",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q05.png",
+   "question_image_sha256": "52e18d633e0e5afb65f1963cd660d7c021bd3b35826e8ca3ad4aeb3b0206613a",
+   "image_size_px": [
+    948,
+    1076
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q06",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 6,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      77.87,
+      728.1,
+      418.68,
+      1066.8
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 730.26,
+    "inferred": false,
+    "ocr": "6."
+   },
+   "question_text": "6 그림은 개인과 사희의 관계를 보여주는 대화이다. 선수의 관\n점에 해당하는 것을 <보기>에서 고른 것은?\n\n우리 팀의 성적이 좋지 않은\n것은 선수들 하나 하나의 기량이\n너무 떨어지기 때문이에요.\n못하는 선수들은 내보내고 대신\n실력있는 선수들을 데려왔으면\n좋겠어요. 그러면 좀 나아지지\n않을까요?\n\n선수 몇 명을 바꾼다고 해서\n우리 팀이 달라질 수 있는 것은\n아닙니다. 일단 침체되어 있는 팀\n분위기부터 되살린 후에 전통적으로\n우리 팀이 가지고 있는 강한 규율과\n문화를 꾸준히 지켜 나가야 해요.\n\nㄱ. 사회는 개인들 간의 계약의 산물이다.\n\nㄴ. 사회는 하나의 유기체로서 개인의 삶을 구속한다.\n\nㄷ. 사회는 개인의 행동 양식과는 다른 독자성을 갖는다.\n\n2. 사회 현상을 탐구하기 위해서 개인의 특성에 초점을 맞\n춘다.\n\nOu. (0-ㄱ,ㄷ 0ㄴㄷㄴ .01ㄴㅁㅁ Oe",
+   "shared_passage_text": "",
+   "stem": "",
+   "passage": "6 그림은 개인과 사희의 관계를 보여주는 대화이다. 선수의 관\n점에 해당하는 것을 <보기>에서 고른 것은?\n\n우리 팀의 성적이 좋지 않은\n것은 선수들 하나 하나의 기량이\n너무 떨어지기 때문이에요.\n못하는 선수들은 내보내고 대신\n실력있는 선수들을 데려왔으면\n좋겠어요. 그러면 좀 나아지지\n않을까요?\n\n선수 몇 명을 바꾼다고 해서\n우리 팀이 달라질 수 있는 것은\n아닙니다. 일단 침체되어 있는 팀\n분위기부터 되살린 후에 전통적으로\n우리 팀이 가지고 있는 강한 규율과\n문화를 꾸준히 지켜 나가야 해요.\n\nㄱ. 사회는 개인들 간의 계약의 산물이다.\n\nㄴ. 사회는 하나의 유기체로서 개인의 삶을 구속한다.\n\nㄷ. 사회는 개인의 행동 양식과는 다른 독자성을 갖는다.\n\n2. 사회 현상을 탐구하기 위해서 개인의 특성에 초점을 맞\n춘다.\n\nOu. (0-ㄱ,ㄷ 0ㄴㄷㄴ .01ㄴㅁㅁ Oe",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q06.png",
+   "question_image_sha256": "348c2510078ffca9bb5e4393c7f2961792057b1045673874874afda27099aaa8",
+   "image_size_px": [
+    948,
+    942
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q07",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 7,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      161.44,
+      769.13,
+      378.25
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 163.6,
+    "inferred": true,
+    "ocr": ""
+   },
+   "question_text": "7 다음 글에서 밑줄 al 대책으로 보기 어려운 것은?\n\n과거 정부는 국가 주도하에 특정 AGS 집중 육성하여 경\n제 성장의 토대를 마련하고자 하였다. 그러나 그 결과 환경\n이 파괴되었고, 지역 주민들의 참여가 배제되었다. 또한 지\n역 격차가 심해졌을 뿐만 아니라 수도권에 인구가 집중되는\n등 많은 문제점이 나타나게 되었다. 이러한 문제점을 해결하\n기 위하여 다양한 대책이 모색되고 있다.\n\n(1) 환경 친화적 산업 육성\n\n(9) 서울 주변의 위성 도시 건설\n\n@ 상향식 의사 결정 방식 도입\n\n(4) 낙후 지역에 대한 투자 확대\n\n® 지역 사회 주도의 다양한 개발 추구",
+   "shared_passage_text": "",
+   "stem": "",
+   "passage": "7 다음 글에서 밑줄 al 대책으로 보기 어려운 것은?\n\n과거 정부는 국가 주도하에 특정 AGS 집중 육성하여 경\n제 성장의 토대를 마련하고자 하였다. 그러나 그 결과 환경\n이 파괴되었고, 지역 주민들의 참여가 배제되었다. 또한 지\n역 격차가 심해졌을 뿐만 아니라 수도권에 인구가 집중되는\n등 많은 문제점이 나타나게 되었다. 이러한 문제점을 해결하\n기 위하여 다양한 대책이 모색되고 있다.\n\n(1) 환경 친화적 산업 육성\n\n(9) 서울 주변의 위성 도시 건설\n\n@ 상향식 의사 결정 방식 도입\n\n(4) 낙후 지역에 대한 투자 확대\n\n® 지역 사회 주도의 다양한 개발 추구",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q07.png",
+   "question_image_sha256": "83fee15c30fd08937e8d053ea243ac7ff3b6d2295a472b37c6c92aa714f72e8d",
+   "image_size_px": [
+    964,
+    603
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "QUESTION_NUMBER_REVIEW",
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q08",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 8,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      459.15,
+      769.13,
+      641.81
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 461.31,
+    "inferred": false,
+    "ocr": "8."
+   },
+   "question_text": "8. 다음 글에 나타난 사회 이동의 유형으로 보기 어려운 것은?\n\n갑은 19세기 말에 백정의 아들로 태어났다. 10세가 되던\n해에 신분제가 철폐되었으나, 갑은 그 이후에도 동네 아이들\n로부터 '백정의 아들 이라는 놀림을 받으며 자랐다. 어린 시\n절의 놀림에 아랑곳하지 않고 AAS 아버지로부터 배운 남다\n= 기술과 안목을 최대한 활용하고자 축산 관련 기업에 취직\n하였다. 갑은 승진을 계속하더니, 00세에 그 기업의 대표가\n되었다.\n\n0 수평 이동      (9) 수직 이동      (3) 구조적 이동\n(4) 개인적 이동    ® 세대 간 이동",
+   "shared_passage_text": "",
+   "stem": "8. 다음 글에 나타난 사회 이동의 유형으로 보기 어려운 것은?",
+   "passage": "갑은 19세기 말에 백정의 아들로 태어났다. 10세가 되던\n해에 신분제가 철폐되었으나, 갑은 그 이후에도 동네 아이들\n로부터 '백정의 아들 이라는 놀림을 받으며 자랐다. 어린 시\n절의 놀림에 아랑곳하지 않고 AAS 아버지로부터 배운 남다\n= 기술과 안목을 최대한 활용하고자 축산 관련 기업에 취직\n하였다. 갑은 승진을 계속하더니, 00세에 그 기업의 대표가\n되었다.\n\n0 수평 이동      (9) 수직 이동      (3) 구조적 이동\n(4) 개인적 이동    ® 세대 간 이동",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q08.png",
+   "question_image_sha256": "b7a16d944d4fb227c0fddb1b3b5b0bfc088968eddcba60e260cc7ac953cf0291",
+   "image_size_px": [
+    964,
+    508
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q09",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 9,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      723.43,
+      769.13,
+      1065.72
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 725.58,
+    "inferred": false,
+    "ocr": "9."
+   },
+   "question_text": "9. 다음 사례들로부터 공통적으로 도출할 수 있는 결론으로 가장\n적절한 것은? [3점]\n\n© AOO 목사는 10년째 공동 생활 가정 을 운영하고 있\n다. 이 기관에는 현재 5~0명의 10대 가출 청소년 및 부모\n가 없는 청소년 그리고 이들을 돌보는 교사가 한 가족을\n이루며 생활하고 있다. 김 목사는 혈연 중심적 가쪽관을\n극복하기 위하여 캠페인을 전개할 계획이다.\n\nㅇ 3대 독자인 이씨는 10년 전부터 부모님으로부터 결혼하라\n는 압력을 끊임없이 받아왔으나 AES 원치 않아 Sale\n로 살아왔다. 40세가 되던 해, 이씨는 아이를 키우고 싶어\n서 갓난 아이를 입양하였다. 아이와 함께 행복하게 살고\n있지만 한부모 아이라는 주위의 시선이 염려되기도 한다.\n\n(1) 가족 구성원 간 사고 방식을 공유하는 것이 중요하다.\n\n@ 미래의 가족에서는 사회화의 기능이 더욱 강조될 것이다.\n\n(3) 가족 형태를 정상과 비정상으로 구분하는 것은 사회적 편견\n이다.\n\n@ 가족의 정서적 유대 기능이 약화되어 가족 해체가 진행되고\n있다.\n\n© 다양한 가족 형태는 핵가족으로 인한 문제를 개선하기 위해\n등장했다.",
+   "shared_passage_text": "",
+   "stem": "9. 다음 사례들로부터 공통적으로 도출할 수 있는 결론으로 가장 적절한 것은? [3점]",
+   "passage": "© AOO 목사는 10년째 공동 생활 가정 을 운영하고 있\n다. 이 기관에는 현재 5~0명의 10대 가출 청소년 및 부모\n가 없는 청소년 그리고 이들을 돌보는 교사가 한 가족을\n이루며 생활하고 있다. 김 목사는 혈연 중심적 가쪽관을\n극복하기 위하여 캠페인을 전개할 계획이다.\n\nㅇ 3대 독자인 이씨는 10년 전부터 부모님으로부터 결혼하라\n는 압력을 끊임없이 받아왔으나 AES 원치 않아 Sale\n로 살아왔다. 40세가 되던 해, 이씨는 아이를 키우고 싶어\n서 갓난 아이를 입양하였다. 아이와 함께 행복하게 살고\n있지만 한부모 아이라는 주위의 시선이 염려되기도 한다.\n\n(1) 가족 구성원 간 사고 방식을 공유하는 것이 중요하다.\n\n@ 미래의 가족에서는 사회화의 기능이 더욱 강조될 것이다.\n\n(3) 가족 형태를 정상과 비정상으로 구분하는 것은 사회적 편견\n이다.\n\n@ 가족의 정서적 유대 기능이 약화되어 가족 해체가 진행되고\n있다.\n\n© 다양한 가족 형태는 핵가족으로 인한 문제를 개선하기 위해\n등장했다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q09.png",
+   "question_image_sha256": "ab1c0ec53c0d1ea6442e21136eb2ee31bc1de7fd71265a4963ad4c0fcdead811",
+   "image_size_px": [
+    964,
+    952
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q10",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 10,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      77.87,
+      160.36,
+      418.68,
+      447.29
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 162.52,
+    "inferred": false,
+    "ocr": "10."
+   },
+   "question_text": "10, 그래프는 우리나라의 연도별 평균 수명과 BASS 보여주고\n있다. 이와 같은 추세가 지속될 때 이를 통해 추론할 수 있는\n내용으로 적절한 것을 <보기>에서 고른 것은? [3점]\n\n평균 00      더남자 88여자     출산율 4\n수명                   (명)    3.09\n(세)                       3\n60\n45                           2            ‘\n30                                  16h~20 1.17\n\n15                        1\n\n0                               0\n1981 1991 2001 2003                  1981 1991 2001 2003\nas                              연도\n\n<보커>\n. 초혼 연령이 낮아질 것이다.\n. 취학 아동의 수가 감소할 것이다.\n\n. 연평균 인구 중가율이 높아질 것이다.\n. 노인 부양의 사회적 비용이 증가할 것이다.",
+   "shared_passage_text": "",
+   "stem": "",
+   "passage": "10, 그래프는 우리나라의 연도별 평균 수명과 BASS 보여주고\n있다. 이와 같은 추세가 지속될 때 이를 통해 추론할 수 있는\n내용으로 적절한 것을 <보기>에서 고른 것은? [3점]\n\n평균 00      더남자 88여자     출산율 4\n수명                   (명)    3.09\n(세)                       3\n60\n45                           2            ‘\n30                                  16h~20 1.17\n\n15                        1\n\n0                               0\n1981 1991 2001 2003                  1981 1991 2001 2003\nas                              연도\n\n<보커>\n. 초혼 연령이 낮아질 것이다.\n. 취학 아동의 수가 감소할 것이다.\n\n. 연평균 인구 중가율이 높아질 것이다.\n. 노인 부양의 사회적 비용이 증가할 것이다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q10.png",
+   "question_image_sha256": "2f6db75f384b9640ff2b714e50a7cfd98cedce590cc276f9eee00c437d9c98f4",
+   "image_size_px": [
+    948,
+    798
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q11",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 11,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      77.87,
+      490.79,
+      418.68,
+      743.2
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 492.95,
+    "inferred": false,
+    "ocr": "11."
+   },
+   "question_text": "LL. (가)와 (나)에 적합한 개념을 바르게 짝지은 것은?\n개념            (가)                     (나)\n\nㅇ 한국으로 유학 온 감은 ㅣ ㅇ 연기 지망생인 병은 좋\n요즘 한국어 공부에 열     아하는 배우들의 연기와\n중하고 있다.                  외모를 모방하고 있다.\n사례| O 축구 국가 대표 선수 | ㅇ4정당에 가입한 정은\n을은 네덜란드에 진출    모든 사회적 쟁점에 대\n하여 유럽식 축구 문화    하여 AAS] 노선에\n\n를 배우고 있다.             맞추어 판단하고 있다.\n(가)                (나)\n(00 재사회화                준거 집단\n(0) 재사회화             공동 사회\n(8) 준거 집단          공동 사회\n\n@ BINS 자아 정체성\n© 자아정체성 사회 변동",
+   "shared_passage_text": "",
+   "stem": "",
+   "passage": "LL. (가)와 (나)에 적합한 개념을 바르게 짝지은 것은?\n개념            (가)                     (나)\n\nㅇ 한국으로 유학 온 감은 ㅣ ㅇ 연기 지망생인 병은 좋\n요즘 한국어 공부에 열     아하는 배우들의 연기와\n중하고 있다.                  외모를 모방하고 있다.\n사례| O 축구 국가 대표 선수 | ㅇ4정당에 가입한 정은\n을은 네덜란드에 진출    모든 사회적 쟁점에 대\n하여 유럽식 축구 문화    하여 AAS] 노선에\n\n를 배우고 있다.             맞추어 판단하고 있다.\n(가)                (나)\n(00 재사회화                준거 집단\n(0) 재사회화             공동 사회\n(8) 준거 집단          공동 사회\n\n@ BINS 자아 정체성\n© 자아정체성 사회 변동",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q11.png",
+   "question_image_sha256": "6ce954af10b731e2bf0269cb51dd41fdf49e2fa9aef884580c68b52cfbb11c63",
+   "image_size_px": [
+    948,
+    702
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q12",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 12,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      77.87,
+      786.35,
+      418.68,
+      1063.92
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 788.5,
+    "inferred": false,
+    "ocr": "12."
+   },
+   "question_text": "12. 다음 ATS 수행하는 데 적합한 자료 수집 방법으로 보기\n어려운 것은? [3점]\n\n청소년을 올바르게 지도하기 위하여 기성 세대는 그들과\n함께 SH 소통할 수 있어야 한다. 그런데 청소년은 하\n나의 동질적인 집단이 아님을 고려해야 한다. (중략) 이러한\n문제 의식에서 출발하여, 본 연구는 청소년의 또래 집단 유\n형과 또래 집단별 문화적 특성을 살펴볼 것이다. 아울러 부\n모의 가치와 규범에 대한 또래 집단의 태도를 조사해 기성\n세대와 신세대 간의 의사 소통 가능성을 전망하고자 한다.\n\n(1 청소년의 다양한 놀이를 참여 관찰한다.\n\n(3) 문헌 연구를 통해 또래 Ade] 문화적 특성을 조사한다.\n\n(3) 부모와의 대화 내용에 대해 또래 집단별로 심층 면접을 한다.\n\n@ 또래 집단 내의 문화적 동질성을 알아보기 위해 청소년들에게\n설문 조사를 실시한다.\n\n(8 기성 세대를 통제 PALS, 또래 집단을 실험 집단으로 구분\n하여 기성 세대와의 의사 소통 방식을 알아본다.",
+   "shared_passage_text": "",
+   "stem": "12. 다음 ATS 수행하는 데 적합한 자료 수집 방법으로 보기 어려운 것은? [3점]",
+   "passage": "청소년을 올바르게 지도하기 위하여 기성 세대는 그들과\n함께 SH 소통할 수 있어야 한다. 그런데 청소년은 하\n나의 동질적인 집단이 아님을 고려해야 한다. (중략) 이러한\n문제 의식에서 출발하여, 본 연구는 청소년의 또래 집단 유\n형과 또래 집단별 문화적 특성을 살펴볼 것이다. 아울러 부\n모의 가치와 규범에 대한 또래 집단의 태도를 조사해 기성\n세대와 신세대 간의 의사 소통 가능성을 전망하고자 한다.\n\n(1 청소년의 다양한 놀이를 참여 관찰한다.\n\n(3) 문헌 연구를 통해 또래 Ade] 문화적 특성을 조사한다.\n\n(3) 부모와의 대화 내용에 대해 또래 집단별로 심층 면접을 한다.\n\n@ 또래 집단 내의 문화적 동질성을 알아보기 위해 청소년들에게\n설문 조사를 실시한다.\n\n(8 기성 세대를 통제 PALS, 또래 집단을 실험 집단으로 구분\n하여 기성 세대와의 의사 소통 방식을 알아본다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q12.png",
+   "question_image_sha256": "6ccab5e9b407df26fb6c095669a59465672dad4ada60876e68fb80be67461a78",
+   "image_size_px": [
+    948,
+    772
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q13",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 13,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": true,
+     "bbox_pt": [
+      422.68,
+      163.6,
+      769.13,
+      651.87
+     ]
+    },
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      673.45,
+      769.13,
+      837.4
+     ]
+    }
+   ],
+   "shared_passage_group": {
+    "range": "13-14",
+    "header_text": "[13~14] located by OCR word box of the printed group instruction on an image page; verified visually in the stitched crop",
+    "manual": true
+   },
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 675.96,
+    "inferred": false,
+    "ocr": "13."
+   },
+   "question_text": "\n13. (가)에 대한 SS AAS <보기>에서 모두 고른 것은? [3점]\n(8 7))\nㄱ. 비정규직의 노동 시간이 더 많이 단축되었다.\nㄴ. 20024 8월에는 전년 8월에 비해 임금 격차가 좁혀졌다.\nㄷ. 임금의 차이 정도가 노동 시간의 차이 정도보다 더 크다.\n2, 2003년 8월을 기준으로 노동 시간당 받는 임금은 비정규\n직이 더 많다.\n\n007,ㄴ     @71,z2     @ㄴㄷ\n007ㄷ, 2   ®v,c,z2",
+   "shared_passage_text": "[13~14] 다음은 공청회에서 제시된 정규직ㆍ비정규직 노동자의\n임금 및 노동 시간과 그에 대한 토론 내용의 일부이다. 자료를\n읽고 물음에 답하시오.\n\n(가) 고용 형태별 임금과 노동 시간 비교\n(단위 : 만원, 시간, %)\n월 평균 임금*      주당 평균 노동 시간\n구분 |2001년|3002년|2003년|2001년|2002년|2003년\n8월 ㅣ 8월 | 8월 ㅣ 8월          8월\n정규직(6) | 138.9 | 1473 | 1678 | 480 | 465 | 444\n비정규직(8) | 86.6 | 97.0 | 102.8 | 414] 40.6 | 403\n\n고 100   62.3 61.3 | 86.3\n\n(통계청, 2004)\n\n* 노동의 특성과 업종을 고려하지 않은 전체의 단순 평균임\n\n(나) 임금 격차에 관한 토론\n\n지금처럼 STA 더 많은 임금을\n받는 것은 능력도 있고 노력도 많이 했기 때문입니다\"\n비정규직도 더 열심히 노력하면 그만큼 받을\n수 있어요. 처음부터 AS 체계를 동일하게\n한다면 누가 열심히 일하려고 하겠습니까?\n\n비정규직이라는 이유 때문에 더 이상\n차별받지 않도록 하는 강력한 제도가 필요합니다.\n더 나아가 근본적으로 기득권층에게\n유리한 사회 구조를 바꾸어야 합니다.",
+   "stem": "13. (가)에 대한 SS AAS <보기>에서 모두 고른 것은? [3점]",
+   "passage": "(8 7))\nㄱ. 비정규직의 노동 시간이 더 많이 단축되었다.\nㄴ. 20024 8월에는 전년 8월에 비해 임금 격차가 좁혀졌다.\nㄷ. 임금의 차이 정도가 노동 시간의 차이 정도보다 더 크다.\n2, 2003년 8월을 기준으로 노동 시간당 받는 임금은 비정규\n직이 더 많다.\n\n007,ㄴ     @71,z2     @ㄴㄷ\n007ㄷ, 2   ®v,c,z2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q13.png",
+   "question_image_sha256": "0c11c7fdd7db50c690b806704873ca08e59f484e77a55da63745f61051690f64",
+   "image_size_px": [
+    964,
+    1828
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q14",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 14,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": true,
+     "bbox_pt": [
+      422.68,
+      163.6,
+      769.13,
+      651.87
+     ]
+    },
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      951.02,
+      769.13,
+      1065.36
+     ]
+    }
+   ],
+   "shared_passage_group": {
+    "range": "13-14",
+    "header_text": "[13~14] located by OCR word box of the printed group instruction on an image page; verified visually in the stitched crop",
+    "manual": true
+   },
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 953.18,
+    "inferred": false,
+    "ocr": "14."
+   },
+   "question_text": "\n14. (나)에 대한 설명으로 옮지 않은 것은?\nOAS 개인적 차원의 대책을 선호하고 있다.\nOAS 차등적인 보상의 순기능을 강조하고 있다.\nOSS 고용 형태에 따른 임금의 서열화에 반대하고 있다.\nO Se 현재의 분배 구조를 사회적 합의의 결과로 보고 있다.\nOAS Sol 비해 현행 입금 체계 변화에 대해 부정적 견해를\n취하고 있다.",
+   "shared_passage_text": "[13~14] 다음은 공청회에서 제시된 정규직ㆍ비정규직 노동자의\n임금 및 노동 시간과 그에 대한 토론 내용의 일부이다. 자료를\n읽고 물음에 답하시오.\n\n(가) 고용 형태별 임금과 노동 시간 비교\n(단위 : 만원, 시간, %)\n월 평균 임금*      주당 평균 노동 시간\nFt     2001년|2002년|2003년|2001년|2002년|2003년\n8월 ㅣ 8월 | 8월 | 8월 | 8월 | 8월\n정규직(&4) | 138.9 | 147.3 | 167.8 | 48.0 | 46.5 |  44.4\n비정규직(8) | 86.6 | 97.0 | 102.8 | 41.4 | 40.6 | 403\n\n고 100   62.3 61.3 | 86.3\n\n(통계청, 2004)\n\n* 노동의 특성과 USS 고려하지 않은 Aas] 단순 평균임\n\n(나) 임금 격차에 관한 토론\n\n지금처럼 STA 더 많은 임금을\n받는 것은 능력도 있고 노력도 많이 했기 때문입니다\"\n비정규직도 더 열심히 노력하면 그만큼 받을\n수 있어요. 처음부터 AS 체계를 동일하게\n한다면 누가 열심히 일하려고 하겠습니까?\n\n비정규직이라는 이유 때문에 더 이상\n차별받지 않도록 하는 강력한 제도가 필요합니다.\n더 나아가 근본적으로 기득권층에게\n유리한 사회 구조를 바꾸어야 합니다.",
+   "stem": "14. (나)에 대한 설명으로 옮지 않은 것은?",
+   "passage": "OAS 개인적 차원의 대책을 선호하고 있다.\nOAS 차등적인 보상의 순기능을 강조하고 있다.\nOSS 고용 형태에 따른 임금의 서열화에 반대하고 있다.\nO Se 현재의 분배 구조를 사회적 합의의 결과로 보고 있다.\nOAS Sol 비해 현행 입금 체계 변화에 대해 부정적 견해를\n취하고 있다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q14.png",
+   "question_image_sha256": "2bda22900747285288db08fc0e76e7048e7ee150808bfab049745deae62a820c",
+   "image_size_px": [
+    964,
+    1690
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q15",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 15,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      77.87,
+      163.96,
+      418.68,
+      416.72
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 166.11,
+    "inferred": false,
+    "ocr": "15."
+   },
+   "question_text": "15. 다음 글의 갑이 사용한 연구 방법에 대한 설명으로 타당한 것을\n<보기>에서 고른 것은? [3점]\n\n연구자 갑은 입양아의 쟁애사 연구를 위해 현재 독일에서\n생활하고 있는 6명의 한국인 입양아를 연구 대상으로 선정하\n\n였다. 이들에 대한 심층 면담은 장기간에 걸쳐 이루어졌다.\n그리고 면담 내용은 녹음 후 글로 옮겨졌으며, 이 자료를 분\n석하는 과정을 거쳐 연구를 완성하였다.\n\n<보기>\nㄱ. 연구자의 편견이 개입될 가능성이 있다.\nㄴ. 자료 BAS 통한 법칙 발견에 목적이 있다.\nㄷ. 연구 대상자의 입장을 이해하는 것이 중요하다.\n2. 연구자는 주로 연역적 연구 방식을 사용하고 있다.",
+   "shared_passage_text": "",
+   "stem": "15. 다음 글의 갑이 사용한 연구 방법에 대한 설명으로 타당한 것을 <보기>에서 고른 것은? [3점]",
+   "passage": "연구자 갑은 입양아의 쟁애사 연구를 위해 현재 독일에서\n생활하고 있는 6명의 한국인 입양아를 연구 대상으로 선정하\n\n였다. 이들에 대한 심층 면담은 장기간에 걸쳐 이루어졌다.\n그리고 면담 내용은 녹음 후 글로 옮겨졌으며, 이 자료를 분\n석하는 과정을 거쳐 연구를 완성하였다.\n\n<보기>\nㄱ. 연구자의 편견이 개입될 가능성이 있다.\nㄴ. 자료 BAS 통한 법칙 발견에 목적이 있다.\nㄷ. 연구 대상자의 입장을 이해하는 것이 중요하다.\n2. 연구자는 주로 연역적 연구 방식을 사용하고 있다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q15.png",
+   "question_image_sha256": "8c6afb235bd9a7ac17c05c01dfabdd30ef37b505a1b65e9dee77ef91c53fdde9",
+   "image_size_px": [
+    948,
+    703
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q16",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 16,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      77.87,
+      454.84,
+      418.68,
+      744.28
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 456.99,
+    "inferred": false,
+    "ocr": "16."
+   },
+   "question_text": "16. 다음 사례의 EAS 종합해 볼 매 밑줄에 들어갈 Ase 가장\n적절한 것은?\n\n© OO 복지 센터는 노숙자들의 생활 실태를 정확히 파악할\n목적으로 노숙자들의 개인 정보를 담은 데이터 베이스를\n구축하였다. 이 과정에서 본인 동의를 받는 절차는 없었다.\n\nㅇ 스스부 산하의 OO 고용 안정 센터에서는 고용 실태에\n관한 연구 보고서를 작성하였다. 이 과정에서 센터는 실\n적을 올릴 목적으로 구직자 수를 취업자 수로 바꾸어서\n취업률을 부풀렸다.\n\n연구자는 조사 및 연구 과정에서\n\n(4 인권 침해의 요소가 있는지 주의해야 한다.\n\n(3) 자료의 통계 처리에 정확성을 기해야 한다.\n\n(8) 연구의 목적과 내용을 충분히 공지해야 한다.\n\n(# 경험적인 근거를 가지고 ASS 수집해야 한다.\n© 윤리적으로 정당화될 수 있는 방법을 취해야 한다.",
+   "shared_passage_text": "",
+   "stem": "16. 다음 사례의 EAS 종합해 볼 매 밑줄에 들어갈 Ase 가장 적절한 것은?",
+   "passage": "© OO 복지 센터는 노숙자들의 생활 실태를 정확히 파악할\n목적으로 노숙자들의 개인 정보를 담은 데이터 베이스를\n구축하였다. 이 과정에서 본인 동의를 받는 절차는 없었다.\n\nㅇ 스스부 산하의 OO 고용 안정 센터에서는 고용 실태에\n관한 연구 보고서를 작성하였다. 이 과정에서 센터는 실\n적을 올릴 목적으로 구직자 수를 취업자 수로 바꾸어서\n취업률을 부풀렸다.\n\n연구자는 조사 및 연구 과정에서\n\n(4 인권 침해의 요소가 있는지 주의해야 한다.\n\n(3) 자료의 통계 처리에 정확성을 기해야 한다.\n\n(8) 연구의 목적과 내용을 충분히 공지해야 한다.\n\n(# 경험적인 근거를 가지고 ASS 수집해야 한다.\n© 윤리적으로 정당화될 수 있는 방법을 취해야 한다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q16.png",
+   "question_image_sha256": "9a9a0e6b0e4b05c50b5d871bc60e895fc4685cc1986d9aed660c27fc94fb809d",
+   "image_size_px": [
+    948,
+    805
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q17",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 17,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      77.87,
+      781.31,
+      418.68,
+      1063.92
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 783.47,
+    "inferred": false,
+    "ocr": "17."
+   },
+   "question_text": "17, 그림은 어느 고등 학교 홈페이지의 공지 사항이다. 밑줄 a\n부분에 대한 설명으로 적절하지 않은 것은? Ba]\n\nMO 0961 OY ww ox) Sew                                    :\n\nOO BAO aw eum 6190 600 버저 Oar AVA 비대 Cites OuDe\n\n#36 hp sreee_ 09 우씨                                                       apes\naa oe\n\nOOHIGH SCHOOL                        a\nwes    공지 사항                                |\n》 교사 임용 공고              |\n\nHemel\n\n® 은 성취 지위에 해당된다.\n\n@ OF 교사에게 요구되는 역할 기대를 반영한다.\n\n(8) OF 역할 기대와 역할 행동이 일치한 경우에 해당된다.\n\n(4) @f 학교에서 발생한 역할 갈등의 대표적인 사례이다.\n\n© Oo] 대한 고정 관념은 성불평등 현상의 원인이 될 수 있다.",
+   "shared_passage_text": "",
+   "stem": "",
+   "passage": "17, 그림은 어느 고등 학교 홈페이지의 공지 사항이다. 밑줄 a\n부분에 대한 설명으로 적절하지 않은 것은? Ba]\n\nMO 0961 OY ww ox) Sew                                    :\n\nOO BAO aw eum 6190 600 버저 Oar AVA 비대 Cites OuDe\n\n#36 hp sreee_ 09 우씨                                                       apes\naa oe\n\nOOHIGH SCHOOL                        a\nwes    공지 사항                                |\n》 교사 임용 공고              |\n\nHemel\n\n® 은 성취 지위에 해당된다.\n\n@ OF 교사에게 요구되는 역할 기대를 반영한다.\n\n(8) OF 역할 기대와 역할 행동이 일치한 경우에 해당된다.\n\n(4) @f 학교에서 발생한 역할 갈등의 대표적인 사례이다.\n\n© Oo] 대한 고정 관념은 성불평등 현상의 원인이 될 수 있다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q17.png",
+   "question_image_sha256": "60ae9dc1d9844264025d99e66038ff7f2e21d01e8c3f794881638d501a6e3190",
+   "image_size_px": [
+    948,
+    786
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q18",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 18,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": true,
+     "bbox_pt": [
+      422.68,
+      159.28,
+      769.13,
+      302.03
+     ]
+    },
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      319.29,
+      769.13,
+      417.8
+     ]
+    }
+   ],
+   "shared_passage_group": {
+    "range": "18-19",
+    "header_text": "[18~19] located by OCR word box of the printed group instruction on an image page; verified visually in the stitched crop",
+    "manual": true
+   },
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 321.8,
+    "inferred": false,
+    "ocr": "18."
+   },
+   "question_text": "\n18, 위 그림에 대한 설명으로 타당하지 않은 것은? [3점]\n0 과 OF 모두 이익 사회에 해당한다.\n(3) 가수 갑에게 은 내집단, @9은 외집단이 된다.\n(8) OF 목표와 BA} FA 사회 조직에 해당한다.\n@ 은 1차 집단과 2차 집단의 성격을 함께 가지고 있다.\n© @S 에 비해 구성원 간에 지속적인 상호 작용이 이루어진다.",
+   "shared_passage_text": "[18~19] 다음 그림을 보고 물음에 답하시오.",
+   "stem": "",
+   "passage": "18, 위 그림에 대한 설명으로 타당하지 않은 것은? [3점]\n0 과 OF 모두 이익 사회에 해당한다.\n(3) 가수 갑에게 은 내집단, @9은 외집단이 된다.\n(8) OF 목표와 BA} FA 사회 조직에 해당한다.\n@ 은 1차 집단과 2차 집단의 성격을 함께 가지고 있다.\n© @S 에 비해 구성원 간에 지속적인 상호 작용이 이루어진다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q18.png",
+   "question_image_sha256": "565368d33f524f53012dc50373070c776cc4228cb2650eee2a2923d84710c927",
+   "image_size_px": [
+    964,
+    685
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q19",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 19,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": true,
+     "bbox_pt": [
+      422.68,
+      159.28,
+      769.13,
+      302.03
+     ]
+    },
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      447.65,
+      769.13,
+      594.35
+     ]
+    }
+   ],
+   "shared_passage_group": {
+    "range": "18-19",
+    "header_text": "[18~19] located by OCR word box of the printed group instruction on an image page; verified visually in the stitched crop",
+    "manual": true
+   },
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 450.16,
+    "inferred": false,
+    "ocr": "19."
+   },
+   "question_text": "\n19. 위 그림에서 ©3} @의 SEAS <보기>에서 모두 고른 것은?\n\n(8 7])\nㄱ. 비공식적 조직에 해당한다.\n\nㄴ. 사회적 공익을 우선으로 한다.\nㄷ. 가입과 탈퇴가 비교적 자유롭다.\n\n=, 사회가 다원화되면서 활성화되고 있다.\n\n007.     @%, &     (0) ㄷ, 2\n@4,c,z2   @v,c,2",
+   "shared_passage_text": "[18~19] 다음 그림을 보고 물음에 답하시오.",
+   "stem": "19. 위 그림에서 ©3} @의 SEAS <보기>에서 모두 고른 것은?",
+   "passage": "(8 7])\nㄱ. 비공식적 조직에 해당한다.\n\nㄴ. 사회적 공익을 우선으로 한다.\nㄷ. 가입과 탈퇴가 비교적 자유롭다.\n\n=, 사회가 다원화되면서 활성화되고 있다.\n\n007.     @%, &     (0) ㄷ, 2\n@4,c,z2   @v,c,2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q19.png",
+   "question_image_sha256": "cb77f13f803dd70962f4580738911a1f2c1d97b03a4fe95adbbde4e71c28a402",
+   "image_size_px": [
+    964,
+    819
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2006_JUNE_Q20",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2006_JUNE",
+   "year": 2006,
+   "exam_type": "JUNE",
+   "exam_period": "6월 모의평가",
+   "question_number": 20,
+   "source_file": "2006학년도_06월_사회문화_문제.pdf",
+   "source_sha256": "be3f4996de0b7dbf5897501b04266f5f9c6882017a29937fd19fe1d6bef04d3c",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.68,
+      623.11,
+      769.13,
+      1069.32
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 625.63,
+    "inferred": false,
+    "ocr": "20."
+   },
+   "question_text": "20. 다음 설문지에 대한 설명으로 적절한 것을 <보기>에서 모두\n것은? [3점]\n\n(가)                                   (나)\n\n어린이의 생명은 무엇보다도 중요       어떤 보도에 의하면, 최근 북한에서\n\n합니다. 북한에서 영양 실조로 고        는 국제 사회가 지원한 식랑을 주로\n\n통받고 있는 어린이들을 위해 우      군사적 목적으로 이용하고 있다고\n\n리나라가 북한에 식량을 지원하는       합니다. 이러한 상황에서도 우리나\n\n것에 대해 어떻게 생각하십니까?         라가 북한에 식량을 지원하는 것에\n대해 어떻게 생각하십니까?\n\n0) _ 매우 반대 =@_ 약간 반대\n@_ 그저 그렇다 @_ 약간 찬성\nO_ 매무 찬성\n\nO_ 매우 반대 @_ 약간 반대\nO_ 약간 찬성 @_ 매우 찬성\n\n<보기>\nㄱ. (가)는 가치 중립적인 문장들로 구성되어 있다\n\nㄴ. (가)는 객관적인 사실이 왜곡된 부분을 포함하고 있다.\nㄷ. (나)는 식량 지원에 대해 반대하는 응답을 유도하는 데\n\n사용될 수 있다.\n2, (나)는 (가)에 비해 찬성/반대에 관한 AAS 더 분명하게\n요구하고 있다.\nOc         @r,c         @®c,z2\n\n@4,v.,2   @®1,c,2\n\n* 확인 사항\n\nㅇ 답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n하시오.",
+   "shared_passage_text": "",
+   "stem": "20. 다음 설문지에 대한 설명으로 적절한 것을 <보기>에서 모두 것은? [3점]",
+   "passage": "(가)                                   (나)\n\n어린이의 생명은 무엇보다도 중요       어떤 보도에 의하면, 최근 북한에서\n\n합니다. 북한에서 영양 실조로 고        는 국제 사회가 지원한 식랑을 주로\n\n통받고 있는 어린이들을 위해 우      군사적 목적으로 이용하고 있다고\n\n리나라가 북한에 식량을 지원하는       합니다. 이러한 상황에서도 우리나\n\n것에 대해 어떻게 생각하십니까?         라가 북한에 식량을 지원하는 것에\n대해 어떻게 생각하십니까?\n\n0) _ 매우 반대 =@_ 약간 반대\n@_ 그저 그렇다 @_ 약간 찬성\nO_ 매무 찬성\n\nO_ 매우 반대 @_ 약간 반대\nO_ 약간 찬성 @_ 매우 찬성\n\n<보기>\nㄱ. (가)는 가치 중립적인 문장들로 구성되어 있다\n\nㄴ. (가)는 객관적인 사실이 왜곡된 부분을 포함하고 있다.\nㄷ. (나)는 식량 지원에 대해 반대하는 응답을 유도하는 데\n\n사용될 수 있다.\n2, (나)는 (가)에 비해 찬성/반대에 관한 AAS 더 분명하게\n요구하고 있다.\nOc         @r,c         @®c,z2\n\n@4,v.,2   @®1,c,2\n\n* 확인 사항\n\nㅇ 답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n하시오.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q20.png",
+   "question_image_sha256": "eaea5515de65b2f2702cf1d05c485011f610e4f7d0eb20cca1cc1130f423c2c6",
+   "image_size_px": [
+    964,
+    1241
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  }
+ ]
+}
