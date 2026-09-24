@@ -1,0 +1,1748 @@
+{
+ "exam_id": "SOCIOCULTURE_2019_CSAT",
+ "subject": "SOCIOCULTURE",
+ "year": 2019,
+ "exam_type": "CSAT",
+ "exam_period": "대학수학능력시험",
+ "source_file": "2019학년도_수능_사회문화_문제.pdf",
+ "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+ "pipeline_version": "p1-v1",
+ "page_count": 5,
+ "start_page": 2,
+ "end_page": 5,
+ "skipped_pages": [
+  1
+ ],
+ "anchor_method": "pdf_text",
+ "inferred_numbers": [],
+ "shared_passage_groups": [],
+ "missing_numbers": [],
+ "header_metadata": {
+  "year": 2019,
+  "exam_type": "CSAT",
+  "subject_in_header": false,
+  "source": "pdf_text",
+  "raw": "2019학년도 대학수학능력시험 문제 및 정답\n17\n36\n1. 밑줄 친 ㉠～㉣과 같은 현상의 일반적인 특징에 대한 설명으로 \n옳은 것은?\n①㉠과같은현상은㉡과 같은현상과달리가치 함축적이다.\n②㉡과같은현상은㉣과 같은현상에비해보편성이 강하다.\n③㉢과같은현상은㉡과 같은현상과달리존재 법칙을 따른다.\n④㉣과같은현상은㉠과 같은현상과달리경험적 자료를 통해 \n연구할 수 있다"
+ },
+ "metadata_verified": true,
+ "layout": [
+  {
+   "page": 0,
+   "zoom": 3.9296396544574472,
+   "w_pt": 595.219970703125,
+   "h_pt": 842.0,
+   "divider": null,
+   "text_quality": 0.0
+  },
+  {
+   "page": 1,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 245.8683197947841,
+    "bottom": 1068.4292432663533
+   },
+   "text_quality": 0.791
+  },
+  {
+   "page": 2,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.761
+  },
+  {
+   "page": 3,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.842
+  },
+  {
+   "page": 4,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.806
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q01",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 1,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      256.31,
+      418.46,
+      600.45
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 257.89,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "1. 밑줄 친 ㉠～㉣과 같은 현상의 일반적인 특징에 대한 설명으로\n 옳은 것은?\n\n\n\n\n\n ①㉠과같은현상은㉡과 같은현상과달리가치 함축적이다.\n ②㉡과같은현상은㉣과 같은현상에비해보편성이 강하다.\n ③㉢과같은현상은㉡과 같은현상과달리존재 법칙을 따른다.\n ④㉣과같은현상은㉠과 같은현상과달리경험적 자료를 통해\n   연구할 수 있다.\n ⑤㉠, ㉡, ㉣과 같은 현상은 ㉢과 같은 현상과 달리 개연성의\n   원리에 의해 설명된다.",
+   "shared_passage_text": "",
+   "stem": "1. 밑줄 친 ㉠～㉣과 같은 현상의 일반적인 특징에 대한 설명으로 옳은 것은?",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠과같은현상은㉡과 같은현상과달리가치 함축적이다."
+    },
+    {
+     "number": 2,
+     "text": "㉡과같은현상은㉣과 같은현상에비해보편성이 강하다."
+    },
+    {
+     "number": 3,
+     "text": "㉢과같은현상은㉡과 같은현상과달리존재 법칙을 따른다."
+    },
+    {
+     "number": 4,
+     "text": "㉣과같은현상은㉠과 같은현상과달리경험적 자료를 통해 연구할 수 있다."
+    },
+    {
+     "number": 5,
+     "text": "㉠, ㉡, ㉣과 같은 현상은 ㉢과 같은 현상과 달리 개연성의 원리에 의해 설명된다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "극복을 기대할 수 있는    chain) 구조의 변화를 발견하였습니다. 이 PAE\n연구가 진행되고 있다고    우리 몸의 © 면역 기능이 적정 수준으로 유지될 수\n합니다. 최근 주목할 만한    있도록 도와주는 역할을 합니다. 이러한 2 면역\n연구로 어떤 것이 있습니까?       조절 능력이 질병을 예방하여 장수를 가능하게 해줍니다.\n\n(7 노화 방지나 한계 수:  장수 노인에게서 공통적으로 나타나는 O 당사슬(3460\n\n\\",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q01.png",
+   "question_image_sha256": "2bde7196502806d52d0a8c117dd7743e6e8e355efc5ba2ab515aa8e2694b719c",
+   "image_size_px": [
+    957,
+    956
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q02",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 2,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      624.57,
+      418.46,
+      834.08
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 626.28,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "2. 대중 매체 A～D의 일반적인 특징에 대한 설명으로 옳은 것은?\n  (단, A～D는 각각 종이 신문, 라디오, TV, 인터넷 중 하나이다.)\n\n\n  ◦청각 정보에 의존하는 정도는 A가 가장 높다.\n\n  ◦정보 전달의 시․공간적 제약은 B가 가장 크다.\n\n  ◦정보의 복제 및 재가공 용이성은 C가 가장 높다.\n\n   ◦A, B는 C, D와 달리    (가)   이/가 가능하다.\n\n\n ①A는B에비해깊이있는 정보 전달이 용이하다.\n ②B는C와달리정보의확산 경로가 다양하다.\n ③C는D에비해정보생산자의 전문성이 높다.\n ④D는B와달리정보의실시간 전달이 가능하다.\n ⑤(가)에는‘복합감각정보의 전달’이 적절하다.",
+   "shared_passage_text": "",
+   "stem": "2. 대중 매체 A～D의 일반적인 특징에 대한 설명으로 옳은 것은? (단, A～D는 각각 종이 신문, 라디오, TV, 인터넷 중 하나이다.)",
+   "passage": "◦청각 정보에 의존하는 정도는 A가 가장 높다.\n\n  ◦정보 전달의 시․공간적 제약은 B가 가장 크다.\n\n  ◦정보의 복제 및 재가공 용이성은 C가 가장 높다.\n\n   ◦A, B는 C, D와 달리    (가)   이/가 가능하다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는B에비해깊이있는 정보 전달이 용이하다."
+    },
+    {
+     "number": 2,
+     "text": "B는C와달리정보의확산 경로가 다양하다."
+    },
+    {
+     "number": 3,
+     "text": "C는D에비해정보생산자의 전문성이 높다."
+    },
+    {
+     "number": 4,
+     "text": "D는B와달리정보의실시간 전달이 가능하다."
+    },
+    {
+     "number": 5,
+     "text": "(가)에는‘복합감각정보의 전달’이 적절하다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q02.png",
+   "question_image_sha256": "db2184446c4de44363c916d5606ec98e872061fd0513e7889ea0316e57637b55",
+   "image_size_px": [
+    957,
+    582
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q03",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 3,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      858.56,
+      418.46,
+      1067.35
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 860.22,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "3. 표는 근대화를 바라보는 관점 A, B를 구분한 것이다. 이에 대한\n 설명으로 옳은 것은?\n\n       질문 서구 중심적이라는 비판을 근대화를 위한 내부의 자생력\n  관점       받는가?         강화를 강조하는가?\n\n      A        아니요          예\n\n      B         예           아니요\n\n ①A는사회 변동을 진화론적 관점에서 설명한다.\n ②B는전통과 근대의 가치가 양립하기 어렵다고 본다.\n ③A는B와달리신흥공업국의 경제 발전을 설명하기 용이하다.\n ④B는A와달리사회발전을 국가 간 지배와 피지배 관계 속에서\n   조명한다.\n ⑤A, B 모두 제3세계를 미발전 상태가 아니라 저발전 상태로 본다.",
+   "shared_passage_text": "",
+   "stem": "3. 표는 근대화를 바라보는 관점 A, B를 구분한 것이다. 이에 대한 설명으로 옳은 것은?",
+   "passage": "질문 서구 중심적이라는 비판을 근대화를 위한 내부의 자생력\n  관점       받는가?         강화를 강조하는가?\n\n      A        아니요          예\n\n      B         예           아니요",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는사회 변동을 진화론적 관점에서 설명한다."
+    },
+    {
+     "number": 2,
+     "text": "B는전통과 근대의 가치가 양립하기 어렵다고 본다."
+    },
+    {
+     "number": 3,
+     "text": "A는B와달리신흥공업국의 경제 발전을 설명하기 용이하다."
+    },
+    {
+     "number": 4,
+     "text": "B는A와달리사회발전을 국가 간 지배와 피지배 관계 속에서 조명한다."
+    },
+    {
+     "number": 5,
+     "text": "A, B 모두 제3세계를 미발전 상태가 아니라 저발전 상태로 본다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 1,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q03.png",
+   "question_image_sha256": "1971e038f9bc1d2bf1ec05bdc3ced1d3d82a55dc090bb918064cb9a6f490b38f",
+   "image_size_px": [
+    957,
+    580
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q04",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 4,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      256.31,
+      774.1,
+      518.38
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 257.89,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "4. 다음 자료에 대한 설명으로 옳은 것은? (단, A～C는 각각 기능론,\n 갈등론, 상징적 상호 작용론 중 하나이다.) [3점]\n\n\n  ◦‘개인의 행동은 특정 집단의 가치가 반영된 사회 규범에 의해\n   강제되는 것이라고 보는가?’라는 질문으로 A와 B를 구분할\n   수 있다.\n  ◦‘개인의 행동이 개인 외부에서 독립적으로 작동하는 강제력에\n   의해 규제된다고 보는가?’라는 질문으로는 A와 C를 구분할\n   수 없다.\n\n\n ①A는사회의각 부분이 상호 의존적인 관계라고 본다.\n ②B는사회의안정보다 변동을 중시한다.\n ③C는사회가유기체와 유사한 특성을 지니고 있다고 본다.\n ④A, B는 C와달리사회 제도의 영향력을 중시한다.\n ⑤A는 B, C와달리개인의 행동은 상황에 대한 주관적 해석에\n   기초하여 이루어진다고 본다.",
+   "shared_passage_text": "",
+   "stem": "4. 다음 자료에 대한 설명으로 옳은 것은? (단, A～C는 각각 기능론, 갈등론, 상징적 상호 작용론 중 하나이다.) [3점]",
+   "passage": "◦‘개인의 행동은 특정 집단의 가치가 반영된 사회 규범에 의해\n   강제되는 것이라고 보는가?’라는 질문으로 A와 B를 구분할\n   수 있다.\n  ◦‘개인의 행동이 개인 외부에서 독립적으로 작동하는 강제력에\n   의해 규제된다고 보는가?’라는 질문으로는 A와 C를 구분할\n   수 없다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는사회의각 부분이 상호 의존적인 관계라고 본다."
+    },
+    {
+     "number": 2,
+     "text": "B는사회의안정보다 변동을 중시한다."
+    },
+    {
+     "number": 3,
+     "text": "C는사회가유기체와 유사한 특성을 지니고 있다고 본다."
+    },
+    {
+     "number": 4,
+     "text": "A, B는 C와달리사회 제도의 영향력을 중시한다."
+    },
+    {
+     "number": 5,
+     "text": "A는 B, C와달리개인의 행동은 상황에 대한 주관적 해석에 기초하여 이루어진다고 본다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q04.png",
+   "question_image_sha256": "95668804a9b444276bfe63604bed3e08bc598d060068dcf195a9d88292243b6a",
+   "image_size_px": [
+    977,
+    728
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q05",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 5,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      566.97,
+      774.1,
+      1067.35
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 568.68,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "5. 다음 연구에 대한 옳은 설명을 <보기>에서 고른 것은? [3점]\n\n\n  ◦연구주제: 중ㆍ고등학생의 게임 몰입이 주변 사람과의 대화에 미치는 영향\n\n  ◦연구가설\n    <가설 1> 게임을 적게 할수록 부모와 대화는 많을 것이다.\n    <가설 2>                  (가)\n\n  ◦자료수집\n      - 조사방법: 중․고등학생 1,000명을 무작위 선정하여 설문 조사\n      - 조사내용: ㉠게임 시간 정도, ㉡부모와 대화 정도, 친구와 대화 정도\n\n  ◦자료분석결과\n      - 자료 분석 결과는 아래 표와 같고, 부모와 대화 정도 및 친구와 대화\n    정도는 게임 시간 정도에 따라 통계적으로 유의미한 차이가 있는\n    것으로 나타났다.\n                                              (단위: 명)\n\n              게임 시간 정도                       많음   중간   적음    대화 정도\n     부모와 대화  친구와 대화 많음      78       100      120\n      많음    친구와 대화 적음      52       70       80\n     부모와 대화  친구와 대화 많음     172      100    A\n      적음    친구와 대화 적음      48     B     C\n\n        * 무응답이나 복수 응답 없음.\n       ** A + B = C = 3A\n\n\n                <보 기>\n\n   ㄱ. 게임을 많이 한 집단은 실험 집단, 게임을 적게 한 집단은\n    통제 집단이다.\n   ㄴ. 분석 결과에 따르면 ㉠과 ㉡은 양(＋)의 관계이다.\n   ㄷ. 부모와 대화 정도가 적다는 응답자가 친구와 대화 정도가\n    적다는 응답자보다 많다.\n   ㄹ. (가)가 ‘게임을 적게 할수록 친구와 대화는 많을 것이다.’\n     라면, <가설 2>는 기각된다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "5. 다음 연구에 대한 옳은 설명을 <보기>에서 고른 것은? [3점]",
+   "passage": "◦연구주제: 중ㆍ고등학생의 게임 몰입이 주변 사람과의 대화에 미치는 영향\n\n  ◦연구가설\n    <가설 1> 게임을 적게 할수록 부모와 대화는 많을 것이다.\n    <가설 2>                  (가)\n\n  ◦자료수집\n      - 조사방법: 중․고등학생 1,000명을 무작위 선정하여 설문 조사\n      - 조사내용: ㉠게임 시간 정도, ㉡부모와 대화 정도, 친구와 대화 정도\n\n  ◦자료분석결과\n      - 자료 분석 결과는 아래 표와 같고, 부모와 대화 정도 및 친구와 대화\n    정도는 게임 시간 정도에 따라 통계적으로 유의미한 차이가 있는\n    것으로 나타났다.\n                                              (단위: 명)\n\n              게임 시간 정도                       많음   중간   적음    대화 정도\n     부모와 대화  친구와 대화 많음      78       100      120\n      많음    친구와 대화 적음      52       70       80\n     부모와 대화  친구와 대화 많음     172      100    A\n      적음    친구와 대화 적음      48     B     C\n\n        * 무응답이나 복수 응답 없음.\n       ** A + B = C = 3A\n\n\n                <보 기>\n\n   ㄱ. 게임을 많이 한 집단은 실험 집단, 게임을 적게 한 집단은\n    통제 집단이다.\n   ㄴ. 분석 결과에 따르면 ㉠과 ㉡은 양(＋)의 관계이다.\n   ㄷ. 부모와 대화 정도가 적다는 응답자가 친구와 대화 정도가\n    적다는 응답자보다 많다.\n   ㄹ. (가)가 ‘게임을 적게 할수록 친구와 대화는 많을 것이다.’\n     라면, <가설 2>는 기각된다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 1,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q05.png",
+   "question_image_sha256": "b441e8426c70830e56a154173bafaa9bb7d99751722dcbf79a7d92057527739c",
+   "image_size_px": [
+    977,
+    1390
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q06",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 6,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      158.39,
+      418.46,
+      420.82
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 160.14,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "6. 밑줄 친 ㉠～㉦에 대한 설명으로 옳은 것은?\n\n\n   갑은 어려서부터 ㉠또래 집단과 어울리기보다는 혼자서\n  ㉡사색하기를 즐겼다. 청소년기에 접어든 갑은 어느 학자와의\n  만남을 계기로 학문에 뜻을 품고 철학, 사회, 역사 등 ㉢여러\n  분야의 서적을 섭렵했다. 그 후 철학자가 된 갑은 현실 사회를\n  비판하는 주장을 펼쳐 다른 입장을 가진 ㉣철학자들과 갈등을\n  겪었다. 그러나 갑은 왕성한 ㉤저술과 강연 활동으로 ㉥청년\n  세대의 지지와 존경을 받으면서 ㉦학문 발전을 위해 크게 힘썼다.\n\n\n ①㉠은비공식적 사회화 기관이자 2차적 사회화 기관이다.\n ②㉡은갑의예기 사회화에 해당한다.\n ③㉢은갑의재사회화에 해당한다.\n ④㉣은하나의 지위에 둘 이상의 역할이 동시에 기대될 때 나타\n   나는 상황이다.\n ⑤㉤에대한 보상에 ㉥은 해당하나 ㉦은 해당하지 않는다.",
+   "shared_passage_text": "",
+   "stem": "6. 밑줄 친 ㉠～㉦에 대한 설명으로 옳은 것은?",
+   "passage": "갑은 어려서부터 ㉠또래 집단과 어울리기보다는 혼자서\n  ㉡사색하기를 즐겼다. 청소년기에 접어든 갑은 어느 학자와의\n  만남을 계기로 학문에 뜻을 품고 철학, 사회, 역사 등 ㉢여러\n  분야의 서적을 섭렵했다. 그 후 철학자가 된 갑은 현실 사회를\n  비판하는 주장을 펼쳐 다른 입장을 가진 ㉣철학자들과 갈등을\n  겪었다. 그러나 갑은 왕성한 ㉤저술과 강연 활동으로 ㉥청년\n  세대의 지지와 존경을 받으면서 ㉦학문 발전을 위해 크게 힘썼다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠은비공식적 사회화 기관이자 2차적 사회화 기관이다."
+    },
+    {
+     "number": 2,
+     "text": "㉡은갑의예기 사회화에 해당한다."
+    },
+    {
+     "number": 3,
+     "text": "㉢은갑의재사회화에 해당한다."
+    },
+    {
+     "number": 4,
+     "text": "㉣은하나의 지위에 둘 이상의 역할이 동시에 기대될 때 나타 나는 상황이다."
+    },
+    {
+     "number": 5,
+     "text": "㉤에대한 보상에 ㉥은 해당하나 ㉦은 해당하지 않는다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q06.png",
+   "question_image_sha256": "37ac2a40834fe5c109b31ac94b8c2ef692c9f1a103fd79ec70452baaaf70ba2b",
+   "image_size_px": [
+    957,
+    729
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q07",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 7,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      455.38,
+      418.46,
+      772.16
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 457.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "7. 자료 수집 방법 A～C에 대한 옳은 설명을 <보기>에서 고른 것은?\n  (단, A～C는 각각 질문지법, 면접법, 실험법 중 하나이며, 각 연구는\n 연구 내용에 가장 적합한 자료 수집 방법을 사용하였다.) [3점]\n\n            연구 내용           자료 수집 방법\n\n  폭력 예방 교육이 폭력성 감소에 미치는 효과를 교육\n                                   A\n  전후의 검사를 통해 측정\n\n  청소년 1,000명을 대상으로 비행 친구 교제 여부와 비행\n                                       B\n  간의 상관관계 분석\n\n  가출 청소년의 가출 동기와 가출 후 생활 및 비행에\n                                        C\n  이르는 과정 이해\n\n                <보 기>\n\n   ㄱ. A는B와달리질적 자료를 수집하기에 용이하다.\n   ㄴ. B는C에비해시간과 비용 측면에서 효율적이다.\n   ㄷ. C는B에비해조사자의 주관적 가치가 개입될 가능성이\n     크다.\n   ㄹ. B는A, C에 비해 자료 수집 상황에 대한 통제 정도가 높다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "7. 자료 수집 방법 A～C에 대한 옳은 설명을 <보기>에서 고른 것은? (단, A～C는 각각 질문지법, 면접법, 실험법 중 하나이며, 각 연구는 연구 내용에 가장 적합한 자료 수집 방법을 사용하였다.) [3점]",
+   "passage": "연구 내용           자료 수집 방법\n\n  폭력 예방 교육이 폭력성 감소에 미치는 효과를 교육\n                                   A\n  전후의 검사를 통해 측정\n\n  청소년 1,000명을 대상으로 비행 친구 교제 여부와 비행\n                                       B\n  간의 상관관계 분석\n\n  가출 청소년의 가출 동기와 가출 후 생활 및 비행에\n                                        C\n  이르는 과정 이해\n\n                <보 기>\n\n   ㄱ. A는B와달리질적 자료를 수집하기에 용이하다.\n   ㄴ. B는C에비해시간과 비용 측면에서 효율적이다.\n   ㄷ. C는B에비해조사자의 주관적 가치가 개입될 가능성이\n     크다.\n   ㄹ. B는A, C에 비해 자료 수집 상황에 대한 통제 정도가 높다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q07.png",
+   "question_image_sha256": "8a1e10ea0ff0a168c9ffc2a0437f02b463b5b9ae39a3cc2462ae161b7e85c301",
+   "image_size_px": [
+    957,
+    880
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q08",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 8,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      806.72,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 808.45,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "8. 다음 자료는 사회 계층화 현상에 대한 두 이론 A, B의 공통점과\n 차이점을 나타낸 것이다. (가)～(다)에 들어갈 수 있는 내용으로\n 옳은 것은?\n\n\n\n\n\n ①(가) －동일계층 집단 구성원 간의 연대 의식을 강조한다.\n ②(가) －현대사회의 다양한 계층 분화를 설명하기에 용이하다.\n ③(나) －경제적 불평등이 정치적 불평등을 결정한다고 본다.\n ④(다) －사회계층화현상의 원인을 단일 요인으로 설명한다.\n ⑤(다) －사회계층화현상에서귀속적 요인의 영향력을 중시한다.",
+   "shared_passage_text": "",
+   "stem": "8. 다음 자료는 사회 계층화 현상에 대한 두 이론 A, B의 공통점과 차이점을 나타낸 것이다. (가)～(다)에 들어갈 수 있는 내용으로 옳은 것은?",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가) －동일계층 집단 구성원 간의 연대 의식을 강조한다."
+    },
+    {
+     "number": 2,
+     "text": "(가) －현대사회의 다양한 계층 분화를 설명하기에 용이하다."
+    },
+    {
+     "number": 3,
+     "text": "(나) －경제적 불평등이 정치적 불평등을 결정한다고 본다."
+    },
+    {
+     "number": 4,
+     "text": "(다) －사회계층화현상의 원인을 단일 요인으로 설명한다."
+    },
+    {
+     "number": 5,
+     "text": "(다) －사회계층화현상에서귀속적 요인의 영향력을 중시한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "oA: 불연속적ㆍ이분법적 관계로 계층화 현상을 설명한다.\n8: 연속적:서열적 관계로 계층화 ASS 설명한다.\n\n,    -        (가)\n\n|           (나)           =\n\n|          (다)",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q08.png",
+   "question_image_sha256": "98208992bd8a4aa8ae2d3b209b2b701aa7db5dbf1829bc7f517a6804315b5b72",
+   "image_size_px": [
+    957,
+    720
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q09",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 9,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      158.39,
+      774.1,
+      553.65
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 160.14,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "9. 표는 갑국의 가구 구성비 변화를 나타낸 것이다. 이에 대한 분석\n 으로 옳지 않은 것은? (단, 제시된 가구 형태 이외의 다른 것은\n 고려하지 않는다.) [3점]\n\n                                               (단위: %)\n\n       구분                2015년           2017년\n\n       부부                      21.7                 22.0\n\n    부부와 미혼 자녀                44.9                 45.0\n\n    한부모와 미혼 자녀               15.1                 14.5\n\n     부부와 양(편)친                   1.1                   1.1\n\n   부부와 양(편)친과 자녀               4.2                   4.2\n\n        1인 가구                    13.0                 13.2\n\n        계                      100.0               100.0\n\n  * 2015년 대비 2017년 전체 가구 수는 10% 증가함.\n\n ①2015년대비2017년2세대로 구성된 핵가족 가구 수는 증가\n   하였다.\n ②2015년대비2017년‘부부’ 가구 수 증가율이 전체 가구 수\n   증가율보다 크다.\n ③2015년대비2017년‘1인 가구’ 수 증가율은 확대 가족 가구\n  수 증가율의 2배를 넘는다.\n ④2015년과2017년모두‘부부와 미혼 자녀’ 가구는 핵가족 가구\n   전체의 50% 이상이다.\n ⑤2015년과2017년모두1세대로 구성된 핵가족 가구 비율이\n   확대 가족 가구 비율보다 높다.",
+   "shared_passage_text": "",
+   "stem": "9. 표는 갑국의 가구 구성비 변화를 나타낸 것이다. 이에 대한 분석 으로 옳지 않은 것은? (단, 제시된 가구 형태 이외의 다른 것은 고려하지 않는다.) [3점]",
+   "passage": "(단위: %)\n\n       구분                2015년           2017년\n\n       부부                      21.7                 22.0\n\n    부부와 미혼 자녀                44.9                 45.0\n\n    한부모와 미혼 자녀               15.1                 14.5\n\n     부부와 양(편)친                   1.1                   1.1\n\n   부부와 양(편)친과 자녀               4.2                   4.2\n\n        1인 가구                    13.0                 13.2\n\n        계                      100.0               100.0\n\n  * 2015년 대비 2017년 전체 가구 수는 10% 증가함.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "2015년대비2017년2세대로 구성된 핵가족 가구 수는 증가 하였다."
+    },
+    {
+     "number": 2,
+     "text": "2015년대비2017년‘부부’ 가구 수 증가율이 전체 가구 수 증가율보다 크다."
+    },
+    {
+     "number": 3,
+     "text": "2015년대비2017년‘1인 가구’ 수 증가율은 확대 가족 가구 수 증가율의 2배를 넘는다."
+    },
+    {
+     "number": 4,
+     "text": "2015년과2017년모두‘부부와 미혼 자녀’ 가구는 핵가족 가구 전체의 50% 이상이다."
+    },
+    {
+     "number": 5,
+     "text": "2015년과2017년모두1세대로 구성된 핵가족 가구 비율이 확대 가족 가구 비율보다 높다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q09.png",
+   "question_image_sha256": "683414e0d7d6f7b9020386cc57310b336cee74d619aad1c8ff483d555956640f",
+   "image_size_px": [
+    977,
+    1098
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q10",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 10,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      704.85,
+      774.1,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 706.51,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "10. (가), (나)에 나타난 문화 이해의 관점에 대한 옳은 설명만을\n <보기>에서 있는 대로 고른 것은? [3점]\n\n\n   (가) 벌레를섭취하는○○족의음식문화가그들의 자연 환경,\n      관습, 정치 제도 등 다양한 문화 요소들과 어떤 관련을\n    맺고 있는지 전체적으로 연구하였다.\n   (나) 벌레를 섭취하는 ○○족의 음식 문화를 해당 사회의\n    문화적 전통과 사회적 맥락 속에서 연구하여 부족한 단백질\n    보충이라는 그 사회 나름의 합리적 근거를 찾아내었다.\n\n\n                <보 기>\n\n   ㄱ. (가)의관점은문화에 대한 편협하고 왜곡된 이해를 방지\n    하는 데 기여한다.\n   ㄴ. (나)의관점은해당 문화를 향유하는 사회 구성원의 입장\n    에서 문화의 의미를 파악하는 데 초점을 둔다.\n   ㄷ. (나)의관점은(가)의 관점과 달리 문화를 평가의 대상으로\n    인식한다.\n   ㄹ. (가), (나)의관점은 모두 문화 간 비교를 통해 자기 문화를\n    객관적으로 이해하는 데 유용하다.\n\n\n ①ㄱ, ㄴ      ②ㄱ, ㄷ      ③ㄷ, ㄹ\n ④ㄱ, ㄴ, ㄹ    ⑤ㄴ, ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "10. (가), (나)에 나타난 문화 이해의 관점에 대한 옳은 설명만을 <보기>에서 있는 대로 고른 것은? [3점]",
+   "passage": "(가) 벌레를섭취하는○○족의음식문화가그들의 자연 환경,\n      관습, 정치 제도 등 다양한 문화 요소들과 어떤 관련을\n    맺고 있는지 전체적으로 연구하였다.\n   (나) 벌레를 섭취하는 ○○족의 음식 문화를 해당 사회의\n    문화적 전통과 사회적 맥락 속에서 연구하여 부족한 단백질\n    보충이라는 그 사회 나름의 합리적 근거를 찾아내었다.\n\n\n                <보 기>\n\n   ㄱ. (가)의관점은문화에 대한 편협하고 왜곡된 이해를 방지\n    하는 데 기여한다.\n   ㄴ. (나)의관점은해당 문화를 향유하는 사회 구성원의 입장\n    에서 문화의 의미를 파악하는 데 초점을 둔다.\n   ㄷ. (나)의관점은(가)의 관점과 달리 문화를 평가의 대상으로\n    인식한다.\n   ㄹ. (가), (나)의관점은 모두 문화 간 비교를 통해 자기 문화를\n    객관적으로 이해하는 데 유용하다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄷ, ㄹ"
+    },
+    {
+     "number": 4,
+     "text": "ㄱ, ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄴ, ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q10.png",
+   "question_image_sha256": "10b5c5655eb495e94cd4f30720b52498aba9993db5e3abf91140a85e8b0a1e4a",
+   "image_size_px": [
+    977,
+    1003
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q11",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 11,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      158.39,
+      418.46,
+      590.01
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 160.14,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "11. 밑줄 친 ㉠～㉤에 대한 옳은 설명만을 <보기>에서 있는 대로\n 고른 것은? [3점]\n\n\n\n\n\n                <보 기>\n   ㄱ. ㉠은문화가전승되면서 더욱 풍부해짐을 보여준다.\n   ㄴ. ㉡의문화는‘문화 시설’에서의 문화와 같은 의미이다.\n   ㄷ. ㉢은물질문화, ㉣은 비물질문화에 해당한다.\n   ㄹ. ㉤은각 문화 요소들이 서로 연결되어 하나의 전체로서\n    존재함을 보여준다.\n\n\n ①ㄱ, ㄷ      ②ㄴ, ㄷ      ③ㄴ, ㄹ\n ④ㄱ, ㄴ, ㄹ    ⑤ㄱ, ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "11. 밑줄 친 ㉠～㉤에 대한 옳은 설명만을 <보기>에서 있는 대로 고른 것은? [3점]",
+   "passage": "<보 기>\n   ㄱ. ㉠은문화가전승되면서 더욱 풍부해짐을 보여준다.\n   ㄴ. ㉡의문화는‘문화 시설’에서의 문화와 같은 의미이다.\n   ㄷ. ㉢은물질문화, ㉣은 비물질문화에 해당한다.\n   ㄹ. ㉤은각 문화 요소들이 서로 연결되어 하나의 전체로서\n    존재함을 보여준다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 2,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 4,
+     "text": "ㄱ, ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄱ, ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "파르테논 AMS (7) 고대 아테네인들의 지혜가 오랜 기간 집약되어 형성된\nOAS 문화의 대표 사례입니다. 신전의 바닥과 윗부분은 수평으로 지어지지\n많았는데, 그 이유는 착시 효과를 통해 멀리서 수평처럼 보이도록 의도했기\n\n문입니다. 이를 통해 당시 아테네인들의 © 71S 수준이 상당히 높았음을 알 수\n있습니다. 아물러 이 거대한 신전의 규모는 당시 아테네의 힘을 보여주며, 신전을\n장식하는 조각들은 뛰어난 (2 예술 작품이라 평가받고 있습니다.\n\n결국 © 파르테논 신전은 아테데의\n국력과 기술력 그리고 뛰어난 예술\n\n정신이 결합되어 만들어진 결과네요.",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q11.png",
+   "question_image_sha256": "9ae0a5f4781b41f974da6bc2963878d2a30fc8a32af5862e74bbae9c70b7b040",
+   "image_size_px": [
+    957,
+    1199
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q12",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 12,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      656.61,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 658.45,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "12. 일탈 이론 (가)～(다)에 대한 설명으로 옳은 것은? (단, (가)～(다)는\n 각각 낙인 이론, 아노미 이론, 차별적 교제 이론 중 하나이다.) [3점]\n\n\n   (가) 성공 목표라는 문화적 압력은 계층을 구분하지 않고\n    무차별적으로 영향력을 행사한다. 그러나 목표 달성을 위한\n    기회는 계층별로 차등화되어 있다. 따라서 기회가 제한된\n    계층은 성공 목표 달성을 위해 불법적 행위를 시도하게 된다.\n   (나) 일탈자에 대한 처벌은 행위에 상응하여 부여되는 것이\n    아니라 그 행위를 한 사람이 누구인가에 따라 결정된다.\n    일탈자로 규정되면 그는 일탈자로서의 정체성을 가지고\n    지속적으로 일탈 행동을 저지르게 된다.\n   (다) 일탈 성향은 타고나는 것이 아니라 습득되는 것이다.\n    또한 일탈은 구조적 요인에 의한 것도 아니다. 일탈자와의\n    상호 작용을 통하여 법 위반에 대한 우호적 태도가 형성\n    되면 일탈 행동을 하게 된다.\n\n\n ①(가)는지배 집단의 통제와 착취를 정당화하는 불평등 구조가\n   일탈 행동의 근본 원인이라고 본다.\n ②(나)는일탈이 행위의 속성에 의해서가 아니라 그에 대한 사회적\n   반응에 의해 규정된다고 본다.\n ③(다)는일탈 행동의 원인을 차별적 제재에서 찾는다.\n ④(나)는(가), (다)와달리일탈에대한 대책으로 사회적 합의를\n   통한 규범의 정립을 강조한다.\n  ⑤(가), (나)는(다)와달리사회의지배적 가치를 사회화하지\n   못한 사람이 일탈 행동을 저지른다고 본다.",
+   "shared_passage_text": "",
+   "stem": "12. 일탈 이론 (가)～(다)에 대한 설명으로 옳은 것은? (단, (가)～(다)는 각각 낙인 이론, 아노미 이론, 차별적 교제 이론 중 하나이다.) [3점]",
+   "passage": "(가) 성공 목표라는 문화적 압력은 계층을 구분하지 않고\n    무차별적으로 영향력을 행사한다. 그러나 목표 달성을 위한\n    기회는 계층별로 차등화되어 있다. 따라서 기회가 제한된\n    계층은 성공 목표 달성을 위해 불법적 행위를 시도하게 된다.\n   (나) 일탈자에 대한 처벌은 행위에 상응하여 부여되는 것이\n    아니라 그 행위를 한 사람이 누구인가에 따라 결정된다.\n    일탈자로 규정되면 그는 일탈자로서의 정체성을 가지고\n    지속적으로 일탈 행동을 저지르게 된다.\n   (다) 일탈 성향은 타고나는 것이 아니라 습득되는 것이다.\n    또한 일탈은 구조적 요인에 의한 것도 아니다. 일탈자와의\n    상호 작용을 통하여 법 위반에 대한 우호적 태도가 형성\n    되면 일탈 행동을 하게 된다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)는지배 집단의 통제와 착취를 정당화하는 불평등 구조가 일탈 행동의 근본 원인이라고 본다."
+    },
+    {
+     "number": 2,
+     "text": "(나)는일탈이 행위의 속성에 의해서가 아니라 그에 대한 사회적 반응에 의해 규정된다고 본다."
+    },
+    {
+     "number": 3,
+     "text": "(다)는일탈 행동의 원인을 차별적 제재에서 찾는다."
+    },
+    {
+     "number": 4,
+     "text": "(나)는(가), (다)와달리일탈에대한 대책으로 사회적 합의를 통한 규범의 정립을 강조한다."
+    },
+    {
+     "number": 5,
+     "text": "(가), (나)는(다)와달리사회의지배적 가치를 사회화하지 못한 사람이 일탈 행동을 저지른다고 본다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q12.png",
+   "question_image_sha256": "c1d24f60320b9f2c8b1c1d4c4c545981b86ab5d26f5b5404694f39fd06b893d9",
+   "image_size_px": [
+    957,
+    1137
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q13",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 13,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      158.39,
+      774.1,
+      410.74
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 160.14,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "13. 표는 특정 시기 갑국의 문화 변동 양상을 나타낸 것이다. 이에\n 대한 설명으로 옳은 것은? (단, 제시된 문화 변동 이외의 다른 것은\n 고려하지 않는다.)\n\n  구분            문화 변동 양상\n\n      ◦전통 의복을 서구식으로 개량한 새로운 의복 등장\n  의복\n      ◦개량 의복과 서구 의복의 혼재\n\n      ◦전통 음식과 외래 음식이 결합된 새로운 음식 등장\n  음식\n      ◦주변국의 음식 및 조리법 도입으로 전통식과 외래식 혼재\n\n      ◦전통 가옥 형태 유지\n  주거\n      ◦신분에 따른 가옥 규모 제한 폐지\n\n ①의복분야에서는자기문화의 정체성이 상실되었다.\n ②음식분야에서는발견으로 인한 문화 변동이 발생하였다.\n ③주거분야에서는음식분야와 달리 문화 지체 현상이 나타났다.\n ④의복, 음식 분야에서는 주거 분야와 달리 문화 융합이발생하였다.\n ⑤의복, 음식, 주거 분야 모두에서 물질문화의변동이발생하였다.",
+   "shared_passage_text": "",
+   "stem": "13. 표는 특정 시기 갑국의 문화 변동 양상을 나타낸 것이다. 이에 대한 설명으로 옳은 것은? (단, 제시된 문화 변동 이외의 다른 것은 고려하지 않는다.)",
+   "passage": "구분            문화 변동 양상\n\n      ◦전통 의복을 서구식으로 개량한 새로운 의복 등장\n  의복\n      ◦개량 의복과 서구 의복의 혼재\n\n      ◦전통 음식과 외래 음식이 결합된 새로운 음식 등장\n  음식\n      ◦주변국의 음식 및 조리법 도입으로 전통식과 외래식 혼재\n\n      ◦전통 가옥 형태 유지\n  주거\n      ◦신분에 따른 가옥 규모 제한 폐지",
+   "choices": [
+    {
+     "number": 1,
+     "text": "의복분야에서는자기문화의 정체성이 상실되었다."
+    },
+    {
+     "number": 2,
+     "text": "음식분야에서는발견으로 인한 문화 변동이 발생하였다."
+    },
+    {
+     "number": 3,
+     "text": "주거분야에서는음식분야와 달리 문화 지체 현상이 나타났다."
+    },
+    {
+     "number": 4,
+     "text": "의복, 음식 분야에서는 주거 분야와 달리 문화 융합이발생하였다."
+    },
+    {
+     "number": 5,
+     "text": "의복, 음식, 주거 분야 모두에서 물질문화의변동이발생하였다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q13.png",
+   "question_image_sha256": "df8903e2f3389c4150c0527d1371b65a110384624ecd799109ef0b2411bba820",
+   "image_size_px": [
+    977,
+    701
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q14",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 14,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      446.02,
+      774.1,
+      731.49
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 447.84,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "14. 다음은 사회 불평등 현상을 바라보는 관점을 나타낸 자료이다.\n 이에 대한 설명으로 옳은 것은?\n\n\n   사회에서 가치 있다고 생각하는 자리를 자격 있는\n\n  사람으로 채우기 위해서는 더 많은 보상을 제공해야\n\n   한다. 따라서 사회 불평등 현상은 어느 사회에서나\n\n  나타난다. 이를 그림으로 표현하면 오른쪽과 같다.\n\n\n ①사회 불평등 현상을 보편적이지만 제거해야 할 대상이라고 본다.\n ②사회적 지위나 직업에는 중요도에 따른 위계 체계가 존재한다고\n   본다.\n ③지배 집단과 피지배 집단 간의 대립 관계에서 사회 불평등 현상을\n   이해한다.\n\n ④A가‘부모의 경제적 지위’라면, B는 ‘자녀의 사회적 성공 가능성’이\n   적절하다.\n ⑤A가‘희소가치의 균등 분배 수준’이라면, B는 ‘개인의 성취 동기’가\n   적절하다.",
+   "shared_passage_text": "",
+   "stem": "14. 다음은 사회 불평등 현상을 바라보는 관점을 나타낸 자료이다. 이에 대한 설명으로 옳은 것은?",
+   "passage": "사회에서 가치 있다고 생각하는 자리를 자격 있는\n\n  사람으로 채우기 위해서는 더 많은 보상을 제공해야\n\n   한다. 따라서 사회 불평등 현상은 어느 사회에서나\n\n  나타난다. 이를 그림으로 표현하면 오른쪽과 같다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "사회 불평등 현상을 보편적이지만 제거해야 할 대상이라고 본다."
+    },
+    {
+     "number": 2,
+     "text": "사회적 지위나 직업에는 중요도에 따른 위계 체계가 존재한다고 본다."
+    },
+    {
+     "number": 3,
+     "text": "지배 집단과 피지배 집단 간의 대립 관계에서 사회 불평등 현상을 이해한다."
+    },
+    {
+     "number": 4,
+     "text": "A가‘부모의 경제적 지위’라면, B는 ‘자녀의 사회적 성공 가능성’이 적절하다."
+    },
+    {
+     "number": 5,
+     "text": "A가‘희소가치의 균등 분배 수준’이라면, B는 ‘개인의 성취 동기’가 적절하다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q14.png",
+   "question_image_sha256": "bbb08e133d5b6c5f99d21892ec2837952f1c71bdb60b6da3dbd6f8e53c2ce42d",
+   "image_size_px": [
+    977,
+    793
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q15",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 15,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      767.12,
+      774.1,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 768.79,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "15. 그림은 우리나라 사회 보장 제도 A～C를 구분한 것이다. 이에\n 대한 설명으로 옳은 것은? (단, A～C는 각각 공공 부조, 사회 보험,\n 사회 서비스 중 하나이다.) [3점]\n\n\n\n\n\n ①A는B, C와 달리 사전 예방적 성격이 강하다.\n ②B보다 C가 대상자의 범위가 넓다면, B는 A에 비해 소득 재분배\n   효과가 작다.\n ③C가사회 보험이면, (가)에는 ‘강제 가입을 원칙으로 하는가?’가\n   적절하다.\n ④(가)가‘국가와 지방 자치 단체가 비용을 모두 부담하는가?’라면,\n   A와 C의 대상자는 중복될 수 없다.\n ⑤(가)가‘상호 부조의 원리를 기반으로 하는가?’라면, C는 생활\n   유지 능력이 없거나 생활이 어려운 사람을 대상으로 한다.",
+   "shared_passage_text": "",
+   "stem": "15. 그림은 우리나라 사회 보장 제도 A～C를 구분한 것이다. 이에 대한 설명으로 옳은 것은? (단, A～C는 각각 공공 부조, 사회 보험, 사회 서비스 중 하나이다.) [3점]",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는B, C와 달리 사전 예방적 성격이 강하다."
+    },
+    {
+     "number": 2,
+     "text": "B보다 C가 대상자의 범위가 넓다면, B는 A에 비해 소득 재분배 효과가 작다."
+    },
+    {
+     "number": 3,
+     "text": "C가사회 보험이면, (가)에는 ‘강제 가입을 원칙으로 하는가?’가 적절하다."
+    },
+    {
+     "number": 4,
+     "text": "(가)가‘국가와 지방 자치 단체가 비용을 모두 부담하는가?’라면, A와 C의 대상자는 중복될 수 없다."
+    },
+    {
+     "number": 5,
+     "text": "(가)가‘상호 부조의 원리를 기반으로 하는가?’라면, C는 생활 유지 능력이 없거나 생활이 어려운 사람을 대상으로 한다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "비금전적 지원을     예                             예\n원칙으로 하는가?   C8)           (가)\n\n아니요 |                                   아니요 |",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q15.png",
+   "question_image_sha256": "85cca979b37c0318e7c1e3734db55083a20b067c026bea13bb1d34e625fcf7cd",
+   "image_size_px": [
+    977,
+    830
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q16",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 16,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 5,
+   "original_page": 5,
+   "source_pages": [
+    5
+   ],
+   "crop_segments": [
+    {
+     "page": 5,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      158.39,
+      418.46,
+      445.3
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 5,
+    "y_pt": 160.14,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "16. 표는 자발적 결사체 A～C를 질문 (가)～(다)의 응답에 따라\n 분류한 것이다. 이에 대한 설명으로 옳은 것은? (단, A～C는 각각\n 친목 집단, 이익 집단, 시민 단체 중 하나이다.) [3점]\n\n          응답                 예         아니요  질문\n          (가)             B                  A, C\n\n          (나)                A, B, C        －\n\n          (다)                 A, C             B\n\n ①(가)에는‘가입과 탈퇴가 자유로운가?’가 들어갈 수 있다.\n ②(나)에는‘본질 의지에 의해 자연 발생적으로 형성된 집단인가?’가\n   들어갈 수 있다.\n ③(다)에는‘공통의 관심사나 목표를 가지고 결성한 집단인가?’가\n   들어갈 수 있다.\n ④A와C가 각각 시민 단체와 친목 집단 중 하나라면, (가)에는 ‘사회\n   다원화에 기여하는가?’가 들어갈 수 있다.\n ⑤B가 친목 집단이라면, (다)에는 ‘과업 지향적인 집단인가?’가\n   들어갈 수 있다.",
+   "shared_passage_text": "",
+   "stem": "16. 표는 자발적 결사체 A～C를 질문 (가)～(다)의 응답에 따라 분류한 것이다. 이에 대한 설명으로 옳은 것은? (단, A～C는 각각 친목 집단, 이익 집단, 시민 단체 중 하나이다.) [3점]",
+   "passage": "응답                 예         아니요  질문\n          (가)             B                  A, C\n\n          (나)                A, B, C        －\n\n          (다)                 A, C             B",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)에는‘가입과 탈퇴가 자유로운가?’가 들어갈 수 있다."
+    },
+    {
+     "number": 2,
+     "text": "(나)에는‘본질 의지에 의해 자연 발생적으로 형성된 집단인가?’가 들어갈 수 있다."
+    },
+    {
+     "number": 3,
+     "text": "(다)에는‘공통의 관심사나 목표를 가지고 결성한 집단인가?’가 들어갈 수 있다."
+    },
+    {
+     "number": 4,
+     "text": "A와C가 각각 시민 단체와 친목 집단 중 하나라면, (가)에는 ‘사회 다원화에 기여하는가?’가 들어갈 수 있다."
+    },
+    {
+     "number": 5,
+     "text": "B가 친목 집단이라면, (다)에는 ‘과업 지향적인 집단인가?’가 들어갈 수 있다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 1,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q16.png",
+   "question_image_sha256": "424dba38ca04538c70762ce82f636f7df99ad7969ad1bc91bd97657f3f236b43",
+   "image_size_px": [
+    957,
+    797
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q17",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 17,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 5,
+   "original_page": 5,
+   "source_pages": [
+    5
+   ],
+   "crop_segments": [
+    {
+     "page": 5,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      484.9,
+      418.46,
+      759.92
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 5,
+    "y_pt": 486.78,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "17. 표는 교육을 바라보는 이론적 관점을 파악하기 위한 질문과 답변\n 이다. 기능론, 갈등론, 상징적 상호 작용론 중 하나의 관점에서\n 일관되게 응답한 학생은? [3점]\n\n                 학생                   갑  을  병  정  무  질문\n  사회적으로 필요한 인재를 적재적소에 배치\n                             ×   ×  ○  ○  ○\n  하는 기능을 수행하고 있다고 보는가?\n\n  기존의 사회적 불평등 구조를 재생산하는\n                  ○  ○   ×   ×   ×\n  기능을 수행하고 있다고 보는가?\n\n  학교 교육을 통해 지배 집단의 가치를 주입\n                  ○   ×   ×   ×  ○\n  하고 있다고 보는가?\n\n  교육 제도보다 학습 과정에서 나타나는 상호\n                             ×  ○  ○   ×   ×\n  작용과 그 효과를 중시하는가?\n\n  사회 결속력을 제고하고 문화를 전승하는\n                  ○   ×   ×  ○  ○\n  기능을 수행하고 있다고 보는가?\n\n  학교 교육에 대한 교사와 학생의 의미 부여와\n                  ○   ×   ×   ×  ○\n  능동적 행위에 주목하는가?\n\n                                         (○: 예, × : 아니요)\n\n ①갑   ②을   ③병   ④정   ⑤무",
+   "shared_passage_text": "",
+   "stem": "17. 표는 교육을 바라보는 이론적 관점을 파악하기 위한 질문과 답변 이다. 기능론, 갈등론, 상징적 상호 작용론 중 하나의 관점에서 일관되게 응답한 학생은? [3점]",
+   "passage": "학생                   갑  을  병  정  무  질문\n  사회적으로 필요한 인재를 적재적소에 배치\n                             ×   ×  ○  ○  ○\n  하는 기능을 수행하고 있다고 보는가?\n\n  기존의 사회적 불평등 구조를 재생산하는\n                  ○  ○   ×   ×   ×\n  기능을 수행하고 있다고 보는가?\n\n  학교 교육을 통해 지배 집단의 가치를 주입\n                  ○   ×   ×   ×  ○\n  하고 있다고 보는가?\n\n  교육 제도보다 학습 과정에서 나타나는 상호\n                             ×  ○  ○   ×   ×\n  작용과 그 효과를 중시하는가?\n\n  사회 결속력을 제고하고 문화를 전승하는\n                  ○   ×   ×  ○  ○\n  기능을 수행하고 있다고 보는가?\n\n  학교 교육에 대한 교사와 학생의 의미 부여와\n                  ○   ×   ×   ×  ○\n  능동적 행위에 주목하는가?\n\n                                         (○: 예, × : 아니요)",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑"
+    },
+    {
+     "number": 2,
+     "text": "을"
+    },
+    {
+     "number": 3,
+     "text": "병"
+    },
+    {
+     "number": 4,
+     "text": "정"
+    },
+    {
+     "number": 5,
+     "text": "무"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 1,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q17.png",
+   "question_image_sha256": "6183c6547af96413ea25c795ef3da2c3a7070d814313bddb7c07165b1c9aa534",
+   "image_size_px": [
+    957,
+    764
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q18",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 18,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 5,
+   "original_page": 5,
+   "source_pages": [
+    5
+   ],
+   "crop_segments": [
+    {
+     "page": 5,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      73.9,
+      799.88,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 5,
+    "y_pt": 801.55,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "18. 다음 A～C에 대한 옳은 설명을 <보기>에서 고른 것은? (단,\n A～C는 각각 농업 사회, 산업 사회, 정보 사회 중 하나이다.)\n\n  구분             사회의 특징\n\n        1차 산업을 기반으로 하며, 혈연과 지연으로 맺어진 공동체 구성원\n   A\n      간의 전인격적 관계가 지배적이다.\n\n      정보와 지식이 중요한 자원으로 인식되고, 인간의 주요 활동이\n    B\n      디지털 기술을 기반으로 이루어진다.\n\n      기술과 조직의 합리성 원리를 도입하여 대량 생산과 대량 소비의\n    C\n      경제 체제가 중심이 된다.\n\n                <보 기>\n\n   ㄱ. 사회적 관계를 맺는 공간적 제약은 A가 B보다 크다.\n   ㄴ. 비대면 접촉에 의한 상호 작용 정도는 A가 C보다 작다.\n   ㄷ. 정보의 생산자와 소비자 간 경계는 B가 C보다 분명하다.\n   ㄹ. 가정과 일터의 분리 정도는 C가 B보다 작다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "18. 다음 A～C에 대한 옳은 설명을 <보기>에서 고른 것은? (단, A～C는 각각 농업 사회, 산업 사회, 정보 사회 중 하나이다.)",
+   "passage": "구분             사회의 특징\n\n        1차 산업을 기반으로 하며, 혈연과 지연으로 맺어진 공동체 구성원\n   A\n      간의 전인격적 관계가 지배적이다.\n\n      정보와 지식이 중요한 자원으로 인식되고, 인간의 주요 활동이\n    B\n      디지털 기술을 기반으로 이루어진다.\n\n      기술과 조직의 합리성 원리를 도입하여 대량 생산과 대량 소비의\n    C\n      경제 체제가 중심이 된다.\n\n                <보 기>\n\n   ㄱ. 사회적 관계를 맺는 공간적 제약은 A가 B보다 크다.\n   ㄴ. 비대면 접촉에 의한 상호 작용 정도는 A가 C보다 작다.\n   ㄷ. 정보의 생산자와 소비자 간 경계는 B가 C보다 분명하다.\n   ㄹ. 가정과 일터의 분리 정도는 C가 B보다 작다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q18.png",
+   "question_image_sha256": "11ce131ba599c08f4c77d19f634ffcf9e8bb97fdef01312dbe890b3aa450af8f",
+   "image_size_px": [
+    957,
+    739
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q19",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 19,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 5,
+   "original_page": 5,
+   "source_pages": [
+    5
+   ],
+   "crop_segments": [
+    {
+     "page": 5,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      158.39,
+      774.1,
+      533.49
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 5,
+    "y_pt": 160.14,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "19. 다음 자료에서 교사의 질문에 옳게 응답한 학생을 고른 것은?\n\n\n\n\n\n  갑: 결혼이 필수라고 생각하지 않아 자발적으로 독신을 선택한\n    사람이 늘어난 결과입니다.\n  을: 경기 침체로 취업난이 날로 심해지면서 결혼 시기를 놓친\n    사람이 늘어난 결과입니다.\n  병: 결혼보다 다른 개인적 가치 추구를 더 중시하여 결혼을\n    미루는 사람이 늘어난 결과입니다.\n  정: 주택 가격 폭등으로 신혼집 마련이 어려워 결혼을 늦출\n    수밖에 없는 사람이 늘어난 결과입니다.\n\n\n ①갑, 을  ②갑, 병  ③을, 병  ④을, 정  ⑤병, 정",
+   "shared_passage_text": "",
+   "stem": "19. 다음 자료에서 교사의 질문에 옳게 응답한 학생을 고른 것은?",
+   "passage": "갑: 결혼이 필수라고 생각하지 않아 자발적으로 독신을 선택한\n    사람이 늘어난 결과입니다.\n  을: 경기 침체로 취업난이 날로 심해지면서 결혼 시기를 놓친\n    사람이 늘어난 결과입니다.\n  병: 결혼보다 다른 개인적 가치 추구를 더 중시하여 결혼을\n    미루는 사람이 늘어난 결과입니다.\n  정: 주택 가격 폭등으로 신혼집 마련이 어려워 결혼을 늦출\n    수밖에 없는 사람이 늘어난 결과입니다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "갑, 을"
+    },
+    {
+     "number": 2,
+     "text": "갑, 병"
+    },
+    {
+     "number": 3,
+     "text": "을, 병"
+    },
+    {
+     "number": 4,
+     "text": "을, 정"
+    },
+    {
+     "number": 5,
+     "text": "병, 정"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "사회는 개인들로 환원하여 설명할 수 없다는\n관점에서 이 자료에 나타난 사회 현상에 대해\n어떤 설명이 가능할까요?\n\n“|                                      |\n\n1\n\n4           4           a.\n2011        2013        2015        2017 (4)\n* 평균 초흔 연령: 처음 결흔한 인구의 연령을 평균한 수치",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q19.png",
+   "question_image_sha256": "e12f9812598039aa9f85b96cf6a2f9d7c6b95981e8573c18a52509f484e8adbc",
+   "image_size_px": [
+    977,
+    1042
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2019_CSAT_Q20",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2019_CSAT",
+   "year": 2019,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 20,
+   "source_file": "2019학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "5a29331938130409536ef075dbb6928c1d90ab70fb53ff7e4e48679e80a9ed61",
+   "source_page": 5,
+   "original_page": 5,
+   "source_pages": [
+    5
+   ],
+   "crop_segments": [
+    {
+     "page": 5,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      581.01,
+      774.1,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 5,
+    "y_pt": 582.84,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "20. 다음 자료에 대한 분석으로 옳은 것은?\n\n\n\n\n\n ①㉠과㉡을 모두 경험한 가구주가 ㉠과 ㉡ 중 어느 하나도 경험\n   하지 않은 가구주보다 적다.\n ②㉠을경험하고 ㉡은 경험하지 않은 가구주가 ㉠은 경험하지\n   않고 ㉡을 경험한 가구주보다 적다.\n ③세대 내 하강 이동보다 세대 내 상승 이동이 많다.\n ④현재 계층이 중층인 가구주의 최초 계층은 모두 중층이었다.\n ⑤가구주의 현재 계층 구조가 부모의 계층 구조보다 사회 통합에\n   유리한 계층 구조이다.\n\n\n\n\n\n  * 확인 사항\n\n ◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n\n   하시오.",
+   "shared_passage_text": "",
+   "stem": "20. 다음 자료에 대한 분석으로 옳은 것은?",
+   "passage": "",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠과㉡을 모두 경험한 가구주가 ㉠과 ㉡ 중 어느 하나도 경험 하지 않은 가구주보다 적다."
+    },
+    {
+     "number": 2,
+     "text": "㉠을경험하고 ㉡은 경험하지 않은 가구주가 ㉠은 경험하지 않고 ㉡을 경험한 가구주보다 적다."
+    },
+    {
+     "number": 3,
+     "text": "세대 내 하강 이동보다 세대 내 상승 이동이 많다."
+    },
+    {
+     "number": 4,
+     "text": "현재 계층이 중층인 가구주의 최초 계층은 모두 중층이었다."
+    },
+    {
+     "number": 5,
+     "text": "가구주의 현재 계층 구조가 부모의 계층 구조보다 사회 통합에 유리한 계층 구조이다. * 확인 사항 ◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "다음은 갑국에서 가구주 1,000명을 대상으로 DELI 계층과 본인의\n현재 계층 간 이동 및 ㄴㄴ 부모로부터 독립 후 본인의 최초 계층과 현재\n계층 간 이동을 조사한 결과이다. (단, 계층은 상층, 중층, 하층으로만\n구성된다.)\n\n<계층의 삼대적 비(&)>                 (계층 일치 비율>\n상층+하층\n고                                   구분 | A        B\nSp tale) 현재 as           ae | i |\n|                         중층       50       52\n\n하층             80               90\n\n본인의 최초 계층\n…-*부모의 계층 FA 부모 계\n\n부모 계층과 본인\n\n3\n\ni\n\n3\n\n~\n상층+중층\n\n하층\n\nSASH] 일시 MeN Oo)\n¥*B: 본인 최초 계층 다비 본인 최초 계층과\n현재 계층의 일치 비율(% )",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 2,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2019_CSAT_Q20.png",
+   "question_image_sha256": "8ea1fdbae945c7cddcef05ea41054920679ac5abace80eabca11eed75fa75440",
+   "image_size_px": [
+    977,
+    1347
+   ],
+   "review_required": false,
+   "review_reasons": []
+  }
+ ]
+}

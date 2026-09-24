@@ -1,0 +1,1258 @@
+{
+ "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+ "subject": "SOCIOCULTURE",
+ "year": 2009,
+ "exam_type": "SEPTEMBER",
+ "exam_period": "9월 모의평가",
+ "source_file": "2009학년도_09월_사회문화_문제.pdf",
+ "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+ "pipeline_version": "p1-v1",
+ "page_count": 4,
+ "start_page": 1,
+ "end_page": 4,
+ "skipped_pages": [],
+ "anchor_method": "image_structural_ocr",
+ "inferred_numbers": [],
+ "shared_passage_groups": [],
+ "missing_numbers": [],
+ "header_metadata": {
+  "year": 2009,
+  "exam_type": "SEPTEMBER",
+  "subject_in_header": false,
+  "source": "ocr",
+  "raw": "2009화년도 anaes 9월 모의평가 문제지           1\n\n    사회탐구 SOA ta - Sah)\n\n[성일\n\nasp | | | | ㄴㄴ | | | |\n\n| 수"
+ },
+ "metadata_verified": true,
+ "layout": [
+  {
+   "page": 0,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 422.9799059427106,
+    "top": 245.8683197947841,
+    "bottom": 1068.4292432663533
+   },
+   "text_quality": 0.0
+  },
+  {
+   "page": 1,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.8200085506627,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.0
+  },
+  {
+   "page": 2,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.8200085506627,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.0
+  },
+  {
+   "page": 3,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.8200085506627,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.0
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q01",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 1,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      433.78,
+      420.98,
+      732.57
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 435.94,
+    "inferred": false,
+    "ocr": "1."
+   },
+   "question_text": "1. 다음 대화에 나타난 갑의 관점과 일치하는 USS <보기>에서\n\n고른 것은?\n\n그렇게 불 문제가\n아니라고 생각해.\n불평등 구조를\n\n바꾸어야만 해.\n\n불평등은 개인의\n능력과 노력 차이 때문에\n나타나므로 그 결과를\n받아들여야 해.\n\n<보 기>\nㄱ. 계층 TEE 인간의 잠재력 발휘를 저해한다.\nㄴ. 지배 계층의 합의에 의해 희소 가치가 분배된다.\nㄷ. 사회에 대한 기여도에 따라 직업을 서열화할 수 있다.\n르. 직업의 기여도에 따라 보상을 차등하는 것이 효율적이다.\n\nOrc 0976 Or.,c ®™Br.,2 Ox, #2",
+   "shared_passage_text": "",
+   "stem": "1. 다음 대화에 나타난 갑의 관점과 일치하는 USS <보기>에서 고른 것은?",
+   "passage": "그렇게 불 문제가\n아니라고 생각해.\n불평등 구조를\n\n바꾸어야만 해.\n\n불평등은 개인의\n능력과 노력 차이 때문에\n나타나므로 그 결과를\n받아들여야 해.\n\n<보 기>\nㄱ. 계층 TEE 인간의 잠재력 발휘를 저해한다.\nㄴ. 지배 계층의 합의에 의해 희소 가치가 분배된다.\nㄷ. 사회에 대한 기여도에 따라 직업을 서열화할 수 있다.\n르. 직업의 기여도에 따라 보상을 차등하는 것이 효율적이다.\n\nOrc 0976 Or.,c ®™Br.,2 Ox, #2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q01.png",
+   "question_image_sha256": "290cd9fa6554429526d54943017cd0695aeb28b5f0123f70b9f6778afcbc1d44",
+   "image_size_px": [
+    960,
+    830
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q02",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 2,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      796.64,
+      420.98,
+      1067.35
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 798.8,
+    "inferred": false,
+    "ocr": "2."
+   },
+   "question_text": "2. 다음 자료에 대한 설명으로 옮지 않은 것은? [3점]\n\n평소 이타적 태도에 대해 관심을 갖고 있던 ae 이성\nDAS 하는 학생이 다른 학생보다 이타적 태도를 덜 보일\n것이라는 잠정적 결론을 가지고 연구하였다. 먼저 이성\n교제를 하는 학생과 하지 않는 학생의 행동을 관찰한 후,\n\n이성 교제하는 학생 10명을 선정하여 심층 HAS 실시하\n였다. 그리고 무작위로 선정한 학생 20(명을 대상으로 설문 조\n사하고 그 자료를 통계 처리하였다. 이러한 자료를 종합하\n여 AES 도출하였다.\n\nD 이타적 태도와 이성 교제 간의 관계를 분석할 수 있다.\n\n3) 양적 연구 방법과 질적 연구 방법을 모두 사용하고 있다.\n\n@ 이성 교제는 원인, 이타적 태도는 결과에 해당하는 변수이다.\n\n@ 설문 조사 대상은 이성 교제를 하는 학생으로 하는 것이 적절\n하다.\n\n© ARE 통계 처리하여 ARS 도출하는 과정에서 가치 중립\n이 요구된다.",
+   "shared_passage_text": "",
+   "stem": "2. 다음 자료에 대한 설명으로 옮지 않은 것은? [3점]",
+   "passage": "평소 이타적 태도에 대해 관심을 갖고 있던 ae 이성\nDAS 하는 학생이 다른 학생보다 이타적 태도를 덜 보일\n것이라는 잠정적 결론을 가지고 연구하였다. 먼저 이성\n교제를 하는 학생과 하지 않는 학생의 행동을 관찰한 후,\n\n이성 교제하는 학생 10명을 선정하여 심층 HAS 실시하\n였다. 그리고 무작위로 선정한 학생 20(명을 대상으로 설문 조\n사하고 그 자료를 통계 처리하였다. 이러한 자료를 종합하\n여 AES 도출하였다.\n\nD 이타적 태도와 이성 교제 간의 관계를 분석할 수 있다.\n\n3) 양적 연구 방법과 질적 연구 방법을 모두 사용하고 있다.\n\n@ 이성 교제는 원인, 이타적 태도는 결과에 해당하는 변수이다.\n\n@ 설문 조사 대상은 이성 교제를 하는 학생으로 하는 것이 적절\n하다.\n\n© ARE 통계 처리하여 ARS 도출하는 과정에서 가치 중립\n이 요구된다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q02.png",
+   "question_image_sha256": "d93386d9eeead4ea9c47839c5f49a13be9254b62fa09ad0e9462f209a851f670",
+   "image_size_px": [
+    960,
+    752
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q03",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 3,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      424.98,
+      256.67,
+      772.72,
+      572.37
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 258.83,
+    "inferred": false,
+    "ocr": "3."
+   },
+   "question_text": "3. 다음 자료에서 파악할 수 있는 내용으로 가장 적절한 것은?\n\nAAAAAA\n우운운운운우우우우우우\n\n[조사 내용]\n\nOSUSS| 삶이 불황을 ALAA 어떻게 변화하였\n는지 알아보기 위하여 10대 대기업에서 명예 퇴직\n한 사람들의 3년 후 상황을 조사하였다.\n\n[조사 결과]\n\n0 4명 중 1명이 아직 일자리를 찾지 못한 상태이다.\n젊은 퇴직자들은 일자리를 찾지 못하고 있고, 50대는\n대부분 재취업을 포기하였다.\n\n(0 재취업한 이들은 퇴직자 10명 중 Sef 꼴이다. 그러나\n재취업에 성공한 이들의 경우에도 907% 이상이 전보다\n훨씬 낮은 임금을 받아 소득이 감소하였다.\n\nORs 사람들은 5명 중 1명 꼴이다. 그러나 이들도\n회사에 다닐 때보다 ASO] 크게 줄었다.\n\n우이 아아\n0 세대내 계층 이동이 활발하게 이루어졌다.\n9 세대간 계층 이동의 기회가 점차 줄어들었다.\n@ 수직 이동보다 수평 이동이 더 활발하게 이루어졌다.\n@ 개인의 지위가 WHALE 결정되는 경향이 커지고 있다.\n© 계층 PH] 유형이 폐쇄적이고 불안정한 형태로 변하였다.",
+   "shared_passage_text": "",
+   "stem": "3. 다음 자료에서 파악할 수 있는 내용으로 가장 적절한 것은?",
+   "passage": "AAAAAA\n우운운운운우우우우우우\n\n[조사 내용]\n\nOSUSS| 삶이 불황을 ALAA 어떻게 변화하였\n는지 알아보기 위하여 10대 대기업에서 명예 퇴직\n한 사람들의 3년 후 상황을 조사하였다.\n\n[조사 결과]\n\n0 4명 중 1명이 아직 일자리를 찾지 못한 상태이다.\n젊은 퇴직자들은 일자리를 찾지 못하고 있고, 50대는\n대부분 재취업을 포기하였다.\n\n(0 재취업한 이들은 퇴직자 10명 중 Sef 꼴이다. 그러나\n재취업에 성공한 이들의 경우에도 907% 이상이 전보다\n훨씬 낮은 임금을 받아 소득이 감소하였다.\n\nORs 사람들은 5명 중 1명 꼴이다. 그러나 이들도\n회사에 다닐 때보다 ASO] 크게 줄었다.\n\n우이 아아\n0 세대내 계층 이동이 활발하게 이루어졌다.\n9 세대간 계층 이동의 기회가 점차 줄어들었다.\n@ 수직 이동보다 수평 이동이 더 활발하게 이루어졌다.\n@ 개인의 지위가 WHALE 결정되는 경향이 커지고 있다.\n© 계층 PH] 유형이 폐쇄적이고 불안정한 형태로 변하였다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q03.png",
+   "question_image_sha256": "8db538dda8b64e6edb59eef1c274d514900a1b3b670e900c4e4e164ae1c145d7",
+   "image_size_px": [
+    966,
+    877
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q04",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 4,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      424.98,
+      600.81,
+      772.72,
+      1067.35
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 602.97,
+    "inferred": false,
+    "ocr": "4."
+   },
+   "question_text": "4. 다음 자료는 신문에 게시된 공고문이다. 이에 대한 설명으로 옮\n은 것만을 <보기>에서 있는 대로 고른 것은? [3점]\n\n<연구 대상자 모집>\n\n00연구원과 스스병원에서는 승용차를 이용하는\n직장인을 대상으로 출퇴근 수단의 전환이 개인의\n건강에 미치는 영향을 알아보기 위해 아래와 같이\n연구 대상자를 모집합니다.\n\n해 참가 자격 : © 30~40대 신체 건강한 남성\n@ 사무직 직장인\n@ oa 이상 승용차로 통근\n@ 규칙적으로 운동을 하지 않음\nMy 인원 : 총 1209\n 연구 기간 : 연구 시작일로부터 주간\n빼 연구 절차 : 설명회 개최 ㅡ> 건강 검진 —\n출퇴근 수단 전환 ㅡ 건강 검진\n수단 전환 유형 :\n승용차 ㅡ> 도보(40명), 자전거(4(명), 대중 교통(40명)\n& 건강 검진 내용 : 설명회에서 자세히 안내함\n\nAI 혜택 : 신청 즉시 헬스 클럽 3개월 이용권 지급\n\n<보 기>\nㄱ. 참가자 혜택 조건은 연구 결과에 영향을 미칠 수 있다.\nㄴ. 연구 결과를 30~40대 남성 사무직 직장인에 대하여 일\n반화할 수 있다.\nㄷ. 실제 연구에서 설명회를 개최하지 않으면 연구의 윤리적\n문제가 발생한다.\n=. 명시된 참가 자격은 연구 목적에 비추어 보아 표본의 대\n표성을 저해하지 않는다.\n\nOat    Qact     @u,2\n\n@a1,ct,2   Or.,t,z2#",
+   "shared_passage_text": "",
+   "stem": "4. 다음 자료는 신문에 게시된 공고문이다. 이에 대한 설명으로 옮 은 것만을 <보기>에서 있는 대로 고른 것은? [3점]",
+   "passage": "<연구 대상자 모집>\n\n00연구원과 스스병원에서는 승용차를 이용하는\n직장인을 대상으로 출퇴근 수단의 전환이 개인의\n건강에 미치는 영향을 알아보기 위해 아래와 같이\n연구 대상자를 모집합니다.\n\n해 참가 자격 : © 30~40대 신체 건강한 남성\n@ 사무직 직장인\n@ oa 이상 승용차로 통근\n@ 규칙적으로 운동을 하지 않음\nMy 인원 : 총 1209\n 연구 기간 : 연구 시작일로부터 주간\n빼 연구 절차 : 설명회 개최 ㅡ> 건강 검진 —\n출퇴근 수단 전환 ㅡ 건강 검진\n수단 전환 유형 :\n승용차 ㅡ> 도보(40명), 자전거(4(명), 대중 교통(40명)\n& 건강 검진 내용 : 설명회에서 자세히 안내함\n\nAI 혜택 : 신청 즉시 헬스 클럽 3개월 이용권 지급\n\n<보 기>\nㄱ. 참가자 혜택 조건은 연구 결과에 영향을 미칠 수 있다.\nㄴ. 연구 결과를 30~40대 남성 사무직 직장인에 대하여 일\n반화할 수 있다.\nㄷ. 실제 연구에서 설명회를 개최하지 않으면 연구의 윤리적\n문제가 발생한다.\n=. 명시된 참가 자격은 연구 목적에 비추어 보아 표본의 대\n표성을 저해하지 않는다.\n\nOat    Qact     @u,2\n\n@a1,ct,2   Or.,t,z2#",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q04.png",
+   "question_image_sha256": "4e32b93f58fcff48a22d452c9c3c71361fac5b3b53e2197de77007584b8f3fbb",
+   "image_size_px": [
+    966,
+    1296
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q05",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 5,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      158.75,
+      418.82,
+      535.65
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 160.91,
+    "inferred": false,
+    "ocr": "5."
+   },
+   "question_text": "5. 그림은 갑이 문화 WES] 원인을 유형화한 것이다. @~Oell\n대한 설명으로 옮은 것은? [3점]\n\n새로운\newes 만들 i.)\n\n새로운 문화요소\n만들지 못함 ©\n\n는 호 a\n문화 변동의                      7                    x\n원인은 무엇일까?                                                 .\n\n새로운\n외재적                                                                 문화요소 Oe   8\n요인\n\n* 왼쪽에서 출발, 해당하는 요인ㆍ조건을 경유하여 각각 최단거리로 O~Ool] 도착함.\n\n© 김치 스파게티, 불고기 피자는 G2] 사례이다.\n\n(0) 플라스틱을 생산하여 특허를 낸 것은 Oe] 사례이다.\n\nBO] 외국을 다녀와서 미니스커트를 처음으로 소개한 것\n은 @의 사례이다.\n\n4) 전통적으로 내려오던 활의 원리를 이용하여 현악기를 만든\n것은 @의 사례이다.\n\n© 알파벳에서 아이디어를 열어 문자를 개발한 것은 @의 사례\n이다.",
+   "shared_passage_text": "",
+   "stem": "5. 그림은 갑이 문화 WES] 원인을 유형화한 것이다. @~Oell 대한 설명으로 옮은 것은? [3점]",
+   "passage": "새로운\newes 만들 i.)\n\n새로운 문화요소\n만들지 못함 ©\n\n는 호 a\n문화 변동의                      7                    x\n원인은 무엇일까?                                                 .\n\n새로운\n외재적                                                                 문화요소 Oe   8\n요인\n\n* 왼쪽에서 출발, 해당하는 요인ㆍ조건을 경유하여 각각 최단거리로 O~Ool] 도착함.\n\n© 김치 스파게티, 불고기 피자는 G2] 사례이다.\n\n(0) 플라스틱을 생산하여 특허를 낸 것은 Oe] 사례이다.\n\nBO] 외국을 다녀와서 미니스커트를 처음으로 소개한 것\n은 @의 사례이다.\n\n4) 전통적으로 내려오던 활의 원리를 이용하여 현악기를 만든\n것은 @의 사례이다.\n\n© 알파벳에서 아이디어를 열어 문자를 개발한 것은 @의 사례\n이다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q05.png",
+   "question_image_sha256": "a7f61dbd06b06c6a7b1d21f5b9b9f4ff3f8a72672c3ffa00db253f91fe690aa4",
+   "image_size_px": [
+    954,
+    1047
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q06",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 6,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      620.61,
+      418.82,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 623.49,
+    "inferred": false,
+    "ocr": "6."
+   },
+   "question_text": "표는 노인을 대상으로 한 설문 조사 결과이다. 이에 대한 분석\n으로 옮은 것은? [3점]\n\n<노인이 겪는 가장 심각한 문제>\n\n(단위: 96)\n“            도시          농촌\n구분        2002년 | 2005년 | 2002년 | 2005년\n경제적 어려움      378    48.8    32.6    39.2\n건강 문제            25.5     22.4      35.8     36.7\n외로움, 소외감      177     61    13.4     6.6\n기타             19.0    22.7    18.2    175\n<노인의 생활비ㆍ용돈 마련 방법>\n(단위: %)\n7            도시          농촌\n구분        2002년 | 2005년 | 2002년 | 2005년\n본인, 배우자       538 | 56.6    59.7    64.1\n자녀, 친척          42.4    38.6     35.9    31.2\n기타                                     38            48             44             4.7\n\n01) 외로움과 소외감을 겪는 노인의 수는 2002년에 비해 2005년\n에 줄어들었다.\n\n(2) 자녀나 친척으로부터 생활비나 용돈을 받는 노인의 비율은\n도시보다 농촌이 더 높다.\n\n@ 농촌 노인에 비해 도시 노인의 경제적 어려움이 더 크며 자녀\n나 친척으로부터 더 많은 생활비와 용돈을 받고 있다.\n\n® 본인과 배우자가 생활비나 용돈을 마련하는 노인의 비율은\n도시와 농촌 모두 2002년에 비해 2005년에 증가하였다.\n\n© 건강 문제가 가장 심각한 문제라고 생각하는 노인의 비율은\n도시와 농촌 모두 2002년에 비해 2005년에 중가하였다.",
+   "shared_passage_text": "",
+   "stem": "",
+   "passage": "표는 노인을 대상으로 한 설문 조사 결과이다. 이에 대한 분석\n으로 옮은 것은? [3점]\n\n<노인이 겪는 가장 심각한 문제>\n\n(단위: 96)\n“            도시          농촌\n구분        2002년 | 2005년 | 2002년 | 2005년\n경제적 어려움      378    48.8    32.6    39.2\n건강 문제            25.5     22.4      35.8     36.7\n외로움, 소외감      177     61    13.4     6.6\n기타             19.0    22.7    18.2    175\n<노인의 생활비ㆍ용돈 마련 방법>\n(단위: %)\n7            도시          농촌\n구분        2002년 | 2005년 | 2002년 | 2005년\n본인, 배우자       538 | 56.6    59.7    64.1\n자녀, 친척          42.4    38.6     35.9    31.2\n기타                                     38            48             44             4.7\n\n01) 외로움과 소외감을 겪는 노인의 수는 2002년에 비해 2005년\n에 줄어들었다.\n\n(2) 자녀나 친척으로부터 생활비나 용돈을 받는 노인의 비율은\n도시보다 농촌이 더 높다.\n\n@ 농촌 노인에 비해 도시 노인의 경제적 어려움이 더 크며 자녀\n나 친척으로부터 더 많은 생활비와 용돈을 받고 있다.\n\n® 본인과 배우자가 생활비나 용돈을 마련하는 노인의 비율은\n도시와 농촌 모두 2002년에 비해 2005년에 증가하였다.\n\n© 건강 문제가 가장 심각한 문제라고 생각하는 노인의 비율은\n도시와 농촌 모두 2002년에 비해 2005년에 중가하였다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q06.png",
+   "question_image_sha256": "80e62552013a7902bdaad9728d26fb377e01598ea9433353adfdcaab81a1c0ec",
+   "image_size_px": [
+    954,
+    1237
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q07",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 7,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      158.75,
+      772.72,
+      625.29
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 160.91,
+    "inferred": false,
+    "ocr": "7."
+   },
+   "question_text": "7. 다음 자료는 지역 개발에 대한 수행 평가 보고서이다. 이에 대\n\n한 분석으로 적절한 것은? Bal\n\n 수행 평가 보고서\n\n1. 탐구 주제 : 지역 개발의 유형에 따른 주민 만족도\n2. 지역 개발의 유형 : 지역 개발에 따른 생태 환경의 A 변화를\n고려하여 크게 두 유형으로 구분\n\n(가) 유형                      (나) 유형\n\n0       > X                       0       Xi —> X\n지역 개발 수준                       지역 개발 수준\n* 은 개발 전, Xe 개발 후를 나타냄.\n** 주민 만족도 = 지역 개발 수준 x 생태 환경의 질\n\n3. 지역 개발의 실제 사례\n\nA: 친환경 농법을 도입하고 생태 체험 프로그램을 운영하였다.\n\n1 : 관광객을 유치하기 위하여 녹지를 훼손하고 골프장을 건설하였다.\nC : 쓰레기 매립장을 재개발하여 생태 SAS 조성하였다.\n\n4. 지역 개발 유형을 실제 사례에 적용하기\n\n02 (나) 유형보다 (가) 유형의 지역 po] 주민 만족도를 높여\n준다.\n\n@ BE (가) 유형보다 (나) 유형에 가까운 지역 개발로 BF 있다.\n\n@ A} BE 지역 개발 FES 높임으로써 주민 만족도를 증가시\n킨다.\n\n@ AS} CH (나) 유형보다 (가) 유형에 가까운 지역 개발로 볼\n\n스\n수있\n\n© CE Bur} 생태 환경의 AS 높이는 지역 개발로 볼 수 있다.",
+   "shared_passage_text": "",
+   "stem": "7. 다음 자료는 지역 개발에 대한 수행 평가 보고서이다. 이에 대 한 분석으로 적절한 것은?",
+   "passage": "Bal\n\n 수행 평가 보고서\n\n1. 탐구 주제 : 지역 개발의 유형에 따른 주민 만족도\n2. 지역 개발의 유형 : 지역 개발에 따른 생태 환경의 A 변화를\n고려하여 크게 두 유형으로 구분\n\n(가) 유형                      (나) 유형\n\n0       > X                       0       Xi —> X\n지역 개발 수준                       지역 개발 수준\n* 은 개발 전, Xe 개발 후를 나타냄.\n** 주민 만족도 = 지역 개발 수준 x 생태 환경의 질\n\n3. 지역 개발의 실제 사례\n\nA: 친환경 농법을 도입하고 생태 체험 프로그램을 운영하였다.\n\n1 : 관광객을 유치하기 위하여 녹지를 훼손하고 골프장을 건설하였다.\nC : 쓰레기 매립장을 재개발하여 생태 SAS 조성하였다.\n\n4. 지역 개발 유형을 실제 사례에 적용하기\n\n02 (나) 유형보다 (가) 유형의 지역 po] 주민 만족도를 높여\n준다.\n\n@ BE (가) 유형보다 (나) 유형에 가까운 지역 개발로 BF 있다.\n\n@ A} BE 지역 개발 FES 높임으로써 주민 만족도를 증가시\n킨다.\n\n@ AS} CH (나) 유형보다 (가) 유형에 가까운 지역 개발로 볼\n\n스\n수있\n\n© CE Bur} 생태 환경의 AS 높이는 지역 개발로 볼 수 있다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q07.png",
+   "question_image_sha256": "03bc40fc1d1d062d92eb85f931b549be37f8910a7795339f138e64f835314a49",
+   "image_size_px": [
+    972,
+    1296
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q08",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 8,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      718.53,
+      772.72,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 720.69,
+    "inferred": false,
+    "ocr": "8."
+   },
+   "question_text": "8. 다음 갑의 편지에서 밑줄 친 O~Ool 대한 설명으로 옮은 것\n만을 <보기>에서 있는 대로 고른 것은?\n\n@아들아! 내가 처음 OSA 회사는 업무가 획일적이고\n일방적 지시로 통제되는 곳이었단다. 그래서 @부작용도 있었지\n만 그곳에서의 SHS 내가 회사를 세워 경영하는 데 많은 도움\n이 되었단다. @우리 회사는 개인의 SHS 최대한 발휘할 수\n\n있는 자유로운 근무 환경을 제공하여 높은 성과를 올리고 있잖\n니. 너도 회사에서 맡은 Oreo] 고생이 많겠지만 그곳에서의\n경험은 네가 성장하는 데 밑거름이 되리라 믿는다. 그동안 바빠\n서 네게 소홀했는데 훌륭하게 자라줘서 DAT.\n\n<보 기>\nㄱ. 갑은 @과의 관계에서 가치 갈등을 경험하고 있다.\nㄴ. 위계의 서열화로 인한 비효율성은 6의 예이다.\nㄷ. @은 귀속 지위이며, 그의 역할 YES @이다.\n르. @은 에 비해 현대 사회의 변화에 잘 적응하는 유연한\n조직 형태이다.\n\nOat    Q1,c    Or, #\n\nQOa,c,2   Qu,t 2",
+   "shared_passage_text": "",
+   "stem": "8. 다음 갑의 편지에서 밑줄 친 O~Ool 대한 설명으로 옮은 것 만을 <보기>에서 있는 대로 고른 것은?",
+   "passage": "@아들아! 내가 처음 OSA 회사는 업무가 획일적이고\n일방적 지시로 통제되는 곳이었단다. 그래서 @부작용도 있었지\n만 그곳에서의 SHS 내가 회사를 세워 경영하는 데 많은 도움\n이 되었단다. @우리 회사는 개인의 SHS 최대한 발휘할 수\n\n있는 자유로운 근무 환경을 제공하여 높은 성과를 올리고 있잖\n니. 너도 회사에서 맡은 Oreo] 고생이 많겠지만 그곳에서의\n경험은 네가 성장하는 데 밑거름이 되리라 믿는다. 그동안 바빠\n서 네게 소홀했는데 훌륭하게 자라줘서 DAT.\n\n<보 기>\nㄱ. 갑은 @과의 관계에서 가치 갈등을 경험하고 있다.\nㄴ. 위계의 서열화로 인한 비효율성은 6의 예이다.\nㄷ. @은 귀속 지위이며, 그의 역할 YES @이다.\n르. @은 에 비해 현대 사회의 변화에 잘 적응하는 유연한\n조직 형태이다.\n\nOat    Q1,c    Or, #\n\nQOa,c,2   Qu,t 2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q08.png",
+   "question_image_sha256": "b28098778e16b45102ca403d58e6ae2233aa1714e5fc7ff8c5fddd9ced7f472c",
+   "image_size_px": [
+    972,
+    965
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q09",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 9,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      158.75,
+      418.82,
+      476.98
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 160.91,
+    "inferred": false,
+    "ocr": "9."
+   },
+   "question_text": "9. 꾼화 이해의 관점이나 태도와 관련하여 다음 신문 기사에 대\n\n한 분석으로 가장 적절한 것은?\n\nO O Times                      Jul. 09. 2008\n\n미국 프로야구 팬들은 조용하지만 때로는 홈팀 선수들에게\n\n야유를 FRET. 메이저리그에서는 홈팀이 팬들에게 수모를\n당하는 경우가 비일비재하다. 이에 비해 한국 프로야구 WSS\n흥미롭다. 한국 팬들은 미국 팬들보다 더 열정적이다. 하지만\nSUIS BI 선수가 PALS 물러나도 YE 맞아준다.\n경기 내내 노래하고 춤추는 이들이지만 상대팀이 공격할 때는\nSUS 자제한다.\n\n© 한국 응원 문화가 미국 응원 문화를 잠식한다고 보고 있다.\n\n@ 미국 응원 문화가 한국 응원 문화보다 바람직한 것으로 보고\n있다.\n\n@ 미국 응원 문화는 한국 응원 문화를 따라야 발전한다고 주장\n한다.\n\n0) 한국 응원 문화의 특수성을 미국 응원 문화와 비교하여 파악\n하고 있다.\n\n© 상대팀이 공격할 때 응원을 자제하는 것을 응원 문화의 보편\n적 성격으로 보고 있다.",
+   "shared_passage_text": "",
+   "stem": "9. 꾼화 이해의 관점이나 태도와 관련하여 다음 신문 기사에 대 한 분석으로 가장 적절한 것은?",
+   "passage": "O O Times                      Jul. 09. 2008\n\n미국 프로야구 팬들은 조용하지만 때로는 홈팀 선수들에게\n\n야유를 FRET. 메이저리그에서는 홈팀이 팬들에게 수모를\n당하는 경우가 비일비재하다. 이에 비해 한국 프로야구 WSS\n흥미롭다. 한국 팬들은 미국 팬들보다 더 열정적이다. 하지만\nSUIS BI 선수가 PALS 물러나도 YE 맞아준다.\n경기 내내 노래하고 춤추는 이들이지만 상대팀이 공격할 때는\nSUS 자제한다.\n\n© 한국 응원 문화가 미국 응원 문화를 잠식한다고 보고 있다.\n\n@ 미국 응원 문화가 한국 응원 문화보다 바람직한 것으로 보고\n있다.\n\n@ 미국 응원 문화는 한국 응원 문화를 따라야 발전한다고 주장\n한다.\n\n0) 한국 응원 문화의 특수성을 미국 응원 문화와 비교하여 파악\n하고 있다.\n\n© 상대팀이 공격할 때 응원을 자제하는 것을 응원 문화의 보편\n적 성격으로 보고 있다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q09.png",
+   "question_image_sha256": "c071dfd95ddf4f8b97d51612b92836510875619a35183a45f42025ba9ba2361f",
+   "image_size_px": [
+    954,
+    884
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q10",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 10,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      505.06,
+      418.82,
+      734.37
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 507.22,
+    "inferred": false,
+    "ocr": "10."
+   },
+   "question_text": "10. 다음 자료는 &국의 혼인과 이혼의 통계이다. (가), (나)만을\n고려했을 때 ASS) 2007년 가족의 WS 가장 적절하게 분석한\n것은? [3a]\n\n(가) 2007년 혼인은 35만 건으로 20034 이후 계속 증가\n- 혼인 중 MES 남자 17%, 여자 18%임.\n\n(나) 2007년 이혼은 12만 건으로 2003년 이후 계속 감소\n- 이혼 부부 중 60%가 미성년 자녀 있음.\n\nD (가)에 따르면 비혈연 가족의 수가 감소했을 것이다.\nQ Pel 따르면 핵가족은 증가, 확대 가족은 감수했을 것이다.\n@ (나)에 따르면 한부모 가족의 수가 증가했을 것이다.\n\n@ (가)와 (나는 가족 해체 현상이 ASS 보여준다.\n\n© (가)와 (나)는 가족의 재생산 기능이 약화됨을 보여준다.",
+   "shared_passage_text": "",
+   "stem": "10. 다음 자료는 &국의 혼인과 이혼의 통계이다. (가), (나)만을 고려했을 때 ASS) 2007년 가족의 WS 가장 적절하게 분석한 것은?",
+   "passage": "[3a]\n\n(가) 2007년 혼인은 35만 건으로 20034 이후 계속 증가\n- 혼인 중 MES 남자 17%, 여자 18%임.\n\n(나) 2007년 이혼은 12만 건으로 2003년 이후 계속 감소\n- 이혼 부부 중 60%가 미성년 자녀 있음.\n\nD (가)에 따르면 비혈연 가족의 수가 감소했을 것이다.\nQ Pel 따르면 핵가족은 증가, 확대 가족은 감수했을 것이다.\n@ (나)에 따르면 한부모 가족의 수가 증가했을 것이다.\n\n@ (가)와 (나는 가족 해체 현상이 ASS 보여준다.\n\n© (가)와 (나)는 가족의 재생산 기능이 약화됨을 보여준다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q10.png",
+   "question_image_sha256": "00de34c77531e5a0fd53ab3ad3fb37edb4f095ff550ba2b634d8b1b298d421d1",
+   "image_size_px": [
+    954,
+    637
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q11",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 11,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      763.52,
+      418.82,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 765.68,
+    "inferred": false,
+    "ocr": "11."
+   },
+   "question_text": "11. 다음 사례에 대한 분석으로 적절한 내용을 <보기>에서 고른\n것은?\n\n은되한 의사인 같은 대도시에서 작은 시콜 마을로 이사하\n여 마을 회관의 일부를 빌려 어린어와 노인들을 대상으로 무\n료 진료를 시작하였다. 아내는 살고 있는 집을 문화 공간으\n\n로 꾸며 지역 주민에게 개방하였다.\n\n<보 기>\n\nㄱ. 갑 부부의 사례는 농촌의 인구 고령화 AAS 완화시켜\n준다.\n\nㄴ. 감 부부는 나눔의 정신을 실천하여 함께 사는 공동체를 만\n드는 데 기여하고 있다.\n\nㄷ. Ae 직업의 이질적 특성이 강한 사회에서 동질적 특성\n이 강한 사회로 이동하였다.\n\n르. 갑이 이사한 마을은 공동체가 약화되거나 해체되고 있\n는 농촌 마을의 전형적인 예이다.\n\n007, ㄴ @rAc Orvece ®™Br.,2 (60 ㄷ ez",
+   "shared_passage_text": "",
+   "stem": "11. 다음 사례에 대한 분석으로 적절한 내용을 <보기>에서 고른 것은?",
+   "passage": "은되한 의사인 같은 대도시에서 작은 시콜 마을로 이사하\n여 마을 회관의 일부를 빌려 어린어와 노인들을 대상으로 무\n료 진료를 시작하였다. 아내는 살고 있는 집을 문화 공간으\n\n로 꾸며 지역 주민에게 개방하였다.\n\n<보 기>\n\nㄱ. 갑 부부의 사례는 농촌의 인구 고령화 AAS 완화시켜\n준다.\n\nㄴ. 감 부부는 나눔의 정신을 실천하여 함께 사는 공동체를 만\n드는 데 기여하고 있다.\n\nㄷ. Ae 직업의 이질적 특성이 강한 사회에서 동질적 특성\n이 강한 사회로 이동하였다.\n\n르. 갑이 이사한 마을은 공동체가 약화되거나 해체되고 있\n는 농촌 마을의 전형적인 예이다.\n\n007, ㄴ @rAc Orvece ®™Br.,2 (60 ㄷ ez",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q11.png",
+   "question_image_sha256": "84ea31b04610595dfa06eaf0b660be216432132824e3d4a1a0cb14d5303c6375",
+   "image_size_px": [
+    954,
+    840
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q12",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 12,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      158.75,
+      772.72,
+      460.42
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 160.91,
+    "inferred": false,
+    "ocr": "12."
+   },
+   "question_text": "12. 문화의 의미와 관련하여 대화의 밑줄 친 ©, Oell 대한 설명으\n\n로 옮은 것은?\n\n문화계 동향을 살펴          네. 이슬람 OFSE\n\n보는 시간입니다. 이번에       소개하고자 책을\nAS 출간하셨다면서요?       쓰게 되었습니다.\n\n© OF 넓은 의미의 문화로 생활 양식의 총체를 말한다.\n\n(0) 은 문화에 대한 평가적 의미가 내포되어 있다.\n\n@ 은 좁은 의미의 문화로 세련된 것, 편리한 것을 가리킨다.\n© OF 물질 TSE, OF 비물질 문화를 의미한다.\n\n© 문화를 지식이나 기술의 발전 단계로 보는 것은 보다 @이다.",
+   "shared_passage_text": "",
+   "stem": "12. 문화의 의미와 관련하여 대화의 밑줄 친 ©, Oell 대한 설명으 로 옮은 것은?",
+   "passage": "문화계 동향을 살펴          네. 이슬람 OFSE\n\n보는 시간입니다. 이번에       소개하고자 책을\nAS 출간하셨다면서요?       쓰게 되었습니다.\n\n© OF 넓은 의미의 문화로 생활 양식의 총체를 말한다.\n\n(0) 은 문화에 대한 평가적 의미가 내포되어 있다.\n\n@ 은 좁은 의미의 문화로 세련된 것, 편리한 것을 가리킨다.\n© OF 물질 TSE, OF 비물질 문화를 의미한다.\n\n© 문화를 지식이나 기술의 발전 단계로 보는 것은 보다 @이다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q12.png",
+   "question_image_sha256": "ea499e3d2202c18ac197775914d878c76b256742975d5edb5de3f14f69af01fd",
+   "image_size_px": [
+    972,
+    838
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q13",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 13,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      502.54,
+      772.72,
+      786.56
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 504.7,
+    "inferred": false,
+    "ocr": "13."
+   },
+   "question_text": "13. 그림은 사회 보험과 공공 부조를 유형화하여 비교한 것이다.\nA, Bo) 일반적 특성에 대한 설명으로 Se 것은? [3점]\n\n소득 재분배 효과\n\n국가 재정 의존도                 asi wai\n\nD At 개인의 자유 의사에 따라 가입하는 제도이다.\n(2) AX 경제적 부담 능력이 있는 국민을 대상으로 한다.\n@ AS] 대표적인 예는 고용 보험 제도이다.\n\n@ Be 국민의 최저 생계비를 보장하기 위한 제도이다.\n® BE Aol] 비해 강제 가입의 성격이 강하다.",
+   "shared_passage_text": "",
+   "stem": "13. 그림은 사회 보험과 공공 부조를 유형화하여 비교한 것이다. A, Bo) 일반적 특성에 대한 설명으로 Se 것은? [3점]",
+   "passage": "소득 재분배 효과\n\n국가 재정 의존도                 asi wai\n\nD At 개인의 자유 의사에 따라 가입하는 제도이다.\n(2) AX 경제적 부담 능력이 있는 국민을 대상으로 한다.\n@ AS] 대표적인 예는 고용 보험 제도이다.\n\n@ Be 국민의 최저 생계비를 보장하기 위한 제도이다.\n® BE Aol] 비해 강제 가입의 성격이 강하다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q13.png",
+   "question_image_sha256": "a655b51498d409f6f77f6e1031156fd1ff60b5724d6e8b77d513b423a5edb0a3",
+   "image_size_px": [
+    972,
+    789
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q14",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 14,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      836.96,
+      772.72,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 839.12,
+    "inferred": false,
+    "ocr": "14."
+   },
+   "question_text": "14. 다음의 관점에서 사회 문제의 원인과 대책을 분석하기 위한\n\n요소를 바르게 평가한 학생을 고른 것은?\n\n사회의 질서는 희소한 자원을 둘러싸고 갈등하는 집단들\n간의 역동적 관계로 파악해야 한다.\n\n구 분            갑|을|병|정|무\n개인적 원인 때문에 발생하는가?       0|×|ㅇ0|1×|×\n구조적 원인 때문에 발생하는가?       ×|0|×|ㅇ0|ㅇ\n일시적 불균형으로 볼 수 있는가?        0|×|×|×|ㅇ\n사회 구조의 근본적 변혁이 대책인가? | x | ㅇ ㅣ ㅇ | × | x\n\n사회 통제와 사회화 강화가 대책인가?     O}|x|]x}o}o\n“oF 예, x= USS 나타냄.\n\n@ 2}   Q 을   (3) 병   @ A   ® =",
+   "shared_passage_text": "",
+   "stem": "14. 다음의 관점에서 사회 문제의 원인과 대책을 분석하기 위한 요소를 바르게 평가한 학생을 고른 것은?",
+   "passage": "사회의 질서는 희소한 자원을 둘러싸고 갈등하는 집단들\n간의 역동적 관계로 파악해야 한다.\n\n구 분            갑|을|병|정|무\n개인적 원인 때문에 발생하는가?       0|×|ㅇ0|1×|×\n구조적 원인 때문에 발생하는가?       ×|0|×|ㅇ0|ㅇ\n일시적 불균형으로 볼 수 있는가?        0|×|×|×|ㅇ\n사회 구조의 근본적 변혁이 대책인가? | x | ㅇ ㅣ ㅇ | × | x\n\n사회 통제와 사회화 강화가 대책인가?     O}|x|]x}o}o\n“oF 예, x= USS 나타냄.\n\n@ 2}   Q 을   (3) 병   @ A   ® =",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q14.png",
+   "question_image_sha256": "fc587b0dd90ac06128246116766bedd62defb70e3ddd48d2a582158bc337d1cc",
+   "image_size_px": [
+    972,
+    636
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q15",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 15,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      158.75,
+      418.82,
+      474.46
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 160.91,
+    "inferred": false,
+    "ocr": "15."
+   },
+   "question_text": "15. 다음 자료에 대한 SS 분석을 <보기>에서 고른 것은?\n\n조선 시대 양반 부녀자는 치마 깃을 왼쪽으로 두르고 상민은 오\n\n른쪽으로 둘렀다. 또 노론 가문의 부녀자는 저고리의 깃과 Mo] 모\n나지 않게 둥글게 접었고, 소론 가문의 부녀자는 깃과 MS 뽀족하\n고 모나게 접었다.\n\n한편, 대중 매체를 통해 정보가 대량으로 유통되는 현대 사회에서\n는 자신이 닮고 싶은 자를 쉽게 모방하는 옷 입기 방식이 나타난다.\n그러면서도 사람들은 남들과 차별화된 옷 입기로 자신만의 WIS\n표현하기도 한다.\n\n<보 기>\n\nㄱ. 과거에 비해 현대인들의 웃 입기는 더 획일화되어 있다.\n\nㄴ. 현대인들의 옷 입기에는 따라하기와 구별짓기가 동시에\n나타난다.\n\nㄷ. 현대인들의 & 입기에는 준거 집단의 방식을 따르려는\n경향이 있다.\n\n2. 현대 사회에서 옷은 수속 집단의 상징적 표현이며, 내집\n\n단에 의해 사회화된다.\n\n007 ㄴ 0976 Or.,ce ®™Or.,2# 690ㄷ-",
+   "shared_passage_text": "",
+   "stem": "15. 다음 자료에 대한 SS 분석을 <보기>에서 고른 것은?",
+   "passage": "조선 시대 양반 부녀자는 치마 깃을 왼쪽으로 두르고 상민은 오\n\n른쪽으로 둘렀다. 또 노론 가문의 부녀자는 저고리의 깃과 Mo] 모\n나지 않게 둥글게 접었고, 소론 가문의 부녀자는 깃과 MS 뽀족하\n고 모나게 접었다.\n\n한편, 대중 매체를 통해 정보가 대량으로 유통되는 현대 사회에서\n는 자신이 닮고 싶은 자를 쉽게 모방하는 옷 입기 방식이 나타난다.\n그러면서도 사람들은 남들과 차별화된 옷 입기로 자신만의 WIS\n표현하기도 한다.\n\n<보 기>\n\nㄱ. 과거에 비해 현대인들의 웃 입기는 더 획일화되어 있다.\n\nㄴ. 현대인들의 옷 입기에는 따라하기와 구별짓기가 동시에\n나타난다.\n\nㄷ. 현대인들의 & 입기에는 준거 집단의 방식을 따르려는\n경향이 있다.\n\n2. 현대 사회에서 옷은 수속 집단의 상징적 표현이며, 내집\n\n단에 의해 사회화된다.\n\n007 ㄴ 0976 Or.,ce ®™Or.,2# 690ㄷ-",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q15.png",
+   "question_image_sha256": "4b03030cae3857a0b022bb98d4a27d0dd9854003291b68c680ca91982ad15c9c",
+   "image_size_px": [
+    954,
+    877
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q16",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 16,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      510.46,
+      418.82,
+      781.52
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 512.62,
+    "inferred": false,
+    "ocr": "16."
+   },
+   "question_text": "16. 그림은 갑과 을이 소속된 집단을 나타낸 것이다. @~Oel] 대\n\n한 설명 중 옮지 않은 것은? [3점]\n\n* 갑과 BS 탈춤 동호회에서 만나 일주일에 한 번씩\n\n연습하며 우정을 쌓는 매우 친밀한 관계이다\n\n02 OL 갑과 을에게 1차 집단적 YAS 갖는다.\n\n21 6, OF 특정 목적 달성을 위해 인위적으로 결합된 집단이다.\n\n@ © @은 자발적 결사체이며 비공식 조직이라는 BEA] 있다.\n\n® OF 본능적 결합 의지로 형성된 집단이라는 점에서 Oa 구\n분된다.\n\n© 을의 경우 선택적 의지로 결합한 집단의 AL 4개이다.",
+   "shared_passage_text": "",
+   "stem": "16. 그림은 갑과 을이 소속된 집단을 나타낸 것이다. @~Oel] 대 한 설명 중 옮지 않은 것은? [3점]",
+   "passage": "* 갑과 BS 탈춤 동호회에서 만나 일주일에 한 번씩\n\n연습하며 우정을 쌓는 매우 친밀한 관계이다\n\n02 OL 갑과 을에게 1차 집단적 YAS 갖는다.\n\n21 6, OF 특정 목적 달성을 위해 인위적으로 결합된 집단이다.\n\n@ © @은 자발적 결사체이며 비공식 조직이라는 BEA] 있다.\n\n® OF 본능적 결합 의지로 형성된 집단이라는 점에서 Oa 구\n분된다.\n\n© 을의 경우 선택적 의지로 결합한 집단의 AL 4개이다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q16.png",
+   "question_image_sha256": "b73ec686d2b25a46d69875f04e67c67123453267bedebda987403ccf76e50857",
+   "image_size_px": [
+    954,
+    753
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q17",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 17,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      817.88,
+      418.82,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 820.04,
+    "inferred": false,
+    "ocr": "17."
+   },
+   "question_text": "17. 다음 자료에서 파악할 수 있는 내용으로 적절하지 않은 것은?\n\n인터넷의 등장으로 인터넷 언어가 급속히 확산되고 있다.\n처음에 사람들은 인터넷 언어를 청소년만의 의사 소통\n수단으로 생각했으나 점차 채팅, 6메일, 커뮤니티 등이\n확산되면서 일반 대중에게도 인터넷 언어가 중요한 의사\n소통 수단으로 자리잡게 되었다. 이와 같은 변화는 인터넷이\n기존의 인쇄 및 영상 매체와는 다른 쌍방향 의사 소통 방식을\n가능하게 한 것에서 비롯된다.\n\nD 인터넷과 관련된 청소년의 하위 문화가 형성되었다.\n\n@ 인터넷 사용 인구의 증가로 정보 격차가 심화되었다.\n\n@ 문화 요소 간의 상호 작용으로 문화 WES] 일어났다.\n\n@ 인터벳의 확산으로 대중이 정보의 쟁산자가 될 가능성이 높\n아졌\n\n© 인터벳의 활성화로 다양한 관심들이 공론화될 수 었는 기희\n가 증가하였다.",
+   "shared_passage_text": "",
+   "stem": "17. 다음 자료에서 파악할 수 있는 내용으로 적절하지 않은 것은?",
+   "passage": "인터넷의 등장으로 인터넷 언어가 급속히 확산되고 있다.\n처음에 사람들은 인터넷 언어를 청소년만의 의사 소통\n수단으로 생각했으나 점차 채팅, 6메일, 커뮤니티 등이\n확산되면서 일반 대중에게도 인터넷 언어가 중요한 의사\n소통 수단으로 자리잡게 되었다. 이와 같은 변화는 인터넷이\n기존의 인쇄 및 영상 매체와는 다른 쌍방향 의사 소통 방식을\n가능하게 한 것에서 비롯된다.\n\nD 인터넷과 관련된 청소년의 하위 문화가 형성되었다.\n\n@ 인터넷 사용 인구의 증가로 정보 격차가 심화되었다.\n\n@ 문화 요소 간의 상호 작용으로 문화 WES] 일어났다.\n\n@ 인터벳의 확산으로 대중이 정보의 쟁산자가 될 가능성이 높\n아졌\n\n© 인터벳의 활성화로 다양한 관심들이 공론화될 수 었는 기희\n가 증가하였다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q17.png",
+   "question_image_sha256": "3608c5f7c99a16b7d75b1a794e0ade2d89b7464acbe8c63dc607c4037e9ed238",
+   "image_size_px": [
+    954,
+    689
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q18",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 18,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      158.75,
+      772.72,
+      413.62
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 160.91,
+    "inferred": false,
+    "ocr": "18."
+   },
+   "question_text": "18. 다음 Fe 갑의 상황을 연구자 Se] 기술한 것이다. 이에 나타\n난 사회학적 용어로 옮은 것만을 <보기>에서 있는 대로 고른 것\n은? [3점]\n\nASE 국민인 한국계 이민 3세 갑은 AS! 사람들이 중시하는\n성공이라는 목표를 달성하기 위해 최선을 다했다. 그러나 갑\n은 ARS] 이민족에 대한 사회적 편견과 보이지 않는 차별의\n벽 앞에 결국 좌절하였다. 그래서 새로운 기회를 찾기 위해\n고민하는 것 같다.\n\n<보 기>\nㄱ. 사회화              ㄴ. 역할 갈등\nㄷ. 사회 실재론           르. 문화 용합\nOat        (00 7, ㄷ        @u 르\n\n04) ㄱ7, ㄷ, 르   6) ㄴ, ㄷ, 르",
+   "shared_passage_text": "",
+   "stem": "18. 다음 Fe 갑의 상황을 연구자 Se] 기술한 것이다. 이에 나타 난 사회학적 용어로 옮은 것만을 <보기>에서 있는 대로 고른 것 은? [3점]",
+   "passage": "ASE 국민인 한국계 이민 3세 갑은 AS! 사람들이 중시하는\n성공이라는 목표를 달성하기 위해 최선을 다했다. 그러나 갑\n은 ARS] 이민족에 대한 사회적 편견과 보이지 않는 차별의\n벽 앞에 결국 좌절하였다. 그래서 새로운 기회를 찾기 위해\n고민하는 것 같다.\n\n<보 기>\nㄱ. 사회화              ㄴ. 역할 갈등\nㄷ. 사회 실재론           르. 문화 용합\nOat        (00 7, ㄷ        @u 르\n\n04) ㄱ7, ㄷ, 르   6) ㄴ, ㄷ, 르",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q18.png",
+   "question_image_sha256": "1b78bfda43353ff19be6256cdc0c1a9aee8c07f405a477b42080ce392fc7cdc8",
+   "image_size_px": [
+    972,
+    708
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q19",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 19,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      431.62,
+      772.72,
+      664.89
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 433.78,
+    "inferred": false,
+    "ocr": "19."
+   },
+   "question_text": "19. 사회 조사 과정에서 ‘ol Wel 해당하는 절차를 수행하는 단계\n로 가장 적절한 것은?\n\n추상적 my 6 구체적\n\n\"이것': ㅣ 개념             개념\n\n'이것'은 연구 주제나 핵심 WIS 구체적인 현상에 적용\n할 수 있도록 명확하게 만드는 것이다. 이런 절차를 통해 연\n구 문제는 검증 가능한 형태가 된다.\n\nD 연구 주제에 대한 잠정적 AES 세우고 연구를 설계한다.\n2 무작위로 선정된 표본을 대상으로 설문 조사를 실시한다.\n@ 수집된 ABS 컴퓨터를 이용하여 통계 분석한다.\n\n® 변수 간의 유의미한 관계가 있는지 검증한다.\n\n© 연구 결과를 바탕으로 보고서를 작성한다.",
+   "shared_passage_text": "",
+   "stem": "19. 사회 조사 과정에서 ‘ol Wel 해당하는 절차를 수행하는 단계 로 가장 적절한 것은?",
+   "passage": "추상적 my 6 구체적\n\n\"이것': ㅣ 개념             개념\n\n'이것'은 연구 주제나 핵심 WIS 구체적인 현상에 적용\n할 수 있도록 명확하게 만드는 것이다. 이런 절차를 통해 연\n구 문제는 검증 가능한 형태가 된다.\n\nD 연구 주제에 대한 잠정적 AES 세우고 연구를 설계한다.\n2 무작위로 선정된 표본을 대상으로 설문 조사를 실시한다.\n@ 수집된 ABS 컴퓨터를 이용하여 통계 분석한다.\n\n® 변수 간의 유의미한 관계가 있는지 검증한다.\n\n© 연구 결과를 바탕으로 보고서를 작성한다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q19.png",
+   "question_image_sha256": "c04692b0382ae432903cd177ca7802ce0baf2e56afb5b0c4fa83c5499daef495",
+   "image_size_px": [
+    972,
+    648
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q20",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2009_SEPTEMBER",
+   "year": 2009,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 20,
+   "source_file": "2009학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "d60c4b357b67b6ff2da547579af74a20a0cab68323b879fab3640ef5ff35bab2",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.82,
+      683.61,
+      772.72,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 685.77,
+    "inferred": false,
+    "ocr": "20."
+   },
+   "question_text": "20. 표는 전체 가구 중 맞벌이 가구에 대한 것이다. 이에 대한 분\n\n석으로 Se 것은? [3점]\n\n<소득 ASS 맞벌이 가구의 아내 소득과 소득 기여도>\n\n소득 계층 11218|4|15|6|17|1|8|9110\n\nott a | 26] 34 | 37 | a8 | 52 | 55 | 56 | 65 | 86 | 157\n\na5 기여도 30.8 | 30.0 | 26.9 | 30.5 | 29.3 | 26.6 | 16.5 | 27.0 | 31.5 | 39.0\n아내 AS\n* 소득 기여도 = oe x 100\n\n“AS ASS 가구의 ASS 기준으로 하며 숫자가 클수록 고소득층임.\nD 취업 여성 소득은 취업 남성 소득의 409 이하이다.\n@ 맞벌이 하는 아내의 소득 기여도는 최상층에서 가장 작다.\n@ 아내 소득을 기준으로 할 때 소득 계층의 순서가 달라진다.\n0 맞벌이 하는 아내의 소득 기여도는 소득 계층이 높을수록 더\n크다\n© 맞벌이 하는 아내의 소득은 최하층의 경우 가구 소득의 30%\n이하이다.\n\n* 확인 사항\nㅇ 답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n하시오.",
+   "shared_passage_text": "",
+   "stem": "20. 표는 전체 가구 중 맞벌이 가구에 대한 것이다. 이에 대한 분 석으로 Se 것은? [3점]",
+   "passage": "<소득 ASS 맞벌이 가구의 아내 소득과 소득 기여도>\n\n소득 계층 11218|4|15|6|17|1|8|9110\n\nott a | 26] 34 | 37 | a8 | 52 | 55 | 56 | 65 | 86 | 157\n\na5 기여도 30.8 | 30.0 | 26.9 | 30.5 | 29.3 | 26.6 | 16.5 | 27.0 | 31.5 | 39.0\n아내 AS\n* 소득 기여도 = oe x 100\n\n“AS ASS 가구의 ASS 기준으로 하며 숫자가 클수록 고소득층임.\nD 취업 여성 소득은 취업 남성 소득의 409 이하이다.\n@ 맞벌이 하는 아내의 소득 기여도는 최상층에서 가장 작다.\n@ 아내 소득을 기준으로 할 때 소득 계층의 순서가 달라진다.\n0 맞벌이 하는 아내의 소득 기여도는 소득 계층이 높을수록 더\n크다\n© 맞벌이 하는 아내의 소득은 최하층의 경우 가구 소득의 30%\n이하이다.\n\n* 확인 사항\nㅇ 답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n하시오.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q20.png",
+   "question_image_sha256": "9c04073df0e817d5a92773adb51caaaf7ea50fda95db3011f01b5e8f908a7889",
+   "image_size_px": [
+    972,
+    1062
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  }
+ ]
+}

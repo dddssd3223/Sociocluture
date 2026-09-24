@@ -1,0 +1,1258 @@
+{
+ "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+ "subject": "SOCIOCULTURE",
+ "year": 2017,
+ "exam_type": "SEPTEMBER",
+ "exam_period": "9월 모의평가",
+ "source_file": "2017학년도_09월_사회문화_문제.pdf",
+ "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+ "pipeline_version": "p1-v1",
+ "page_count": 4,
+ "start_page": 1,
+ "end_page": 4,
+ "skipped_pages": [],
+ "anchor_method": "pdf_text",
+ "inferred_numbers": [],
+ "shared_passage_groups": [],
+ "missing_numbers": [],
+ "header_metadata": {
+  "year": 2017,
+  "exam_type": null,
+  "subject_in_header": true,
+  "source": "ocr",
+  "raw": "2017화년도 ae g2} 모의평가 문제지           1\n\n    Ate] 8-1 &       역(사회:  문화)\n\nEE]     | a    01 | | | |"
+ },
+ "metadata_verified": false,
+ "layout": [
+  {
+   "page": 0,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 205.0286447199658,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.014
+  },
+  {
+   "page": 1,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 111.41427960666952,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.015
+  },
+  {
+   "page": 2,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 111.41427960666952,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.016
+  },
+  {
+   "page": 3,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 111.41427960666952,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.019
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q01",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 1,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      216.9,
+      383.01,
+      510.59
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 218.27,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "1. 밑줄 A ㅁㅋ~요과 같은 현상의 일반적인 특징에 대한 설명으로\n옮은 것은?\n\n엘니뇨 ato] 계속되면서 지구 온도와 농작물 생산에\n영향을 미치고 있다. 이상 시노 일 연상으로 Soy alee\n예년에 비해 더위가 심했고, 남미에는 폭우가 내려 세계\n식량 가격이 올랐다. 아프리카의 한 지역에서는 ㅁ 홍수로\n인한 급격한 수위 상승으로 수천 채의 가옥이 파손된 반면,\n또 다른 지역에서는 혹독한 722 인해 수백만 명이\n2) 식량 원조를 애타게 기다리는 상황이다.\n\n© G3} 같은 현상은 과 같은 현상과 달리 가치 함축적이다.\n\n@ ㅁ과 같은 현상은 O3} 같은 현상과 달리 확률성의 윈리가 적용\n된다.\n\n@ ㅁ과 같은 현상은 Ox} 같은 현상과 달리 개연성의 윈리가 적용\n된다.\n\n@) @3} 같은 현상은 ㅁ과 같은 현상과 달리 당위 법칙을 따른다.\n\n© ㅋ, 트과 같은 APRS Ozh 같은 현상에 비해 wage] 강하다.",
+   "shared_passage_text": "",
+   "stem": "1. 밑줄 A ㅁㅋ~요과 같은 현상의 일반적인 특징에 대한 설명으로 옮은 것은?",
+   "passage": "엘니뇨 ato] 계속되면서 지구 온도와 농작물 생산에\n영향을 미치고 있다. 이상 시노 일 연상으로 Soy alee\n예년에 비해 더위가 심했고, 남미에는 폭우가 내려 세계\n식량 가격이 올랐다. 아프리카의 한 지역에서는 ㅁ 홍수로\n인한 급격한 수위 상승으로 수천 채의 가옥이 파손된 반면,\n또 다른 지역에서는 혹독한 722 인해 수백만 명이\n2) 식량 원조를 애타게 기다리는 상황이다.\n\n© G3} 같은 현상은 과 같은 현상과 달리 가치 함축적이다.\n\n@ ㅁ과 같은 현상은 O3} 같은 현상과 달리 확률성의 윈리가 적용\n된다.\n\n@ ㅁ과 같은 현상은 Ox} 같은 현상과 달리 개연성의 윈리가 적용\n된다.\n\n@) @3} 같은 현상은 ㅁ과 같은 현상과 달리 당위 법칙을 따른다.\n\n© ㅋ, 트과 같은 APRS Ozh 같은 현상에 비해 wage] 강하다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q01.png",
+   "question_image_sha256": "f0f90d2f4b8d1b64fb8a5f6a676416ca4ab1d698f27abaf5954ad41f5e3986cf",
+   "image_size_px": [
+    1045,
+    891
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q02",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 2,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      544.55,
+      383.01,
+      763.42
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 545.96,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "2. 밑줄 a ㅠ~0@3에 대한 설명으로 Se 것은? [3점]\n\n최근 아나운서 출신 갑이 언론의 FSS 받고 있다. Ae 어린 시절부터\n꿈꾸어 왔던 아나운서가 되기 위해 MOOBSALO 입사한 후 다양한\n프로그램에서 종횡무진으로 활동하였다. 이후 갑은 OO 큰 무대로\nase 것인지, 안정된 ASS 선택할 것인지 고민하다가 (7방송사를\n그만두며 프리랜서를 선언하고 6 연기자가 되었다. 이후 비교적 짧은\n기간에 여러 편의 드라마에 출연하는 등 @대중의 인기를 얻었으나,\nHA 어려운 OSS 돕는 프로그램에 참여한 것을 계기로 스스국의\n빈민 지역으로 이주하여 현재 @ 자원봉사자로 활동하고 있다.\n\nOD 은 갑의 내집단이자 준거집단이다.\n@) OF 갑이 겪었던 역할 같등이다.\n\n@) ©] 되기 위해 같은 에서 재사회화를 경협하였다.\n@) 2은 ㅁ으로서의 갑의 역할에 대한 보상이다.\n\n© @은 갑의 성취 지위이다.",
+   "shared_passage_text": "",
+   "stem": "2. 밑줄 a ㅠ~0@3에 대한 설명으로 Se 것은? [3점]",
+   "passage": "최근 아나운서 출신 갑이 언론의 FSS 받고 있다. Ae 어린 시절부터\n꿈꾸어 왔던 아나운서가 되기 위해 MOOBSALO 입사한 후 다양한\n프로그램에서 종횡무진으로 활동하였다. 이후 갑은 OO 큰 무대로\nase 것인지, 안정된 ASS 선택할 것인지 고민하다가 (7방송사를\n그만두며 프리랜서를 선언하고 6 연기자가 되었다. 이후 비교적 짧은\n기간에 여러 편의 드라마에 출연하는 등 @대중의 인기를 얻었으나,\nHA 어려운 OSS 돕는 프로그램에 참여한 것을 계기로 스스국의\n빈민 지역으로 이주하여 현재 @ 자원봉사자로 활동하고 있다.\n\nOD 은 갑의 내집단이자 준거집단이다.\n@) OF 갑이 겪었던 역할 같등이다.\n\n@) ©] 되기 위해 같은 에서 재사회화를 경협하였다.\n@) 2은 ㅁ으로서의 갑의 역할에 대한 보상이다.\n\n© @은 갑의 성취 지위이다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q02.png",
+   "question_image_sha256": "6a9b802e1e00e650060aac92b7f64af6cd5821b5b64721ef4809b5a8b11e3f3f",
+   "image_size_px": [
+    1045,
+    664
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q03",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 3,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      797.7,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 798.86,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "3.\n\n사회 조직의 유형 A~Co] 대한 설명으로 옮은 것은?\n\nOA, BE 각각 과업 달성을 위한 조직이며, 조직의 효율성을 제고\n하기 위한 운영 원리가 적용된다.\n\nㅇ 에서는 의사 결정의 권한이 분산되어 있으며, 외부 환경 변화에\n대한 유연한 대처와 신속한 의사 결정이 가능하다. #에서는 조직 내\n지위가 경력에 따라 서열화되어 있으며, 규약과 절차에 따른 구성원들\n의 업무 수행을 강조한다.\n\nOA 또는 BY 구성원들이 조직 내에서 친밀한 인간관계에 바탕을\n두고 자발적으로 결성한 것이 (이다.\n\n(1) 기업의 노동조합은 (에 해당한다.\n\n(2) 4, BE 공식적 AAS 통해 구성원을 통제한다.\n\n@ Be Aol] 비해 상향식 의사 결정 방식을 강조한다.\n\n@A, Ce BS} 달리 구성원들의 가입과 탈퇴가 자유롭다.\n\n© (에서는 A, BS 달리 구성원 간 수단적 만남과 간접적 접촉\n6] ㅇ]루어지다",
+   "shared_passage_text": "",
+   "stem": "3. 사회 조직의 유형 A~Co] 대한 설명으로 옮은 것은?",
+   "passage": "OA, BE 각각 과업 달성을 위한 조직이며, 조직의 효율성을 제고\n하기 위한 운영 원리가 적용된다.\n\nㅇ 에서는 의사 결정의 권한이 분산되어 있으며, 외부 환경 변화에\n대한 유연한 대처와 신속한 의사 결정이 가능하다. #에서는 조직 내\n지위가 경력에 따라 서열화되어 있으며, 규약과 절차에 따른 구성원들\n의 업무 수행을 강조한다.\n\nOA 또는 BY 구성원들이 조직 내에서 친밀한 인간관계에 바탕을\n두고 자발적으로 결성한 것이 (이다.\n\n(1) 기업의 노동조합은 (에 해당한다.\n\n(2) 4, BE 공식적 AAS 통해 구성원을 통제한다.\n\n@ Be Aol] 비해 상향식 의사 결정 방식을 강조한다.\n\n@A, Ce BS} 달리 구성원들의 가입과 탈퇴가 자유롭다.\n\n© (에서는 A, BS 달리 구성원 간 수단적 만남과 간접적 접촉\n6] ㅇ]루어지다",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q03.png",
+   "question_image_sha256": "8db2d4d8011ead30bf9484e74a1f2b32991f7e9b52ee4970cc549713326dc4a6",
+   "image_size_px": [
+    1045,
+    701
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q04",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 4,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      216.9,
+      738.56,
+      539.93
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 218.27,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "4. (가)~(다)의 일반적인 특징에 대한 설명으로 옮은 것은?\n(단, (가)~(다)는 각각 면접법, 질문지법, 참여 관찰법 중 하나이다.)\n\n자료 수집 방법                        사례\n\n청소년 일탈을 연구하기 위해 가족 간 대화 빈도와 일탈\n(가)     Hee 측정할 수 있는 설문 문항을 개발하여 전국의\n중ㆍ고등학생 2.000명을 대상으로 조사를 실시하였다.\n\n초등학생의 음악 활동과 사회성 간의 관계를 연구하기 위해\n(나)      초등학생 20명과 심층 인터뷰를 하여 오케스트라 활동이\n친구 관계에 미치는 영향을 탐구하였다.\n\n실외 놀이를 통해 나타나는 유아들의 특징을 살펴보고자\n(다)     4개월간 (〉(〉어린이집에 머물며 유아들의 행동과 대화\n\n내용, 놀이 상황 등 전반적인 상황을 모두 기록하였다.\n\n0) (가)는 (나)보다 질적 자료 수집에 용이하다.\n\n® (HS 달리 (다)는 연구자의 주관적 가치가 개입될 우려가\n있다.\n\n@ (다)와 달리 (가)는 인위적으로 통제된 상황에서 변수의 효과\n를 관찰한다.\n\n@ (가)에 비해 (나), (다)는 연구 대상에 대해 십층적으로 파악\n하기 용이하다.\n\n6 (나)와 달리 (가), (CHE 자료 수집 과정에서 언어를 매개로\n\n한 상호 작용이 필수적이다.",
+   "shared_passage_text": "",
+   "stem": "4. (가)~(다)의 일반적인 특징에 대한 설명으로 옮은 것은? (단, (가)~(다)는 각각 면접법, 질문지법, 참여 관찰법 중 하나이다.)",
+   "passage": "자료 수집 방법                        사례\n\n청소년 일탈을 연구하기 위해 가족 간 대화 빈도와 일탈\n(가)     Hee 측정할 수 있는 설문 문항을 개발하여 전국의\n중ㆍ고등학생 2.000명을 대상으로 조사를 실시하였다.\n\n초등학생의 음악 활동과 사회성 간의 관계를 연구하기 위해\n(나)      초등학생 20명과 심층 인터뷰를 하여 오케스트라 활동이\n친구 관계에 미치는 영향을 탐구하였다.\n\n실외 놀이를 통해 나타나는 유아들의 특징을 살펴보고자\n(다)     4개월간 (〉(〉어린이집에 머물며 유아들의 행동과 대화\n\n내용, 놀이 상황 등 전반적인 상황을 모두 기록하였다.\n\n0) (가)는 (나)보다 질적 자료 수집에 용이하다.\n\n® (HS 달리 (다)는 연구자의 주관적 가치가 개입될 우려가\n있다.\n\n@ (다)와 달리 (가)는 인위적으로 통제된 상황에서 변수의 효과\n를 관찰한다.\n\n@ (가)에 비해 (나), (다)는 연구 대상에 대해 십층적으로 파악\n하기 용이하다.\n\n6 (나)와 달리 (가), (CHE 자료 수집 과정에서 언어를 매개로\n\n한 상호 작용이 필수적이다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q04.png",
+   "question_image_sha256": "eaf88c16efed7e09b17f1fd8291b4b3b2449754052ef3c8731dad01c29ead8a5",
+   "image_size_px": [
+    1066,
+    980
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q05",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 5,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      640.8,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 641.9,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "5. (가), (나)에 나타난 사회ㆍ문화 현상을 바라보는 관점에 대한\n\n설명으로 옮지 않은 것은? [Ba]\n\n(가) AAS 학생들에게 지위에 맞는 역할이 무엿인지 강조\n하고, 보상이나 제재를 가하는 기준으로서의 기능을\n수행한다. LAS 학교 구성원들이 지켜야 하는 규범으로,\n구성원들에게 SE] 정체성을 갖도록 하여 학교라는\n작은 사회의 통합을 증진하는 역할을 한다.\n\n(나) 교사는 생활 지도 과정에서 나타나는 학생의 반응을 통리\n자신의 지도 방식에 대해 평가하고 교사로서 자기 정체성\n과 행동을 재구성한다. 따라서 생활 지도는 교사와 학생\n간의 상호 작용과 그 상황에 대한 의미 부여를 Ba\n구성되는 개별적 경혐으로 이해되어야 한다.\n\n(0 (가)의 관접은 사회가 스스로 균형을 유지하려는 속성을 지닌\n다고 본다.\n\n® (나)의 BAS 개인이 상황에 부여한 의미에 기초하여 사회적\n상황에 반응한다고 본다.\n\n(3) (가)의 관점은 사회가 유기체와 유사한 특성을 지니고 있음을,\n(나)의 관점은 인간이 의미를 추구하는 존재임을 가정한다.\n(4) (가)의 관점과 달리 (나)의 AMS 사회가 구성 요소 간의\n\n상호 의존적 관계 BAS 통해 질서와 안정을 이룬다고 본다.\n(5) (나)의 관점과 달리 (가)의 관점은 사회 구조에 대한 BAS\nEsl als) 협사으 olslelt val 하드",
+   "shared_passage_text": "",
+   "stem": "5. (가), (나)에 나타난 사회ㆍ문화 현상을 바라보는 관점에 대한 설명으로 옮지 않은 것은?",
+   "passage": "[Ba]\n\n(가) AAS 학생들에게 지위에 맞는 역할이 무엿인지 강조\n하고, 보상이나 제재를 가하는 기준으로서의 기능을\n수행한다. LAS 학교 구성원들이 지켜야 하는 규범으로,\n구성원들에게 SE] 정체성을 갖도록 하여 학교라는\n작은 사회의 통합을 증진하는 역할을 한다.\n\n(나) 교사는 생활 지도 과정에서 나타나는 학생의 반응을 통리\n자신의 지도 방식에 대해 평가하고 교사로서 자기 정체성\n과 행동을 재구성한다. 따라서 생활 지도는 교사와 학생\n간의 상호 작용과 그 상황에 대한 의미 부여를 Ba\n구성되는 개별적 경혐으로 이해되어야 한다.\n\n(0 (가)의 관접은 사회가 스스로 균형을 유지하려는 속성을 지닌\n다고 본다.\n\n® (나)의 BAS 개인이 상황에 부여한 의미에 기초하여 사회적\n상황에 반응한다고 본다.\n\n(3) (가)의 관점은 사회가 유기체와 유사한 특성을 지니고 있음을,\n(나)의 관점은 인간이 의미를 추구하는 존재임을 가정한다.\n(4) (가)의 관점과 달리 (나)의 AMS 사회가 구성 요소 간의\n\n상호 의존적 관계 BAS 통해 질서와 안정을 이룬다고 본다.\n(5) (나)의 관점과 달리 (가)의 관점은 사회 구조에 대한 BAS\nEsl als) 협사으 olslelt val 하드",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q05.png",
+   "question_image_sha256": "41500cce6b0073ed0b969048cc76b2150d17b48c2ebd33fcb128773952c16a0b",
+   "image_size_px": [
+    1066,
+    1177
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q06",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 6,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      124.93,
+      383.01,
+      372.81
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "6. A, 8 사회의 일반적인 특징에 대한 설명으로 옮은 것은? (단,\nA, 8 사회는 각각 산업 사회와 정보 사회 중 하나이다.) [3점]\n\nA 사회 사회\n직장인 갑은 출근하지 않고 집에서 ㅣ 직장인 SS 매일 아침 9시부터 오후\n컴퓨터로 회사의 ASS 본다. 인터넷을 | 6시까지 자동차 제조 공장에서 일을\n통해 직장 동료 및 협력 Aalst 협의 | 한다. 출근 후 AS AAS 받아 하루\n하며, 팀장 또는 CEOOAl 직접 보고를 | 종일 컨베이어 벨트에 실려 오는 자동차에\n\n하는 등 다양한 업무를 처리한다. | 타이어를 장착하는 일을 수행한다.\n\nODA ASE 8 사회에 비해 면대면 접촉의 비중이 더 높다.\n\n@ AAS Bo] 비해 부가 가치의 원천으로 자본과 노동을\n지식보다 중시한다.\n\n0) 8 사회는 4 사회에 비해 관료제 조직의 비중이 더 높다.\n\n© BASIE A 사회에 비해 다품종 소량 생산 방식이 확대된다.\n\nOA, 0 사회 모두에서는 가상공간의 등장으로 인해 소비자와\n생산자 간의 공간적 제약이 극복된다.",
+   "shared_passage_text": "",
+   "stem": "6. A, 8 사회의 일반적인 특징에 대한 설명으로 옮은 것은? (단, A, 8 사회는 각각 산업 사회와 정보 사회 중 하나이다.) [3점]",
+   "passage": "A 사회 사회\n직장인 갑은 출근하지 않고 집에서 ㅣ 직장인 SS 매일 아침 9시부터 오후\n컴퓨터로 회사의 ASS 본다. 인터넷을 | 6시까지 자동차 제조 공장에서 일을\n통해 직장 동료 및 협력 Aalst 협의 | 한다. 출근 후 AS AAS 받아 하루\n하며, 팀장 또는 CEOOAl 직접 보고를 | 종일 컨베이어 벨트에 실려 오는 자동차에\n\n하는 등 다양한 업무를 처리한다. | 타이어를 장착하는 일을 수행한다.\n\nODA ASE 8 사회에 비해 면대면 접촉의 비중이 더 높다.\n\n@ AAS Bo] 비해 부가 가치의 원천으로 자본과 노동을\n지식보다 중시한다.\n\n0) 8 사회는 4 사회에 비해 관료제 조직의 비중이 더 높다.\n\n© BASIE A 사회에 비해 다품종 소량 생산 방식이 확대된다.\n\nOA, 0 사회 모두에서는 가상공간의 등장으로 인해 소비자와\n생산자 간의 공간적 제약이 극복된다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q06.png",
+   "question_image_sha256": "60a7d6124339077b6b27117cf9af993ecede502b93f3ed17f12bb582fb7aa7ce",
+   "image_size_px": [
+    1045,
+    752
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q07",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 7,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      392.92,
+      383.01,
+      751.88
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 394.03,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "7. (가), (나)에 나타난 개인과 사회의 관계를 바라보는 관점에\n대한 설명으로 Se 것은?\n\n(가) 대학의 강의는 참여하는 구성원 개인의 특성에 따라\n결정된다. 강의의 질은 교수의 능력에 따라 결정되며,\n강의에 대한 평가도 학생들의 개인적 반응에 근거하여\n이루어진다.\n\n(나) 대학의 강의에는 교수와 학생 간에 Bey 구조가 존재하며,\n교수가 학생들의 학업 정도에 따라 성적을 부여하는\n평가 시스템이 존재한다. 또한 강의실에는 수업 시간\n준수와 같이 교수와 학생이 따라야 하는 행동 규칙이\n작용한다.\n\n0) (가)는 사회가 개인으로 환원하여 설명할 수 없는 고유한 성격\n을 지닌다고 본다.\n\n(3) (나)는 개인의 이익이 곧 사회 전체의 이익이라고 본다.\n\n@ (가)는 (나)와 달리 개인에 대한 사회 구조의 영향력을 중시\n한다.\n\n® (가)는(나)와 달리 개인은 집단 전체와의 관련 속에서만 존재\n의미를 지닌다고 본다.\n\n© (나)는(가)와 달리 개인의 자율성보다 사회 규범의 구속성을\n\n중시한다.",
+   "shared_passage_text": "",
+   "stem": "7. (가), (나)에 나타난 개인과 사회의 관계를 바라보는 관점에 대한 설명으로 Se 것은?",
+   "passage": "(가) 대학의 강의는 참여하는 구성원 개인의 특성에 따라\n결정된다. 강의의 질은 교수의 능력에 따라 결정되며,\n강의에 대한 평가도 학생들의 개인적 반응에 근거하여\n이루어진다.\n\n(나) 대학의 강의에는 교수와 학생 간에 Bey 구조가 존재하며,\n교수가 학생들의 학업 정도에 따라 성적을 부여하는\n평가 시스템이 존재한다. 또한 강의실에는 수업 시간\n준수와 같이 교수와 학생이 따라야 하는 행동 규칙이\n작용한다.\n\n0) (가)는 사회가 개인으로 환원하여 설명할 수 없는 고유한 성격\n을 지닌다고 본다.\n\n(3) (나)는 개인의 이익이 곧 사회 전체의 이익이라고 본다.\n\n@ (가)는 (나)와 달리 개인에 대한 사회 구조의 영향력을 중시\n한다.\n\n® (가)는(나)와 달리 개인은 집단 전체와의 관련 속에서만 존재\n의미를 지닌다고 본다.\n\n© (나)는(가)와 달리 개인의 자율성보다 사회 규범의 구속성을\n\n중시한다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q07.png",
+   "question_image_sha256": "4babba907e6d0bdae656f39c7f5d50a2dce63b7053bd4815abc676fc0634ad7e",
+   "image_size_px": [
+    1045,
+    1089
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q08",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 8,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      771.99,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 773.12,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "8. 다음 두 사례에서 공통적으로 부각되는 문화의 속성에 대한\n옮은 AVS <보기>에서 고른 것은? [3점]\n\n© (>(>지역에서는 추운 기후로 인해 집안에 머무르는 시간이 길며, 목재가\n풍부하여 연료 공급이 용이하다. 이로 인하여 이 지역 사람들은 오랫동안\n천천히 약한 불로 ROS 스튜와 같은 Se 즐겨 먹는다.\n\nㅇ 내륙의 분지 지형에 위치한 스스지방에서는 여름에 기온이 매우 높아\n음식 부패 방지를 위해 향신료가 많이 들어간 조리법이 사용되고 있으며,\n향신료의 원료가 되는 작물의 재배 및 유통이 활성화되어 있다.\n\n<보기>\n\nㄱ. 문화는 상징을 통해 다음 세대로 전달:계승된다.\n\nㄴ. 문화는 고정된 것이 아니라 지속적으로 변화한다.\n\nㄷ. 문화는 부분들이 모여 전체로서 하나의 체계를 이룬다.\n\n2. 문화는 특정 상황에서 상대방의 행동 방식을 예측하게\n한다.\n\nMau. Aa tc (3) ㄴㄴ crc (4) ㄴ =z (5) ㅁㄷ 근",
+   "shared_passage_text": "",
+   "stem": "8. 다음 두 사례에서 공통적으로 부각되는 문화의 속성에 대한 옮은 AVS <보기>에서 고른 것은? [3점]",
+   "passage": "© (>(>지역에서는 추운 기후로 인해 집안에 머무르는 시간이 길며, 목재가\n풍부하여 연료 공급이 용이하다. 이로 인하여 이 지역 사람들은 오랫동안\n천천히 약한 불로 ROS 스튜와 같은 Se 즐겨 먹는다.\n\nㅇ 내륙의 분지 지형에 위치한 스스지방에서는 여름에 기온이 매우 높아\n음식 부패 방지를 위해 향신료가 많이 들어간 조리법이 사용되고 있으며,\n향신료의 원료가 되는 작물의 재배 및 유통이 활성화되어 있다.\n\n<보기>\n\nㄱ. 문화는 상징을 통해 다음 세대로 전달:계승된다.\n\nㄴ. 문화는 고정된 것이 아니라 지속적으로 변화한다.\n\nㄷ. 문화는 부분들이 모여 전체로서 하나의 체계를 이룬다.\n\n2. 문화는 특정 상황에서 상대방의 행동 방식을 예측하게\n한다.\n\nMau. Aa tc (3) ㄴㄴ crc (4) ㄴ =z (5) ㅁㄷ 근",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q08.png",
+   "question_image_sha256": "e8fcc2ac01ce99db3409a09b8fd2164945d97569edc012e88e157843c1c4bef8",
+   "image_size_px": [
+    1045,
+    779
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q09",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 9,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      124.93,
+      738.56,
+      416.98
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "9. 밑줄 친 (ㅠ~ㅇㅇ에 대한 설명으로 Se 것은?\n\n갑은 자동차가 스스로 운전하는 자율 주행차의 설계와 관련된 두 가지 주제를\n연구하기 위해, 자발적으로 참여한 1,000명을 500명씩 GA BS 집단으로\n나누어 온라인 설문 조사를 실시하였다. 먼저 자율 주행차의 설계 기준어\n대한 @사람들의 인식이 상황에 따라서 어떻게 달라지는지 알아보고ㅅ\n하였다. 이를 위해 A 집단을 대상으로 차량과 보행자의 충돌 상황에서\n탑승자와 보행자가 1:1인 경우와 1:100인 SSH 나누어 @1차 BAS\n하였다. @보행자보다 탑승자가 보호되어야 한다고 생각하는가에 대해,\n전자의 경우 ‘Of 라는 SHO! 75%였지만, 후자의 경우에는 20%로 낮아졌다.\n다음으로 그러한 설계에 대한 인식이 구매로 연결될지를 알아보기 위히\nBAS 대상으로 O24 조사를 실시하였다. 피해를 입는 보행자의 +S\n최소화하도록 설계해야 한다는 데에는 70%가 동의했지만, 이런 차를 구ㅁ\n하겠다는 SHE 30%에 불과했다. 이를 통해 GE 사람들의 인식과 선택\n간의 불일치가 있다는 것을 발견하였고, 이 결과가 OAS 주행차의 보급\n시기를 늦추는 데 SHS 미칠 수 있을 것이라고 해석하였다.\n\n02 ayy A AES 실험 집단, BYES 통제 집단이다.\n@ 은 사전 조사, OL 사후 조사이다.\n\n@ OF OF 조작적으로 정의한 것이다.\n\n® 쓰은 모집단에 대해 일반화할 수 있다.\n\n© Of 에서 연역적으로 도출되었다.",
+   "shared_passage_text": "",
+   "stem": "9. 밑줄 친 (ㅠ~ㅇㅇ에 대한 설명으로 Se 것은?",
+   "passage": "갑은 자동차가 스스로 운전하는 자율 주행차의 설계와 관련된 두 가지 주제를\n연구하기 위해, 자발적으로 참여한 1,000명을 500명씩 GA BS 집단으로\n나누어 온라인 설문 조사를 실시하였다. 먼저 자율 주행차의 설계 기준어\n대한 @사람들의 인식이 상황에 따라서 어떻게 달라지는지 알아보고ㅅ\n하였다. 이를 위해 A 집단을 대상으로 차량과 보행자의 충돌 상황에서\n탑승자와 보행자가 1:1인 경우와 1:100인 SSH 나누어 @1차 BAS\n하였다. @보행자보다 탑승자가 보호되어야 한다고 생각하는가에 대해,\n전자의 경우 ‘Of 라는 SHO! 75%였지만, 후자의 경우에는 20%로 낮아졌다.\n다음으로 그러한 설계에 대한 인식이 구매로 연결될지를 알아보기 위히\nBAS 대상으로 O24 조사를 실시하였다. 피해를 입는 보행자의 +S\n최소화하도록 설계해야 한다는 데에는 70%가 동의했지만, 이런 차를 구ㅁ\n하겠다는 SHE 30%에 불과했다. 이를 통해 GE 사람들의 인식과 선택\n간의 불일치가 있다는 것을 발견하였고, 이 결과가 OAS 주행차의 보급\n시기를 늦추는 데 SHS 미칠 수 있을 것이라고 해석하였다.\n\n02 ayy A AES 실험 집단, BYES 통제 집단이다.\n@ 은 사전 조사, OL 사후 조사이다.\n\n@ OF OF 조작적으로 정의한 것이다.\n\n® 쓰은 모집단에 대해 일반화할 수 있다.\n\n© Of 에서 연역적으로 도출되었다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q09.png",
+   "question_image_sha256": "0bba89d85730fdb9e1685cb2884797d5abc0786ecdb6381c9a66e2b04f667772",
+   "image_size_px": [
+    1066,
+    886
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q10",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 10,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      499.06,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 500.18,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "10. 다음 자료에 대한 분석으로 옮은 것은? (단, <자료1>의\n(가)~(다)는 각각 발명, 직접 전파, 자극 전파 중 하나이다.)\n[3점]\n\n6                                                           0\n\n<자료 1> 문화 변동의 요인\n\n문화 변동의 내재적 요인인가? LE (가)\nyo U2\n다른 문화로부터 아이디어를 Hoi | ol\n새로운 문화 요소를 만들었는가? ㅣ Lb\nyo 니요\n(다)\n\n<자료 2> 문화 변동 가상 사례\n\n사건의 흐름                    |\n\n고유한 문자가 없었던 ATES 갑국과의 교류를 통해 갑국의\n\nEAS 모방한 새로운 문자를 hes.\n\n갑국은 자국 문화를 주변국에 이식하겠다는 의도로 BSS\n정복한 후, Be 고유의 문자 사용을 금지함. 그에 따라 BS\n에서 사용하는 문자는 갑국의 BAS 대체되어 ABA.\n\n감국에 의해 BHO] 정복당하는 것을 지켜본 ARS 자국의\n안보를 위해 MES 무기인 “Be 개발하고, 갑국과의 TRS\n단절함.\n\nABS 갑국을 견제하기 위해 CHO 무기를 지원함. 이후 CHE\nAZ| '활'을 활용하여 현악기를 개발하고, 이를 궁중 악기로\n채택함.\n\n—\n\nD 4&국에서는 (다)에 의한 문화 응합이 나타났다.\n\n(9) 8국에서는 (다)에 의한 문화 동화가 나타났다.\n\n@ CHAS 강제적 문화 접변의 결과로 (나)에 의한 문화 WFO)\n나타났다.\n\n© 0국에서는 AB} 달리 (가)에 의한 문화 변동이 나타났다.\n\nGA CHAK (나)르 이하 무하 고조] 나타난다",
+   "shared_passage_text": "",
+   "stem": "10. 다음 자료에 대한 분석으로 옮은 것은? (단, <자료1>의 (가)~(다)는 각각 발명, 직접 전파, 자극 전파 중 하나이다.) [3점]",
+   "passage": "6                                                           0\n\n<자료 1> 문화 변동의 요인\n\n문화 변동의 내재적 요인인가? LE (가)\nyo U2\n다른 문화로부터 아이디어를 Hoi | ol\n새로운 문화 요소를 만들었는가? ㅣ Lb\nyo 니요\n(다)\n\n<자료 2> 문화 변동 가상 사례\n\n사건의 흐름                    |\n\n고유한 문자가 없었던 ATES 갑국과의 교류를 통해 갑국의\n\nEAS 모방한 새로운 문자를 hes.\n\n갑국은 자국 문화를 주변국에 이식하겠다는 의도로 BSS\n정복한 후, Be 고유의 문자 사용을 금지함. 그에 따라 BS\n에서 사용하는 문자는 갑국의 BAS 대체되어 ABA.\n\n감국에 의해 BHO] 정복당하는 것을 지켜본 ARS 자국의\n안보를 위해 MES 무기인 “Be 개발하고, 갑국과의 TRS\n단절함.\n\nABS 갑국을 견제하기 위해 CHO 무기를 지원함. 이후 CHE\nAZ| '활'을 활용하여 현악기를 개발하고, 이를 궁중 악기로\n채택함.\n\n—\n\nD 4&국에서는 (다)에 의한 문화 응합이 나타났다.\n\n(9) 8국에서는 (다)에 의한 문화 동화가 나타났다.\n\n@ CHAS 강제적 문화 접변의 결과로 (나)에 의한 문화 WFO)\n나타났다.\n\n© 0국에서는 AB} 달리 (가)에 의한 문화 변동이 나타났다.\n\nGA CHAK (나)르 이하 무하 고조] 나타난다",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q10.png",
+   "question_image_sha256": "c6f902dae15e831f0b9be25533c62aa28fec26a482c4d9d63430e27e28d586bf",
+   "image_size_px": [
+    1066,
+    1607
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q11",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 11,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      124.93,
+      383.01,
+      530.7
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "11. He 일탈 이론 A~CS 질문에 따라 구분한 것이다. 이에 대한\n옮은 설명만을 (보기>에서 있는 대로 고른 것은? (단, &~0는\n각각 낙인 이론, 아노미 이론, 차별 교제 이론 중 하나이다.) [34]\n\n이론 르모 (가)          (나)          (다)\nA          여        아니요      아니요\nB        아니요      아니요        예\nCc        아니요        예        아니요\n<보기>〉\n\nㄱ. AZ} 아노미 이론, 8가 APY 교제 이론이라면, \"타인들과의\n상호 작용이 일탈 발생 과정에 미치는 영향을 중시하는가?'는\n(다)에 적절하다.\n\nㄴ. 8가 낙인 이론, C7} 아노미 이론이라면, “일탈자와의\n접촉 ATS 일탈에 대한 대책으로 보는가?\"는 (가)에\n적절하다.\n\nㄷ. (가)가 \"사회 PHS) 통제력 회복을 일탈에 대한 대책으로\n보는가?\"라면, “일탈의 원인으로 구조적인 gle 강조\n하는가?\"는 (나)에 적절하다.\n\n2. (가)가 “일탈 행동에 대한 부정적 반응을 일탈의 원인으로\n보는가\"이고, (다)가 \"문화적 목표에 도달할 기회 제공을\n일탈에 대한 대책으로 보는가?\"라면, CE 차별 교제\n이론이다.\n\n0) ㄱ, ㄷ    0) ㄴ, ㄷ    (3) ㄴ, 2\n@14,u,2   (6600 ㄱ, ㄷ, 2",
+   "shared_passage_text": "",
+   "stem": "11. He 일탈 이론 A~CS 질문에 따라 구분한 것이다. 이에 대한 옮은 설명만을 (보기>에서 있는 대로 고른 것은? (단, &~0는 각각 낙인 이론, 아노미 이론, 차별 교제 이론 중 하나이다.)",
+   "passage": "[34]\n\n이론 르모 (가)          (나)          (다)\nA          여        아니요      아니요\nB        아니요      아니요        예\nCc        아니요        예        아니요\n<보기>〉\n\nㄱ. AZ} 아노미 이론, 8가 APY 교제 이론이라면, \"타인들과의\n상호 작용이 일탈 발생 과정에 미치는 영향을 중시하는가?'는\n(다)에 적절하다.\n\nㄴ. 8가 낙인 이론, C7} 아노미 이론이라면, “일탈자와의\n접촉 ATS 일탈에 대한 대책으로 보는가?\"는 (가)에\n적절하다.\n\nㄷ. (가)가 \"사회 PHS) 통제력 회복을 일탈에 대한 대책으로\n보는가?\"라면, “일탈의 원인으로 구조적인 gle 강조\n하는가?\"는 (나)에 적절하다.\n\n2. (가)가 “일탈 행동에 대한 부정적 반응을 일탈의 원인으로\n보는가\"이고, (다)가 \"문화적 목표에 도달할 기회 제공을\n일탈에 대한 대책으로 보는가?\"라면, CE 차별 교제\n이론이다.\n\n0) ㄱ, ㄷ    0) ㄴ, ㄷ    (3) ㄴ, 2\n@14,u,2   (6600 ㄱ, ㄷ, 2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q11.png",
+   "question_image_sha256": "33ea428ed94cfbf3beff494ac8b1617d2ec11315f0d07970ba47fad9f4e40903",
+   "image_size_px": [
+    1045,
+    1231
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q12",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 12,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      557.4,
+      383.01,
+      755.18
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 558.73,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "12. A~C 꾼화의 일반적인 특징에 대한 설명으로 옮은 것은?\n\nJ 한 사회 구성원들이 전반적으로 공유하는 문화를 A 문화라 한다. 반면 사회\n\n의 일부 구성원들만 공유하여 다른 구성원들과 구분되는 생활양식을 1 문화라고\n한다. 8 문화는 이를 공유하는 구성원들의 정체성을 알려 주는 문화로서 그들에게\n중요한 삶의 양식이 된다. BES 중에는 그 사회의 지배 문화에 저항하거나\n대립하는 문화가 있는데, 이를 (:문화라 한다.\n\n@ A 문화는 8 문화의 총합으로 설명할 수 없다.\n\n@B 문화에는 A 문화의 문화 요소가 존재하지 않는다.\n\n(3) 8 Ess} 달리 (: 문화는 집단 간 SSS 초래하여 사회 통합을\n저해할 수 있다.\n\n(4) 사회가 다원화될수록 (: 문화는 4 문화로 수렴되는 경향을 보인다.\n\n(5) C 문화와 달리 8 문화는 사회 변화에 따라 A 문화가 되기도 한다.",
+   "shared_passage_text": "",
+   "stem": "12. A~C 꾼화의 일반적인 특징에 대한 설명으로 옮은 것은?",
+   "passage": "J 한 사회 구성원들이 전반적으로 공유하는 문화를 A 문화라 한다. 반면 사회\n\n의 일부 구성원들만 공유하여 다른 구성원들과 구분되는 생활양식을 1 문화라고\n한다. 8 문화는 이를 공유하는 구성원들의 정체성을 알려 주는 문화로서 그들에게\n중요한 삶의 양식이 된다. BES 중에는 그 사회의 지배 문화에 저항하거나\n대립하는 문화가 있는데, 이를 (:문화라 한다.\n\n@ A 문화는 8 문화의 총합으로 설명할 수 없다.\n\n@B 문화에는 A 문화의 문화 요소가 존재하지 않는다.\n\n(3) 8 Ess} 달리 (: 문화는 집단 간 SSS 초래하여 사회 통합을\n저해할 수 있다.\n\n(4) 사회가 다원화될수록 (: 문화는 4 문화로 수렴되는 경향을 보인다.\n\n(5) C 문화와 달리 8 문화는 사회 변화에 따라 A 문화가 되기도 한다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q12.png",
+   "question_image_sha256": "7e29ed0a7bacf20dd693dbbc43d91b5b1953e864456d9e5dbefde2698e494912",
+   "image_size_px": [
+    1045,
+    600
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q13",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 13,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      784.19,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 785.34,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "13. 다음은 사회 제도에 관한 글이다. (가)에 들어갈 내용으로 가장\n적절한 것은? BA]\n\n수렵 사회와 농경 사회의 다양한 문화 연구들을 보면 수렵 사회에서는\n핵가족이 보편적이지만, 농경 사회에서는 핵가족보다 확대 가족이 많다는\nAs 알 수 있다. 따라서 식량 공급 방식과 같은 경제 제도가 가족의 SHS\n결정하며, 사회 EAS) 분화 정도가 클수록 확대 가족이 보편화된다고 볼\n수 있다. 그런데 산업 사회에서는 다시 핵가족이 늘어나고 있다. 이는\n가족 단위 노동력의 수요가 점점 줄어들고 개인의 SHO] 중요시되며, 사회\n이동과 인구 이동률이 높아진 결과에서 기인한다. 그리고 가족은 개인이 노동\n시장에 참여할 수 있도록 노동에 대한 가치와 태도에 대해 교육함으로써\n산업화에 이바지한다. 따라서 사회 제도는          (가)\n\n(1) 사회 구성원의 사고와 행동을 통제한다.\n@ 사회 구성원의 욕구 SHS 위한 수단으로 형성된다.\n\n(9) 사회 구성원 간의 행동에 대한 예측 가능성을 높인다.\n\n(4) 한 번 형성되면 쉽게 바뀌지 않고 안정적으로 유지된다.\n\n(5) 유기저 02 DSO doy as 의조저ㅇ근 기늦으 Adsl",
+   "shared_passage_text": "",
+   "stem": "13. 다음은 사회 제도에 관한 글이다. (가)에 들어갈 내용으로 가장 적절한 것은?",
+   "passage": "BA]\n\n수렵 사회와 농경 사회의 다양한 문화 연구들을 보면 수렵 사회에서는\n핵가족이 보편적이지만, 농경 사회에서는 핵가족보다 확대 가족이 많다는\nAs 알 수 있다. 따라서 식량 공급 방식과 같은 경제 제도가 가족의 SHS\n결정하며, 사회 EAS) 분화 정도가 클수록 확대 가족이 보편화된다고 볼\n수 있다. 그런데 산업 사회에서는 다시 핵가족이 늘어나고 있다. 이는\n가족 단위 노동력의 수요가 점점 줄어들고 개인의 SHO] 중요시되며, 사회\n이동과 인구 이동률이 높아진 결과에서 기인한다. 그리고 가족은 개인이 노동\n시장에 참여할 수 있도록 노동에 대한 가치와 태도에 대해 교육함으로써\n산업화에 이바지한다. 따라서 사회 제도는          (가)\n\n(1) 사회 구성원의 사고와 행동을 통제한다.\n@ 사회 구성원의 욕구 SHS 위한 수단으로 형성된다.\n\n(9) 사회 구성원 간의 행동에 대한 예측 가능성을 높인다.\n\n(4) 한 번 형성되면 쉽게 바뀌지 않고 안정적으로 유지된다.\n\n(5) 유기저 02 DSO doy as 의조저ㅇ근 기늦으 Adsl",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q13.png",
+   "question_image_sha256": "f2a48f0fc1d3497865536bb05dc62240ae7dc13f8922695711cf6695642c3c3e",
+   "image_size_px": [
+    1045,
+    742
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q14",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 14,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      124.93,
+      738.56,
+      516.53
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "14. 갑과 을이 가진 문화 이해의 관점에 대한 SS AVS <보기>\n에서 고른 것은?\n\nOMe 경제적 측면에 치우친 주택에 대한 연구 경향을\n비판하며, 주택의 문화적 의미에 대해 연구하였다. 그 결과\n갑은 주택이 경제적 의미뿐만 아니라 사회적 성향, 자연\n조건, 자원의 영향과 밀접하게 관련되어 있다는 사실을\n규명하였다.\n\nㅇ 을은 남태평양의 여러 섬에서 나타나는 선물 문화를 연구한\n결과, 선물의 형태가 각 지역의 특성에 따라 다양하지만\n선물을 주고받는 것은 어느 사회에서나 사회를 유지하는\n데 중요한 기능을 한다는 결론을 내렸다.\n\n<보기>\n\nㄱ. 갑의 관점은 문화가 부분이 아닌 전체로서의 의미를 갖는\n다고 본다.\n\nㄴ. 을의 관점은 여러 문화를 비교하면서 공유되는 보편성을\n파악한다.\n\nㄷ. 갑의 관접은 을의 관점과 달리 자문화를 객관적으로 파악\n해야 한다고 본다.\n\n2. 을의 관접은 갑의 관점과 달리 모든 문화는 고유한 가치를\n지닌다고 본다.\n\n00 ㄱㄱ, ㄴㄴ (0) ㄱ, ㄷ (0) ㄴ, ㄷ @r.,2 _ (60 ㄷ,2",
+   "shared_passage_text": "",
+   "stem": "14. 갑과 을이 가진 문화 이해의 관점에 대한 SS AVS <보기> 에서 고른 것은?",
+   "passage": "OMe 경제적 측면에 치우친 주택에 대한 연구 경향을\n비판하며, 주택의 문화적 의미에 대해 연구하였다. 그 결과\n갑은 주택이 경제적 의미뿐만 아니라 사회적 성향, 자연\n조건, 자원의 영향과 밀접하게 관련되어 있다는 사실을\n규명하였다.\n\nㅇ 을은 남태평양의 여러 섬에서 나타나는 선물 문화를 연구한\n결과, 선물의 형태가 각 지역의 특성에 따라 다양하지만\n선물을 주고받는 것은 어느 사회에서나 사회를 유지하는\n데 중요한 기능을 한다는 결론을 내렸다.\n\n<보기>\n\nㄱ. 갑의 관점은 문화가 부분이 아닌 전체로서의 의미를 갖는\n다고 본다.\n\nㄴ. 을의 관점은 여러 문화를 비교하면서 공유되는 보편성을\n파악한다.\n\nㄷ. 갑의 관접은 을의 관점과 달리 자문화를 객관적으로 파악\n해야 한다고 본다.\n\n2. 을의 관접은 갑의 관점과 달리 모든 문화는 고유한 가치를\n지닌다고 본다.\n\n00 ㄱㄱ, ㄴㄴ (0) ㄱ, ㄷ (0) ㄴ, ㄷ @r.,2 _ (60 ㄷ,2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q14.png",
+   "question_image_sha256": "71a143f8087871d5d80dede270a8778ee72a627663a406dd428fbba0c41673db",
+   "image_size_px": [
+    1066,
+    1188
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q15",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 15,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      647.72,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 648.85,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "15. 근대화를 바라보는 갑, So] 관점에 대한 설명으로 Se 것은?\n[3점]\n\n로부터 발전된 기술과 제도, 가치 | | 자신이 생산한 경제적 잉여를 서구\n등을 받아들여 그들과 같은 방식으로 | | 선진국에 착취당했기 때문이야. 이를\n변화하고자 노력해야 가능한 거야.    근본적으로 개선하지 않으면 저개발국의\n\n제3세계의 근대화는 선진화된 사회  제3세계가 근대화되지 못하는 이유는\n발전은 쉽지 않아.\n\n© 감의 관점은 을의 관점과 달리 특정 국가의 지속적인 저발전\n상태를 설명하기에 적합하다.\n\n@ 갑의 관점은 을의 관점과 달리 제3세계가 선진국에 경제적\n으로 종속될 때 경제 발전 정도가 낮다고 본다.\n\n@ 을의 AVS 갑의 관접과 달리 사회 발전을 숙명론적인 시각\n으로 바라본다.\n\n@ 을의 관점은 갑의 관점과 달리 제3세계 발전의 원동력으로\n국가 내부의 자쟁력을 중시한다.\n\n(9) 갑, 을의 관점은 모두 국제 사회를 국가 간 협업의 관계로\n성명하다",
+   "shared_passage_text": "",
+   "stem": "15. 근대화를 바라보는 갑, So] 관점에 대한 설명으로 Se 것은? [3점]",
+   "passage": "로부터 발전된 기술과 제도, 가치 | | 자신이 생산한 경제적 잉여를 서구\n등을 받아들여 그들과 같은 방식으로 | | 선진국에 착취당했기 때문이야. 이를\n변화하고자 노력해야 가능한 거야.    근본적으로 개선하지 않으면 저개발국의\n\n제3세계의 근대화는 선진화된 사회  제3세계가 근대화되지 못하는 이유는\n발전은 쉽지 않아.\n\n© 감의 관점은 을의 관점과 달리 특정 국가의 지속적인 저발전\n상태를 설명하기에 적합하다.\n\n@ 갑의 관점은 을의 관점과 달리 제3세계가 선진국에 경제적\n으로 종속될 때 경제 발전 정도가 낮다고 본다.\n\n@ 을의 AVS 갑의 관접과 달리 사회 발전을 숙명론적인 시각\n으로 바라본다.\n\n@ 을의 관점은 갑의 관점과 달리 제3세계 발전의 원동력으로\n국가 내부의 자쟁력을 중시한다.\n\n(9) 갑, 을의 관점은 모두 국제 사회를 국가 간 협업의 관계로\n성명하다",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q15.png",
+   "question_image_sha256": "b7e608aaf1dc0405b10fb65bb16e724b51dc3ca401585e003723104596c3b470",
+   "image_size_px": [
+    1066,
+    1156
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q16",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 16,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      124.93,
+      383.01,
+      466.09
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "16. 사회 불평등을 바라보는 관점 A, Bo] 대한 설명으로 Se 것은?\n\n[3점]\n하층 자녀가 능력이 있고 그 수준이\n동일하다고 할 때, 그들의 노력 수준과         0            (@ 표현했습니다. )\n계층 이동 가능성 간의 관계가 사회         a\n불평등을 바라보는 관점 A, 에서 | || sx 자너의\n어떻게 나타나는지 그림으로 표현해 ||| 계층 이동\n보세요.                        가능성\n\n낮음\n낮음\n\nDAS 희소가치가 개인의 사회적 기여도와 무관하게 분배된다\n고 본다.\n\n(2) &는 희소가치의 분배 수준이 균등해질수록 사회적 효율성이\n낮아진다고 본다.\n\n@ Be 개인의 성취동기와 희소가치의 차등 분배 수준 사이에\n정(+)의 관계가 있다고 본다.\n\n® Be 희소가치의 차등 분배 수준과 사회 갈등 정도 사이에 부\n(-)의 관계가 있다고 본다.\n\nOAS FES] 계층과 자녀의 사회적 성공 가능성 사이에 정\n(+)의 관계가 있다고 보고, BE 무관하다고 본다.",
+   "shared_passage_text": "",
+   "stem": "16. 사회 불평등을 바라보는 관점 A, Bo] 대한 설명으로 Se 것은? [3점]",
+   "passage": "하층 자녀가 능력이 있고 그 수준이\n동일하다고 할 때, 그들의 노력 수준과         0            (@ 표현했습니다. )\n계층 이동 가능성 간의 관계가 사회         a\n불평등을 바라보는 관점 A, 에서 | || sx 자너의\n어떻게 나타나는지 그림으로 표현해 ||| 계층 이동\n보세요.                        가능성\n\n낮음\n낮음\n\nDAS 희소가치가 개인의 사회적 기여도와 무관하게 분배된다\n고 본다.\n\n(2) &는 희소가치의 분배 수준이 균등해질수록 사회적 효율성이\n낮아진다고 본다.\n\n@ Be 개인의 성취동기와 희소가치의 차등 분배 수준 사이에\n정(+)의 관계가 있다고 본다.\n\n® Be 희소가치의 차등 분배 수준과 사회 갈등 정도 사이에 부\n(-)의 관계가 있다고 본다.\n\nOAS FES] 계층과 자녀의 사회적 성공 가능성 사이에 정\n(+)의 관계가 있다고 보고, BE 무관하다고 본다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q16.png",
+   "question_image_sha256": "3669d4243b24047b0605abf4f1617727c03c8b23477d64e5fe1ff0e61bdea0cc",
+   "image_size_px": [
+    1045,
+    1035
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q17",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 17,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      485.54,
+      383.01,
+      775.94
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 486.71,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "17. 그림의 &~(는 우리나라 사회 보장 제도이다. 이에 대한 분석\n으로 옮은 것은? (HACE 각각 공공 부조, 사회 보험, 사회\n\n서비스 중 하나이다.) [3점]\n\n비금전적 AAS 원칙으로 하는가? […….\n\n강제 가입을 원칙으로 하는가?\n\n@ 수혜 대상자에 대한 자립과 자활 보장을 목적으로 한다.' 는\n특징은 에는 나타나고, 8에는 나타나지 않는다.\n\n@ 수혜 정도와 상관없이 능력에 따라 비용을 부담한다.'는\n특징은 Ad} Bo] BHO 나타난다.\n\n@) 국가와 지방 자치 단체가 비용을 전액 부담하는 것을 원칙으로\n한다. 는 특징은 Bolts 나타나고, &에는 나타나지 않는다.\n\n@) 사전 예방적 성격이 강하다. 는 특징은 Bo} Co] 공통으로\n나타난다.\n\n© YE 부조의 성격이 강하다. 는 특징은 (에는 나타나고, Ag}\n에는 나타나지 않는다.",
+   "shared_passage_text": "",
+   "stem": "17. 그림의 &~(는 우리나라 사회 보장 제도이다. 이에 대한 분석 으로 옮은 것은?",
+   "passage": "(HACE 각각 공공 부조, 사회 보험, 사회\n\n서비스 중 하나이다.) [3점]\n\n비금전적 AAS 원칙으로 하는가? […….\n\n강제 가입을 원칙으로 하는가?\n\n@ 수혜 대상자에 대한 자립과 자활 보장을 목적으로 한다.' 는\n특징은 에는 나타나고, 8에는 나타나지 않는다.\n\n@ 수혜 정도와 상관없이 능력에 따라 비용을 부담한다.'는\n특징은 Ad} Bo] BHO 나타난다.\n\n@) 국가와 지방 자치 단체가 비용을 전액 부담하는 것을 원칙으로\n한다. 는 특징은 Bolts 나타나고, &에는 나타나지 않는다.\n\n@) 사전 예방적 성격이 강하다. 는 특징은 Bo} Co] 공통으로\n나타난다.\n\n© YE 부조의 성격이 강하다. 는 특징은 (에는 나타나고, Ag}\n에는 나타나지 않는다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q17.png",
+   "question_image_sha256": "613931e5e309d5f2fdce583b7aa0e4811794bc9da283092dc06bf55a2cbf546b",
+   "image_size_px": [
+    1045,
+    881
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q18",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 18,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      795.06,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 796.44,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "18. 대중 매체 4~(에 대한 SS 설명만을 <보기>에서 있는 대로\n\n고른 것은?\n\nSS -A~CE 각각 누리 소통망(6409), 서적, TV 중 하나이다.\n358 ㆍ정보 전달의 양방향성 측면에서 보면 C7} A, 8보다 높은 편이다.\nSe SUA] 정보 접근성 측면에서 보면 BI} ASCH 높은 편이다.\n\n<보기>〉\nㄱ. A= 보다 생동감 있는 정보 전달이 용이하다.\n\nㄴ. BE (보다 정보의 복제와 재가공의 용이성이 낮다.\n\nㄷ. Ce Bur} 정보의 생산자와 소비자 간의 경계가 모호하다.\n2, A, Bo} 달리 Ce 수용자별 정보 획득의 동시성이 나타난다.\n\n060) ㄱ, ㄴ    (2) ㄱ, 2    (03) ㄴ, ㄷ\n\n(4) ㄱ ㄷ 큰   6uU cz",
+   "shared_passage_text": "",
+   "stem": "18. 대중 매체 4~(에 대한 SS 설명만을 <보기>에서 있는 대로 고른 것은?",
+   "passage": "SS -A~CE 각각 누리 소통망(6409), 서적, TV 중 하나이다.\n358 ㆍ정보 전달의 양방향성 측면에서 보면 C7} A, 8보다 높은 편이다.\nSe SUA] 정보 접근성 측면에서 보면 BI} ASCH 높은 편이다.\n\n<보기>〉\nㄱ. A= 보다 생동감 있는 정보 전달이 용이하다.\n\nㄴ. BE (보다 정보의 복제와 재가공의 용이성이 낮다.\n\nㄷ. Ce Bur} 정보의 생산자와 소비자 간의 경계가 모호하다.\n2, A, Bo} 달리 Ce 수용자별 정보 획득의 동시성이 나타난다.\n\n060) ㄱ, ㄴ    (2) ㄱ, 2    (03) ㄴ, ㄷ\n\n(4) ㄱ ㄷ 큰   6uU cz",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q18.png",
+   "question_image_sha256": "d8703cb36710013668c310845fc2934a59e7bc88404cc431501d848bf380a804",
+   "image_size_px": [
+    1045,
+    709
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q19",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 19,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      124.93,
+      738.56,
+      501.69
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "19. ee 글을 동하   도출할 수 있는 SE 내용만을 <보기>에서 있는\n\n“유리 천장' 은 여성이 조직에서 상위 직급으로 승진할 때\n겪는 Eo] 보이지 않는 장벽' 을 의미한다. 유리 천장의 유형\n으로 여성의 임무 능력에 대한 근거 없는 의심, 비공식 자리\n\n에서의 의도적 매제 등을 들 수 있다. 한편 같은 직급이더라도\n\n승진에 유리한 핵심 업무가 있을 수 있는데, 여성이 핵심\n업무로부터 수평적으로 분리되는 현상을 Fey ce 표현\n한다.\n\n<보기>\n\nㄱ. 직장 내 양성 평등 문화의 확산은 유리 천장 현상을 완화\n하는 데 기여한다.\n\nㄴ. 여성에 대한 사회적 차별은 남성과 여성의 개인적 능력\n차이에서 기인한다.\n\nㄷ. 유리벽 현상은 조직 내에서 특정 성에 대한 차별이 구조적\n으로 나타나는 현상이다.\n\n2. 유리 천장과 유리벽 현상이 제거되면 사회적 자원의 배분\n과정에서 기회의 공정성이 제고될 것이다.\n\n0)ㄱ,ㄷ    (00) ㄴ, ㄷ    (3) ㄴ, 2\n000ㄱ,ㄴ, 2   (66) ㄱ, ㄷ, 2",
+   "shared_passage_text": "",
+   "stem": "",
+   "passage": "19. ee 글을 동하   도출할 수 있는 SE 내용만을 <보기>에서 있는\n\n“유리 천장' 은 여성이 조직에서 상위 직급으로 승진할 때\n겪는 Eo] 보이지 않는 장벽' 을 의미한다. 유리 천장의 유형\n으로 여성의 임무 능력에 대한 근거 없는 의심, 비공식 자리\n\n에서의 의도적 매제 등을 들 수 있다. 한편 같은 직급이더라도\n\n승진에 유리한 핵심 업무가 있을 수 있는데, 여성이 핵심\n업무로부터 수평적으로 분리되는 현상을 Fey ce 표현\n한다.\n\n<보기>\n\nㄱ. 직장 내 양성 평등 문화의 확산은 유리 천장 현상을 완화\n하는 데 기여한다.\n\nㄴ. 여성에 대한 사회적 차별은 남성과 여성의 개인적 능력\n차이에서 기인한다.\n\nㄷ. 유리벽 현상은 조직 내에서 특정 성에 대한 차별이 구조적\n으로 나타나는 현상이다.\n\n2. 유리 천장과 유리벽 현상이 제거되면 사회적 자원의 배분\n과정에서 기회의 공정성이 제고될 것이다.\n\n0)ㄱ,ㄷ    (00) ㄴ, ㄷ    (3) ㄴ, 2\n000ㄱ,ㄴ, 2   (66) ㄱ, ㄷ, 2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q19.png",
+   "question_image_sha256": "34f6a507c666c0d7dd67b859298e930f9ba9e1f74713431640bb597e77490d8c",
+   "image_size_px": [
+    1066,
+    1143
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q20",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2017_SEPTEMBER",
+   "year": 2017,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 20,
+   "source_file": "2017학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "71aa0817a79d8dd134cb15edae8f553aa122e17b974f137a939f0dd06c901d85",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      537.62,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 538.75,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "20. 다음 자료는 갑국의 세대 간 계층 이동 현황을 나타낸 것이다.\n\n이에 대한 분석으로 Se 것은?\n\n[세대별 계층의 상대적 비율]     [부모 계층 대비 자녀 계층의 세대 간 이동 비율]\n\n상층                                   상승\n상증                                    os\n\n주츠+ 하층                                     3      B\n중층+하층                                      10\n3                                                            부      =\n7                                      기         = yy 7248\ni\n4                                             프\n30\n_                        9\n하강                    10\n* 모든 부모의 AYE 1명이고, 갑국의\n** 부모 세대 하층에서 자녀 세대 상층\nexe 자녀 계층 중층에서 부모와 자녀의 계층 일치 비율과 불일치 비율의 상대적 비는 1:1이다.\n\n(1) 부모 세대보다 자녀 세대에서 사회 통합의 필요성이 낮아졌다.\n\n(3) 자녀 세대 계층 대비 부모와 자녀의 계층 일치 비율은 하층이\n가장 높다.\n\n(3) 부모 세대 계층 대비 자녀와 부모의 계층 불일치 비율은 상층\n보다 하층이 높다.\n\n(4) 부모 세대 상층과 하층의 합 대비 부모 세대 중층의 상대적\n비율은 Aur} 크다.\n\n(5) 부모 세대 상층 대비 부모 상층에서 자녀 하층으로의 세대 간\n이동 비율은 Bur} 작다.\n\n* 확인 사항\nㅇ 답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n하시오.",
+   "shared_passage_text": "",
+   "stem": "20. 다음 자료는 갑국의 세대 간 계층 이동 현황을 나타낸 것이다. 이에 대한 분석으로 Se 것은?",
+   "passage": "[세대별 계층의 상대적 비율]     [부모 계층 대비 자녀 계층의 세대 간 이동 비율]\n\n상층                                   상승\n상증                                    os\n\n주츠+ 하층                                     3      B\n중층+하층                                      10\n3                                                            부      =\n7                                      기         = yy 7248\ni\n4                                             프\n30\n_                        9\n하강                    10\n* 모든 부모의 AYE 1명이고, 갑국의\n** 부모 세대 하층에서 자녀 세대 상층\nexe 자녀 계층 중층에서 부모와 자녀의 계층 일치 비율과 불일치 비율의 상대적 비는 1:1이다.\n\n(1) 부모 세대보다 자녀 세대에서 사회 통합의 필요성이 낮아졌다.\n\n(3) 자녀 세대 계층 대비 부모와 자녀의 계층 일치 비율은 하층이\n가장 높다.\n\n(3) 부모 세대 계층 대비 자녀와 부모의 계층 불일치 비율은 상층\n보다 하층이 높다.\n\n(4) 부모 세대 상층과 하층의 합 대비 부모 세대 중층의 상대적\n비율은 Aur} 크다.\n\n(5) 부모 세대 상층 대비 부모 상층에서 자녀 하층으로의 세대 간\n이동 비율은 Bur} 작다.\n\n* 확인 사항\nㅇ 답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n하시오.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q20.png",
+   "question_image_sha256": "14c25827ff9354b7b399257ab5f56c8aee64b795535430c232e1e7c1b3404f3d",
+   "image_size_px": [
+    1066,
+    1490
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  }
+ ]
+}

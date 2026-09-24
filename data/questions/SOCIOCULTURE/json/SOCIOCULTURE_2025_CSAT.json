@@ -1,0 +1,1258 @@
+{
+ "exam_id": "SOCIOCULTURE_2025_CSAT",
+ "subject": "SOCIOCULTURE",
+ "year": 2025,
+ "exam_type": "CSAT",
+ "exam_period": "대학수학능력시험",
+ "source_file": "2025학년도_수능_사회문화_문제.pdf",
+ "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+ "pipeline_version": "p1-v1",
+ "page_count": 4,
+ "start_page": 1,
+ "end_page": 4,
+ "skipped_pages": [],
+ "anchor_method": "image_structural_ocr",
+ "inferred_numbers": [],
+ "shared_passage_groups": [],
+ "missing_numbers": [],
+ "header_metadata": {
+  "year": 2025,
+  "exam_type": "CSAT",
+  "subject_in_header": false,
+  "source": "ocr",
+  "raw": "2025화년도 대학수학능력시험 문제지\n\n    사회탐구 영역(회문화)\n\n성명         aes) ㅣ ： ： |-|  ： | ㅣ A ]#턱\n\nTHO"
+ },
+ "metadata_verified": true,
+ "layout": [
+  {
+   "page": 0,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 245.8683197947841,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.0
+  },
+  {
+   "page": 1,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.0
+  },
+  {
+   "page": 2,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.0
+  },
+  {
+   "page": 3,
+   "zoom": 2.7779097387173395,
+   "w_pt": 842.0,
+   "h_pt": 1191.0,
+   "divider": {
+    "x": 420.4600256519881,
+    "top": 146.8730226592561,
+    "bottom": 1066.9893116716546
+   },
+   "text_quality": 0.0
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q01",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 1,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      255.95,
+      418.46,
+      539.97
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 258.11,
+    "inferred": false,
+    "ocr": "1."
+   },
+   "question_text": "1. 밑줄 친 O~Os 같은 현상의 일반적인 특징에 대한 설명으로\n옮은 것은?\n\nOO 신문                    2024년 월 일\n뜨거워진 한반도, 과일 재배 지도가 BEACH\n\n우리나라 사람들이 좋아하는 (7) 나주 배, 대구 사과와 같이 지역 특산물로\n생산되고 있는 과일들이 더 이상 그 지역을 대표할 수 없을지도 모른다. 기후\n변화로 © 연평균 기온이 올라갈수록 특정 과일이 자랄 수 있는 지역이 북상하기\n때문이다. 이에 따라 ㅁ 사과 재배 가능 지역이 변할 것으로 예측된다. 대표적인\n사과 재배지가 경북 지역에서 강원 지역으로 바뀌고 2090년경에는 @ 국내\n에서 고품질의 사과 생산이 불가능할 것이라는 BAS 나온다. 폭염, 한파 등\n© 기상 이변이 자주 발생하는 것은 뜨겁게 달아오른 지구가 인류에게 주는\n마지막 경고일지도 모른다.\n\nD 과 같은 현상은 확률의 원리가 적용된다.\n(2) 과 같은 현상은 인과 관계가 불분명하다.\n\n@ Gs} 같은 현상은 필연성의 원리가 적용된다.\n\n® G3} 같은 현상과 달리 @과 같은 현상은 몰가치적이다.\n6 @3} 같은 현상에 비해 Os} 같은 현상은 BAe] 강하다.",
+   "shared_passage_text": "",
+   "stem": "1. 밑줄 친 O~Os 같은 현상의 일반적인 특징에 대한 설명으로 옮은 것은?",
+   "passage": "OO 신문                    2024년 월 일\n뜨거워진 한반도, 과일 재배 지도가 BEACH\n\n우리나라 사람들이 좋아하는 (7) 나주 배, 대구 사과와 같이 지역 특산물로\n생산되고 있는 과일들이 더 이상 그 지역을 대표할 수 없을지도 모른다. 기후\n변화로 © 연평균 기온이 올라갈수록 특정 과일이 자랄 수 있는 지역이 북상하기\n때문이다. 이에 따라 ㅁ 사과 재배 가능 지역이 변할 것으로 예측된다. 대표적인\n사과 재배지가 경북 지역에서 강원 지역으로 바뀌고 2090년경에는 @ 국내\n에서 고품질의 사과 생산이 불가능할 것이라는 BAS 나온다. 폭염, 한파 등\n© 기상 이변이 자주 발생하는 것은 뜨겁게 달아오른 지구가 인류에게 주는\n마지막 경고일지도 모른다.\n\nD 과 같은 현상은 확률의 원리가 적용된다.\n(2) 과 같은 현상은 인과 관계가 불분명하다.\n\n@ Gs} 같은 현상은 필연성의 원리가 적용된다.\n\n® G3} 같은 현상과 달리 @과 같은 현상은 몰가치적이다.\n6 @3} 같은 현상에 비해 Os} 같은 현상은 BAe] 강하다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q01.png",
+   "question_image_sha256": "1223f0298bb567da2cf1d4a340a184e3265f90d08808342938ceb4e8998bbdcc",
+   "image_size_px": [
+    953,
+    789
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q02",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 2,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      568.77,
+      418.46,
+      815.0
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 570.93,
+    "inferred": false,
+    "ocr": "2."
+   },
+   "question_text": "2. 다음 글에서 사회ㆍ문화 현상을 바라보는 필자의 관점에 대한\n옮은 설명만을 <보기>에서 고른 것은? BA\n\n사회 체계 안에서 인간의 상호 작용이 작동하는 이유는 행위자들에게\n할당되는, 분화된 역할 구조가 있기 때문이다. 개인은 역할 구조 속에서\n사회가 기대하는 BSS 수행하게 된다. 이렇게 개인이 사회의 한 부분으로서\n공유된 기대에 부응하여 다른 부분과 유기적으로 상호 작용을 함에 따라\n사회라는 완전체가 형성된다.\n\n<보 기>\nㄱ. 상황 정의에 기초한 개인 간 상호 작용을 중시한다.\nㄴ. 개인 행위자의 능동적이고 자율적인 측면을 중시한다.\nㄷ. 사회의 각 부분이 상호 의존적 관계를 맺는다고 본다.\n르. 사회는 스스로 균형을 유지하려는 속성을 지닌다고 본다.\n\nOre Orc @ 니드 @r.,2 Oxc,2",
+   "shared_passage_text": "",
+   "stem": "2. 다음 글에서 사회ㆍ문화 현상을 바라보는 필자의 관점에 대한 옮은 설명만을 <보기>에서 고른 것은?",
+   "passage": "BA\n\n사회 체계 안에서 인간의 상호 작용이 작동하는 이유는 행위자들에게\n할당되는, 분화된 역할 구조가 있기 때문이다. 개인은 역할 구조 속에서\n사회가 기대하는 BSS 수행하게 된다. 이렇게 개인이 사회의 한 부분으로서\n공유된 기대에 부응하여 다른 부분과 유기적으로 상호 작용을 함에 따라\n사회라는 완전체가 형성된다.\n\n<보 기>\nㄱ. 상황 정의에 기초한 개인 간 상호 작용을 중시한다.\nㄴ. 개인 행위자의 능동적이고 자율적인 측면을 중시한다.\nㄷ. 사회의 각 부분이 상호 의존적 관계를 맺는다고 본다.\n르. 사회는 스스로 균형을 유지하려는 속성을 지닌다고 본다.\n\nOre Orc @ 니드 @r.,2 Oxc,2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q02.png",
+   "question_image_sha256": "55bb016be5fceab1e7526a2e2883067b6c58071e618fbacc6b7feb0e272b2af9",
+   "image_size_px": [
+    953,
+    684
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q03",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 3,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      843.08,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 845.24,
+    "inferred": false,
+    "ocr": "3."
+   },
+   "question_text": "3. A, 의 일반적인 특징에 대한 설명으로 옮은 것은? (단, A, BE\n각각 관료제와 탈관료제 중 하나임.)\n\n도서 출판 과정에는 편집, 디자인, 인쇄 등 여러 공정이 있다. OO 출판\n회사는 수평적으로 분권화된 조직을 통해 구성원들이 함께 결정을 내려\n출판 공정을 관리하고 도서를 출간한다.    출판 회사는 세부적으로\n분업화된 조직을 통해 해당 분야의 담당자들이 정해진 서열과 절차에\n따라 각 SAS 진행하여 도서를 출간한다. OO 출판 회사는 의 운영\n원리가, [출판 회사는 의 운영 원리가 강조된다.\n\n0 Ad] 비해 BE 주직 구성원의 업무 재량권 및 자윤성이 낮다.\n@ Aol 비해 BE 외부 환경 변화에 대한 유연한 대처가 용이하다.\n@ Bol 비해 스는 업무의 표준화와 세분화가 강조된다.\n\n0 Bo} 비해 AS 목적 전치 현상이 나타날 가능성이 높다.\n\n© AK 경력에 마르 wre pe 성과에 따르 보사을 주시하다",
+   "shared_passage_text": "",
+   "stem": "3. A, 의 일반적인 특징에 대한 설명으로 옮은 것은? (단, A, BE 각각 관료제와 탈관료제 중 하나임.)",
+   "passage": "도서 출판 과정에는 편집, 디자인, 인쇄 등 여러 공정이 있다. OO 출판\n회사는 수평적으로 분권화된 조직을 통해 구성원들이 함께 결정을 내려\n출판 공정을 관리하고 도서를 출간한다.    출판 회사는 세부적으로\n분업화된 조직을 통해 해당 분야의 담당자들이 정해진 서열과 절차에\n따라 각 SAS 진행하여 도서를 출간한다. OO 출판 회사는 의 운영\n원리가, [출판 회사는 의 운영 원리가 강조된다.\n\n0 Ad] 비해 BE 주직 구성원의 업무 재량권 및 자윤성이 낮다.\n@ Aol 비해 BE 외부 환경 변화에 대한 유연한 대처가 용이하다.\n@ Bol 비해 스는 업무의 표준화와 세분화가 강조된다.\n\n0 Bo} 비해 AS 목적 전치 현상이 나타날 가능성이 높다.\n\n© AK 경력에 마르 wre pe 성과에 따르 보사을 주시하다",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q03.png",
+   "question_image_sha256": "4ee20c4fd3113af776043db300af296c647d6115707627acfb67ac4698a380dc",
+   "image_size_px": [
+    953,
+    619
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q04",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 4,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      255.95,
+      772.72,
+      632.49
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 258.11,
+    "inferred": false,
+    "ocr": "4."
+   },
+   "question_text": "4. 다음 자료에 대한 옮은 설명만을 <보기>에서 있는 대로 고른\n것은?\n\nA (< 신문사 탐사 보도 공모전에서 입상한 OO 동아리를 만나\n보겠습니다. 세 분이 어떻게 함께하게 되었나요?\n\n 기자\n\n& 대학교 내 영화제작동아리 희원으로 저와 함께 활동하고 있는 A\nSol 취업 준비를 위해    동아리를 만들었습니다. 인권 단체     zi\n\n고\n회원으로 함께 활동 중인 을에게 제가 제안하여 합류하게 되었습니다.       a\n\n공모전에 참여하면서 SV 점이나 공모전 준비에 도움이 되었던\n경험이 있다면 말씀해 주세요.\n\n저는 사회복지대학원에 재학 중입니다. 취재를 하면서 가족과 함께 A(S\n하지 못하는 청소년들의 안타까운 사연을 접하고 청소년 복지의| LA\n\n필요성을 더 알리고 싶어졌습니다.                           .\n\n저는 갑과 함께 ＊ㅠ 대학교에 재학 중입니다. 갑과 함께 들었던 20 S| |\n\n14\n초청 특강이 큰 도움이 되었습니다. 입상을 계기로 셋이 [동아리 | <\n            도움이 되었은                                   번\n활동을 더 열심히 하려고 합니다.                               딜\n\n<보 기>\n\nㄱ. 갑과 병 포두 비공식 조직에 속해 있다.\n\nㄴ. 을과 병어 속한 차적 사회화 기관은 각각 1개이다.\n\nㄷ. 자료 전체에 적혀 있는 사회 집단에서 자발적 결사체가\n아니면서 비공식적 사회화 기관인 것은 Dae] eh\n\n0) ㄱ  Qu  Orc 9 니드 OAL. ct",
+   "shared_passage_text": "",
+   "stem": "4. 다음 자료에 대한 옮은 설명만을 <보기>에서 있는 대로 고른 것은?",
+   "passage": "A (< 신문사 탐사 보도 공모전에서 입상한 OO 동아리를 만나\n보겠습니다. 세 분이 어떻게 함께하게 되었나요?\n\n 기자\n\n& 대학교 내 영화제작동아리 희원으로 저와 함께 활동하고 있는 A\nSol 취업 준비를 위해    동아리를 만들었습니다. 인권 단체     zi\n\n고\n회원으로 함께 활동 중인 을에게 제가 제안하여 합류하게 되었습니다.       a\n\n공모전에 참여하면서 SV 점이나 공모전 준비에 도움이 되었던\n경험이 있다면 말씀해 주세요.\n\n저는 사회복지대학원에 재학 중입니다. 취재를 하면서 가족과 함께 A(S\n하지 못하는 청소년들의 안타까운 사연을 접하고 청소년 복지의| LA\n\n필요성을 더 알리고 싶어졌습니다.                           .\n\n저는 갑과 함께 ＊ㅠ 대학교에 재학 중입니다. 갑과 함께 들었던 20 S| |\n\n14\n초청 특강이 큰 도움이 되었습니다. 입상을 계기로 셋이 [동아리 | <\n            도움이 되었은                                   번\n활동을 더 열심히 하려고 합니다.                               딜\n\n<보 기>\n\nㄱ. 갑과 병 포두 비공식 조직에 속해 있다.\n\nㄴ. 을과 병어 속한 차적 사회화 기관은 각각 1개이다.\n\nㄷ. 자료 전체에 적혀 있는 사회 집단에서 자발적 결사체가\n아니면서 비공식적 사회화 기관인 것은 Dae] eh\n\n0) ㄱ  Qu  Orc 9 니드 OAL. ct",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q04.png",
+   "question_image_sha256": "1611b82247a26edbc90856c123f48bc06d713e0bddb5e3eb58c34807dccb65a2",
+   "image_size_px": [
+    973,
+    1046
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q05",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 5,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      728.25,
+      772.72,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 1,
+    "y_pt": 730.41,
+    "inferred": false,
+    "ocr": "5."
+   },
+   "question_text": "5.\n\n음 자료에 대한 설명으로 Se 것은? [3점]\n\n갑은 고등학생의 학업 성취도와 문해력 간의 관계를 파악하고자 하였다.\n이를 위해    지역 고등학생 200명을 대상으로 질문지를 통해 학업\n성취도와 (7 문해력 TES 측정하였다. 이 자료에서 문해력을 기준으로,\n상위 100명(& 집단)과 하위 100명(43 집단)으로 구분하여 학업 성취도를\n분석하였다. 그 결과 OB 집단의 학업 성취도가 A 집단의 학업 성취도보디\n유의미하게 낮았다.\n\n을은 ©00 독서 프로그램이 고등학생의 문해력 증진에 효과가 있을 것\n이라 생각하고 이를 알아보기 위해 다음과 같이 연구를 진행하였다. 그는\n갑과 연구 대상자의 동의를 받아, 감의 연구에서 문해력이 낮은 것으로\n판명된 BAS 무작위로 50명씩 C 집단과 D 집단으로 나눈 후 :집단에게만\n\n4주간 OO 독서 프로그램을 적용하였다. 독서 프로그램 종료 시점어\n감이 활용한 측정 도구로 © 문해력 수준을 측정한 결과, (: 집단의 문해력\n\nFES 유의미하게 높아졌으나 1집단의 문해력 수준은 이전과 차이7\n없었다. 이후 SS 1집단에게만 OO 독서 프로그램을 4421 적용하였다.\n그 결과 1집단의 문해력 수준이 높아져 최종적으로 OC 집단과 DAE\n간에는 문해력 수준이 유의미한 차이를 보이지 않았다.\n\n02 갑의 연구에서 모집단은 [1 지역 고등학생이다.\n\nQ 은 을의 연구에서 사전 겁사로 활용되었다.\n\n@ OF 문해력과 학업 성취도 간의 부(-)의 관계를 보여 준다.\n@ @은 을의 연구에서 실험 처치에 해당한다.\n\n© @은 O& 지지하는 근거로 사용함 수 없다.",
+   "shared_passage_text": "",
+   "stem": "5. 음 자료에 대한 설명으로 Se 것은? [3점]",
+   "passage": "갑은 고등학생의 학업 성취도와 문해력 간의 관계를 파악하고자 하였다.\n이를 위해    지역 고등학생 200명을 대상으로 질문지를 통해 학업\n성취도와 (7 문해력 TES 측정하였다. 이 자료에서 문해력을 기준으로,\n상위 100명(& 집단)과 하위 100명(43 집단)으로 구분하여 학업 성취도를\n분석하였다. 그 결과 OB 집단의 학업 성취도가 A 집단의 학업 성취도보디\n유의미하게 낮았다.\n\n을은 ©00 독서 프로그램이 고등학생의 문해력 증진에 효과가 있을 것\n이라 생각하고 이를 알아보기 위해 다음과 같이 연구를 진행하였다. 그는\n갑과 연구 대상자의 동의를 받아, 감의 연구에서 문해력이 낮은 것으로\n판명된 BAS 무작위로 50명씩 C 집단과 D 집단으로 나눈 후 :집단에게만\n\n4주간 OO 독서 프로그램을 적용하였다. 독서 프로그램 종료 시점어\n감이 활용한 측정 도구로 © 문해력 수준을 측정한 결과, (: 집단의 문해력\n\nFES 유의미하게 높아졌으나 1집단의 문해력 수준은 이전과 차이7\n없었다. 이후 SS 1집단에게만 OO 독서 프로그램을 4421 적용하였다.\n그 결과 1집단의 문해력 수준이 높아져 최종적으로 OC 집단과 DAE\n간에는 문해력 수준이 유의미한 차이를 보이지 않았다.\n\n02 갑의 연구에서 모집단은 [1 지역 고등학생이다.\n\nQ 은 을의 연구에서 사전 겁사로 활용되었다.\n\n@ OF 문해력과 학업 성취도 간의 부(-)의 관계를 보여 준다.\n@ @은 을의 연구에서 실험 처치에 해당한다.\n\n© @은 O& 지지하는 근거로 사용함 수 없다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q05.png",
+   "question_image_sha256": "5c2622b97aa693b3d0413e5f4f4dc304abc5de0267865eb5186cf1bfc16cc8a8",
+   "image_size_px": [
+    973,
+    938
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q06",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 6,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      158.39,
+      418.46,
+      419.38
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 160.55,
+    "inferred": false,
+    "ocr": "6."
+   },
+   "question_text": "6.\n\n밑줄 친 (7~(0@3에 대한 설명으로 Se 것은? [3점]\n\n갑국에서는 손을 HOH 영혼이 오염되어 목숨이 위험해진다는\n(전통적 믿음 때문에 손을 잘 WA 않는 관습이 있었다. 이로 인해 많은\n사람이 감염병으로 SHS 잃었다. 한 의사가 손 We 건강을 유지하고\n생명을 지킬 수 있다는 사실을 알리면서 감국의 4 지역에서는 OFS 잘\nNe 문화가 형성되었다. © 이러한 문화가 조금씩 퍼져 나가자 대다수\n갑국 사람들은 자신들의 BES 해친다는 이유로 AAS 사람을 비난하며\n8 자신들의 문화를 지키기 위해 저항하였다. 갑국에서 감염병이 유행\n했을 때, AAS 사망률은 다른 지역에 비해 현저히 낮았다. 손 We 간단한\n행위로 질병을 예방할 수 있다는 사실을 깨닫자 갑국에서는 OAS BN\n위생 관리를 철저히 하는 생활 습관이 보편화되었다.\n\n0) DE 지배 세력에 반발하여 사회 통합이 이루어진 사례이다.\nQ Of 주류 문화가 하위문화로 변한 사례이다.\n\n@ OS 문화 변동이 빠르게 진행되어 나타난 문화 지체 사례이다.\n0) OF 지역 문화가 주류 문화에 대항한 반문화 사례이다.\n\n© Of 하위문화가 주류 문화로 변한 사례이다.",
+   "shared_passage_text": "",
+   "stem": "6. 밑줄 친 (7~(0@3에 대한 설명으로 Se 것은? [3점]",
+   "passage": "갑국에서는 손을 HOH 영혼이 오염되어 목숨이 위험해진다는\n(전통적 믿음 때문에 손을 잘 WA 않는 관습이 있었다. 이로 인해 많은\n사람이 감염병으로 SHS 잃었다. 한 의사가 손 We 건강을 유지하고\n생명을 지킬 수 있다는 사실을 알리면서 감국의 4 지역에서는 OFS 잘\nNe 문화가 형성되었다. © 이러한 문화가 조금씩 퍼져 나가자 대다수\n갑국 사람들은 자신들의 BES 해친다는 이유로 AAS 사람을 비난하며\n8 자신들의 문화를 지키기 위해 저항하였다. 갑국에서 감염병이 유행\n했을 때, AAS 사망률은 다른 지역에 비해 현저히 낮았다. 손 We 간단한\n행위로 질병을 예방할 수 있다는 사실을 깨닫자 갑국에서는 OAS BN\n위생 관리를 철저히 하는 생활 습관이 보편화되었다.\n\n0) DE 지배 세력에 반발하여 사회 통합이 이루어진 사례이다.\nQ Of 주류 문화가 하위문화로 변한 사례이다.\n\n@ OS 문화 변동이 빠르게 진행되어 나타난 문화 지체 사례이다.\n0) OF 지역 문화가 주류 문화에 대항한 반문화 사례이다.\n\n© Of 하위문화가 주류 문화로 변한 사례이다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q06.png",
+   "question_image_sha256": "fa1fe7098c301c4cc52bf8a93db689962cabb0a346a7461cbfc5ee95f65fbf26",
+   "image_size_px": [
+    953,
+    725
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q07",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 7,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      454.3,
+      418.46,
+      745.88
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 456.46,
+    "inferred": false,
+    "ocr": "7."
+   },
+   "question_text": "7. 다음 글에서 Bay} 강조하는 현대 사회의 대중이 가져야 할 자세로\n\n가장 적절한 것은?\n\n금변하는 세상에서 사람들은 무한히 제공되는 정보를 모두 살펴볼\n여유가 없다. 그로 인해 사회 이슈를 직관적으로 이해할 수 있게 가공한\n콘텐츠들이 인기를 얻는다. 사람들은 가공된 SHAS 소비할 때 자신이\n정보를 찾고 스스로 생각해 판단한다고 EvIch 하지만 해당 콘텐츠에는\n제작자의 편향된 시각이 반영되어 있어 SHS 받아들이는 ASE\n제작자의 시각에 동화된다. 이처럼 사유를 외주화하는 사람들이 많아지면\n비슷한 생각을 가진 사람들이 폐쇄적 집단에 머물며 다른 생각을 가진\n사람들을 배척하는 상황이 발생한다. 이는 다원화된 민주 사회의 형성을\n어렵게 만든다. 디지털 기술이 정보의 소비 선택성과 생산 주체성을\n높여 줄 수는 있지만 그 자체가 지성적인 대중을 만드는 것은 아니다.\n\n개인은 지성적 사유의 주체가 되어야 한다.\n\n0 정보 기기에 대한 과도한 의존을 경계한다.\n(3) 정보를 비판적으로 분석하고 평가하는 능력을 함양한다.\n@ 문화의 질적 저하 방지를 위해 지나친 상업성을 경계한다.\n@ 문화의 다양성 제고를 위해 콘텐츠 생산에 적극적으로 참여한다.\n6) HAS] ARS 이유로 타인의 권리를 침해하지 않도록 유의한다.",
+   "shared_passage_text": "",
+   "stem": "7. 다음 글에서 Bay} 강조하는 현대 사회의 대중이 가져야 할 자세로 가장 적절한 것은?",
+   "passage": "금변하는 세상에서 사람들은 무한히 제공되는 정보를 모두 살펴볼\n여유가 없다. 그로 인해 사회 이슈를 직관적으로 이해할 수 있게 가공한\n콘텐츠들이 인기를 얻는다. 사람들은 가공된 SHAS 소비할 때 자신이\n정보를 찾고 스스로 생각해 판단한다고 EvIch 하지만 해당 콘텐츠에는\n제작자의 편향된 시각이 반영되어 있어 SHS 받아들이는 ASE\n제작자의 시각에 동화된다. 이처럼 사유를 외주화하는 사람들이 많아지면\n비슷한 생각을 가진 사람들이 폐쇄적 집단에 머물며 다른 생각을 가진\n사람들을 배척하는 상황이 발생한다. 이는 다원화된 민주 사회의 형성을\n어렵게 만든다. 디지털 기술이 정보의 소비 선택성과 생산 주체성을\n높여 줄 수는 있지만 그 자체가 지성적인 대중을 만드는 것은 아니다.\n\n개인은 지성적 사유의 주체가 되어야 한다.\n\n0 정보 기기에 대한 과도한 의존을 경계한다.\n(3) 정보를 비판적으로 분석하고 평가하는 능력을 함양한다.\n@ 문화의 질적 저하 방지를 위해 지나친 상업성을 경계한다.\n@ 문화의 다양성 제고를 위해 콘텐츠 생산에 적극적으로 참여한다.\n6) HAS] ARS 이유로 타인의 권리를 침해하지 않도록 유의한다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q07.png",
+   "question_image_sha256": "eda53f3a40953871c485469c00cd02ea3e1aeaf56da783509173956c4c598d86",
+   "image_size_px": [
+    953,
+    810
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q08",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 8,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      780.44,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 782.6,
+    "inferred": false,
+    "ocr": "8."
+   },
+   "question_text": "8.\n\n밑줄 친 (7~(3에 대한 설명으로 Se 것은? [3점]\n\n1970년대에 OO Al 시민 단체는 ERS 만드는 OO 다국적 기업에\n대한 (불매 SSS 전개하였다. OAK ETS 무료로 나누어 주는\nOO 다국적 기업의 공격적 마케팅으로 저개발국의 영아 사망률이 급격히\n증가하였기 때문이다. 위생적인 환경이 갖추어지지 않은 저개발국에서\n세균에 오염된 물과 젖병으로 인해 설사와 열병이 발생해 많은 아기가\n사망하였다. OO 다국적 기업에 선의의 의도가 있었을지라도, 무분별한\n시장 확대가 © 저개발국의 영아 ASS 심각하게 위협하는 결과를\n초래한 것이다. 이로 인해 (> 다국적 기업이 영아 사망에 대해 책임을\n져야 한다며 [국제 시민 단체가 전 세계의 소비자들과 © 집단행동을\n시작했다. 이를 계기로 여러 국제 시민 단체는 다국적 기업의 윤리적\n책임을 요구하고, 나아가 환경 문제, 자원 문제와 같은 OA 지구적\nFES BMS 해결하기 위한 SSS 지속적으로 전개하고 있다.\n\n0 GE 급격한 사회 변동에 저항하기 위해 펼치는 사회 운동이다.\n(2) Ge 식량 자원 확보를 위한 국가 간 경쟁이 초래한 문제이다.\n@ GE ()( 다국적 기업의 이윤 추구를 정당화하는 근거가 된다.\n@) @은 사회 체제의 전면적인 변혁을 추구하는 사회 운동이다.\n\n6) @은 세계 시민 의식을 비탕으로 하는 조직적이 사회 우도이다.",
+   "shared_passage_text": "",
+   "stem": "8. 밑줄 친 (7~(3에 대한 설명으로 Se 것은? [3점]",
+   "passage": "1970년대에 OO Al 시민 단체는 ERS 만드는 OO 다국적 기업에\n대한 (불매 SSS 전개하였다. OAK ETS 무료로 나누어 주는\nOO 다국적 기업의 공격적 마케팅으로 저개발국의 영아 사망률이 급격히\n증가하였기 때문이다. 위생적인 환경이 갖추어지지 않은 저개발국에서\n세균에 오염된 물과 젖병으로 인해 설사와 열병이 발생해 많은 아기가\n사망하였다. OO 다국적 기업에 선의의 의도가 있었을지라도, 무분별한\n시장 확대가 © 저개발국의 영아 ASS 심각하게 위협하는 결과를\n초래한 것이다. 이로 인해 (> 다국적 기업이 영아 사망에 대해 책임을\n져야 한다며 [국제 시민 단체가 전 세계의 소비자들과 © 집단행동을\n시작했다. 이를 계기로 여러 국제 시민 단체는 다국적 기업의 윤리적\n책임을 요구하고, 나아가 환경 문제, 자원 문제와 같은 OA 지구적\nFES BMS 해결하기 위한 SSS 지속적으로 전개하고 있다.\n\n0 GE 급격한 사회 변동에 저항하기 위해 펼치는 사회 운동이다.\n(2) Ge 식량 자원 확보를 위한 국가 간 경쟁이 초래한 문제이다.\n@ GE ()( 다국적 기업의 이윤 추구를 정당화하는 근거가 된다.\n@) @은 사회 체제의 전면적인 변혁을 추구하는 사회 운동이다.\n\n6) @은 세계 시민 의식을 비탕으로 하는 조직적이 사회 우도이다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q08.png",
+   "question_image_sha256": "72d11aa9b44d79abeebd9bb3b946f73a196261d7f1926b9d5fc54db5890e7d22",
+   "image_size_px": [
+    953,
+    793
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q09",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 9,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      158.39,
+      772.72,
+      624.21
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 160.55,
+    "inferred": false,
+    "ocr": "9."
+   },
+   "question_text": "9. 다음 자료에 대한 설명으로 옮은 것은? (단, 4~Ｌ는 각각 공유성,\n변동성, 전체성, 축적성, 학습성 중 하나임.) BA\n\n교사: 문화의 속성 5가지를 SSHXE 서로 다르게 한 가지씩 배정\n하였습니다. 각 SSS 배정받은 속성이 부각된 사례를 웹툰 문화에서\n찾아 발표해 봅시다.\n<1 25> 부모가 자녀에게 스마트폰을 활용하여 웹툰 WS 이용하는\n방법을 배우는 것은 &가 부각된 사례입니다.\nQ2e> 부모 세대에서 웹툰을 만화라고 부르고 만화가 보고 싶을 때\n만화방을 떠올리는 것은 가 부각된 사례입니다.\nBRe> 만화책을 보는 사람이 줄어들고 태블릿 (로 WES 보는\n사람이 늘어난 것은 (:가 부각된 사례입니다.\n<4R5> 부모 MCHA 눈으로만 즐기던 만화에 음성 지원, 배경 음악\n재생 기능 등이 추가된 현재의 AES D7} 부각된 사례입니다.\n학생: 선생님, <2 DE >O| 발표 사례는 가 부각된 것이 아닐까요?\n교사: <22—>9| 사례는 로도 설명이 가능하지만, 부모 세대에서\n만화방을 떠올린다고 했기 때문에 가 부각된 것이 맞습니다.\n<3 RE>T <4RE>S 발표한 사례가 서로 바뀌어야 각 SEO\n배정된 속성이 부각됩니다. <1 BEOS <5 BED 배정된 속성이\n부각된 사례를 발표했어요. AS 배정받은 <1 PETES 배정받은\n6SE>2 다음 시간에 발표합시다.\n\nD 문화가 한 사회 구성원의 공통된 생활 양식이라는 것을 의미하는\n속성은 By} 아니라 ㅅ이다.\n\n(2) 문화가 세대 간 전승되며 더욱 발전되고 풍부해지는 것을 의미하는\n속성은 (가 아니라 이다.\n\n@ <1 BED] 배정된 속성은 문화의 각 22S] 상호 유기적으로\n연결되어 영향을 주고받는 것을 의미한다.\n\n@) <2 BS>o] 배정된 SYS 공유성, <5 BDO] 배정된 속성은\n전체성이다.\n\n© 문화가 AAS 통해 후천적으로 학습된다는 것을 의미하는 속성은\n<3 E>] 아니라 <4 Do] 배정되었다.",
+   "shared_passage_text": "",
+   "stem": "9. 다음 자료에 대한 설명으로 옮은 것은? (단, 4~Ｌ는 각각 공유성, 변동성, 전체성, 축적성, 학습성 중 하나임.)",
+   "passage": "BA\n\n교사: 문화의 속성 5가지를 SSHXE 서로 다르게 한 가지씩 배정\n하였습니다. 각 SSS 배정받은 속성이 부각된 사례를 웹툰 문화에서\n찾아 발표해 봅시다.\n<1 25> 부모가 자녀에게 스마트폰을 활용하여 웹툰 WS 이용하는\n방법을 배우는 것은 &가 부각된 사례입니다.\nQ2e> 부모 세대에서 웹툰을 만화라고 부르고 만화가 보고 싶을 때\n만화방을 떠올리는 것은 가 부각된 사례입니다.\nBRe> 만화책을 보는 사람이 줄어들고 태블릿 (로 WES 보는\n사람이 늘어난 것은 (:가 부각된 사례입니다.\n<4R5> 부모 MCHA 눈으로만 즐기던 만화에 음성 지원, 배경 음악\n재생 기능 등이 추가된 현재의 AES D7} 부각된 사례입니다.\n학생: 선생님, <2 DE >O| 발표 사례는 가 부각된 것이 아닐까요?\n교사: <22—>9| 사례는 로도 설명이 가능하지만, 부모 세대에서\n만화방을 떠올린다고 했기 때문에 가 부각된 것이 맞습니다.\n<3 RE>T <4RE>S 발표한 사례가 서로 바뀌어야 각 SEO\n배정된 속성이 부각됩니다. <1 BEOS <5 BED 배정된 속성이\n부각된 사례를 발표했어요. AS 배정받은 <1 PETES 배정받은\n6SE>2 다음 시간에 발표합시다.\n\nD 문화가 한 사회 구성원의 공통된 생활 양식이라는 것을 의미하는\n속성은 By} 아니라 ㅅ이다.\n\n(2) 문화가 세대 간 전승되며 더욱 발전되고 풍부해지는 것을 의미하는\n속성은 (가 아니라 이다.\n\n@ <1 BED] 배정된 속성은 문화의 각 22S] 상호 유기적으로\n연결되어 영향을 주고받는 것을 의미한다.\n\n@) <2 BS>o] 배정된 SYS 공유성, <5 BDO] 배정된 속성은\n전체성이다.\n\n© 문화가 AAS 통해 후천적으로 학습된다는 것을 의미하는 속성은\n<3 E>] 아니라 <4 Do] 배정되었다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q09.png",
+   "question_image_sha256": "420185fda395f1a52be9eb27a26775c9983768423956ffd25202d32bc1c58a89",
+   "image_size_px": [
+    973,
+    1294
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q10",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 10,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      654.81,
+      772.72,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 2,
+    "y_pt": 656.97,
+    "inferred": false,
+    "ocr": "10."
+   },
+   "question_text": "10. 다음 자료에 대한 BALE Se 것은?\n\n다음은 COS 시기별 계층 구성 비율과 연령이 50대인 감~무의 사회\n이동 결과를 세대 간 이동과 세대 내 이동으로 구분하여 나타낸 것이다.\n단, 세대 간 이동은 부모 계층과 본인의 현재 계층 비교로, 세대 내 이동은\n본인의 34년 전 계층과 현재 계층 비교로 판단한다. A~CE 각각 상층,\n중층, 하층 중 하나이다.\n<자료 1> 시기별 계층 구성 비율(%)\n\n1970년                2000년                2024년\n\nA B fc\n\n<자료 2> 갑~무의 사회 이동 Ay\n\n부모 계층                 본인의 24년 전 계층\n구분          01970년)          구분          (2000년)\nA    B    C                 A |B    C\n본인의 | A         정          본인의 | A         정\n현재 계층| 8 | 을         무 || Sat 계층| 2         을 | 무\n(20244) | 6 | 병 ㅣ 갑         (2034년) | C | 갑         병\n\n*갑의 부모 계층(1970년)은 상층이며, 갑의 세대 간 이동과 세대 내 이동은 모두\n하강 이동임.\n\n0) 1970년 계층 구조는 2000년 계층 구조보다 사회 안정성이 높다.\n(2) 2000년은 다이아몬드형, 2024년은 모래시계형 계층 구조이다.\n(3) 을은 세대 간 상승 이동과 세대 내 하강 이동을 하였다.\n\n® 정은 세대 간 이동과 세대 내 이동 모두 상승 이동을 하였다.\n® 병은 세대 간 하강 이동을 하였고, 무는 세대 내 상승 이동을\n\n하였다",
+   "shared_passage_text": "",
+   "stem": "10. 다음 자료에 대한 BALE Se 것은?",
+   "passage": "다음은 COS 시기별 계층 구성 비율과 연령이 50대인 감~무의 사회\n이동 결과를 세대 간 이동과 세대 내 이동으로 구분하여 나타낸 것이다.\n단, 세대 간 이동은 부모 계층과 본인의 현재 계층 비교로, 세대 내 이동은\n본인의 34년 전 계층과 현재 계층 비교로 판단한다. A~CE 각각 상층,\n중층, 하층 중 하나이다.\n<자료 1> 시기별 계층 구성 비율(%)\n\n1970년                2000년                2024년\n\nA B fc\n\n<자료 2> 갑~무의 사회 이동 Ay\n\n부모 계층                 본인의 24년 전 계층\n구분          01970년)          구분          (2000년)\nA    B    C                 A |B    C\n본인의 | A         정          본인의 | A         정\n현재 계층| 8 | 을         무 || Sat 계층| 2         을 | 무\n(20244) | 6 | 병 ㅣ 갑         (2034년) | C | 갑         병\n\n*갑의 부모 계층(1970년)은 상층이며, 갑의 세대 간 이동과 세대 내 이동은 모두\n하강 이동임.\n\n0) 1970년 계층 구조는 2000년 계층 구조보다 사회 안정성이 높다.\n(2) 2000년은 다이아몬드형, 2024년은 모래시계형 계층 구조이다.\n(3) 을은 세대 간 상승 이동과 세대 내 하강 이동을 하였다.\n\n® 정은 세대 간 이동과 세대 내 이동 모두 상승 이동을 하였다.\n® 병은 세대 간 하강 이동을 하였고, 무는 세대 내 상승 이동을\n\n하였다",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q10.png",
+   "question_image_sha256": "f7ea07b4a430e47adcbf38692ec9ff519d445423eea6a36c8b8370d88ed5f786",
+   "image_size_px": [
+    973,
+    1142
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q11",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 11,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      158.39,
+      418.46,
+      397.06
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 160.55,
+    "inferred": false,
+    "ocr": "11."
+   },
+   "question_text": "11. 다음 자료에 대한 설명으로 옮은 것은?\n\n0 대부분의 사회에는 고인(%%ㅅ)을 떠나보낼 때 치르는 의례가 존재\n하며, 세계 각지에는 다양한 OSA 문화가 있다. (〉(족은 깊은 산이나\n\nSol 서 있는 ©? 위에 시신을 두는 방식으로 장려를 치른다. 어떤\n사람들은 이런 방식을 6 자신의 문화를 기준으로 비인간적이고 기이한\n\n관슴이라 펌하한다. 하지만 (:<-족의 장례 문화는, 조상의 정령이 후손을\n외부의 위험으로부터 보호해 준다는 @3'종교적 믿음의 결과물이다.\n이처럼 해당 사회의 맥락에서 각 문화가 JHE 고유한 의미를 파악하려면\n\n(가               하는 태도를 지녀야 한다.\n\nO 문화의 특수성을 나타낸다\n2 Oda    는 좁은 의미의 문화이다.\n\n3 6은 비물질문화에, 은 뭉질문화에 해당한다\n\n© Gah 같은 태도는 hfe wale 수 있다는 비판을 받는다\n© (가)에는 짜기 문화를 낮추고 타 문화의 우수성을 동경] 적절하다.",
+   "shared_passage_text": "",
+   "stem": "11. 다음 자료에 대한 설명으로 옮은 것은?",
+   "passage": "0 대부분의 사회에는 고인(%%ㅅ)을 떠나보낼 때 치르는 의례가 존재\n하며, 세계 각지에는 다양한 OSA 문화가 있다. (〉(족은 깊은 산이나\n\nSol 서 있는 ©? 위에 시신을 두는 방식으로 장려를 치른다. 어떤\n사람들은 이런 방식을 6 자신의 문화를 기준으로 비인간적이고 기이한\n\n관슴이라 펌하한다. 하지만 (:<-족의 장례 문화는, 조상의 정령이 후손을\n외부의 위험으로부터 보호해 준다는 @3'종교적 믿음의 결과물이다.\n이처럼 해당 사회의 맥락에서 각 문화가 JHE 고유한 의미를 파악하려면\n\n(가               하는 태도를 지녀야 한다.\n\nO 문화의 특수성을 나타낸다\n2 Oda    는 좁은 의미의 문화이다.\n\n3 6은 비물질문화에, 은 뭉질문화에 해당한다\n\n© Gah 같은 태도는 hfe wale 수 있다는 비판을 받는다\n© (가)에는 짜기 문화를 낮추고 타 문화의 우수성을 동경] 적절하다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q11.png",
+   "question_image_sha256": "bb2a72dfaa2b3b8dad2be1ba4a2f92e3f6ebb5f652eba3acd7329ed273c8417c",
+   "image_size_px": [
+    953,
+    663
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q12",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 12,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      421.18,
+      418.46,
+      668.13
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 423.34,
+    "inferred": false,
+    "ocr": "12."
+   },
+   "question_text": "12. 다음 글에서 개인과 사회의 관계를 바라보는 필자의 관점에 대한\n\n옮은 설명만을 <보기>에서 고른 것은?\n\nAWA ASE 개인들이 일상에서 결과를 예측하고 최선의 수단을\n선택하여 합목적적으로 행동하도록 한다. 국가 관료제에 기반을 둔 행정과\n로마법에 기초한 HES 서구인들로 하여금 합목적적으로 행동하도록\n하였다. 이렇게 서구 사회의 행정과 법률에 의해 만들어진 계산적 심성은\n근대적 경제 성장을 이끌었다.\n\n<보 기>\nㄱ. 사회에 의해 개인은 구조화된 행동을 한다고 본다.\nㄴ. 사회의 속성은 개인의 속성에 의해 결정된다고 본다.\nㄷ. 사회는 개인 외부에 존재하는 독립적인 실체라고 본다.\n2. 사회는 개인 이억을 실현해 주는 도구일 뿐이라고 본다.\n\nOre @14c€ @0 니드 @r.,2 Oct,2",
+   "shared_passage_text": "",
+   "stem": "12. 다음 글에서 개인과 사회의 관계를 바라보는 필자의 관점에 대한 옮은 설명만을 <보기>에서 고른 것은?",
+   "passage": "AWA ASE 개인들이 일상에서 결과를 예측하고 최선의 수단을\n선택하여 합목적적으로 행동하도록 한다. 국가 관료제에 기반을 둔 행정과\n로마법에 기초한 HES 서구인들로 하여금 합목적적으로 행동하도록\n하였다. 이렇게 서구 사회의 행정과 법률에 의해 만들어진 계산적 심성은\n근대적 경제 성장을 이끌었다.\n\n<보 기>\nㄱ. 사회에 의해 개인은 구조화된 행동을 한다고 본다.\nㄴ. 사회의 속성은 개인의 속성에 의해 결정된다고 본다.\nㄷ. 사회는 개인 외부에 존재하는 독립적인 실체라고 본다.\n2. 사회는 개인 이억을 실현해 주는 도구일 뿐이라고 본다.\n\nOre @14c€ @0 니드 @r.,2 Oct,2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q12.png",
+   "question_image_sha256": "2193426506c45aa03386eaee2756be225cfcd0de480aa40c77ee32e2d5225382",
+   "image_size_px": [
+    953,
+    686
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q13",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 13,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      691.53,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 694.05,
+    "inferred": false,
+    "ocr": "13."
+   },
+   "question_text": "13. 갑~병이 사용한 자료 수집 방법에 대한 설명으로 옮은 것은? [3점\n\n0 같은 청소년이 휴대 전화에 부여하는 의미를 피악하기 위해 OO 고등학교\n확생의 일상생활을 관칠한 연구 기관의 보고서를 BAIS} 이후 휴대 전회\n의존도가 높은 학생들에게 질문하여 사용 용도와 중독 증상 등에 대한\n이야기를 깊이 있게 나누고 이 과정을 녹음함.\n\n0 을은 팬덤 문화 연구를 위해 ve 야구단의 팬클럽에 가입하여 6개월간\n회원들과 경기를 관람하며 그들의 대화와 응원 모습을 기록함. 이후\n아이돌 팬클럽의 열성팬을 대상으로 그들만의 친밀한 관계를 형성한\n경험을 직접 듣고 심층적인 자료를 얻음.\n\n0 병은 대학생의 정치 성향과 정치 참여 연구를 위해 대학생 500명을\n대상으로 구조화된 문항에 응답하도록 함. 또한 선거 관련 기관0\n발간한 대학생 정치 성향 면접 조사 자료집을 분석하여 대학생의 Bx\n\n참여 과정을 연구함.\n\nOD 갑과 달리 을은 표준화된 도구로 대량의 ARS 회득하기 용이한\n자료 수집 방법을 사용하였다.\n\n(3) 병과 달리 갑은 인위적으로 통제된 상황에서 변수의 효과를 관철하는\n자료 수집 방법을 사용하였다.\n\n@ 갑과 을 모두 현지에서 연구 대상지와 함께 생활하며 관심을 Ze\n연구 현상을 관칠하는 자료 수집 방법을 사용하였다.\n\n© 갑과 병 포두 기존의 연구 ASRS 자신의 연구에 활용하는 자료\n수집 방법을 사용하였다.\n\n(6) 을과 병 모두 연구 대상지와의 정서적 교감 형성을 중시하는 자료\n수집 yan. 사용하였다",
+   "shared_passage_text": "",
+   "stem": "13. 갑~병이 사용한 자료 수집 방법에 대한 설명으로 옮은 것은?",
+   "passage": "[3점\n\n0 같은 청소년이 휴대 전화에 부여하는 의미를 피악하기 위해 OO 고등학교\n확생의 일상생활을 관칠한 연구 기관의 보고서를 BAIS} 이후 휴대 전회\n의존도가 높은 학생들에게 질문하여 사용 용도와 중독 증상 등에 대한\n이야기를 깊이 있게 나누고 이 과정을 녹음함.\n\n0 을은 팬덤 문화 연구를 위해 ve 야구단의 팬클럽에 가입하여 6개월간\n회원들과 경기를 관람하며 그들의 대화와 응원 모습을 기록함. 이후\n아이돌 팬클럽의 열성팬을 대상으로 그들만의 친밀한 관계를 형성한\n경험을 직접 듣고 심층적인 자료를 얻음.\n\n0 병은 대학생의 정치 성향과 정치 참여 연구를 위해 대학생 500명을\n대상으로 구조화된 문항에 응답하도록 함. 또한 선거 관련 기관0\n발간한 대학생 정치 성향 면접 조사 자료집을 분석하여 대학생의 Bx\n\n참여 과정을 연구함.\n\nOD 갑과 달리 을은 표준화된 도구로 대량의 ARS 회득하기 용이한\n자료 수집 방법을 사용하였다.\n\n(3) 병과 달리 갑은 인위적으로 통제된 상황에서 변수의 효과를 관철하는\n자료 수집 방법을 사용하였다.\n\n@ 갑과 을 모두 현지에서 연구 대상지와 함께 생활하며 관심을 Ze\n연구 현상을 관칠하는 자료 수집 방법을 사용하였다.\n\n© 갑과 병 포두 기존의 연구 ASRS 자신의 연구에 활용하는 자료\n수집 방법을 사용하였다.\n\n(6) 을과 병 모두 연구 대상지와의 정서적 교감 형성을 중시하는 자료\n수집 yan. 사용하였다",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q13.png",
+   "question_image_sha256": "d7f572baf22216bad8c71d12d10c930bb14ac447d85cfd167c2ba4e24cdb86aa",
+   "image_size_px": [
+    953,
+    1040
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q14",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 14,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      158.39,
+      772.72,
+      585.33
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 160.55,
+    "inferred": false,
+    "ocr": "14."
+   },
+   "question_text": "14. 다음은 일탈 이론 A~DS 구분하는 질문에 대한 학생의 분류와\n교사의 채점 결과이다. 이에 대한 설명으로 Be 것은? (단, A~DE\n각각 ZA) 아노미 이론, 머튼의 아노미 이론, 차별 교제 이론,\n낙인 이론 중 하나임.) [3점]\n\n※ 질문에 따라 A, 3, C, DS '예', '아니요'로 분류하여 해당하는 칸에\n\n적으시오.\n제정\n질문                   예 | 아니요   정파\n[=\n일탈자가 부정적 자아를 내면화하는 과정에      C       2 | 3a\n주목하는가?                           Bo | AD | 38\n타인과의 상호 작용이 일탈에 미치는 SHS                  점\n강조하는가?                        BD) AC | 28\n일탈을 규정하는 객관적인 기준이 존재한다고                      x\n보는가?                           82146 | 18\n문화적 목표와 제도적 수단 간의 Bet | | yy | ay\n일탈의 원인이라고 보는가?                6 AD | 38\n\n*질문별로 채점하며, 맞게 적은 이론에는 각 1점을, 틀리게 적은 이론에는 각 0점을\n부여함. Jey 만점은 4점임.\n\n02 AS) 사례로 신입 사원이 비리를 저지르는 회사 선빼들과 어올리면서\nAV] 사라져 부정행위를 같이 하는 경우를 들 수 있다.\n2) BS 사례로 한탕주의로 쉽게 ES 버는 사람을 보고 부자가 되고\n\n싶은 실업자가 불법 모박에 빠지는 경우를 들 수 있다.\n@ (의 사례로 학교 폭력 가해 사실로 징계를 받은 학생이 스스로를\n문제아로 인식하고 Yas 저지르는 경우를 들 수 있다.\n® 와 달리 DE 정상 집단과의 교류를 일탈의 해결책으로 본다.\n© Do} 달리 AL 사회 PHS] 통제력 강화를 일탈의 해결책으로 본다.",
+   "shared_passage_text": "",
+   "stem": "14. 다음은 일탈 이론 A~DS 구분하는 질문에 대한 학생의 분류와 교사의 채점 결과이다. 이에 대한 설명으로 Be 것은? (단, A~DE 각각 ZA)",
+   "passage": "아노미 이론, 머튼의 아노미 이론, 차별 교제 이론,\n낙인 이론 중 하나임.) [3점]\n\n※ 질문에 따라 A, 3, C, DS '예', '아니요'로 분류하여 해당하는 칸에\n\n적으시오.\n제정\n질문                   예 | 아니요   정파\n[=\n일탈자가 부정적 자아를 내면화하는 과정에      C       2 | 3a\n주목하는가?                           Bo | AD | 38\n타인과의 상호 작용이 일탈에 미치는 SHS                  점\n강조하는가?                        BD) AC | 28\n일탈을 규정하는 객관적인 기준이 존재한다고                      x\n보는가?                           82146 | 18\n문화적 목표와 제도적 수단 간의 Bet | | yy | ay\n일탈의 원인이라고 보는가?                6 AD | 38\n\n*질문별로 채점하며, 맞게 적은 이론에는 각 1점을, 틀리게 적은 이론에는 각 0점을\n부여함. Jey 만점은 4점임.\n\n02 AS) 사례로 신입 사원이 비리를 저지르는 회사 선빼들과 어올리면서\nAV] 사라져 부정행위를 같이 하는 경우를 들 수 있다.\n2) BS 사례로 한탕주의로 쉽게 ES 버는 사람을 보고 부자가 되고\n\n싶은 실업자가 불법 모박에 빠지는 경우를 들 수 있다.\n@ (의 사례로 학교 폭력 가해 사실로 징계를 받은 학생이 스스로를\n문제아로 인식하고 Yas 저지르는 경우를 들 수 있다.\n® 와 달리 DE 정상 집단과의 교류를 일탈의 해결책으로 본다.\n© Do} 달리 AL 사회 PHS] 통제력 강화를 일탈의 해결책으로 본다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q14.png",
+   "question_image_sha256": "b3f27c8928e714446f72c0f17f657bc456dcd228e8e168838ca123c75e502732",
+   "image_size_px": [
+    973,
+    1186
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q15",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 15,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      620.25,
+      772.72,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 3,
+    "y_pt": 622.41,
+    "inferred": false,
+    "ocr": "15."
+   },
+   "question_text": "15. 다음 자료에 대한 분석으로 옮은 것은? (단, ㅅ, Be 각각 공공\n부조와 사회 보험 중 하나임.)\n\n갑국에는 사회 보장 제도 A, 만 존재하며, A, Be 우리나라의 사회\n보장 제도와 동일하다. A= 사전 예방적 성격이 강한 제도이고, BE 사후\n처방적 성격이 강한 제도이다.\n\n표는 갑국의 (가)~(다) 지역별 전체 인구 SA 수급자 비율 및\n비(쾌)수금자 비율을 나타낸 것이다. 비(캐)수급자는 쇼나 13 중 어느 것도\n받지 않는 사람으로서, AU 의 복지 혜택이 필요하지만 수급 자격\n조건에 미달하여 받지 못하는 사람(탈락자)과 비(쾌)수금자에서 탈락자를\n제외한 사람(비()탈락자)으로 구성된다. 단, (가)~(다) 지역의 중복\n수금자 수는 동일하다.\n\n(단위: %)\n중복      (FE) BAP\n분    수금지  수금지   oa\nTE ATEN BIEN) 수급자 | 탈락자 |비(탈락자\n(가) 지역 | 73         20         )            12             10\n(나) 지역   72    28     15      5       ©\n(cH AIS | 50    ©     10      8       32\n\n«BS 수급자: ㅅ수급자이면서 동시에 1 수급자인 사람\n\nDO G2 (나) 지역의 선별적 복지의 성격이 강한 제도에만 해당하는\n수급자 비율보다 작다.\n\n(2) OF (가) 지역의 부정적 Helo] 발생할 수 있는 제도에만 해당하는\n수급자 비율과 같다.\n\n(3) OF (다) 지역의 상호 부조의 원리가 적용되는 제도에만 해당하는\n수급자 비율의 3배이다.\n\n® (가)지역의 탈락자 수보다 (나) 지역의 비(38탈락자 수가 많\n\n@ 금전적 지원을 원칙으로 하는 제도의 수급자 FE (다)지역이\n가장 많다.\n\nOo 15",
+   "shared_passage_text": "",
+   "stem": "15. 다음 자료에 대한 분석으로 옮은 것은? (단, ㅅ, Be 각각 공공 부조와 사회 보험 중 하나임.)",
+   "passage": "갑국에는 사회 보장 제도 A, 만 존재하며, A, Be 우리나라의 사회\n보장 제도와 동일하다. A= 사전 예방적 성격이 강한 제도이고, BE 사후\n처방적 성격이 강한 제도이다.\n\n표는 갑국의 (가)~(다) 지역별 전체 인구 SA 수급자 비율 및\n비(쾌)수금자 비율을 나타낸 것이다. 비(캐)수급자는 쇼나 13 중 어느 것도\n받지 않는 사람으로서, AU 의 복지 혜택이 필요하지만 수급 자격\n조건에 미달하여 받지 못하는 사람(탈락자)과 비(쾌)수금자에서 탈락자를\n제외한 사람(비()탈락자)으로 구성된다. 단, (가)~(다) 지역의 중복\n수금자 수는 동일하다.\n\n(단위: %)\n중복      (FE) BAP\n분    수금지  수금지   oa\nTE ATEN BIEN) 수급자 | 탈락자 |비(탈락자\n(가) 지역 | 73         20         )            12             10\n(나) 지역   72    28     15      5       ©\n(cH AIS | 50    ©     10      8       32\n\n«BS 수급자: ㅅ수급자이면서 동시에 1 수급자인 사람\n\nDO G2 (나) 지역의 선별적 복지의 성격이 강한 제도에만 해당하는\n수급자 비율보다 작다.\n\n(2) OF (가) 지역의 부정적 Helo] 발생할 수 있는 제도에만 해당하는\n수급자 비율과 같다.\n\n(3) OF (다) 지역의 상호 부조의 원리가 적용되는 제도에만 해당하는\n수급자 비율의 3배이다.\n\n® (가)지역의 탈락자 수보다 (나) 지역의 비(38탈락자 수가 많\n\n@ 금전적 지원을 원칙으로 하는 제도의 수급자 FE (다)지역이\n가장 많다.\n\nOo 15",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q15.png",
+   "question_image_sha256": "6ebc12cb08057d4437a7125b37861aac0ce762ea7e78c8adca07545708201f83",
+   "image_size_px": [
+    973,
+    1238
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q16",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 16,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      158.39,
+      418.46,
+      511.54
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 160.55,
+    "inferred": false,
+    "ocr": "16."
+   },
+   "question_text": "16. 다음 자료에 대한 SS 설명만을 <보기>에서 고른 것은? (단,\n\nA, Be 각각 기능론과 갈등론 중 하나임.) [3점]\n\n<확인 평가 >\no 제시된 '진위 판단'에 부합하도록 빈칸을 채워 ASS 완성하시오.\n\n진위            진위 판단에 부합하는 진술           채점\n\n판단                                           결과\n\n참    AS} 달리 BE |희소 자원의 차등 분배가 개인의    on\n성취동기에 긍정적으로 작용한다고 본다,\n\n거짓 | Be} 달리 AS           (가)              a\n\n*교사는 완성한 진술별로 채점하고, 제시된 '진위 판단'에 부합하도록 ASS 완성한\n경우에는 1점을, 그렇지 않은 경우에는 0점을 부여함.\n\n<보 기>\n\nㄱ. AS 직업 유형 간 사회적 중요도의 차이가 없다고 본다.\n\nㄴ. 는 사회 불평등 현상을 제거해야 하는 대상이라고 본\n\nㄷ. (가)에 '개인의 귀속적 Bele] 사회 불평등에 미치는 영향력을\n중시한다.'가 들어간다면, DE '0점'이다.\n\n=. Gel] 1]점'이라면, (가)에 '사회적 희소가치의 분배 기준은 사회\n전체가 합의한 것이라고 본다.'가 들어갈 수 없다.\n\nOre @1c€ @0 니드 @r.,2 Ot,2",
+   "shared_passage_text": "",
+   "stem": "16. 다음 자료에 대한 SS 설명만을 <보기>에서 고른 것은? (단, A, Be 각각 기능론과 갈등론 중 하나임.) [3점]",
+   "passage": "<확인 평가 >\no 제시된 '진위 판단'에 부합하도록 빈칸을 채워 ASS 완성하시오.\n\n진위            진위 판단에 부합하는 진술           채점\n\n판단                                           결과\n\n참    AS} 달리 BE |희소 자원의 차등 분배가 개인의    on\n성취동기에 긍정적으로 작용한다고 본다,\n\n거짓 | Be} 달리 AS           (가)              a\n\n*교사는 완성한 진술별로 채점하고, 제시된 '진위 판단'에 부합하도록 ASS 완성한\n경우에는 1점을, 그렇지 않은 경우에는 0점을 부여함.\n\n<보 기>\n\nㄱ. AS 직업 유형 간 사회적 중요도의 차이가 없다고 본다.\n\nㄴ. 는 사회 불평등 현상을 제거해야 하는 대상이라고 본\n\nㄷ. (가)에 '개인의 귀속적 Bele] 사회 불평등에 미치는 영향력을\n중시한다.'가 들어간다면, DE '0점'이다.\n\n=. Gel] 1]점'이라면, (가)에 '사회적 희소가치의 분배 기준은 사회\n전체가 합의한 것이라고 본다.'가 들어갈 수 없다.\n\nOre @1c€ @0 니드 @r.,2 Ot,2",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q16.png",
+   "question_image_sha256": "8b59f139a4a44c9742da00627fed5c48aaaf2c183500d5abe33637df366a890d",
+   "image_size_px": [
+    953,
+    981
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q17",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 17,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      542.13,
+      418.46,
+      803.48
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 544.29,
+    "inferred": false,
+    "ocr": "17."
+   },
+   "question_text": "17. 다음 자료에 대한 설명으로 Se 것은? [3점]\n\n[| 국은 소수이지만 지배층을 이루는 AST 다수이지만 지배를 받는\n쪽으로 구성되어 있었다. AS 출신 직업 군인인 갑은 (5자신에게 주어진\n업무 처리를 위해 철저히 준비하여 조직에서 우수한 성과를 내었다. 빠른\nMes 하며 승승장구하던 VE 훈련 도중 불의의 사고로 장애 판정을\n받아 더 이상 군 생활을 할 수 없었다. 이후 다른 직종에 취업하려 했으나\n장애인에 대한 사회적 편견으로 인해 늘 거절당했다. 갑이 생활의 어려움을\n겪던 중 OO Sol 대다수를 이루는 BHO] HHS 장악하게 되었다. BES\n권력의 정통성을 확보하기 위해 ㅅ족에게 인종 차별 BAS 시행하였다.\n인종 차별까지 겪은 갑은 CLITA 생활을 계속해야 할지 차별이\n없는 다른 나라로 이주해야 할지 고민하였다.\n\nD AS 갑의 에기 사회화이다.\n@ G& 갑의 역할 갈등이다.\n\n@ 갑은 생득적 요인과 후천적 요잇에 따른 차빌을 모두 경현하였다.\n0) ASS} 달리 BSS 수적인 열세로 인해 PAS 받았다.\n\n© BES} 달리 ABS. 사회적 수수자 우대 정책으로 역차별을 받았다.",
+   "shared_passage_text": "",
+   "stem": "17. 다음 자료에 대한 설명으로 Se 것은? [3점]",
+   "passage": "[| 국은 소수이지만 지배층을 이루는 AST 다수이지만 지배를 받는\n쪽으로 구성되어 있었다. AS 출신 직업 군인인 갑은 (5자신에게 주어진\n업무 처리를 위해 철저히 준비하여 조직에서 우수한 성과를 내었다. 빠른\nMes 하며 승승장구하던 VE 훈련 도중 불의의 사고로 장애 판정을\n받아 더 이상 군 생활을 할 수 없었다. 이후 다른 직종에 취업하려 했으나\n장애인에 대한 사회적 편견으로 인해 늘 거절당했다. 갑이 생활의 어려움을\n겪던 중 OO Sol 대다수를 이루는 BHO] HHS 장악하게 되었다. BES\n권력의 정통성을 확보하기 위해 ㅅ족에게 인종 차별 BAS 시행하였다.\n인종 차별까지 겪은 갑은 CLITA 생활을 계속해야 할지 차별이\n없는 다른 나라로 이주해야 할지 고민하였다.\n\nD AS 갑의 에기 사회화이다.\n@ G& 갑의 역할 갈등이다.\n\n@ 갑은 생득적 요인과 후천적 요잇에 따른 차빌을 모두 경현하였다.\n0) ASS} 달리 BSS 수적인 열세로 인해 PAS 받았다.\n\n© BES} 달리 ABS. 사회적 수수자 우대 정책으로 역차별을 받았다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q17.png",
+   "question_image_sha256": "74816761dfabe182c96d9b16d9ae42afc81bc20acaf304c20362797629b461a5",
+   "image_size_px": [
+    953,
+    726
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q18",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 18,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      75.28,
+      834.8,
+      418.46,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 836.96,
+    "inferred": false,
+    "ocr": "18."
+   },
+   "question_text": "18. 다음 글에서 사회 변동의 방향을 바라보는 필자의 관점에 대한\n옮은 설명만을 <보기>에서 고른 것은?\n\n인간이 찾아낸 과학적 지식은 자연이 가하는 Aloe 만들어진\n원시적인 미신과 선입견, 오류를 극복하는 과정에서 축적되고 정해진\n하나의 방향을 향해 진전하며 확장한다. 문명의 전개도 근대 과학의 이러한\n과정과 유사하다.\n\n<보 기>\nㄱ. 서구 중심적 사고라는 비판을 피하기 어렵다.\nㄴ. 사회 변동 방향을 예측하여 대응하기 어렵다.\nㄷ. 지속적으로 발전하는 사회를 설명하기 용이하다.\n\n. 인류 문명의 흥망성쇠 역사를 설명하기 용이하다.\n\nOrr OAc Or.vec @Br..2 (65) ㄷ, 큰",
+   "shared_passage_text": "",
+   "stem": "18. 다음 글에서 사회 변동의 방향을 바라보는 필자의 관점에 대한 옮은 설명만을 <보기>에서 고른 것은?",
+   "passage": "인간이 찾아낸 과학적 지식은 자연이 가하는 Aloe 만들어진\n원시적인 미신과 선입견, 오류를 극복하는 과정에서 축적되고 정해진\n하나의 방향을 향해 진전하며 확장한다. 문명의 전개도 근대 과학의 이러한\n과정과 유사하다.\n\n<보 기>\nㄱ. 서구 중심적 사고라는 비판을 피하기 어렵다.\nㄴ. 사회 변동 방향을 예측하여 대응하기 어렵다.\nㄷ. 지속적으로 발전하는 사회를 설명하기 용이하다.\n\n. 인류 문명의 흥망성쇠 역사를 설명하기 용이하다.\n\nOrr OAc Or.vec @Br..2 (65) ㄷ, 큰",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q18.png",
+   "question_image_sha256": "290abcc265399c77fa9770bbbb8bf890262785ce631a7fd3e3f74958c72524f6",
+   "image_size_px": [
+    953,
+    642
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q19",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 19,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      158.39,
+      772.72,
+      481.66
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 160.55,
+    "inferred": false,
+    "ocr": "19."
+   },
+   "question_text": "19. 다음 자료에 대한 설명으로 옮은 것은?\n\n@           A= 디저트 열풍에 대한\n\n조사                 @\n\n@           @||@           @\n스국에서 유행하는 || Azo] 전통 음식을\n\nB32| 고급 초콜릿      재해석한 복고풍\n디저트                 디저트\n\nBae] 상류 사회에서 즐겨 | | A= 연예인이 자국의 인기\n\n먹던 고급 초콜릿을 8국에 || 있는 TV 프로그램에서\n\n여행을 다녀온 AS 사람 | | 사라진 전통 SAS 찾아\n\n들이 기념 선물로 들여 ||젊은 세대의 입맛에 맞는\n\n오면서 ABA 다수가 | | 독특한 디저트를 만들어\n\n좋아하는 디저트가 됨.     소개함. 이후 이 디저트는\n스국의 여러 세대에서 즐겨\n먹는 다양한 디저트 중\n하나가 됨.\n\n작성자:갑 @)        작성자: 을 [2\n\n@                              @\nA= 사람들이 정보를\n\nca 디저트\n\nCS 유명 요리사가 자국의\n전통 디저트를 판매하는\n카페를 쇼국에 차리면서\nSNSS 통해 카페 정보가\nAx 사람들에게 공유됨.\nAS 사람들이 이 디저트를\n즐겨 새로운 음식 문화로\n정착됨.\n\n작성자: 병 @)\n\n© 갑이 작성한 내용에는 문화 동화가 나타난다.\nQ 을이 작성한 내용에는 자발적 문화 접변이 나타난다.\n@ 병어 작성한 내용에는 직접 전파가 나타난다.\n\n@ 갑과 달리 을, 병이 작성한 내용에는\n© 갑, 을과 달리 Yo] 작성한 내용에는\n\n문화 공존이 나타난다.\n문화 융합이 나타난다.",
+   "shared_passage_text": "",
+   "stem": "19. 다음 자료에 대한 설명으로 옮은 것은?",
+   "passage": "@           A= 디저트 열풍에 대한\n\n조사                 @\n\n@           @||@           @\n스국에서 유행하는 || Azo] 전통 음식을\n\nB32| 고급 초콜릿      재해석한 복고풍\n디저트                 디저트\n\nBae] 상류 사회에서 즐겨 | | A= 연예인이 자국의 인기\n\n먹던 고급 초콜릿을 8국에 || 있는 TV 프로그램에서\n\n여행을 다녀온 AS 사람 | | 사라진 전통 SAS 찾아\n\n들이 기념 선물로 들여 ||젊은 세대의 입맛에 맞는\n\n오면서 ABA 다수가 | | 독특한 디저트를 만들어\n\n좋아하는 디저트가 됨.     소개함. 이후 이 디저트는\n스국의 여러 세대에서 즐겨\n먹는 다양한 디저트 중\n하나가 됨.\n\n작성자:갑 @)        작성자: 을 [2\n\n@                              @\nA= 사람들이 정보를\n\nca 디저트\n\nCS 유명 요리사가 자국의\n전통 디저트를 판매하는\n카페를 쇼국에 차리면서\nSNSS 통해 카페 정보가\nAx 사람들에게 공유됨.\nAS 사람들이 이 디저트를\n즐겨 새로운 음식 문화로\n정착됨.\n\n작성자: 병 @)\n\n© 갑이 작성한 내용에는 문화 동화가 나타난다.\nQ 을이 작성한 내용에는 자발적 문화 접변이 나타난다.\n@ 병어 작성한 내용에는 직접 전파가 나타난다.\n\n@ 갑과 달리 을, 병이 작성한 내용에는\n© 갑, 을과 달리 Yo] 작성한 내용에는\n\n문화 공존이 나타난다.\n문화 융합이 나타난다.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": null,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q19.png",
+   "question_image_sha256": "ebb0542a0694a201d3eec83c3e667b773cd13cc85e050ac11f14ccf152342aa2",
+   "image_size_px": [
+    973,
+    898
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  },
+  {
+   "question_id": "SOCIOCULTURE_2025_CSAT_Q20",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2025_CSAT",
+   "year": 2025,
+   "exam_type": "CSAT",
+   "exam_period": "대학수학능력시험",
+   "question_number": 20,
+   "source_file": "2025학년도_수능_사회문화_문제.pdf",
+   "source_sha256": "f472f42b644d4f0f7d085f8192a104d1ecf3639e9adf2e3ece50dd46ca7a90a7",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      422.46,
+      538.89,
+      772.72,
+      1065.91
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "image_structural_ocr",
+    "page": 4,
+    "y_pt": 541.05,
+    "inferred": false,
+    "ocr": "20."
+   },
+   "question_text": "20. 다음 자료에 대한 분석으로 SE 것은? [3점]\n\n갑국 tele] 부양 인구(15~64세 인구)는 노년 인구의 ?배이며, 노령화\n지수는 50이다. 표는 기간별 인구 변화 양상을 나타낸 것으로 ㅅ 기간은\n[년 대비 ㅠ30년으로, 8 기간은 30년 대비 50년으로 하여 분석하였다.\n단, & 기간과 8 기간 동안 전체 인구의 변화는 없다.\n\n구분                           쇼 기간       기간\n노령화 지수 증가율(%)             60        50\n노년 인구 증가율(%)            100       50\n\n: 노령화 지수 - 노년 인구(66세 이상 인구)\n“        유소년 인구(0~14세 인구)\n\n× 100\n\n<조건>\no 노동력 부족 정도, 세대 간 갈등 정도, 양육에 대한 사회적 부담\n정도는 아래의 조건으로만 각각 판단한다.\n1. 노동력 부족 정도는 부양 인구와 부(-)의 관계에 있다.\n3. 세대 간 갈등 정도는 노년 부양비와 정()의 관계에 있다.\n3. 양육에 대한 사회적 부담 정도는 유소년 부양비와 정(-)의 관계에\n있다.\n\n노년(유소년) 인구\n\n부양 인구\n\n*노년(유소년) 부양비 =\n\n× 100\n\n0) 쇼기간에 유소년 인구는 감소하고 노년 인구는 증가하였다.\n\n@ 8 기간에 부양 인구와 노년 인구는 모두 증가하였다.\n\n@ 기간과 8기간에 증가한 노년 인구는 동일하다.\n\n@) 양육에 대한 사회적 부담 정도는 ㄴ50년보다 +30년이 크다.\n\n© 노동력 부족 AEE 150d Bx} [+30년이, 세대 간 갈등 ARE\n단30년보다 50년이 크다.\n\n* 확인 사항\n\nㅇ 답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n\n하시오.",
+   "shared_passage_text": "",
+   "stem": "20. 다음 자료에 대한 분석으로 SE 것은? [3점]",
+   "passage": "갑국 tele] 부양 인구(15~64세 인구)는 노년 인구의 ?배이며, 노령화\n지수는 50이다. 표는 기간별 인구 변화 양상을 나타낸 것으로 ㅅ 기간은\n[년 대비 ㅠ30년으로, 8 기간은 30년 대비 50년으로 하여 분석하였다.\n단, & 기간과 8 기간 동안 전체 인구의 변화는 없다.\n\n구분                           쇼 기간       기간\n노령화 지수 증가율(%)             60        50\n노년 인구 증가율(%)            100       50\n\n: 노령화 지수 - 노년 인구(66세 이상 인구)\n“        유소년 인구(0~14세 인구)\n\n× 100\n\n<조건>\no 노동력 부족 정도, 세대 간 갈등 정도, 양육에 대한 사회적 부담\n정도는 아래의 조건으로만 각각 판단한다.\n1. 노동력 부족 정도는 부양 인구와 부(-)의 관계에 있다.\n3. 세대 간 갈등 정도는 노년 부양비와 정()의 관계에 있다.\n3. 양육에 대한 사회적 부담 정도는 유소년 부양비와 정(-)의 관계에\n있다.\n\n노년(유소년) 인구\n\n부양 인구\n\n*노년(유소년) 부양비 =\n\n× 100\n\n0) 쇼기간에 유소년 인구는 감소하고 노년 인구는 증가하였다.\n\n@ 8 기간에 부양 인구와 노년 인구는 모두 증가하였다.\n\n@ 기간과 8기간에 증가한 노년 인구는 동일하다.\n\n@) 양육에 대한 사회적 부담 정도는 ㄴ50년보다 +30년이 크다.\n\n© 노동력 부족 AEE 150d Bx} [+30년이, 세대 간 갈등 ARE\n단30년보다 50년이 크다.\n\n* 확인 사항\n\nㅇ 답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인\n\n하시오.",
+   "choices": [],
+   "text_source": "tesseract_ocr",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": null,
+   "visual_detail": null,
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q20.png",
+   "question_image_sha256": "0919a7025ef059db6170414d3ab9aed16795acc32b4b1ea82c763672cb6ae7f0",
+   "image_size_px": [
+    973,
+    1464
+   ],
+   "review_required": true,
+   "review_reasons": [
+    "CHOICE_TEXT_UNRELIABLE",
+    "VISUAL_FLAG_REVIEW"
+   ]
+  }
+ ]
+}

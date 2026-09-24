@@ -1,0 +1,1738 @@
+{
+ "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+ "subject": "SOCIOCULTURE",
+ "year": 2018,
+ "exam_type": "SEPTEMBER",
+ "exam_period": "9월 모의평가",
+ "source_file": "2018학년도_09월_사회문화_문제.pdf",
+ "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+ "pipeline_version": "p1-v1",
+ "page_count": 4,
+ "start_page": 1,
+ "end_page": 4,
+ "skipped_pages": [],
+ "anchor_method": "pdf_text",
+ "inferred_numbers": [],
+ "shared_passage_groups": [],
+ "missing_numbers": [],
+ "header_metadata": {
+  "year": 2018,
+  "exam_type": "SEPTEMBER",
+  "subject_in_header": true,
+  "source": "pdf_text",
+  "raw": "17\n36\n사회탐구`영역(사회∙문화)\n2018학년도대학수학능력시험9월모의평가문제지\n제`4`교시\n1\n성명\n수험`번호\n1.\n밑줄친㉠, ㉡과같은현상의일반적특징을구분하기위해\nA, B에들어갈수있는질문으로옳은것은?\n4.\n다음연구에대한설명으로옳은것은? (단, (가)~(마)는연구\n과정을순서없이나열한것이다.) ġ3점Ģ\n답변\n질문\n예\n아니요\nA\n㉠\n㉡\n㉡\n㉠\nB\n①A: 당위"
+ },
+ "metadata_verified": true,
+ "layout": [
+  {
+   "page": 0,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 205.0286447199658,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.859
+  },
+  {
+   "page": 1,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 111.41427960666952,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.889
+  },
+  {
+   "page": 2,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 111.41427960666952,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.737
+  },
+  {
+   "page": 3,
+   "zoom": 3.033722438391699,
+   "w_pt": 771.0,
+   "h_pt": 1116.0,
+   "divider": {
+    "x": 385.00555793073966,
+    "top": 111.41427960666952,
+    "bottom": 1030.0876442924327
+   },
+   "text_quality": 0.798
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q01",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 1,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      216.9,
+      383.01,
+      475.65
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 218.27,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "1. 밑줄친㉠, ㉡과같은현상의일반적특징을구분하기위해\n  A, B에들어갈수있는질문으로옳은것은?\n\n\n   ㉠감기에걸렸을때감기약을먹으면7일만에낫고, 그렇지않으면일주일\n  만에낫는다는말이있다. 이는우리몸에㉡병을치유할수있는자생력이\n  내재되어있음을의미하는말이다. 사회에도우리몸과같이비정상적인상태를\n  바로잡아정상적인상태로회복시켜주는장치가내재되어있다.\n\n\n            답변\n                    예          아니요\n  질문\n\n           A          ㉠          ㉡\n\n           B          ㉡          ㉠\n\n ①A: 당위법칙이적용되는가?\n ②A: 존재법칙이적용되는가?\n ③A: 동일조건하에서동일현상이발생하는가?\n ④B: 가치판단이가능한가?\n ⑤B: 확률의원리가적용되는가?",
+   "shared_passage_text": "",
+   "stem": "1. 밑줄친㉠, ㉡과같은현상의일반적특징을구분하기위해 A, B에들어갈수있는질문으로옳은것은?",
+   "passage": "㉠감기에걸렸을때감기약을먹으면7일만에낫고, 그렇지않으면일주일\n  만에낫는다는말이있다. 이는우리몸에㉡병을치유할수있는자생력이\n  내재되어있음을의미하는말이다. 사회에도우리몸과같이비정상적인상태를\n  바로잡아정상적인상태로회복시켜주는장치가내재되어있다.\n\n\n            답변\n                    예          아니요\n  질문\n\n           A          ㉠          ㉡\n\n           B          ㉡          ㉠",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A: 당위법칙이적용되는가?"
+    },
+    {
+     "number": 2,
+     "text": "A: 존재법칙이적용되는가?"
+    },
+    {
+     "number": 3,
+     "text": "A: 동일조건하에서동일현상이발생하는가?"
+    },
+    {
+     "number": 4,
+     "text": "B: 가치판단이가능한가?"
+    },
+    {
+     "number": 5,
+     "text": "B: 확률의원리가적용되는가?"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 1,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q01.png",
+   "question_image_sha256": "c844a5114ef6b563763fcfd872470784dd7ac83d28d2d8b7fa55dd140ba6fd24",
+   "image_size_px": [
+    1045,
+    785
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q02",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 2,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      489.5,
+      383.01,
+      798.69
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 490.81,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "2.  (가), (나)에나타난사회∙문화현상을바라보는관점에대한\n 설명으로옳은것은?\n\n\n   (가) 사람들은흔히붉은색에‘열정’혹은‘위험’의의미를부여한다. 영화제\n    레드카펫의붉은색을보면서사람들은화려한축제의열정적분위기를\n    떠올리지붉은색카펫이깔려있다고이것을위험한길이라생각하지\n      않는다. 반면신호등의붉은색을보면서사람들은이것을위험에대한\n    경고로이해하지열정의색으로생각하지않는다.\n   (나) 신호등의붉은색은‘위험하니멈추라’는의미의사회적약속이다. 이렇게\n    운전자와보행자가모두신호등각각의색깔이상징하는규칙체계를\n    준수함으로써사고없이안전하게거리를다닐수있다. 물론신호를\n    위반해위험을초래하는사람도있지만이런일은일시적으로벌어지는\n     비정상적상황일뿐이다.\n\n ①(가)의관점은사회각부분간의균형과통합을강조한다.\n ②(나)의관점은사회가본질적으로변동을지향한다고본다.\n ③(가)의관점은(나)의관점과달리사회구성원의상황정의를\n   중시한다.\n ④(나)의관점은(가)의관점과달리사회구성원의능동성을\n   중시한다.\n ⑤(가), (나)의관점은모두사회의각부분이상호유기적관계를\n  맺고있다고본다.",
+   "shared_passage_text": "",
+   "stem": "2. (가), (나)에나타난사회∙문화현상을바라보는관점에대한 설명으로옳은것은?",
+   "passage": "(가) 사람들은흔히붉은색에‘열정’혹은‘위험’의의미를부여한다. 영화제\n    레드카펫의붉은색을보면서사람들은화려한축제의열정적분위기를\n    떠올리지붉은색카펫이깔려있다고이것을위험한길이라생각하지\n      않는다. 반면신호등의붉은색을보면서사람들은이것을위험에대한\n    경고로이해하지열정의색으로생각하지않는다.\n   (나) 신호등의붉은색은‘위험하니멈추라’는의미의사회적약속이다. 이렇게\n    운전자와보행자가모두신호등각각의색깔이상징하는규칙체계를\n    준수함으로써사고없이안전하게거리를다닐수있다. 물론신호를\n    위반해위험을초래하는사람도있지만이런일은일시적으로벌어지는\n     비정상적상황일뿐이다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)의관점은사회각부분간의균형과통합을강조한다."
+    },
+    {
+     "number": 2,
+     "text": "(나)의관점은사회가본질적으로변동을지향한다고본다."
+    },
+    {
+     "number": 3,
+     "text": "(가)의관점은(나)의관점과달리사회구성원의상황정의를 중시한다."
+    },
+    {
+     "number": 4,
+     "text": "(나)의관점은(가)의관점과달리사회구성원의능동성을 중시한다."
+    },
+    {
+     "number": 5,
+     "text": "(가), (나)의관점은모두사회의각부분이상호유기적관계를 맺고있다고본다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q02.png",
+   "question_image_sha256": "aec28fa3bac944557914aef06808ae1cff3793b3420f82ff3871590a8e299d65",
+   "image_size_px": [
+    1045,
+    938
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q03",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 3,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      813.19,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 814.87,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "3. 밑줄친㉠~㉦에대한설명으로옳은것은?ġ3점Ģ\n\n\n   ㉠아이돌그룹의멤버가되기를꿈꾸어왔던갑은신인아이돌그룹\n  ㉡☆☆☆☆의팬클럽을결성하여회장으로활동하였다. 학교친구들과\n  ㉢댄스모임을만들어꾸준히연습하던갑은방송사의음악경연프로그램에\n  참가하였지만㉣예선탈락의아픔을맛보았다. 이에좌절하지않고더욱\n  분발한갑은마침내㉤△△기획사에서개최한㉥공개오디션에합격하였고,\n  솔로가수로데뷔하여큰인기를얻었다. 최근갑은무의탁노인을대상으로\n  봉사하는㉦◇◇단체의홍보대사로위촉되어공연을하는등재능기부로\n  나눔을실천하는데앞장서고있다.\n\n\n ①㉠은갑의준거집단이자내집단이다.\n ②㉡은자발적결사체이자이익사회이다.\n ③㉦은전인격적인간관계를바탕으로한다.\n ④㉢과㉤은모두2차집단이자공식조직이다.\n ⑤㉣과㉥은각각갑의역할에대한제재와보상이다",
+   "shared_passage_text": "",
+   "stem": "3. 밑줄친㉠~㉦에대한설명으로옳은것은?ġ3점Ģ",
+   "passage": "㉠아이돌그룹의멤버가되기를꿈꾸어왔던갑은신인아이돌그룹\n  ㉡☆☆☆☆의팬클럽을결성하여회장으로활동하였다. 학교친구들과\n  ㉢댄스모임을만들어꾸준히연습하던갑은방송사의음악경연프로그램에\n  참가하였지만㉣예선탈락의아픔을맛보았다. 이에좌절하지않고더욱\n  분발한갑은마침내㉤△△기획사에서개최한㉥공개오디션에합격하였고,\n  솔로가수로데뷔하여큰인기를얻었다. 최근갑은무의탁노인을대상으로\n  봉사하는㉦◇◇단체의홍보대사로위촉되어공연을하는등재능기부로\n  나눔을실천하는데앞장서고있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠은갑의준거집단이자내집단이다."
+    },
+    {
+     "number": 2,
+     "text": "㉡은자발적결사체이자이익사회이다."
+    },
+    {
+     "number": 3,
+     "text": "㉦은전인격적인간관계를바탕으로한다."
+    },
+    {
+     "number": 4,
+     "text": "㉢과㉤은모두2차집단이자공식조직이다."
+    },
+    {
+     "number": 5,
+     "text": "㉣과㉥은각각갑의역할에대한제재와보상이다"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q03.png",
+   "question_image_sha256": "b37f5c152073556826ab2cbcd57df23dd2fb193f49ca0f74a56279ce6bfe6635",
+   "image_size_px": [
+    1045,
+    654
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q04",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 4,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      216.9,
+      738.56,
+      680.68
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 218.27,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "4. 다음연구에대한설명으로옳은것은? (단, (가)~(마)는연구\n 과정을순서없이나열한것이다.)ġ3점Ģ\n\n\n    Ӌ연구 주제 설정 : ㉠ 청소년이 스마트폰 게임 중독에 빠지는 원인으로\n     가족 환경에 주목하고 그 관련성을 파악하기로 하였다.\n\n      (가) 스마트폰 게임 중독은 게임 빈도와 시간으로, 부모와 자녀의 유대\n        정도는 부모-자녀 간 말다툼 빈도 및 부모와의 동일시 정도로 측정\n        하기로 하였다. 연구 대상자는 300명으로, ㉡ 지역 5개 고등학교\n          1학년 남녀 학생 중에서 무작위로 선정되었다.\n\n      (나) 스마트폰 게임 빈도 및 시간은 부모-자녀 간 말다툼 빈도와는 정(+)의\n          관계, 부모와의 동일시 정도와는 부(-)의 관계에 있음을 확인\n          하였다.\n\n      (다) ㉢ 부모와 자녀 간 유대가 약할수록 자녀의 스마트폰 게임 중독\n        정도가 높을 것으로 추정하였다.\n\n      (라) 2017년 8월, 연구 대상자와의 대면 접촉을 통해 구조화된 질문지로\n        자료를 수집하였다.\n\n      (마) ㉣ 게임 중독 치료 경험이 있는 청소년들을 심층 면접한 선행 연구\n        자료를 검토하였다. ㉤ 이 선행 연구 자료에서 가족의 특성, 가족 내\n         갈등 경험 및 가족 구성원 간 친밀성 정도와 스마트폰 게임 중독 사이에\n        높은 연관성이 있음을 확인하였다.\n\n    Ӌ결론 도출 : ㉥ 이 연구를 통해 부모와의 유대가 약한 청소년일수록\n     스마트폰 게임 중독에 빠질 가능성이 높아진다는 사실을 확인하였다.\n\n\n ①㉠은모집단, ㉡은표본집단이다.\n ②㉢을측정하기위한조작적정의는(마)에서이루어졌다.\n ③㉣과같은자료수집방법은연구대상자와연구자간친밀성이\n   중시된다.\n ④㉥과같은연구방법은㉤과같은연구방법에비해한정된\n  수의변인에집중하여가설을검증하기용이하다.\n ⑤이연구과정은(가)-(다)-(마)-(라)-(나) 순서로진행되는\n   것이적절하다.",
+   "shared_passage_text": "",
+   "stem": "4. 다음연구에대한설명으로옳은것은? (단, (가)~(마)는연구 과정을순서없이나열한것이다.)ġ3점Ģ",
+   "passage": "Ӌ연구 주제 설정 : ㉠ 청소년이 스마트폰 게임 중독에 빠지는 원인으로\n     가족 환경에 주목하고 그 관련성을 파악하기로 하였다.\n\n      (가) 스마트폰 게임 중독은 게임 빈도와 시간으로, 부모와 자녀의 유대\n        정도는 부모-자녀 간 말다툼 빈도 및 부모와의 동일시 정도로 측정\n        하기로 하였다. 연구 대상자는 300명으로, ㉡ 지역 5개 고등학교\n          1학년 남녀 학생 중에서 무작위로 선정되었다.\n\n      (나) 스마트폰 게임 빈도 및 시간은 부모-자녀 간 말다툼 빈도와는 정(+)의\n          관계, 부모와의 동일시 정도와는 부(-)의 관계에 있음을 확인\n          하였다.\n\n      (다) ㉢ 부모와 자녀 간 유대가 약할수록 자녀의 스마트폰 게임 중독\n        정도가 높을 것으로 추정하였다.\n\n      (라) 2017년 8월, 연구 대상자와의 대면 접촉을 통해 구조화된 질문지로\n        자료를 수집하였다.\n\n      (마) ㉣ 게임 중독 치료 경험이 있는 청소년들을 심층 면접한 선행 연구\n        자료를 검토하였다. ㉤ 이 선행 연구 자료에서 가족의 특성, 가족 내\n         갈등 경험 및 가족 구성원 간 친밀성 정도와 스마트폰 게임 중독 사이에\n        높은 연관성이 있음을 확인하였다.\n\n    Ӌ결론 도출 : ㉥ 이 연구를 통해 부모와의 유대가 약한 청소년일수록\n     스마트폰 게임 중독에 빠질 가능성이 높아진다는 사실을 확인하였다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠은모집단, ㉡은표본집단이다."
+    },
+    {
+     "number": 2,
+     "text": "㉢을측정하기위한조작적정의는(마)에서이루어졌다."
+    },
+    {
+     "number": 3,
+     "text": "㉣과같은자료수집방법은연구대상자와연구자간친밀성이 중시된다."
+    },
+    {
+     "number": 4,
+     "text": "㉥과같은연구방법은㉤과같은연구방법에비해한정된 수의변인에집중하여가설을검증하기용이하다."
+    },
+    {
+     "number": 5,
+     "text": "이연구과정은(가)-(다)-(마)-(라)-(나) 순서로진행되는 것이적절하다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 340,
+    "filled_shapes": 24
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q04.png",
+   "question_image_sha256": "2c9ce6089cea5f5c8b628d3e2563cdfa9892ff212e8bdce8d5cd120ef37b47a3",
+   "image_size_px": [
+    1066,
+    1407
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q05",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 5,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 1,
+   "original_page": 1,
+   "source_pages": [
+    1
+   ],
+   "crop_segments": [
+    {
+     "page": 1,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      737.05,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 1,
+    "y_pt": 738.43,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "5. 다음글에서공통적으로부각되는문화의속성에대한옳은\n 진술을<보기>에서고른것은?\n\n\n  ○미국남서부에거주하는주니족은절제의미덕을중시한다. 이들은남에게\n   해를끼치지않기위해어릴때부터집단의행동규범을따라야하고\n   개인적인권위나카리스마를내세울수없다. 아이들은일상생활속에서\n     원한, 억눌림, 야심, 야망등이없이자라난다. 어른이되어도그들은권력을\n   쥐고무언가해보겠다는식의권력의지가없다.\n  ○베네수엘라와브라질의국경부근에사는야노마모족에게근본적이고중요한\n    관심사는“누가진짜인간인가?”라는것이다. 그들은스스로를‘진짜로문명화된’\n    유일한존재라고생각하며, 외부인들을‘야만적’존재로간주한다. 선조들로\n   부터구전되어오는그들의기원신화에따르면, 최초로창조된사람은\n   야노마모족이며그외의다른사람들은모두열등한존재이다.\n\n                       <`보기`>\n\n   ㄱ. 문화는타고나는것이아니라습득되는것이다.\n   ㄴ. 문화는정적인상태로머물지않고발전하거나퇴보한다.\n   ㄷ. 문화는사회구성원간원활한상호작용의토대가된다.\n   ㄹ. 문화는새로운문화요소가추가되어점점더풍부해진다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "5. 다음글에서공통적으로부각되는문화의속성에대한옳은 진술을<보기>에서고른것은?",
+   "passage": "○미국남서부에거주하는주니족은절제의미덕을중시한다. 이들은남에게\n   해를끼치지않기위해어릴때부터집단의행동규범을따라야하고\n   개인적인권위나카리스마를내세울수없다. 아이들은일상생활속에서\n     원한, 억눌림, 야심, 야망등이없이자라난다. 어른이되어도그들은권력을\n   쥐고무언가해보겠다는식의권력의지가없다.\n  ○베네수엘라와브라질의국경부근에사는야노마모족에게근본적이고중요한\n    관심사는“누가진짜인간인가?”라는것이다. 그들은스스로를‘진짜로문명화된’\n    유일한존재라고생각하며, 외부인들을‘야만적’존재로간주한다. 선조들로\n   부터구전되어오는그들의기원신화에따르면, 최초로창조된사람은\n   야노마모족이며그외의다른사람들은모두열등한존재이다.\n\n                       <`보기`>\n\n   ㄱ. 문화는타고나는것이아니라습득되는것이다.\n   ㄴ. 문화는정적인상태로머물지않고발전하거나퇴보한다.\n   ㄷ. 문화는사회구성원간원활한상호작용의토대가된다.\n   ㄹ. 문화는새로운문화요소가추가되어점점더풍부해진다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q05.png",
+   "question_image_sha256": "84c0ce150ae4f381c8eb938847dec26fded3d70bf2c75ad6359d57ecc3e9e442",
+   "image_size_px": [
+    1066,
+    885
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q06",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 6,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      124.6,
+      383.01,
+      616.4
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "6.  (가), (나)에나타난사회변동의방향을바라보는관점에\n 대한설명으로옳은것은?ġ3점Ģ\n\n\n   (가) 인류문명은감각적문화, 관념적문화, 이상주의적문화의\n    세가지문화체계가번갈아출현한다. 감각적문화는\n    물질주의와향락주의가강조되는데, 로마제국이나\n    오늘날의서구문명이그예이다. 관념적문화는정신적이고\n    비물질적인존재를지향하는유형인데, 기독교가지배하던\n    중세유럽문명이그사례이다. 이상주의적문화는이들\n    두가지문화가한데모여균형을유지하면서공존하는\n     유형으로, 르네상스시기의유럽문명이이에해당한다.\n   (나) 인류문명은신학적, 형이상학적, 실증적단계를거쳐\n    발전하며각단계마다상이한시대정신을갖는다. 신학적\n    단계에서는초자연적힘이나초월적존재에의존하여\n    지적기준과사회구조가형성된다. 형이상학적단계에서는\n    이성에기초한추상적이고논리적인사고가지배한다.\n    실증적단계에서는경험적관찰과합리성을토대로과학이\n    발전하고산업화가진행된다. 모든문명은완전성을지향\n    하는시대정신을향해동일한변동과정을밟는다.\n\n\n ①(가)의관점은사회의안정과조화를유지하기위해사회각\n  부분들이조정되는과정을사회변동으로본다.\n ②(나)의관점은사회변동이항상발전을의미하지는않는다고\n   본다.\n ③(나)의관점은(가)의관점과달리서구사회가진보된사회임을\n   전제한다.\n ④(가)의관점은급격한사회변동을, (나)의관점은점진적사회\n  변동을설명하기에용이하다.\n ⑤(가), (나)의관점은모두사회가이전보다복잡하고분화되는\n  양상으로변동한다고본다.",
+   "shared_passage_text": "",
+   "stem": "6. (가), (나)에나타난사회변동의방향을바라보는관점에 대한설명으로옳은것은?ġ3점Ģ",
+   "passage": "(가) 인류문명은감각적문화, 관념적문화, 이상주의적문화의\n    세가지문화체계가번갈아출현한다. 감각적문화는\n    물질주의와향락주의가강조되는데, 로마제국이나\n    오늘날의서구문명이그예이다. 관념적문화는정신적이고\n    비물질적인존재를지향하는유형인데, 기독교가지배하던\n    중세유럽문명이그사례이다. 이상주의적문화는이들\n    두가지문화가한데모여균형을유지하면서공존하는\n     유형으로, 르네상스시기의유럽문명이이에해당한다.\n   (나) 인류문명은신학적, 형이상학적, 실증적단계를거쳐\n    발전하며각단계마다상이한시대정신을갖는다. 신학적\n    단계에서는초자연적힘이나초월적존재에의존하여\n    지적기준과사회구조가형성된다. 형이상학적단계에서는\n    이성에기초한추상적이고논리적인사고가지배한다.\n    실증적단계에서는경험적관찰과합리성을토대로과학이\n    발전하고산업화가진행된다. 모든문명은완전성을지향\n    하는시대정신을향해동일한변동과정을밟는다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)의관점은사회의안정과조화를유지하기위해사회각 부분들이조정되는과정을사회변동으로본다."
+    },
+    {
+     "number": 2,
+     "text": "(나)의관점은사회변동이항상발전을의미하지는않는다고 본다."
+    },
+    {
+     "number": 3,
+     "text": "(나)의관점은(가)의관점과달리서구사회가진보된사회임을 전제한다."
+    },
+    {
+     "number": 4,
+     "text": "(가)의관점은급격한사회변동을, (나)의관점은점진적사회 변동을설명하기에용이하다."
+    },
+    {
+     "number": 5,
+     "text": "(가), (나)의관점은모두사회가이전보다복잡하고분화되는 양상으로변동한다고본다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q06.png",
+   "question_image_sha256": "c184b1628c2b26f77c115d8b0170e6037365cf51fa148f1c137d199d752490d4",
+   "image_size_px": [
+    1045,
+    1492
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q07",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 7,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      636.51,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 637.8,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "7. 일탈행동을바라보는(가)~(다)의이론적관점에대한설명으로\n 옳은것은?ġ3점Ģ\n\n\n   사회계층과범죄율간에부(-)의관계가나타난다는주장에대해다음과\n  같은견해들이제시되고있다.\n\n   (가) 부를획득하기위한합법적수단은계층에따라차등분포되어있다.\n    하위계층은상위계층에비해문화적목표와합법적수단간불일치로\n    인한긴장의정도가더커서일탈행동을할가능성이높다.\n   (나) 일탈자로규정되는과정에서규범위반여부보다더중요한변인은\n    개인의사회적위치에따른차별적반응이다. 즉, 하위계층에보다\n    엄격한규범이적용되고, 이들이일탈자로서의정체성을형성하면서\n     일탈경력이강화된다.\n   (다) 일탈행동이하위계층의부적응에서기인하거나사회의차별적반응의\n    결과라는주장에는문제가있다. 일탈행동은반사회적행동성향을\n    지닌타인들과지속적으로대면접촉한결과이다. 일탈에동조하는\n      가치, 태도, 행위에노출된결과, 일탈을위한동기부여와기술습득이\n     이루어진다.\n\n ①(가)의관점은불평등한사회구조와계급간갈등을일탈행동의\n   근본원인이라고본다.\n ②(나)의관점은일탈행동이비행집단과의교류로인한잘못된\n  사회화에서비롯된것이라고본다.\n ③(다)의관점은사회의지배적인규범이약화되거나해체될때일탈\n  행동이증가한다고본다.\n ④(나)의관점은(가)의관점과달리일탈행동의원인을거시적\n  관점에서바라본다.\n ⑤(다)의관점은(가)의관점과달리일탈행동을타인과의상호작용의\n   산물로본다.",
+   "shared_passage_text": "",
+   "stem": "7. 일탈행동을바라보는(가)~(다)의이론적관점에대한설명으로 옳은것은?ġ3점Ģ",
+   "passage": "사회계층과범죄율간에부(-)의관계가나타난다는주장에대해다음과\n  같은견해들이제시되고있다.\n\n   (가) 부를획득하기위한합법적수단은계층에따라차등분포되어있다.\n    하위계층은상위계층에비해문화적목표와합법적수단간불일치로\n    인한긴장의정도가더커서일탈행동을할가능성이높다.\n   (나) 일탈자로규정되는과정에서규범위반여부보다더중요한변인은\n    개인의사회적위치에따른차별적반응이다. 즉, 하위계층에보다\n    엄격한규범이적용되고, 이들이일탈자로서의정체성을형성하면서\n     일탈경력이강화된다.\n   (다) 일탈행동이하위계층의부적응에서기인하거나사회의차별적반응의\n    결과라는주장에는문제가있다. 일탈행동은반사회적행동성향을\n    지닌타인들과지속적으로대면접촉한결과이다. 일탈에동조하는\n      가치, 태도, 행위에노출된결과, 일탈을위한동기부여와기술습득이\n     이루어진다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "(가)의관점은불평등한사회구조와계급간갈등을일탈행동의 근본원인이라고본다."
+    },
+    {
+     "number": 2,
+     "text": "(나)의관점은일탈행동이비행집단과의교류로인한잘못된 사회화에서비롯된것이라고본다."
+    },
+    {
+     "number": 3,
+     "text": "(다)의관점은사회의지배적인규범이약화되거나해체될때일탈 행동이증가한다고본다."
+    },
+    {
+     "number": 4,
+     "text": "(나)의관점은(가)의관점과달리일탈행동의원인을거시적 관점에서바라본다."
+    },
+    {
+     "number": 5,
+     "text": "(다)의관점은(가)의관점과달리일탈행동을타인과의상호작용의 산물로본다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q07.png",
+   "question_image_sha256": "5d37ce0208db917ccfd30cc86672c30fbf628caa5f0036df32f869a44f8e271b",
+   "image_size_px": [
+    1045,
+    1190
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q08",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 8,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      124.6,
+      738.56,
+      369.84
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "8. 다음글에나타난개인과사회의관계를보는관점과부합하는\n 진술을<보기>에서고른것은?\n\n\n   인간은결코혼자서는행복하고안녕한삶을누릴수없는존재이기에\n  집단의일원으로살아간다. 그런데개인은집단에소속된순간부터자신의\n  행복과안녕보다집단의존속과유지를위해살아야한다는압력을받게\n   된다. 각개인의자유의지는집단규범이허용한범위안에서만발현된다.\n  자유의지발현에대한집단규범의허용범위가바뀌는경우는집단이\n  불안정한상태로접어들거나집단내구조적모순이발생할때이다.\n\n                       <`보기`>\n\n   ㄱ. 개인의의식과행위는사회에의해규정된다.\n   ㄴ. 사회의특성은개인적행동이반영된결과이다.\n   ㄷ. 사회의구속력이개인의자유의지보다우위에있다.\n   ㄹ. 집단행동은개인이갖고있는자유의지의총합으로표출된다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "8. 다음글에나타난개인과사회의관계를보는관점과부합하는 진술을<보기>에서고른것은?",
+   "passage": "인간은결코혼자서는행복하고안녕한삶을누릴수없는존재이기에\n  집단의일원으로살아간다. 그런데개인은집단에소속된순간부터자신의\n  행복과안녕보다집단의존속과유지를위해살아야한다는압력을받게\n   된다. 각개인의자유의지는집단규범이허용한범위안에서만발현된다.\n  자유의지발현에대한집단규범의허용범위가바뀌는경우는집단이\n  불안정한상태로접어들거나집단내구조적모순이발생할때이다.\n\n                       <`보기`>\n\n   ㄱ. 개인의의식과행위는사회에의해규정된다.\n   ㄴ. 사회의특성은개인적행동이반영된결과이다.\n   ㄷ. 사회의구속력이개인의자유의지보다우위에있다.\n   ㄹ. 집단행동은개인이갖고있는자유의지의총합으로표출된다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q08.png",
+   "question_image_sha256": "2b2d1a9931b213bc7cfe6afef2c409c46a5ae09db08a2cf7fccad776e74c4869",
+   "image_size_px": [
+    1066,
+    744
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q09",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 9,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      408.41,
+      738.56,
+      663.54
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 409.94,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "9. 밑줄친㉠~㉦에대한설명으로옳은것은?\n\n\n   많은사람들이햄버거는미국에서시작되었다고생각한다. 하지만일설에\n   따르면, 햄버거는아시아의기마민족인㉠타타르족으로부터유래되어14세기경\n  오늘날의독일지역을거쳐, 이후㉡미국으로건너가대중화된것이라고\n   한다. 타타르족은㉢말안장밑에고기조각을넣고말을달리면말안장의\n  충격으로고기가부드럽게다져진다는사실을알게되었다. 그들은그렇게해서\n  연해진고기에각종양념을쳐서먹곤했다. 이후미국에서㉣빵사이에\n  다진고기를넣는요리법이더해지면서㉤타타르족의음식과는다른형태를\n  띤지금의햄버거가탄생하여여러나라에보급되었다. 우리나라에는해방\n  후들어온㉥미군에의해햄버거가전해졌다. 이후햄버거를즐겨먹는\n  한국인이늘어나면서빵대신밥을이용한㉦라이스버거와같은새로운\n  메뉴가개발되기도하였다.\n\n ①㉠은직접전파, ㉥은간접전파의사례이다.\n ②㉡은강제적문화접변의사례이다.\n ③㉢은㉣과달리자극전파의사례이다.\n ④㉤은문화동화의사례이다.\n ⑤㉦은문화융합의사례이다.",
+   "shared_passage_text": "",
+   "stem": "9. 밑줄친㉠~㉦에대한설명으로옳은것은?",
+   "passage": "많은사람들이햄버거는미국에서시작되었다고생각한다. 하지만일설에\n   따르면, 햄버거는아시아의기마민족인㉠타타르족으로부터유래되어14세기경\n  오늘날의독일지역을거쳐, 이후㉡미국으로건너가대중화된것이라고\n   한다. 타타르족은㉢말안장밑에고기조각을넣고말을달리면말안장의\n  충격으로고기가부드럽게다져진다는사실을알게되었다. 그들은그렇게해서\n  연해진고기에각종양념을쳐서먹곤했다. 이후미국에서㉣빵사이에\n  다진고기를넣는요리법이더해지면서㉤타타르족의음식과는다른형태를\n  띤지금의햄버거가탄생하여여러나라에보급되었다. 우리나라에는해방\n  후들어온㉥미군에의해햄버거가전해졌다. 이후햄버거를즐겨먹는\n  한국인이늘어나면서빵대신밥을이용한㉦라이스버거와같은새로운\n  메뉴가개발되기도하였다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠은직접전파, ㉥은간접전파의사례이다."
+    },
+    {
+     "number": 2,
+     "text": "㉡은강제적문화접변의사례이다."
+    },
+    {
+     "number": 3,
+     "text": "㉢은㉣과달리자극전파의사례이다."
+    },
+    {
+     "number": 4,
+     "text": "㉤은문화동화의사례이다."
+    },
+    {
+     "number": 5,
+     "text": "㉦은문화융합의사례이다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q09.png",
+   "question_image_sha256": "2344d7740ccc9b1305871264372c47e1df74b96390afd21ff3bf9c1452baebb6",
+   "image_size_px": [
+    1066,
+    774
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q10",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 10,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 2,
+   "original_page": 2,
+   "source_pages": [
+    2
+   ],
+   "crop_segments": [
+    {
+     "page": 2,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      701.45,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 2,
+    "y_pt": 702.96,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "10. 갑~병의문화이해태도에대한옳은설명을<보기>에서고른\n 것은?ġ3점Ģ\n\n\n          외국에 여행을 갔을 때 그 나라 사람들이 음식을 손으로 집어 먹는\n          모습을 보고 깜짝 놀랐어. 우리처럼 도구를 사용하여 음식을 먹는\n          것이 더 문명화된 모습이 아닐까?\n  갑\n\n   예전에 한국에 처음 방문했을 때 여러 사람이 둘러앉아 자기\n   입에 넣었던 숟가락으로 찌개를 함께 떠먹는 모습을 보고\n   무척 당혹스러웠어. 음식은 당연히 각자 개인 그릇에 덜어\n   먹어야 하는 것 아니야?                         을\n\n          식사 자리에서 대화를 즐기는 나라가 있는 반면, 조용히 식사에만\n          집중하는 나라도 있잖아. 이렇듯 식사 문화는 나라마다 고유한\n          특성을 가지고 있어. 이방인이 자기 시선으로 다른 나라의 식사\n  병       문화에 대해 우열을 따지는 것은 옳지 않아.\n\n                       <`보기`>\n\n   ㄱ. 갑의태도는자국의문화정체성을약화시킬우려가있다.\n   ㄴ. 을의태도는문화를평가가아닌이해의대상으로본다.\n   ㄷ. 병의태도는문화를사회적상황과연결시켜파악한다.\n   ㄹ. 갑과을의태도는병의태도와달리문화의다양성을\n    저해할수있다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "10. 갑~병의문화이해태도에대한옳은설명을<보기>에서고른 것은?ġ3점Ģ",
+   "passage": "외국에 여행을 갔을 때 그 나라 사람들이 음식을 손으로 집어 먹는\n          모습을 보고 깜짝 놀랐어. 우리처럼 도구를 사용하여 음식을 먹는\n          것이 더 문명화된 모습이 아닐까?\n  갑\n\n   예전에 한국에 처음 방문했을 때 여러 사람이 둘러앉아 자기\n   입에 넣었던 숟가락으로 찌개를 함께 떠먹는 모습을 보고\n   무척 당혹스러웠어. 음식은 당연히 각자 개인 그릇에 덜어\n   먹어야 하는 것 아니야?                         을\n\n          식사 자리에서 대화를 즐기는 나라가 있는 반면, 조용히 식사에만\n          집중하는 나라도 있잖아. 이렇듯 식사 문화는 나라마다 고유한\n          특성을 가지고 있어. 이방인이 자기 시선으로 다른 나라의 식사\n  병       문화에 대해 우열을 따지는 것은 옳지 않아.\n\n                       <`보기`>\n\n   ㄱ. 갑의태도는자국의문화정체성을약화시킬우려가있다.\n   ㄴ. 을의태도는문화를평가가아닌이해의대상으로본다.\n   ㄷ. 병의태도는문화를사회적상황과연결시켜파악한다.\n   ㄹ. 갑과을의태도는병의태도와달리문화의다양성을\n    저해할수있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 3,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 18,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q10.png",
+   "question_image_sha256": "7318066b845d2368d6b0ad78d73f94fd048a8c8bc8673d853710526322e741f6",
+   "image_size_px": [
+    1066,
+    993
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q11",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 11,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      124.6,
+      383.01,
+      430.49
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "11. 우리나라사회보장제도A~C의일반적특징에대한설명으로\n 옳은것은? (단, A~C는각각공공부조, 사회보험, 사회서비스\n 중하나이다.)ġ3점Ģ\n\n\n    68세인갑, 을, 병은각각자신에게맞는사회보장제도에대한정보를\n  관련기관홈페이지에서찾아보았다.\n\n  ○갑이찾은제도는A의하나로서, 일상생활을혼자서수행하기어려운\n   사람등을지원하여건강증진및생활안정을도모한다. 재원은가입자가\n    납부하는보험료, 국가와지방자치단체부담금으로조달한다.\n  ○을이찾은제도는B의하나로서, 생활이어려운사람에게안정적인소득\n   기반을제공하여생활안정을지원한다. 소득인정액이보건복지부장관이\n   매년결정∙고시하는선정기준액이하인65세이상의자에한하여차등\n    지급한다.\n  ○병이찾은제도는C의하나로서, 식사, 세면, 옷갈아입기, 구강관리,\n    화장실이용, 외출, 목욕등의신변활동을지원한다. 또한취사, 생활\n    필수품구매, 청소, 세탁등일상생활을지원한다.\n\n ①A는대상자의수혜정도에따른비용부담을원칙으로한다.\n ②B는사후처방적성격이강하다.\n ③C는강제가입을원칙으로한다.\n ④B는A, C와달리소득재분배효과가있다.\n ⑤B, C는A보다수혜대상자의범위가넓다.",
+   "shared_passage_text": "",
+   "stem": "11. 우리나라사회보장제도A~C의일반적특징에대한설명으로 옳은것은? (단, A~C는각각공공부조, 사회보험, 사회서비스 중하나이다.)ġ3점Ģ",
+   "passage": "68세인갑, 을, 병은각각자신에게맞는사회보장제도에대한정보를\n  관련기관홈페이지에서찾아보았다.\n\n  ○갑이찾은제도는A의하나로서, 일상생활을혼자서수행하기어려운\n   사람등을지원하여건강증진및생활안정을도모한다. 재원은가입자가\n    납부하는보험료, 국가와지방자치단체부담금으로조달한다.\n  ○을이찾은제도는B의하나로서, 생활이어려운사람에게안정적인소득\n   기반을제공하여생활안정을지원한다. 소득인정액이보건복지부장관이\n   매년결정∙고시하는선정기준액이하인65세이상의자에한하여차등\n    지급한다.\n  ○병이찾은제도는C의하나로서, 식사, 세면, 옷갈아입기, 구강관리,\n    화장실이용, 외출, 목욕등의신변활동을지원한다. 또한취사, 생활\n    필수품구매, 청소, 세탁등일상생활을지원한다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는대상자의수혜정도에따른비용부담을원칙으로한다."
+    },
+    {
+     "number": 2,
+     "text": "B는사후처방적성격이강하다."
+    },
+    {
+     "number": 3,
+     "text": "C는강제가입을원칙으로한다."
+    },
+    {
+     "number": 4,
+     "text": "B는A, C와달리소득재분배효과가있다."
+    },
+    {
+     "number": 5,
+     "text": "B, C는A보다수혜대상자의범위가넓다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q11.png",
+   "question_image_sha256": "44babc618c87203c486e04197d249c6f8c992521955dd3c43dfbc1ff1955d9aa",
+   "image_size_px": [
+    1045,
+    928
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q12",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 12,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      458.51,
+      383.01,
+      765.4
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 459.93,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "12. <자료1>의밑줄친㉠~㉣을<자료2>의(가)~(다)로옳게\n 분류한것은?ġ3점Ģ\n\n\n   <자료1>\n   A국에서㉠≥대학을다니던갑은난민신청절차를거쳐B국으로입국하였다.\n  B국에서갑은경제및의료지원프로그램을운영하는㉡‘ӥӥ 난민지원센터’\n  로부터정착을위한서비스를제공받고있다. ㉢신문에서A국과관련된\n  기사를볼때마다갑은고향에두고온㉣가족이떠올라잠을이루지못한다.\n  하지만갑은낯선B국에정착하기위하여노력하고있다.\n\n   <자료2>\n\n               사회화 기관   (가)    (나)    (다)    질문\n\n    사회화를 목적으로 설립되었는가?    예    아니요   아니요\n\n    기초적 수준의 사회화를 담당하는가?  아니요   아니요    예\n\n Ā `(가)` ĀĀ `(나)` ĀĀ `(다)`\n ① ㉠ ĀĀ ㉡ ĀĀ ㉢, ㉣\n ② ㉠ ĀĀ ㉡, ㉢ ĀĀ ㉣\n ③ ㉡ ĀĀ ㉢ ĀĀ ㉠, ㉣\n ④ ㉢ ĀĀ ㉡, ㉣ ĀĀ ㉠\n ⑤ ㉠, ㉡ ĀĀ ㉣ ĀĀ ㉢",
+   "shared_passage_text": "",
+   "stem": "12. <자료1>의밑줄친㉠~㉣을<자료2>의(가)~(다)로옳게 분류한것은?ġ3점Ģ",
+   "passage": "<자료1>\n   A국에서㉠≥대학을다니던갑은난민신청절차를거쳐B국으로입국하였다.\n  B국에서갑은경제및의료지원프로그램을운영하는㉡‘ӥӥ 난민지원센터’\n  로부터정착을위한서비스를제공받고있다. ㉢신문에서A국과관련된\n  기사를볼때마다갑은고향에두고온㉣가족이떠올라잠을이루지못한다.\n  하지만갑은낯선B국에정착하기위하여노력하고있다.\n\n   <자료2>\n\n               사회화 기관   (가)    (나)    (다)    질문\n\n    사회화를 목적으로 설립되었는가?    예    아니요   아니요\n\n    기초적 수준의 사회화를 담당하는가?  아니요   아니요    예\n\n Ā `(가)` ĀĀ `(나)` ĀĀ `(다)`",
+   "choices": [
+    {
+     "number": 1,
+     "text": "㉠ ĀĀ ㉡ ĀĀ ㉢, ㉣"
+    },
+    {
+     "number": 2,
+     "text": "㉠ ĀĀ ㉡, ㉢ ĀĀ ㉣"
+    },
+    {
+     "number": 3,
+     "text": "㉡ ĀĀ ㉢ ĀĀ ㉠, ㉣"
+    },
+    {
+     "number": 4,
+     "text": "㉢ ĀĀ ㉡, ㉣ ĀĀ ㉠"
+    },
+    {
+     "number": 5,
+     "text": "㉠, ㉡ ĀĀ ㉣ ĀĀ ㉢"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 1,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q12.png",
+   "question_image_sha256": "6572ca05bc1b13201f940ba9b0f37bc01e1cc24617e425d15481ebf85fbd92c2",
+   "image_size_px": [
+    1045,
+    931
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q13",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 13,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      794.73,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 796.1,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "13. 표는대중매체A~C의일반적인특징을구분한것이다. 이에\n 대한설명으로옳은것은? (단, A~C는각각음성매체, 영상\n 매체, 뉴미디어중하나이다.)\n\n\n         정보 생산자와\n                    시청각 정보를\n    구분  정보 소비자 간의                  (가)\n                      제공하는가?\n         경계가 뚜렷한가?\n      A     아니요        예         예\n       B       예         예        아니요\n       C       예        아니요       아니요\n\n ①A는C보다정보확산의시∙공간적제약이크다.\n ②B는C보다청각정보에대한의존도가높다.\n ③C는A와달리양방향정보전달이가능하다.\n ④대중매체는C, A, B 순으로등장하였다.\n ⑤(가)에는‘정보수용자에의한정보수정및재가공이용이한가?’가\n  들어갈수있다.",
+   "shared_passage_text": "",
+   "stem": "13. 표는대중매체A~C의일반적인특징을구분한것이다. 이에 대한설명으로옳은것은? (단, A~C는각각음성매체, 영상 매체, 뉴미디어중하나이다.)",
+   "passage": "정보 생산자와\n                    시청각 정보를\n    구분  정보 소비자 간의                  (가)\n                      제공하는가?\n         경계가 뚜렷한가?\n      A     아니요        예         예\n       B       예         예        아니요\n       C       예        아니요       아니요",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는C보다정보확산의시∙공간적제약이크다."
+    },
+    {
+     "number": 2,
+     "text": "B는C보다청각정보에대한의존도가높다."
+    },
+    {
+     "number": 3,
+     "text": "C는A와달리양방향정보전달이가능하다."
+    },
+    {
+     "number": 4,
+     "text": "대중매체는C, A, B 순으로등장하였다."
+    },
+    {
+     "number": 5,
+     "text": "(가)에는‘정보수용자에의한정보수정및재가공이용이한가?’가 들어갈수있다."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 1,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q13.png",
+   "question_image_sha256": "c8b5ee9ecace76284233c207f0d095fb69bacef3318772ebb4324091f93feda4",
+   "image_size_px": [
+    1045,
+    710
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q14",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 14,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      124.6,
+      738.56,
+      667.5
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "14. 다음자료에대한옳은분석만을<보기>에서있는대로고른\n 것은?ġ3점Ģ\n\n\n                <갑국의 공공 부조 지원 기준>\n\n       월 소득 인정액\n             (선정 기준)\n\n               50% 이하\n               교육\n               43% 이하\n      중위 소득      교육 주거\n               40% 이하\n               교육 주거 의료\n               28% 이하\n               교육 주거 의료 생계생계생계\n                             지원 급여 종류\n\n    ӈ 중위 소득 : 전체 가구를 소득 순으로 일렬로 배열하였을 때 한가운데에 위치한 가구의 소득\n\n\n             <갑국의 공공 부조 지원 대상 가구 현황>\n                                                           (단위: %)\n\n         구분            2000년    2005년    2010년    2015년\n\n      전체 가구 수 변화율          0         10       -10        0\n\n   중위 소득 50% 이하 가구 비율     35        35        35        35\n\n   중위 소득 43% 이하 가구 비율     27        28        29        30\n\n   중위 소득 40% 이하 가구 비율     15        15        15        15\n\n   중위 소득 28% 이하 가구 비율     5         5         5         5\n\n    ӈ 갑국은 1995년부터 5년 단위로 공공 부조 지원 가구를 조사함.\n\n                당해 조사 연도의 전체 가구 수-직전 조사 연도의 전체 가구 수\n   ӈӈ 전체 가구 수 변화율 =                                            ¥100\n                       직전 조사 연도의 전체 가구 수\n\n                       <`보기`>\n\n   ㄱ. 전체가구중교육급여한가지만지원받는가구비율은\n     2010년과2015년이같다.\n   ㄴ. 교육, 주거급여두가지만지원받는가구수는2000년이\n     2015년보다적다.\n   ㄷ. 전체가구중교육, 주거, 의료, 생계급여모두를지원\n    받는가구비율은2000년이2010년보다낮다.\n   ㄹ. 2005년교육, 주거, 의료급여세가지만지원받는가구\n     수는2015년교육, 주거, 의료, 생계급여모두를지원받는\n    가구수의2배이상이다.\n\n\n ①ㄱ, ㄷ      ②ㄴ, ㄷ      ③ㄴ, ㄹ\n ④ㄱ, ㄴ, ㄹ    ⑤ㄱ, ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "14. 다음자료에대한옳은분석만을<보기>에서있는대로고른 것은?ġ3점Ģ",
+   "passage": "<갑국의 공공 부조 지원 기준>\n\n       월 소득 인정액\n             (선정 기준)\n\n               50% 이하\n               교육\n               43% 이하\n      중위 소득      교육 주거\n               40% 이하\n               교육 주거 의료\n               28% 이하\n               교육 주거 의료 생계생계생계\n                             지원 급여 종류\n\n    ӈ 중위 소득 : 전체 가구를 소득 순으로 일렬로 배열하였을 때 한가운데에 위치한 가구의 소득\n\n\n             <갑국의 공공 부조 지원 대상 가구 현황>\n                                                           (단위: %)\n\n         구분            2000년    2005년    2010년    2015년\n\n      전체 가구 수 변화율          0         10       -10        0\n\n   중위 소득 50% 이하 가구 비율     35        35        35        35\n\n   중위 소득 43% 이하 가구 비율     27        28        29        30\n\n   중위 소득 40% 이하 가구 비율     15        15        15        15\n\n   중위 소득 28% 이하 가구 비율     5         5         5         5\n\n    ӈ 갑국은 1995년부터 5년 단위로 공공 부조 지원 가구를 조사함.\n\n                당해 조사 연도의 전체 가구 수-직전 조사 연도의 전체 가구 수\n   ӈӈ 전체 가구 수 변화율 =                                            ¥100\n                       직전 조사 연도의 전체 가구 수\n\n                       <`보기`>\n\n   ㄱ. 전체가구중교육급여한가지만지원받는가구비율은\n     2010년과2015년이같다.\n   ㄴ. 교육, 주거급여두가지만지원받는가구수는2000년이\n     2015년보다적다.\n   ㄷ. 전체가구중교육, 주거, 의료, 생계급여모두를지원\n    받는가구비율은2000년이2010년보다낮다.\n   ㄹ. 2005년교육, 주거, 의료급여세가지만지원받는가구\n     수는2015년교육, 주거, 의료, 생계급여모두를지원받는\n    가구수의2배이상이다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 2,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 4,
+     "text": "ㄱ, ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄱ, ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 2,
+    "diagonal_lines": 22,
+    "curves": 12,
+    "filled_shapes": 8
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q14.png",
+   "question_image_sha256": "52f3f1c7e74138207eb600aa36eef3e1d06b4cc35aa963a8a80db6c7688bb3bc",
+   "image_size_px": [
+    1066,
+    1647
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q15",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 15,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 3,
+   "original_page": 3,
+   "source_pages": [
+    3
+   ],
+   "crop_segments": [
+    {
+     "page": 3,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      690.9,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 3,
+    "y_pt": 692.14,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "15. 다음자료의(가)에들어갈수있는옳은진술을<보기>에서\n 고른것은?\n\n\n                  이 그래프에서 갑국의 A, B는 각각 확대 가족과\n    [수업 주제]         핵가족 중 하나이고, ㉠ 시기와 ㉡ 시기는 각각\n                  농업 사회와 산업 사회의 시기 중 하나입니다.\n    가족 구조 및 기능의 변화\n                  인구 이동성은 ㉡ 시기가 ㉠ 시기보다 높습니다.\n      A의 비중 100%             ㉡  이를 토대로  (가) 라고 볼 수 있습니다.\n\n\n                50%\n\n                  ㉠\n\n                         0      50%   100%\n                       B의 비중\n\n   ӈ 갑국의 가족 형태는 시기에 관계없이 확대 가족과 핵가족만 존재함.\n\n\n                       <`보기`>\n\n   ㄱ. A는B에비해구성원간수평적의사결정구조가일반적이다.\n   ㄴ. ㉠시기보다㉡시기가가족의노인부양기능이약하다.\n   ㄷ. ㉠시기보다㉡시기가가족의종교적의례기능이강하다.\n   ㄹ. ㉡시기보다㉠시기가가족단위의경제적생산기능이\n    약하다.\n\n\n ①ㄱㄴ ②ㄱㄷ ③ㄴㄷ ④ㄴㄹ ⑤ㄷㄹ",
+   "shared_passage_text": "",
+   "stem": "15. 다음자료의(가)에들어갈수있는옳은진술을<보기>에서 고른것은?",
+   "passage": "이 그래프에서 갑국의 A, B는 각각 확대 가족과\n    [수업 주제]         핵가족 중 하나이고, ㉠ 시기와 ㉡ 시기는 각각\n                  농업 사회와 산업 사회의 시기 중 하나입니다.\n    가족 구조 및 기능의 변화\n                  인구 이동성은 ㉡ 시기가 ㉠ 시기보다 높습니다.\n      A의 비중 100%             ㉡  이를 토대로  (가) 라고 볼 수 있습니다.\n\n\n                50%\n\n                  ㉠\n\n                         0      50%   100%\n                       B의 비중\n\n   ӈ 갑국의 가족 형태는 시기에 관계없이 확대 가족과 핵가족만 존재함.\n\n\n                       <`보기`>\n\n   ㄱ. A는B에비해구성원간수평적의사결정구조가일반적이다.\n   ㄴ. ㉠시기보다㉡시기가가족의노인부양기능이약하다.\n   ㄷ. ㉠시기보다㉡시기가가족의종교적의례기능이강하다.\n   ㄹ. ㉡시기보다㉠시기가가족단위의경제적생산기능이\n    약하다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "+ 존재함.",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 1,
+    "tables": 0,
+    "diagonal_lines": 2,
+    "curves": 26,
+    "filled_shapes": 1
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q15.png",
+   "question_image_sha256": "ce3b92f38048fdb39e45f0a9c65c521b44c90cbfd881d88275ac8acbbed93a0c",
+   "image_size_px": [
+    1066,
+    1025
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q16",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 16,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      124.6,
+      383.01,
+      455.88
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "16. 그림은질문(가)~(다)에따라사회불평등현상을설명하는\n 이론A, B를구분한것이다. 이에대한옳은설명을<보기>에서\n 고른것은? (단, A, B는각각계급이론, 계층이론중하나이다.)\n                               ġ3점Ģ\n\n           (가)     (나)     (다)\n\n\n\n                              예\n                A         B         아니요\n\n\n                       <`보기`>\n\n   ㄱ. (가)에는‘사회불평등현상의원인으로경제적요인을\n    고려하는가?’가들어갈수있다.\n   ㄴ. A가계층이론이라면, (나)에는‘사회불평등현상을\n    불연속적인위계화로파악하는가?’가들어갈수있다.\n   ㄷ. A가계급이론이라면, (다)에는‘사회불평등현상의\n    발생원인을다원론적관점으로보는가?’가들어갈수있다.\n   ㄹ. B가계층이론이라면, (나)에는‘지위불일치현상을\n    설명하기에적합한가?’가들어갈수있다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "16. 그림은질문(가)~(다)에따라사회불평등현상을설명하는 이론A, B를구분한것이다. 이에대한옳은설명을<보기>에서 고른것은? (단, A, B는각각계급이론, 계층이론중하나이다.) ġ3점Ģ",
+   "passage": "(가)     (나)     (다)\n\n\n\n                              예\n                A         B         아니요\n\n\n                       <`보기`>\n\n   ㄱ. (가)에는‘사회불평등현상의원인으로경제적요인을\n    고려하는가?’가들어갈수있다.\n   ㄴ. A가계층이론이라면, (나)에는‘사회불평등현상을\n    불연속적인위계화로파악하는가?’가들어갈수있다.\n   ㄷ. A가계급이론이라면, (다)에는‘사회불평등현상의\n    발생원인을다원론적관점으로보는가?’가들어갈수있다.\n   ㄹ. B가계층이론이라면, (나)에는‘지위불일치현상을\n    설명하기에적합한가?’가들어갈수있다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 28,
+    "curves": 8,
+    "filled_shapes": 4
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q16.png",
+   "question_image_sha256": "37baaf3fee6d26439f203a7ce3e6366f8593131e86dfec95650eb8a7ac5dae38",
+   "image_size_px": [
+    1045,
+    1005
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q17",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 17,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      483.56,
+      383.01,
+      744.3
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 484.87,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "17. A~C`문화에대한옳은설명을<보기>에서고른것은?\n  (단, A~C`문화는각각전체문화, 하위문화, 반문화중하나이다.)\n                               ġ3점Ģ\n\n\n   중세말기유럽에서는새롭게부를축적한부르주아지가등장하였다.\n  이들의문화는당시엄격한신분제에기초한봉건제적문화와는차별화된\n  성격을띠고있어처음에는A 문화였다. 그러나부르주아지가근대시민\n  혁명을통해구체제를전복하려나선시기에, 이들의문화는B 문화로서의\n  성격을보였다. 그리고마침내구체제가무너지고새로운근대사회가도래한\n  이후이들의문화는점차봉건제적문화를대체하며C 문화로성장하였다.\n\n                       <`보기`>\n\n   ㄱ. A`문화는C`문화와대립하여사회안정을저해한다.\n   ㄴ. C`문화는사회변동에따라A`문화가되기도한다.\n   ㄷ. 한사회에서B`문화는C`문화와공존이불가능하다.\n   ㄹ. 한사회에서C`문화는A`문화의총합으로설명할수없다.\n\n\n ①ㄱ, ㄴ  ②ㄱ, ㄷ  ③ㄴ, ㄷ  ④ㄴ, ㄹ  ⑤ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "17. A~C`문화에대한옳은설명을<보기>에서고른것은? (단, A~C`문화는각각전체문화, 하위문화, 반문화중하나이다.) ġ3점Ģ",
+   "passage": "중세말기유럽에서는새롭게부를축적한부르주아지가등장하였다.\n  이들의문화는당시엄격한신분제에기초한봉건제적문화와는차별화된\n  성격을띠고있어처음에는A 문화였다. 그러나부르주아지가근대시민\n  혁명을통해구체제를전복하려나선시기에, 이들의문화는B 문화로서의\n  성격을보였다. 그리고마침내구체제가무너지고새로운근대사회가도래한\n  이후이들의문화는점차봉건제적문화를대체하며C 문화로성장하였다.\n\n                       <`보기`>\n\n   ㄱ. A`문화는C`문화와대립하여사회안정을저해한다.\n   ㄴ. C`문화는사회변동에따라A`문화가되기도한다.\n   ㄷ. 한사회에서B`문화는C`문화와공존이불가능하다.\n   ㄹ. 한사회에서C`문화는A`문화의총합으로설명할수없다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄴ"
+    },
+    {
+     "number": 2,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 4,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 3,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q17.png",
+   "question_image_sha256": "2e7155779d352f5b5d9f8465b795cc46cfbd0c49e1e8a90d17a6f6f2a5ac16cb",
+   "image_size_px": [
+    1045,
+    791
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q18",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 18,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "L",
+     "shared_passage": false,
+     "bbox_pt": [
+      38.44,
+      768.69,
+      383.01,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 770.23,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "18. A~C의일반적특징에대한설명으로옳은것은? (단, A~C는\n 각각농업사회, 산업사회, 정보사회중하나이다.)\n\n                       (가)\n\n\n\n                                     A\n                                             B\n                                              C\n\n                                        0\n\n\n\n        가정과 일터의 결합 정도     사회 변동의 속도\n\n       ӈ 0에서 멀어질수록 그 정도가 높음.\n\n ①A는B보다구성원간익명성정도가높다.\n ②A는C보다다품종소량생산의비중이크다.\n ③B는C보다지식산업을통한부가가치창출이유리하다.\n ④C는B보다직업의동질성이강하다.\n ⑤(가)에는‘비대면접촉의정도’가들어갈수있다",
+   "shared_passage_text": "",
+   "stem": "18. A~C의일반적특징에대한설명으로옳은것은? (단, A~C는 각각농업사회, 산업사회, 정보사회중하나이다.)",
+   "passage": "(가)\n\n\n\n                                     A\n                                             B\n                                              C\n\n                                        0\n\n\n\n        가정과 일터의 결합 정도     사회 변동의 속도\n\n       ӈ 0에서 멀어질수록 그 정도가 높음.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "A는B보다구성원간익명성정도가높다."
+    },
+    {
+     "number": 2,
+     "text": "A는C보다다품종소량생산의비중이크다."
+    },
+    {
+     "number": 3,
+     "text": "B는C보다지식산업을통한부가가치창출이유리하다."
+    },
+    {
+     "number": 4,
+     "text": "C는B보다직업의동질성이강하다."
+    },
+    {
+     "number": 5,
+     "text": "(가)에는‘비대면접촉의정도’가들어갈수있다"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 237,
+    "curves": 6,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q18.png",
+   "question_image_sha256": "758818255a5552c9fa76748aeb87266ca0b825eb48dbcdef909aada807eba95b",
+   "image_size_px": [
+    1045,
+    789
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q19",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 19,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      124.6,
+      738.56,
+      468.07
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 126.15,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "19. 다음연구에대한옳은설명만을<보기>에서있는대로고른\n 것은?\n\n\n   연구자갑은주변에방관자들이있으면, 곤경에처한사람이낯선사람\n  으로부터도움을받을가능성이줄어든다는‘방관자효과’를검증하기위한\n  연구에착수하였다. 우선갑은접이식커튼을쳐, 보이지는않지만소리를들을\n  수있는공간을만들었다. 그리고그곳에서연구대상자들에게의자에오르다\n  떨어져도움을청하는노인의녹음된비명을듣게하였다. 연구대상자들은\n  두집단으로구분되었는데, 한연구조건에서는㉠연구대상자만있게했고,\n  다른연구조건에서는의도적으로노인의비명에반응하지않도록연구자와\n  공모한방관자들을㉡연구대상자와함께있게했다. ㉢방관자들의존재\n  여부에따른반응을비교한결과,‘나홀로조건’에서는연구대상자의70%가\n  도움을주려한반면,‘방관자조건’에서는20%만이도움을주려하였다.\n\n                       <`보기`>\n\n   ㄱ. ㉠은실험집단, ㉡은통제집단에해당한다.\n   ㄴ. ㉢은독립변인에해당한다.\n   ㄷ. 실제성이높은현장자료를얻기용이한자료수집방법을\n    사용하였다.\n   ㄹ. 연구자가설정한상황을바탕으로연구대상자를관찰하는\n    자료수집방법을사용하였다.\n\n\n ①ㄱ, ㄷ      ②ㄴ, ㄷ      ③ㄴ, ㄹ\n ④ㄱ, ㄴ, ㄹ    ⑤ㄱ, ㄷ, ㄹ",
+   "shared_passage_text": "",
+   "stem": "19. 다음연구에대한옳은설명만을<보기>에서있는대로고른 것은?",
+   "passage": "연구자갑은주변에방관자들이있으면, 곤경에처한사람이낯선사람\n  으로부터도움을받을가능성이줄어든다는‘방관자효과’를검증하기위한\n  연구에착수하였다. 우선갑은접이식커튼을쳐, 보이지는않지만소리를들을\n  수있는공간을만들었다. 그리고그곳에서연구대상자들에게의자에오르다\n  떨어져도움을청하는노인의녹음된비명을듣게하였다. 연구대상자들은\n  두집단으로구분되었는데, 한연구조건에서는㉠연구대상자만있게했고,\n  다른연구조건에서는의도적으로노인의비명에반응하지않도록연구자와\n  공모한방관자들을㉡연구대상자와함께있게했다. ㉢방관자들의존재\n  여부에따른반응을비교한결과,‘나홀로조건’에서는연구대상자의70%가\n  도움을주려한반면,‘방관자조건’에서는20%만이도움을주려하였다.\n\n                       <`보기`>\n\n   ㄱ. ㉠은실험집단, ㉡은통제집단에해당한다.\n   ㄴ. ㉢은독립변인에해당한다.\n   ㄷ. 실제성이높은현장자료를얻기용이한자료수집방법을\n    사용하였다.\n   ㄹ. 연구자가설정한상황을바탕으로연구대상자를관찰하는\n    자료수집방법을사용하였다.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "ㄱ, ㄷ"
+    },
+    {
+     "number": 2,
+     "text": "ㄴ, ㄷ"
+    },
+    {
+     "number": 3,
+     "text": "ㄴ, ㄹ"
+    },
+    {
+     "number": 4,
+     "text": "ㄱ, ㄴ, ㄹ"
+    },
+    {
+     "number": 5,
+     "text": "ㄱ, ㄷ, ㄹ"
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": false,
+   "visual_detail": {
+    "images": 0,
+    "tables": 0,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 0
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q19.png",
+   "question_image_sha256": "f7887da001006b8bf0280910529146c411f4601a2dbda071749fb9aeb1c871cf",
+   "image_size_px": [
+    1066,
+    1042
+   ],
+   "review_required": false,
+   "review_reasons": []
+  },
+  {
+   "question_id": "SOCIOCULTURE_2018_SEPTEMBER_Q20",
+   "subject": "SOCIOCULTURE",
+   "exam_id": "SOCIOCULTURE_2018_SEPTEMBER",
+   "year": 2018,
+   "exam_type": "SEPTEMBER",
+   "exam_period": "9월 모의평가",
+   "question_number": 20,
+   "source_file": "2018학년도_09월_사회문화_문제.pdf",
+   "source_sha256": "72700e582bec9c5efd064f46dcf7d8be2218ebf4c6b5b98046d1abad84658428",
+   "source_page": 4,
+   "original_page": 4,
+   "source_pages": [
+    4
+   ],
+   "crop_segments": [
+    {
+     "page": 4,
+     "column": "R",
+     "shared_passage": false,
+     "bbox_pt": [
+      387.01,
+      514.55,
+      738.56,
+      1028.77
+     ]
+    }
+   ],
+   "shared_passage_group": null,
+   "anchor": {
+    "method": "pdf_text",
+    "page": 4,
+    "y_pt": 516.09,
+    "inferred": false,
+    "ocr": null
+   },
+   "question_text": "20. 다음자료는갑국의세대간계층이동현황을나타낸것이다.\n 이에대한분석으로옳은것은?\n\n\n\n                <세대별 계층 간 상대적 비율>\n\n          구분        부모 세대     자녀 세대\n\n         상층+하층\n         전체 계층                          1-2                         4-5\n          상층                              1-4                         1-3         중층+하층\n\n\n        <자녀 세대 계층 대비 부모와 자녀 계층 일치의 상대적 비율>\n\n         상층         중층         하층\n                            1-5                             1-2                   114\n\n      ӈ 모든 부모의 자녀는 1명이고, 갑국의 계층은 상층, 중층, 하층으로만 구분함.\n\n     ӈӈ 상층 부모를 둔 하층 자녀 인구와 하층 부모를 둔 중층 자녀 인구의 비는\n              2 : 1임.\n\n\n ①세대간계층일치비율이세대간계층이동비율보다크다.\n ②부모세대계층대비부모와자녀의계층일치비율은중층이\n   상층보다크다.\n ③부모세대계층대비부모와자녀의계층불일치비율은하층이\n   상층보다크다.\n ④부모세대하층에서자녀세대상층으로이동한인구와자녀\n  세대중층으로이동한인구는같다.\n ⑤갑국에서부모세대의계층구조는다이아몬드형이고, 자녀\n  세대의계층구조는피라미드형이다.\n\n\n\n\n\n ӄ 확인사항\n\n ○답안지의해당란에필요한내용을정확히기입(표기)했는지확인\n   하시오.",
+   "shared_passage_text": "",
+   "stem": "20. 다음자료는갑국의세대간계층이동현황을나타낸것이다. 이에대한분석으로옳은것은?",
+   "passage": "<세대별 계층 간 상대적 비율>\n\n          구분        부모 세대     자녀 세대\n\n         상층+하층\n         전체 계층                          1-2                         4-5\n          상층                              1-4                         1-3         중층+하층\n\n\n        <자녀 세대 계층 대비 부모와 자녀 계층 일치의 상대적 비율>\n\n         상층         중층         하층\n                            1-5                             1-2                   114\n\n      ӈ 모든 부모의 자녀는 1명이고, 갑국의 계층은 상층, 중층, 하층으로만 구분함.\n\n     ӈӈ 상층 부모를 둔 하층 자녀 인구와 하층 부모를 둔 중층 자녀 인구의 비는\n              2 : 1임.",
+   "choices": [
+    {
+     "number": 1,
+     "text": "세대간계층일치비율이세대간계층이동비율보다크다."
+    },
+    {
+     "number": 2,
+     "text": "부모세대계층대비부모와자녀의계층일치비율은중층이 상층보다크다."
+    },
+    {
+     "number": 3,
+     "text": "부모세대계층대비부모와자녀의계층불일치비율은하층이 상층보다크다."
+    },
+    {
+     "number": 4,
+     "text": "부모세대하층에서자녀세대상층으로이동한인구와자녀 세대중층으로이동한인구는같다."
+    },
+    {
+     "number": 5,
+     "text": "갑국에서부모세대의계층구조는다이아몬드형이고, 자녀 세대의계층구조는피라미드형이다. ӄ 확인사항 ○답안지의해당란에필요한내용을정확히기입(표기)했는지확인 하시오."
+    }
+   ],
+   "text_source": "pdf_text_layer",
+   "embedded_image_ocr_text": "",
+   "points_from_text": 2,
+   "official_answer": null,
+   "has_visual_material": true,
+   "visual_detail": {
+    "images": 0,
+    "tables": 2,
+    "diagonal_lines": 0,
+    "curves": 0,
+    "filled_shapes": 2
+   },
+   "question_image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2018_SEPTEMBER_Q20.png",
+   "question_image_sha256": "87354ad166560b5c19a5ffcee884d0a344ddd2369f96c224743e5fd246b53029",
+   "image_size_px": [
+    1066,
+    1560
+   ],
+   "review_required": false,
+   "review_reasons": []
+  }
+ ]
+}

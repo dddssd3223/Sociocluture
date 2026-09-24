@@ -1,0 +1,1202 @@
+[
+ {
+  "question_id": "SOCIOCULTURE_2005_JUNE_Q15",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2005_JUNE_Q15.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2005_SEPTEMBER_Q06",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2005_SEPTEMBER_Q06.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2005_SEPTEMBER_Q14",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2005_SEPTEMBER_Q14.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q01",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q01.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q02",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q02.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q03",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q03.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q04",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q04.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q05",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q05.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q06",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q06.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q07",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q07.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q08",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q08.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q09",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q09.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q10",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q10.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q11",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q11.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q12",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q12.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q13",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q13.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q14",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q14.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q15",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q15.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q16",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q16.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q17",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q17.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q18",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q18.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q19",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q19.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_CSAT_Q20",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_CSAT_Q20.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q01",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q01.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q02",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q02.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q03",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q03.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q04",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q04.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q05",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q05.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q06",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q06.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q07",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "QUESTION_NUMBER_REVIEW",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q07.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q08",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q08.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q09",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q09.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q10",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q10.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q11",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q11.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q12",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q12.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q13",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q13.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q14",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q14.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q15",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q15.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q16",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q16.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q17",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q17.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q18",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q18.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q19",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q19.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2006_JUNE_Q20",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2006_JUNE_Q20.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2007_SEPTEMBER_Q01",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2007_SEPTEMBER_Q01.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2007_SEPTEMBER_Q05",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2007_SEPTEMBER_Q05.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2007_SEPTEMBER_Q08",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2007_SEPTEMBER_Q08.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2007_SEPTEMBER_Q12",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2007_SEPTEMBER_Q12.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2007_SEPTEMBER_Q13",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2007_SEPTEMBER_Q13.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2007_SEPTEMBER_Q15",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2007_SEPTEMBER_Q15.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2007_SEPTEMBER_Q16",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2007_SEPTEMBER_Q16.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q01",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q01.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q02",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q02.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q03",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q03.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q04",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q04.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q05",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q05.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q06",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q06.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q07",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q07.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q08",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q08.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q09",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q09.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q10",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q10.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q11",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q11.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q12",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q12.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q13",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q13.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q14",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q14.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q15",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q15.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q16",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q16.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q17",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q17.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q18",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q18.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q19",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q19.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2008_SEPTEMBER_Q20",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2008_SEPTEMBER_Q20.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q01",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q01.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q02",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q02.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q03",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q03.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q04",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q04.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q05",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q05.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q06",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q06.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q07",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q07.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q08",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q08.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q09",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q09.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q10",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q10.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q11",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q11.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q12",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q12.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q13",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q13.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q14",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q14.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q15",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q15.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q16",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q16.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q17",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q17.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q18",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q18.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q19",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q19.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2009_SEPTEMBER_Q20",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2009_SEPTEMBER_Q20.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q01",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q01.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q02",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q02.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q03",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q03.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q04",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q04.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q05",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q05.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q06",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q06.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q07",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q07.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q08",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q08.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q09",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q09.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q10",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q10.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q11",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q11.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q12",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q12.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q13",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q13.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q14",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q14.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q15",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q15.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q16",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q16.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q17",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q17.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q18",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q18.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q19",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q19.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2015_JUNE_Q20",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2015_JUNE_Q20.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q01",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q01.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q02",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q02.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q03",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q03.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q04",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q04.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q05",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q05.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q06",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q06.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q07",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q07.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q08",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q08.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q09",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q09.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q10",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q10.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q11",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q11.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q12",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q12.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q13",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q13.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q14",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q14.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q15",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q15.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q16",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q16.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q17",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q17.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q18",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q18.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q19",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q19.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2017_SEPTEMBER_Q20",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2017_SEPTEMBER_Q20.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q01",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q01.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q02",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q02.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q03",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q03.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q04",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q04.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q05",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q05.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q06",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q06.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q07",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q07.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q08",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q08.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q09",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q09.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q10",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q10.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q11",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q11.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q12",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q12.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q13",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q13.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q14",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q14.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q15",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q15.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q16",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q16.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q17",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q17.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q18",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q18.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q19",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q19.png"
+ },
+ {
+  "question_id": "SOCIOCULTURE_2025_CSAT_Q20",
+  "reasons": [
+   "CHOICE_TEXT_UNRELIABLE",
+   "VISUAL_FLAG_REVIEW"
+  ],
+  "image": "data/questions/SOCIOCULTURE/images/SOCIOCULTURE_2025_CSAT_Q20.png"
+ }
+]
